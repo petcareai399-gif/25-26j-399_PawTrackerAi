@@ -1,0 +1,1001 @@
+Pet_ID,Species,Breed,Age_Years,Weight_kg,Gender,Activity_Level,Medical_Condition,Ideal_Weight_kg,Calorie_Requirement_kcal,Protein_%,Fat_%,Carbs_%,Daily_Meal_Portion_g,Meals_Per_Day,Portion_Per_Meal_g,Adaptivity_Index
+517f2800-3e3f-40bd-8cac-052d535c9fd5,Dog,Bulldog,0.9,30.0,Female,Low,Obesity,31.4,915.2,27.1,11.5,61.4,261.5,2,130.8,0.74
+b799bc4f-1ab5-461e-a339-72cf567c747c,Dog,Ragdoll,1.8,23.6,Female,Low,None,24.1,899.4,26.4,13.5,60.1,257.0,2,128.5,0.66
+f364dd66-8b7d-423e-ba55-08b7b165f96c,Dog,Ragdoll,3.4,22.7,Female,Low,Allergies,20.7,873.6,33.8,22.1,44.1,249.6,2,124.8,0.3
+202ab37f-5a4b-4922-a9f9-da01a9336f2b,Dog,German Shepherd,10.6,22.7,Female,Moderate,Obesity,24.4,866.3,28.2,21.5,50.3,247.5,3,82.5,0.36
+ad345f75-d949-46a8-baa4-785a4f361298,Cat,Siamese Cat,1.9,8.2,Female,High,Diabetes,7.4,488.5,37.1,20.9,42.0,139.6,4,34.9,0.62
+2d3924ca-69ea-4c98-8d4e-70101b5fe937,Cat,Siamese Cat,1.6,6.5,Female,High,Joint Issues,7.1,455.9,38.3,15.4,46.3,130.3,4,32.6,0.42
+4562b764-fcbb-496d-a41d-a6f15c476703,Dog,Bulldog,1.2,20.3,Male,Moderate,None,19.0,937.2,37.8,23.0,39.2,267.8,3,89.3,0.53
+d28e9ceb-ec8d-4e50-bfb0-68c2834469ee,Dog,Maine Coon,9.7,30.4,Female,Low,Diabetes,28.5,978.8,30.3,20.1,49.6,279.7,2,139.8,0.72
+e49fe3a9-f8d4-403a-8b13-cec98e896206,Dog,Bulldog,9.3,27.4,Male,High,Obesity,27.0,1140.1,27.5,15.7,56.8,325.7,4,81.4,0.89
+4db76181-d96c-451d-a95d-3236f6bea0c8,Dog,Ragdoll,3.7,5.9,Female,Low,Obesity,5.7,270.3,37.3,22.1,40.6,77.2,2,38.6,0.54
+bce081b2-837e-4d15-8a7c-0d08ace1268c,Dog,Bulldog,3.6,14.9,Female,Low,Allergies,14.3,637.0,30.9,23.7,45.4,182.0,2,91.0,0.58
+c3b37054-b43f-4989-a7df-5ebb553e0ed2,Dog,Beagle,2.5,28.1,Female,High,Joint Issues,27.3,1366.9,31.4,18.8,49.8,390.5,4,97.6,0.52
+9ee50257-853f-4325-9aa1-05574b2ac390,Dog,German Shepherd,7.9,39.7,Male,Low,None,37.3,1328.5,27.3,12.4,60.3,379.6,2,189.8,0.71
+a328de0e-67ae-4109-8cfa-14ce92749916,Dog,British Shorthair,1.4,22.7,Female,High,Allergies,22.8,1164.8,32.9,24.6,42.5,332.8,4,83.2,0.82
+4afac43d-5b7c-4c91-8962-9da10fb13d58,Dog,Golden Retriever,10.4,19.6,Male,High,Joint Issues,20.0,1043.3,36.3,21.5,42.2,298.1,4,74.5,0.5
+324ebd3d-78ba-4879-804e-f95cbdd099e4,Dog,Beagle,6.8,26.1,Female,Low,Diabetes,24.4,873.0,39.6,21.4,39.0,249.4,2,124.7,0.6
+f1221f7e-bbb9-4c6e-b33c-5f702ad69e3e,Dog,Bulldog,13.1,19.0,Female,High,Joint Issues,19.7,1019.3,34.1,12.3,53.6,291.2,4,72.8,0.76
+6752fe0f-77f2-4707-88b9-4364464c1122,Dog,Ragdoll,14.3,22.1,Male,High,Diabetes,21.8,1027.4,32.3,11.7,56.0,293.5,4,73.4,0.52
+511449c3-5248-4991-8a23-2c62932b30c3,Dog,Beagle,4.0,24.9,Male,High,None,22.6,1248.4,26.3,17.3,56.4,356.7,4,89.2,0.34
+44479a90-9eee-483a-9d63-673725d6f727,Dog,Ragdoll,11.6,14.4,Male,High,Allergies,15.6,827.9,39.2,12.5,48.3,236.5,4,59.1,0.62
+cef16c2b-3813-417a-8d83-dd1dd1e04685,Dog,British Shorthair,6.6,33.2,Male,High,Obesity,31.9,1316.7,35.7,16.0,48.3,376.2,4,94.0,0.7
+34172b2c-d80c-44ff-9b29-9ccbe5813f8b,Cat,Persian Cat,6.9,2.6,Female,Low,Obesity,2.6,146.2,28.4,15.1,56.5,41.8,2,20.9,0.65
+471cfbb2-3d55-4989-b56a-a2dcfee716ca,Dog,Poodle,9.0,11.7,Male,Low,None,12.8,531.4,28.4,23.6,48.0,151.8,2,75.9,0.82
+d94a5946-8318-4302-80f8-99cfe4189c9f,Dog,Bulldog,8.0,27.0,Female,High,Allergies,28.5,1326.6,28.2,12.0,59.8,379.0,4,94.8,0.86
+c038d00c-e62f-4324-b97a-2b626a023eb3,Dog,British Shorthair,8.9,32.4,Male,Moderate,Allergies,29.7,1330.9,27.9,11.5,60.6,380.3,3,126.8,0.56
+1396bf9d-6e69-4d31-9948-2b923b928fc6,Cat,Siamese Cat,6.5,5.3,Male,High,None,5.0,391.2,25.9,20.9,53.2,111.8,4,27.9,0.78
+10842390-73a0-4e3e-96e8-d3a9a3af0c6d,Dog,Bulldog,4.1,23.8,Male,High,Allergies,23.3,1206.8,27.1,12.8,60.1,344.8,4,86.2,0.58
+976a2e90-3e2b-4ce6-9585-42a59b0f03d6,Dog,Bulldog,6.9,22.0,Male,Low,Joint Issues,21.0,853.3,37.5,24.5,38.0,243.8,2,121.9,0.86
+cc0ab1ad-9bde-4979-992a-9f8a4d9e1669,Dog,Poodle,2.9,20.4,Female,Moderate,Obesity,19.5,799.6,38.0,23.5,38.5,228.5,3,76.2,0.4
+58144bfe-f4f4-4a09-9ded-b7f59f311dc4,Dog,Golden Retriever,14.8,35.6,Female,Moderate,Diabetes,35.9,1285.5,31.3,24.4,44.3,367.3,3,122.4,0.9
+be61a1d4-64dd-463c-81a4-115a0503849b,Dog,Ragdoll,10.1,28.2,Female,Low,Obesity,25.8,873.7,29.5,24.5,46.0,249.6,2,124.8,0.65
+43625f99-e577-439e-886c-bbaabd88dad7,Dog,Ragdoll,1.4,21.1,Female,Low,None,23.2,827.0,33.8,17.5,48.7,236.3,2,118.2,0.81
+7ed09af2-7538-4ed0-b5e3-a8424a0d24ab,Dog,German Shepherd,1.3,18.2,Male,Low,None,16.4,740.2,33.9,20.1,46.0,211.5,2,105.8,0.44
+18b33c89-e522-476e-877c-df77c9351de1,Dog,Bulldog,14.2,31.1,Male,High,Joint Issues,33.1,1475.0,25.6,11.2,63.2,421.4,4,105.3,0.69
+e2d33c21-5bb6-47aa-82a6-5c267df8e3d1,Dog,British Shorthair,8.1,35.3,Female,Low,Diabetes,37.2,1094.8,28.6,15.9,55.5,312.8,2,156.4,0.7
+85996578-6152-45e7-baef-10401808e386,Dog,Beagle,7.1,34.3,Male,Low,Allergies,31.4,1190.6,34.3,18.4,47.3,340.2,2,170.1,0.36
+2fc3fc07-bdfd-4d89-a908-ada55526f2c2,Dog,Ragdoll,3.6,16.6,Female,Low,Diabetes,17.8,621.7,38.2,23.2,38.6,177.6,2,88.8,0.52
+ccb99b6f-e6a5-4276-9ea0-0f90c1ad1341,Dog,German Shepherd,6.9,21.9,Female,High,Joint Issues,22.4,1133.8,25.1,22.3,52.6,323.9,4,81.0,0.48
+0b2c0c78-bb55-47dc-ad76-113216f3c3b3,Dog,Bulldog,14.1,20.2,Male,Moderate,None,19.4,933.8,38.3,21.1,40.6,266.8,3,88.9,0.39
+306a201c-124c-4da0-bc3d-4498cb5be696,Dog,Beagle,9.3,23.1,Female,Low,Diabetes,22.3,796.6,32.6,13.8,53.6,227.6,2,113.8,0.84
+e2260475-6fa4-493f-98fc-474be0b8b461,Dog,Golden Retriever,1.8,33.1,Female,Moderate,None,35.7,1352.4,25.1,21.6,53.3,386.4,3,128.8,0.68
+f770ce8b-8e90-4d19-a667-e7eb3e823278,Dog,Beagle,2.8,38.6,Female,High,Allergies,38.4,1734.4,33.4,11.7,54.9,495.5,4,123.9,0.87
+e07f4347-a03b-4314-af02-a919f6ea7033,Dog,German Shepherd,8.4,28.6,Female,High,Joint Issues,30.1,1385.1,27.2,11.9,60.9,395.7,4,98.9,0.48
+02214595-f07f-42d7-a137-1a3a2a75767c,Dog,Golden Retriever,13.5,18.5,Male,High,Obesity,18.7,849.2,35.0,15.3,49.7,242.6,4,60.6,0.64
+cc46881a-f82a-454c-8b00-fc6aaa7af4d3,Cat,Siamese Cat,14.6,4.9,Male,Low,Obesity,4.9,235.2,39.6,22.2,38.2,67.2,2,33.6,0.83
+f9870f42-46c4-43be-aeed-c594a0fb8c9f,Dog,Golden Retriever,3.1,40.6,Female,Moderate,Obesity,40.0,1339.8,29.0,21.8,49.2,382.8,3,127.6,0.36
+661da0b0-f7d0-403b-b261-8d80026b948a,Dog,Golden Retriever,12.9,25.9,Male,Low,Allergies,24.9,964.4,30.2,22.3,47.5,275.5,2,137.8,0.82
+5051037c-5845-4cb0-adb1-cca55533977a,Dog,Poodle,0.8,22.0,Male,Moderate,Diabetes,22.0,896.0,29.2,11.0,59.8,256.0,3,85.3,0.76
+1d4fe384-4217-46db-b245-3959e03b2e67,Cat,Persian Cat,9.8,4.6,Female,High,Joint Issues,4.5,351.8,30.0,10.4,59.6,100.5,4,25.1,0.83
+c5f1834c-855b-411d-96e8-ac1aa993d376,Dog,Beagle,3.1,28.6,Female,Low,None,30.1,1038.9,33.9,15.2,50.9,296.8,2,148.4,0.77
+9643c01c-4a92-40f6-89da-3f3443db9526,Cat,Siamese Cat,9.3,3.4,Male,Moderate,Joint Issues,3.7,245.4,27.9,10.7,61.4,70.1,3,23.4,0.56
+1c69d657-ffa9-48d8-8539-9a4bf7b147d2,Dog,Ragdoll,13.9,20.0,Male,Moderate,Allergies,21.2,926.8,26.0,20.0,54.0,264.8,3,88.3,0.5
+2f3309bd-7acc-49a9-97ca-2aa05aac8d43,Cat,Persian Cat,10.1,6.8,Male,High,Diabetes,7.2,424.5,32.6,20.0,47.4,121.3,4,30.3,0.5
+5f44a2e8-0702-4a29-a842-e3c3712d7576,Dog,Beagle,8.5,28.3,Male,Moderate,Allergies,26.5,1202.4,35.2,23.5,41.3,343.5,3,114.5,0.67
+0a6f99f2-cba7-42f2-8cb2-13031270b5d1,Dog,Beagle,6.4,26.0,Male,Moderate,Diabetes,27.6,1015.5,28.2,21.8,50.0,290.1,3,96.7,0.66
+2c949ea2-184d-406d-bb72-7764856e999f,Cat,Persian Cat,7.2,6.9,Female,High,Obesity,7.4,405.3,32.7,21.9,45.4,115.8,4,28.9,0.88
+cc00898b-fd07-40b5-a498-633e367bb41d,Dog,German Shepherd,10.1,18.0,Female,High,Joint Issues,17.0,978.8,30.0,22.3,47.7,279.7,4,69.9,0.75
+2b80a976-b9dd-4792-b501-7078ed61711e,Dog,Beagle,3.8,21.7,Male,Low,None,21.4,844.5,25.7,24.8,49.5,241.3,2,120.7,0.67
+a8791f3f-1812-4ea8-8aa7-251f945ce2fc,Dog,Bulldog,7.1,28.0,Male,High,Allergies,25.2,1363.3,32.4,13.7,53.9,389.5,4,97.4,0.69
+cbe8f4e2-8555-4884-8ae0-7f6d03243030,Dog,Golden Retriever,13.4,27.6,Male,Moderate,Obesity,27.7,1003.1,27.6,24.4,48.0,286.6,3,95.5,0.61
+31e2dccf-9a57-4ccb-9483-103070ad3791,Dog,Golden Retriever,8.6,10.8,Male,Moderate,Obesity,10.0,496.3,37.0,20.0,43.0,141.8,3,47.3,0.89
+a2a5f45f-11bc-4b76-8482-a17522935cc0,Dog,British Shorthair,5.1,20.8,Female,High,Joint Issues,20.1,1090.9,31.4,23.6,45.0,311.7,4,77.9,0.57
+98ce7791-ec6e-41b5-a049-4f6ae3f78ede,Dog,German Shepherd,11.3,23.4,Female,Moderate,Diabetes,23.5,938.4,36.3,22.6,41.1,268.1,3,89.4,0.47
+0c71c2af-6b0a-4457-81c7-8898ae348b38,Dog,Ragdoll,7.5,29.0,Male,Moderate,Allergies,30.2,1224.7,26.2,14.3,59.5,349.9,3,116.6,0.46
+6831ca56-50b0-496e-b3d0-d40156bfd1d1,Cat,Persian Cat,13.4,5.5,Male,Low,Obesity,6.0,256.4,28.5,20.4,51.1,73.3,2,36.6,0.72
+94a8f19a-9234-443f-bf80-c6e8e650f7f3,Dog,Bulldog,6.5,24.3,Female,High,Allergies,23.1,1225.8,31.2,13.1,55.7,350.2,4,87.5,0.55
+6b145ffa-d139-41f8-8921-037f9b570e25,Dog,British Shorthair,14.2,5.8,Male,High,Allergies,5.6,418.6,32.2,24.1,43.7,119.6,4,29.9,0.48
+40edbdf6-c8a1-412f-bb24-c0f73d2d48f5,Cat,Siamese Cat,12.9,4.9,Female,High,Joint Issues,4.4,368.9,37.0,23.5,39.5,105.4,4,26.4,0.59
+6d88c607-5909-46c6-8100-bd8e76d19cc3,Dog,Beagle,6.8,25.6,Male,Moderate,Diabetes,23.3,1003.8,35.0,22.0,43.0,286.8,3,95.6,0.73
+e511d5ae-6521-4cac-acce-3353aa0baecb,Dog,Maine Coon,13.8,49.6,Male,Moderate,Joint Issues,47.4,1831.6,33.5,10.4,56.1,523.3,3,174.4,0.69
+d8f394f8-63a8-4dae-9f5a-b62e05492b39,Dog,German Shepherd,13.1,23.1,Male,Low,Diabetes,21.5,796.6,30.7,13.2,56.1,227.6,2,113.8,0.5
+384bbf89-df41-4679-bd88-6fdb588d3783,Cat,Siamese Cat,4.5,5.6,Female,Moderate,None,5.6,356.8,32.1,21.2,46.7,101.9,3,34.0,0.33
+560c5e35-f523-4f7f-826a-b65a59767845,Cat,Persian Cat,3.8,7.3,Male,High,None,6.9,497.4,36.3,24.2,39.5,142.1,4,35.5,0.42
+8820cf72-e717-48de-95bf-7e59f282482d,Dog,Golden Retriever,9.5,32.5,Male,Low,Allergies,34.0,1143.4,35.0,18.5,46.5,326.7,2,163.3,0.43
+5d8f2c2e-805f-418d-9a84-6fd6f2ca3b88,Dog,Beagle,11.6,39.0,Male,High,Joint Issues,40.0,1747.9,39.5,20.8,39.7,499.4,4,124.8,0.77
+a22e7619-f06a-4a1f-bfb9-20925d00f914,Dog,German Shepherd,14.5,11.0,Male,High,None,11.1,676.5,38.9,18.6,42.5,193.3,4,48.3,0.84
+764c3a88-ad8e-47a4-b24a-fe2f79c30921,Cat,Siamese Cat,6.3,3.0,Male,Low,Joint Issues,2.7,191.5,35.4,19.4,45.2,54.7,2,27.4,0.36
+c68880ed-1a8d-45a1-bf7d-0a2dc9492633,Dog,Beagle,12.8,19.3,Male,High,None,19.7,1031.3,30.2,16.4,53.4,294.7,4,73.7,0.52
+abeecb70-ab0a-45ad-b63b-3b5ad3b07d06,Dog,Ragdoll,9.9,9.5,Male,Moderate,Allergies,9.8,530.3,26.6,24.4,49.0,151.5,3,50.5,0.68
+ab303f68-282a-41cd-b6fb-609c72ac9d3c,Dog,Maine Coon,10.8,25.7,Female,Low,Joint Issues,24.0,958.8,39.5,14.1,46.4,273.9,2,136.9,0.78
+a58d5d03-b2ff-4adc-bdb3-e3d492c62bfe,Dog,Ragdoll,11.7,15.8,Female,Moderate,Joint Issues,17.2,776.6,29.0,22.8,48.2,221.9,3,74.0,0.8
+a61a7ff2-6a9f-4905-8747-c649e54d67c4,Dog,Bulldog,4.5,40.5,Female,Low,Allergies,37.6,1348.6,33.5,20.0,46.5,385.3,2,192.7,0.5
+99f472ed-1411-4419-8d95-2b6442428f99,Dog,Maine Coon,12.8,17.2,Male,Moderate,Obesity,18.7,703.5,30.3,13.9,55.8,201.0,3,67.0,0.47
+fb6070c4-b7ae-4231-90c1-fb6be9af3ec6,Dog,British Shorthair,10.7,21.8,Female,High,None,23.4,1130.0,32.7,12.9,54.4,322.9,4,80.7,0.44
+1f63004f-2a98-4aea-a88a-4cb6c450250b,Cat,Siamese Cat,7.6,6.6,Male,High,Allergies,7.0,461.2,34.7,17.4,47.9,131.8,4,33.0,0.78
+1e561f87-b4a8-4878-94fa-9f6be126a151,Dog,Bulldog,4.8,12.7,Female,High,Obesity,12.8,640.5,29.6,18.7,51.7,183.0,4,45.8,0.58
+7c800587-9187-4897-ade7-63939f8f3a77,Dog,Ragdoll,5.5,8.9,Female,Moderate,Allergies,8.2,505.0,29.1,13.8,57.1,144.3,3,48.1,0.37
+5c22d1ba-520c-4b46-acae-ac69fae7fbe8,Dog,Poodle,5.1,26.8,Male,Low,Obesity,28.9,841.0,36.1,14.1,49.8,240.3,2,120.2,0.65
+81ae07ff-88e4-46ae-bd19-7720976b4861,Dog,Ragdoll,9.2,27.6,Male,Low,Diabetes,26.7,910.3,28.4,12.7,58.9,260.1,2,130.1,0.31
+a1d629fc-5551-49ca-843e-6568cc5ce454,Dog,Ragdoll,2.3,32.8,Male,Low,Joint Issues,31.8,1151.3,29.4,24.2,46.4,328.9,2,164.4,0.68
+9ac3c138-c0af-4625-b1c8-0a93ef3fd0c4,Dog,Maine Coon,2.0,30.2,Male,High,Diabetes,32.5,1298.6,32.0,16.6,51.4,371.0,4,92.8,0.41
+c156a7b4-6aaa-4e9f-9ffd-afc7f326f02b,Dog,Golden Retriever,4.2,28.0,Female,Low,None,29.6,1022.5,31.0,11.1,57.9,292.1,2,146.1,0.68
+9dbc7352-5e8f-409e-bf3f-1812166ca766,Dog,Golden Retriever,2.7,18.2,Female,Low,Obesity,17.0,629.1,26.8,21.5,51.7,179.7,2,89.8,0.66
+1bb552d7-66ad-40b5-8bb9-18133e72cb90,Dog,British Shorthair,3.8,27.3,Female,Moderate,Allergies,29.5,1170.4,29.5,18.8,51.7,334.4,3,111.5,0.56
+6000dc61-6846-4129-95e9-b21fbdaf61c2,Dog,British Shorthair,9.5,27.9,Male,Low,Obesity,25.1,866.8,29.0,11.2,59.8,247.7,2,123.8,0.44
+67a40cbd-e06c-443c-ae9c-8bb0c54a1848,Dog,Ragdoll,1.6,17.9,Male,Moderate,Allergies,16.7,852.8,35.3,17.0,47.7,243.7,3,81.2,0.32
+9b2e4ae3-dd96-4a94-ba6a-f31d2f0645de,Dog,Beagle,10.8,43.7,Female,Low,Obesity,45.0,1213.6,38.9,21.8,39.3,346.7,2,173.3,0.68
+7e540aa6-2252-4add-aabc-9ad3d92b4831,Dog,Poodle,6.7,29.7,Male,High,Obesity,28.1,1211.2,38.6,22.4,39.0,346.1,4,86.5,0.34
+c580aebc-be61-4f01-b95b-9cdcc115bed0,Dog,German Shepherd,12.0,15.3,Female,Moderate,None,14.8,758.1,32.0,14.6,53.4,216.6,3,72.2,0.54
+23973c14-33a9-473c-bee9-a33ba2836c3a,Dog,Beagle,7.8,32.9,Female,Moderate,None,34.5,1346.2,34.0,23.3,42.7,384.6,3,128.2,0.74
+e6d30a34-8e57-47a8-b226-7b3859407877,Dog,British Shorthair,4.1,34.6,Male,Low,Joint Issues,35.7,1198.4,33.8,10.3,55.9,342.4,2,171.2,0.76
+6ede7124-6324-49a4-88ec-908e41437ed3,Dog,Beagle,8.9,29.1,Male,Moderate,Joint Issues,29.5,1227.9,34.8,23.7,41.5,350.8,3,116.9,0.41
+2ef060c2-a698-4adb-896f-d246d326a147,Dog,British Shorthair,6.8,22.5,Female,Low,Allergies,21.4,867.8,30.2,15.0,54.8,247.9,2,124.0,0.7
+22bc814e-d0e3-4009-8c32-799982bafcfd,Dog,German Shepherd,5.3,17.5,Female,Moderate,Allergies,16.6,838.5,37.2,18.3,44.5,239.6,3,79.9,0.57
+c92ed293-054c-403a-928a-a64967a692e3,Cat,Persian Cat,4.2,4.8,Male,Moderate,Joint Issues,5.2,317.8,37.4,10.0,52.6,90.8,3,30.3,0.82
+455e58ac-ef51-47b6-93f1-b1c234611424,Dog,Maine Coon,6.5,28.4,Male,High,Diabetes,29.1,1240.1,34.3,17.5,48.2,354.3,4,88.6,0.57
+961abbbf-479e-49b3-a1be-bd19962ae064,Dog,Golden Retriever,3.5,25.1,Male,Moderate,Allergies,25.5,1099.0,38.2,17.3,44.5,314.0,3,104.7,0.32
+3063c10e-9ef9-43ab-92da-d66dd920b92f,Dog,British Shorthair,12.1,39.5,Male,Moderate,Joint Issues,39.4,1544.1,25.2,16.1,58.7,441.2,3,147.1,0.43
+492c5a1e-c9cc-47df-b3ab-2aab0ba7ed66,Dog,Bulldog,7.2,31.3,Male,High,Obesity,29.9,1259.8,32.5,20.7,46.8,359.9,4,90.0,0.61
+2383c751-235a-4766-90e9-f49f3287fdfa,Dog,Beagle,6.5,16.4,Female,Moderate,Obesity,14.8,678.9,31.9,12.2,55.9,194.0,3,64.7,0.41
+bbdd9c57-2c32-4c12-93a7-a8a1ffdb0966,Dog,British Shorthair,7.9,14.3,Male,Low,Diabetes,15.6,555.9,36.6,22.8,40.6,158.8,2,79.4,0.5
+84a5a3e5-f73e-40a7-84f7-666a6489be71,Dog,Ragdoll,4.4,29.8,Male,Moderate,Diabetes,32.5,1124.9,37.6,18.7,43.7,321.4,3,107.1,0.7
+c8edf452-4a82-4334-952b-7828a238d634,Dog,German Shepherd,7.0,22.8,Female,Moderate,Diabetes,20.6,920.3,33.3,18.2,48.5,262.9,3,87.6,0.57
+6ba19c79-5ec6-4c3f-8865-667693a61f99,Cat,Persian Cat,13.1,6.4,Male,High,Allergies,6.9,450.7,28.5,21.6,49.9,128.8,4,32.2,0.33
+05cb68f1-fd1e-443b-8e1e-ddae4bdbf815,Dog,Maine Coon,10.7,29.7,Female,Moderate,Obesity,32.5,1059.8,32.4,10.6,57.0,302.8,3,100.9,0.6
+69c7050e-b5f9-4fc0-bcd1-40a90463eea9,Dog,British Shorthair,5.3,24.3,Male,Moderate,None,26.0,1072.6,32.9,16.9,50.2,306.5,3,102.2,0.73
+6b5f7d97-ea49-4201-aa02-1797447aab78,Cat,Siamese Cat,13.1,3.3,Male,Low,Allergies,3.5,205.7,36.7,14.0,49.3,58.8,2,29.4,0.67
+95b317ce-19e3-40d9-8f75-980c9f992bf3,Cat,Siamese Cat,9.9,2.0,Female,High,Joint Issues,1.9,188.4,30.7,14.7,54.6,53.8,4,13.4,0.73
+b284efda-0074-4afc-ad41-4719a09b0c74,Dog,Maine Coon,13.1,27.1,Male,High,None,29.5,1330.3,28.5,20.3,51.2,380.1,4,95.0,0.47
+985dd92c-c38e-4c1f-994f-e77e76a216f6,Dog,Poodle,11.3,12.5,Female,Low,None,13.0,558.4,31.7,20.4,47.9,159.5,2,79.8,0.84
+4ca348f0-d9a8-44d3-be65-78898a9b42c9,Dog,Golden Retriever,5.2,16.2,Male,Moderate,Diabetes,16.6,712.2,30.6,12.2,57.2,203.5,3,67.8,0.62
+0514d3a4-e82a-4aaf-860e-3dd750a53e47,Dog,British Shorthair,10.4,26.5,Male,Low,Obesity,29.1,833.9,26.2,23.1,50.7,238.3,2,119.2,0.67
+f14daca5-3bb3-4157-a287-d5a2c29b09ed,Dog,Poodle,7.7,25.6,Male,Low,Allergies,27.5,956.0,34.6,16.9,48.5,273.1,2,136.6,0.7
+888d3700-e71c-4eaf-8ac8-5031ff533ed3,Dog,Maine Coon,13.6,13.6,Male,Low,Allergies,14.3,594.9,39.2,24.8,36.0,170.0,2,85.0,0.48
+bbde8194-34c9-4b59-a326-ed78cf944a4f,Cat,Siamese Cat,10.5,7.2,Female,Moderate,Obesity,7.0,366.1,40.0,22.8,37.2,104.6,3,34.9,0.36
+c7373515-2457-4087-bed3-81368969dfeb,Cat,Siamese Cat,8.8,7.1,Female,High,Diabetes,6.8,438.4,25.3,22.5,52.2,125.3,4,31.3,0.54
+22ab8117-0da7-482c-b012-c0fd3ab65fcd,Dog,Golden Retriever,8.7,30.2,Male,High,Allergies,32.4,1442.9,37.5,23.5,39.0,412.3,4,103.1,0.77
+e518edb1-08c0-421c-ba8e-fa8f4e3cc0db,Dog,Poodle,9.3,30.1,Female,Low,Obesity,32.6,917.5,34.3,20.2,45.5,262.1,2,131.1,0.73
+cbad2981-5f00-453e-8970-902995609950,Dog,German Shepherd,9.6,30.2,Male,Moderate,Allergies,32.0,1262.5,25.5,15.5,59.0,360.7,3,120.2,0.38
+5807a53c-0349-4a51-82e4-b26e3f9ed547,Dog,Beagle,5.2,63.5,Female,Low,Obesity,65.4,1606.1,27.0,18.1,54.9,458.9,2,229.4,0.88
+5dde33e2-bf85-40f8-b2fc-bb1254d1f219,Dog,Ragdoll,7.8,34.5,Female,Low,Diabetes,37.2,1076.2,38.7,24.2,37.1,307.5,2,153.8,0.88
+162e6f0a-f26b-44ac-825a-55d73ddf2626,Dog,Beagle,11.3,31.5,Female,Low,Allergies,30.5,1116.9,39.4,12.1,48.5,319.1,2,159.6,0.88
+be07c25f-1eb7-47fb-952c-9bc82275e173,Cat,Siamese Cat,14.5,3.5,Female,Low,Allergies,3.6,214.9,25.2,18.0,56.8,61.4,2,30.7,0.57
+56b942db-dc52-4212-8c75-33318fd2bc47,Dog,Beagle,9.0,22.6,Female,Low,Obesity,20.5,740.1,32.1,19.3,48.6,211.5,2,105.8,0.87
+49a734ee-64d2-4c09-aa24-8101f251656b,Cat,Persian Cat,13.8,9.6,Male,High,None,9.2,610.8,34.5,17.0,48.5,174.5,4,43.6,0.72
+c254b26d-b702-4732-8fed-1c6561d0c50e,Cat,Siamese Cat,2.2,1.3,Male,Low,Diabetes,1.3,92.0,39.9,11.7,48.4,26.3,2,13.2,0.44
+d1a28c3e-0088-4412-9de7-7e499992aa92,Dog,Ragdoll,2.5,20.3,Female,Moderate,Joint Issues,18.8,937.2,31.3,21.1,47.6,267.8,3,89.3,0.39
+ca2b3644-2679-4d8d-bc87-4a3962c61d3a,Cat,Siamese Cat,10.0,7.2,Female,High,Allergies,7.2,492.3,39.1,14.2,46.7,140.7,4,35.2,0.71
+275a3b25-2452-46a9-9ca0-928a908e7e2e,Dog,Poodle,6.9,17.8,Male,Moderate,None,18.2,849.3,39.7,15.5,44.8,242.7,3,80.9,0.84
+20a35c7f-9fc8-461c-8044-6e76b2ac5dc8,Cat,Persian Cat,1.4,6.4,Female,Low,None,5.9,338.0,39.2,22.4,38.4,96.6,2,48.3,0.36
+6a59f091-86da-42d9-9206-cf96fc76bc1b,Dog,Poodle,9.8,25.5,Male,Low,Diabetes,25.7,857.9,28.7,11.9,59.4,245.1,2,122.5,0.64
+559c5aa6-16c2-4f8e-9266-4c0f979e981e,Dog,Bulldog,12.5,18.5,Male,High,Obesity,19.0,849.2,37.2,13.5,49.3,242.6,4,60.6,0.76
+b8a3e447-cd26-4f02-b851-99e210f0c896,Dog,British Shorthair,0.5,4.7,Male,Low,Joint Issues,5.0,268.1,28.8,12.6,58.6,76.6,2,38.3,0.7
+22ade00c-86d6-481d-a6f1-d88f5d2db72b,Dog,Golden Retriever,2.4,26.9,Female,Low,Joint Issues,25.7,992.2,29.9,12.6,57.5,283.5,2,141.8,0.33
+12b8bed4-d38a-4376-b94c-618d71d93778,Cat,Siamese Cat,8.1,3.4,Male,Moderate,Allergies,3.1,245.4,36.7,17.7,45.6,70.1,3,23.4,0.37
+0651f825-4756-4e30-bbba-d5b1a4cb94c0,Dog,Ragdoll,3.7,23.9,Male,High,Joint Issues,26.1,1210.6,29.5,19.7,50.8,345.9,4,86.5,0.32
+efdb1dd9-8401-45e4-a028-9a98bed3e9a6,Dog,Maine Coon,12.8,30.0,Female,High,None,29.5,1435.7,32.4,23.6,44.0,410.2,4,102.5,0.34
+6e2f562f-8f4e-40e0-95ed-059b7e2f0834,Dog,Bulldog,5.2,33.7,Male,Low,Obesity,31.5,998.7,29.1,19.5,51.4,285.3,2,142.7,0.63
+8144c50d-caa1-4dc4-a22a-cd2e08d6a994,Cat,Persian Cat,6.0,4.1,Female,Moderate,Joint Issues,4.1,282.4,34.1,11.5,54.4,80.7,3,26.9,0.72
+d3b55e08-d346-4408-88e5-1710f86bf61b,Dog,Ragdoll,11.0,18.5,Male,Moderate,Allergies,19.3,874.2,38.3,16.2,45.5,249.8,3,83.3,0.8
+2aec821d-dacb-4fe1-80fa-df550ba35933,Cat,Siamese Cat,6.5,2.5,Male,Moderate,Allergies,2.7,194.8,29.7,13.8,56.5,55.7,3,18.6,0.87
+f10d8da5-e510-4f94-a22e-88631099b735,Dog,Maine Coon,1.5,34.2,Male,Low,Allergies,35.8,1188.0,26.4,21.1,52.5,339.4,2,169.7,0.79
+1651c97a-ccf2-48ff-bb0a-e7d9eb280bc2,Dog,Ragdoll,1.4,46.2,Female,High,None,45.5,1984.7,31.2,23.1,45.7,567.1,4,141.8,0.86
+155571c8-f2f9-4327-a430-7317090e6089,Cat,Siamese Cat,13.1,7.1,Male,Moderate,Joint Issues,6.7,426.3,29.7,11.6,58.7,121.8,3,40.6,0.6
+f880ea79-5d93-4dfc-886a-5130566d6581,Dog,German Shepherd,10.0,37.7,Male,Low,Diabetes,34.0,1150.2,37.7,15.5,46.8,328.6,2,164.3,0.76
+394f4fc8-c0d4-4d34-a5a4-9b71f10cda78,Dog,British Shorthair,3.8,17.9,Female,High,Joint Issues,16.5,974.7,34.2,19.6,46.2,278.5,4,69.6,0.32
+3991dd3b-6268-42cd-acff-beb9d5feb37d,Dog,Beagle,0.9,29.4,Female,High,Diabetes,29.2,1272.7,38.8,15.3,45.9,363.6,4,90.9,0.41
+7adcf7ee-4a1f-4193-8679-f93abeb8d55f,Dog,German Shepherd,8.7,32.7,Female,Low,Obesity,30.1,976.4,36.1,24.6,39.3,279.0,2,139.5,0.36
+87e9ba4e-d5a6-47ac-9105-b8555e11e3e9,Dog,Ragdoll,3.6,7.4,Female,Moderate,Diabetes,6.9,395.7,27.4,14.7,57.9,113.1,3,37.7,0.49
+b02350f8-5b5a-4d52-94b4-90c1dcf632df,Dog,British Shorthair,9.1,14.8,Male,Low,Obesity,14.6,538.8,36.3,10.7,53.0,153.9,2,77.0,0.35
+6014c9b6-ee32-4471-b71b-050a781c5b2b,Dog,Maine Coon,10.1,41.3,Female,High,Allergies,42.4,1824.7,31.2,13.2,55.6,521.3,4,130.3,0.61
+2d097bbe-e081-4e3a-b761-af4053edc771,Cat,Persian Cat,6.7,2.1,Female,High,Joint Issues,1.9,195.4,32.3,20.0,47.7,55.8,4,13.9,0.33
+48504bec-04d5-4399-a54b-e398dda8102f,Cat,Siamese Cat,14.8,7.9,Male,Low,Obesity,7.9,336.4,29.5,13.2,57.3,96.1,2,48.0,0.38
+40da83ca-4260-4fcc-b02b-9f6eef3fecae,Dog,Beagle,4.7,10.6,Male,Low,Allergies,11.4,493.5,36.2,12.6,51.2,141.0,2,70.5,0.53
+5e0bcf7e-03ef-412a-8d57-84ce2df806e3,Dog,Poodle,7.8,15.2,Female,Low,Allergies,13.9,646.6,37.9,10.6,51.5,184.7,2,92.3,0.31
+ff57f01d-d1c1-491a-aa84-a267cb806598,Dog,Bulldog,13.0,29.6,Female,High,Allergies,30.4,1421.3,35.6,16.3,48.1,406.1,4,101.5,0.37
+1874ad4a-0f36-4ef0-af98-877a5fb89d40,Dog,Golden Retriever,14.5,25.7,Male,High,Allergies,28.0,1278.4,37.5,23.8,38.7,365.3,4,91.3,0.35
+7ae885c4-2137-43f8-8153-c9c0fc46b4b6,Dog,Bulldog,4.0,21.1,Female,High,None,21.4,1102.6,30.9,14.7,54.4,315.0,4,78.8,0.5
+c048d0ad-2dae-42d0-bb41-a20d52caa7da,Cat,Persian Cat,11.8,8.2,Male,High,None,8.1,542.7,33.0,12.9,54.1,155.1,4,38.8,0.77
+4b419bfa-a7e7-40bb-b5b7-00087bea1460,Cat,Persian Cat,11.0,2.5,Male,Low,None,2.5,167.0,27.2,13.0,59.8,47.7,2,23.9,0.66
+d927a3e2-6493-417d-be03-08a92a5a6d45,Dog,Bulldog,3.1,23.5,Female,Moderate,Joint Issues,25.7,1046.0,36.4,16.7,46.9,298.9,3,99.6,0.85
+69576a28-f63d-455b-b309-c41c554d2354,Dog,British Shorthair,9.8,30.9,Female,High,Diabetes,33.4,1321.1,27.3,11.0,61.7,377.5,4,94.4,0.57
+5ae7758e-7993-4d00-8682-af17af3a284c,Dog,Beagle,12.0,27.8,Male,Moderate,Joint Issues,25.4,1186.5,26.1,16.9,57.0,339.0,3,113.0,0.32
+ed034858-55bd-404b-955e-d4793306f9f3,Cat,Persian Cat,12.6,3.8,Male,High,None,3.7,304.8,34.2,17.6,48.2,87.1,4,21.8,0.58
+b686625a-9f5a-4a37-a112-8ded98960201,Dog,Ragdoll,14.3,19.1,Male,Moderate,Joint Issues,17.6,895.4,34.8,14.8,50.4,255.8,3,85.3,0.59
+73f0e6d5-3025-4af2-afa1-3e894e31de32,Dog,German Shepherd,14.4,33.5,Female,Low,Diabetes,34.8,1052.7,39.7,11.3,49.0,300.8,2,150.4,0.69
+673be214-4e52-46a4-85df-f2fd4921111b,Dog,Golden Retriever,4.1,34.0,Female,Moderate,Joint Issues,35.6,1379.9,32.8,12.4,54.8,394.3,3,131.4,0.52
+a59f3e39-a6a7-4c6c-8d34-78c314cba762,Dog,Beagle,6.1,28.1,Female,High,Joint Issues,29.8,1366.9,25.8,19.5,54.7,390.5,4,97.6,0.5
+099b2da1-34bd-47b4-aca5-0de22fffdca1,Cat,Persian Cat,1.9,3.3,Female,Moderate,Diabetes,3.5,216.0,35.9,19.8,44.3,61.7,3,20.6,0.84
+f819d491-707f-4e63-a0a9-3a3ae5f5ccc6,Dog,German Shepherd,5.3,19.4,Male,Moderate,Diabetes,20.6,815.3,39.5,20.5,40.0,232.9,3,77.6,0.54
+b0b55d96-f2e9-4918-b977-18ebdb6fce8f,Dog,British Shorthair,10.8,24.8,Male,Moderate,Joint Issues,24.2,1089.1,30.7,21.9,47.4,311.2,3,103.7,0.79
+7dd0844f-6f24-405f-be02-df37b6274b91,Dog,Ragdoll,1.9,26.2,Female,High,Diabetes,27.6,1167.3,25.3,14.6,60.1,333.5,4,83.4,0.87
+e03b4bed-3259-47d6-a955-026555c3dc3b,Cat,Persian Cat,14.2,6.1,Female,Low,Obesity,6.5,277.1,40.0,12.3,47.7,79.2,2,39.6,0.48
+ce3aa3dd-13dc-486f-a52b-a2b9cb6ef189,Dog,Bulldog,7.9,23.0,Male,High,Diabetes,22.7,1058.7,38.1,19.3,42.6,302.5,4,75.6,0.66
+ae65dfdc-92d4-48d5-8c73-903ea981faac,Dog,German Shepherd,2.9,33.3,Male,High,Allergies,30.7,1552.6,25.7,15.5,58.8,443.6,4,110.9,0.73
+42d35c39-f24e-408d-a8e0-4b15e5d74ac7,Dog,Maine Coon,9.4,33.1,Female,Low,Joint Issues,35.8,1159.2,28.6,24.5,46.9,331.2,2,165.6,0.77
+6200c837-9f14-42de-b8ea-e6b5f9f525ba,Dog,Poodle,5.8,38.1,Female,Moderate,Diabetes,36.7,1352.6,36.7,17.5,45.8,386.5,3,128.8,0.55
+12d9bef3-6b7a-4ce2-99cc-7ccb3cccb006,Dog,German Shepherd,12.3,25.2,Male,Moderate,None,27.2,1102.2,34.6,23.1,42.3,314.9,3,105.0,0.63
+39d4194d-2fb0-4707-813d-917fd3d82ae3,Dog,Bulldog,10.8,28.2,Male,Moderate,None,30.7,1199.3,36.4,14.1,49.5,342.7,3,114.2,0.84
+af75c3f9-556a-49df-8f4a-e05ef70f315d,Dog,German Shepherd,12.6,23.7,Male,Low,Allergies,24.0,902.3,38.3,24.0,37.7,257.8,2,128.9,0.55
+2ec394c4-9fea-42cc-a4cf-801fbc42e5f2,Cat,Siamese Cat,7.8,3.4,Male,Moderate,None,3.3,245.4,30.6,10.4,59.0,70.1,3,23.4,0.86
+6793f79b-1a3e-4787-b1bd-c34b36b52598,Cat,Persian Cat,12.0,9.2,Male,Low,Diabetes,8.9,399.4,38.8,17.1,44.1,114.1,2,57.0,0.8
+910471a2-1dff-46f5-b499-832f0d200ee5,Dog,Maine Coon,7.0,36.6,Male,Low,None,38.7,1249.9,28.8,22.5,48.7,357.1,2,178.6,0.63
+285ecd5b-b4c4-4107-a43a-40584a26beec,Dog,British Shorthair,8.2,32.9,Male,Moderate,Obesity,34.8,1144.3,29.5,10.7,59.8,326.9,3,109.0,0.55
+830455a5-6344-42cf-a446-5c8fa7788578,Dog,British Shorthair,7.1,24.9,Male,Moderate,Joint Issues,22.7,1092.4,33.0,19.5,47.5,312.1,3,104.0,0.65
+888324a4-a4a4-4c59-b38d-364e7a56a675,Dog,German Shepherd,4.7,16.0,Male,High,Diabetes,16.2,806.4,28.6,16.2,55.2,230.4,4,57.6,0.7
+1389ed08-460f-46aa-81f8-703237b0c378,Dog,Bulldog,8.1,34.8,Female,Low,Joint Issues,33.8,1203.5,33.2,21.8,45.0,343.9,2,171.9,0.6
+1e59dceb-3584-4b0d-a722-85f009cb12dc,Dog,Golden Retriever,6.2,23.5,Female,Low,Allergies,21.7,896.6,39.7,13.8,46.5,256.2,2,128.1,0.31
+55f87fe4-863d-47e2-8abe-54d53c631aa2,Dog,Bulldog,5.5,29.1,Male,High,Diabetes,29.8,1262.9,27.0,15.3,57.7,360.8,4,90.2,0.5
+be2404c6-b421-45e0-801c-1e613788d3a6,Dog,German Shepherd,12.5,19.4,Female,High,Allergies,17.9,1035.3,34.5,22.2,43.3,295.8,4,74.0,0.34
+93bb00b9-45eb-41d1-af97-e3278d3b8da8,Dog,Maine Coon,1.0,27.4,Male,Low,Obesity,25.1,855.1,38.3,14.7,47.0,244.3,2,122.2,0.49
+89cd84c0-3d34-402f-acb9-bc7db7ce61b3,Cat,Siamese Cat,14.8,4.0,Female,Moderate,None,4.3,277.2,36.3,12.9,50.8,79.2,3,26.4,0.51
+d4a73fa0-1d28-4fa0-8ee5-f37beb318056,Dog,Golden Retriever,13.1,20.3,Female,Moderate,None,18.6,937.2,37.0,16.6,46.4,267.8,3,89.3,0.54
+ff354e4f-c464-41cb-ae01-3274f1e0154e,Dog,Maine Coon,13.5,27.3,Female,Moderate,Obesity,30.0,994.9,32.4,17.5,50.1,284.3,3,94.8,0.85
+1b76c03c-4fc2-4cb6-aea8-3636c4ffe33b,Dog,Ragdoll,4.4,10.5,Male,High,Allergies,11.2,653.3,26.2,19.0,54.8,186.7,4,46.7,0.79
+351a73af-0307-45cc-8fec-2c72b6d32189,Dog,Ragdoll,4.8,10.9,Male,Low,Diabetes,11.9,453.5,34.9,14.6,50.5,129.6,2,64.8,0.66
+94bb1b23-a11d-4164-a2fb-b5ce17ca56fa,Cat,Siamese Cat,2.9,3.6,Female,Moderate,Allergies,3.8,256.1,25.6,23.1,51.3,73.2,3,24.4,0.51
+86d5a752-cdf9-423e-9b63-a092675d5a7e,Cat,Siamese Cat,4.5,4.6,Male,Low,Allergies,4.7,263.8,30.4,22.0,47.6,75.4,2,37.7,0.71
+28b9e2f8-109f-4df0-8e9d-27339805f5c0,Dog,Golden Retriever,2.6,33.6,Female,Low,Obesity,31.0,996.4,26.0,21.7,52.3,284.7,2,142.3,0.52
+730f57ef-47cf-4bc1-975e-c6e9bef5fe8f,Cat,Siamese Cat,14.3,4.7,Male,High,Obesity,4.7,303.9,35.2,24.2,40.6,86.8,4,21.7,0.52
+eedef386-954f-4173-af61-75c53327ba4c,Dog,Bulldog,8.8,24.8,Female,Moderate,Diabetes,22.6,980.2,34.7,13.7,51.6,280.1,3,93.4,0.37
+c7f34bc6-9d8b-4838-b96f-1f3599eaf0c5,Dog,German Shepherd,7.7,22.1,Female,High,None,20.4,1141.6,28.9,13.9,57.2,326.2,4,81.5,0.57
+2e153924-fb92-47b3-9af8-9145d9695007,Dog,British Shorthair,4.6,28.2,Female,Low,None,29.6,1027.9,27.0,11.1,61.9,293.7,2,146.8,0.4
+b259381b-ec93-4979-9285-f34410fe8e6c,Dog,Maine Coon,15.0,16.7,Female,High,Diabetes,17.0,832.7,35.6,18.2,46.2,237.9,4,59.5,0.47
+cda7c338-90f8-4fb7-849d-ff65ae40e026,Dog,Beagle,12.8,23.9,Male,Moderate,Joint Issues,22.9,1059.3,28.4,24.8,46.8,302.7,3,100.9,0.78
+dfd6cb4a-1dbe-4e9e-ad3a-4923a54aeeec,Dog,Poodle,12.0,29.0,Male,Moderate,Joint Issues,31.1,1224.7,33.6,17.0,49.4,349.9,3,116.6,0.89
+75c4eb6f-0090-4c06-8396-a3cedc714478,Dog,German Shepherd,9.4,27.2,Male,Low,Diabetes,24.9,900.4,31.0,20.8,48.2,257.3,2,128.7,0.59
+ffee1fa0-bb09-4c8a-9fe2-fbc92f789b31,Cat,Siamese Cat,11.7,5.0,Male,Low,Diabetes,5.1,252.8,34.6,16.7,48.7,72.2,2,36.1,0.71
+d7bf4fb0-968e-450e-b7ca-da7610ce945e,Cat,Persian Cat,2.4,5.0,Male,Low,Allergies,5.1,280.9,32.5,23.0,44.5,80.3,2,40.1,0.8
+da951e7b-c0a3-4080-9c60-2af780221ef6,Dog,Ragdoll,2.7,30.0,Male,Low,Diabetes,31.2,969.1,39.0,13.4,47.6,276.9,2,138.4,0.87
+2f248dee-29be-453e-bded-834732dcfee9,Dog,Ragdoll,13.5,46.5,Male,Moderate,Obesity,47.3,1483.3,34.5,18.3,47.2,423.8,3,141.3,0.38
+380a244b-6ecc-405e-b50e-c502323262da,Dog,Beagle,9.4,17.3,Male,High,Obesity,18.7,807.6,33.9,18.7,47.4,230.7,4,57.7,0.4
+d9dca7cf-800f-45dd-b5b7-2a1592de9c63,Dog,British Shorthair,10.9,46.9,Female,High,None,44.8,2007.2,37.4,10.4,52.2,573.5,4,143.4,0.33
+bb5b180a-5b09-4a33-a5b0-715b73e237b2,Dog,British Shorthair,4.3,16.9,Male,High,Allergies,15.8,933.5,34.3,10.5,55.2,266.7,4,66.7,0.83
+76e089fd-3707-414d-ab3d-dd711d88f991,Dog,Ragdoll,4.7,3.8,Female,Moderate,Obesity,3.9,226.7,37.1,20.3,42.6,64.8,3,21.6,0.48
+938356c6-748a-4368-89a0-0d6895ac8586,Dog,Bulldog,10.5,19.7,Male,Moderate,Allergies,18.0,916.4,32.3,13.1,54.6,261.8,3,87.3,0.66
+c5b37b26-23a9-41a2-b032-06ec178e2c7a,Cat,Persian Cat,13.0,5.7,Female,High,Diabetes,5.5,371.8,39.6,12.0,48.4,106.2,4,26.6,0.52
+76601893-9451-49fb-8294-05212ffb20cb,Dog,Ragdoll,2.0,43.8,Male,Moderate,None,46.5,1668.5,29.0,13.7,57.3,476.7,3,158.9,0.36
+99ca1ef6-6436-412b-b0c6-65777aac8d15,Dog,Beagle,14.2,16.0,Female,Low,Obesity,17.3,571.2,37.2,24.0,38.8,163.2,2,81.6,0.73
+03306faa-1016-4846-844b-6b726015abe0,Dog,Poodle,11.6,29.9,Female,High,Allergies,31.8,1432.1,32.5,14.6,52.9,409.2,4,102.3,0.31
+1bbe95a8-e25f-4769-bf4e-16bace5383c1,Cat,Siamese Cat,7.8,2.4,Male,Low,Joint Issues,2.6,162.0,30.3,10.8,58.9,46.3,2,23.1,0.6
+4e4c21c5-217f-4c6d-a7ce-3e50c05e8249,Dog,Maine Coon,4.6,43.3,Male,Low,Allergies,46.5,1417.9,27.0,14.0,59.0,405.1,2,202.6,0.52
+f3958dc6-7482-4044-8c96-9f3491868057,Cat,Siamese Cat,5.8,7.4,Female,Low,Joint Issues,8.1,376.9,33.4,15.4,51.2,107.7,2,53.9,0.47
+9371daf9-9b91-4110-ac54-ff24df1d1234,Cat,Siamese Cat,7.8,4.1,Female,High,Joint Issues,3.8,322.7,26.8,24.6,48.6,92.2,4,23.1,0.54
+67eccbae-3427-4f1b-85e9-42c876033d2d,Cat,Persian Cat,8.6,1.6,Female,Low,Obesity,1.8,101.6,34.0,16.0,50.0,29.0,2,14.5,0.32
+6fda4d63-16a5-4cf5-bdc4-0480300accd8,Dog,Golden Retriever,2.5,38.5,Female,Moderate,Joint Issues,41.1,1514.7,31.9,19.1,49.0,432.8,3,144.3,0.61
+fbbe6c30-39cf-46d4-bed8-6e3bd8f6e671,Cat,Persian Cat,14.0,4.8,Female,Low,Allergies,4.7,272.4,39.9,21.1,39.0,77.8,2,38.9,0.48
+db23aa5d-fb25-4948-86e9-00004058a16c,Cat,Persian Cat,7.9,7.5,Female,High,Joint Issues,7.2,507.6,29.5,22.2,48.3,145.0,4,36.2,0.52
+b1bd6e32-e00e-4d70-b4ae-563a9ed26b43,Dog,Bulldog,14.7,25.1,Female,High,None,26.5,1256.0,34.0,14.0,52.0,358.9,4,89.7,0.69
+f813d299-5f9c-460a-9a50-56b9d9c44865,Dog,British Shorthair,8.9,25.5,Male,High,Allergies,27.8,1270.9,27.6,19.4,53.0,363.1,4,90.8,0.67
+86232c81-1df9-446f-9fa1-b2568b546a25,Cat,Siamese Cat,2.6,4.1,Male,Low,Joint Issues,4.1,242.0,39.2,11.6,49.2,69.1,2,34.5,0.31
+d8a7ae51-f188-40ae-b4fc-a7766f2e05ca,Cat,Persian Cat,6.6,6.2,Female,High,Obesity,5.7,374.1,31.2,21.6,47.2,106.9,4,26.7,0.85
+2b2a87e5-536f-498c-a252-4f71db6e1e4a,Dog,Golden Retriever,10.7,26.2,Male,High,Diabetes,24.8,1167.3,40.0,17.2,42.8,333.5,4,83.4,0.53
+c9877749-b642-47b7-b4ae-c3db055deaf9,Dog,German Shepherd,7.2,30.1,Female,High,Diabetes,31.1,1295.3,35.1,23.0,41.9,370.1,4,92.5,0.71
+189e0353-512c-4d8d-8eca-374c6a8400e3,Dog,Beagle,9.3,9.7,Male,Low,Diabetes,9.0,415.5,33.4,13.4,53.2,118.7,2,59.4,0.88
+fb7aa705-3708-4f37-b3d0-be99e47c4695,Dog,Beagle,11.7,37.8,Male,High,Allergies,39.1,1707.4,29.8,15.2,55.0,487.8,4,122.0,0.86
+0f1b97d5-1f94-4c05-a3e4-26fb03112531,Dog,Beagle,4.7,40.5,Female,Moderate,Diabetes,40.7,1416.0,39.3,22.1,38.6,404.6,3,134.9,0.47
+c5198004-dd7f-4ed2-808d-870670177d35,Dog,Beagle,14.4,26.2,Male,Moderate,Allergies,28.0,1134.9,34.8,21.2,44.0,324.3,3,108.1,0.43
+a93791af-87d7-4d9d-b34b-fe4d108f05a9,Dog,Ragdoll,4.4,45.6,Female,Low,None,49.0,1474.0,34.2,18.8,47.0,421.1,2,210.6,0.45
+ebdceccf-ca8a-41dc-bb51-931893f5ef83,Dog,Ragdoll,3.8,42.6,Male,Low,None,41.8,1400.7,31.2,20.8,48.0,400.2,2,200.1,0.36
+391bf2ed-78e9-464f-b541-58fa9cffec9b,Dog,German Shepherd,0.6,31.5,Male,Moderate,Allergies,32.8,1303.0,32.2,13.0,54.8,372.3,3,124.1,0.88
+7e12a5ab-19d3-4cba-a5a6-29edeeeac6a6,Cat,Persian Cat,4.6,7.7,Male,Low,Joint Issues,7.3,388.3,28.5,21.1,50.4,110.9,2,55.5,0.81
+0feb4e93-a619-445f-847e-eb9e17630076,Dog,Golden Retriever,13.7,35.6,Male,Moderate,Obesity,34.8,1214.0,39.0,10.5,50.5,346.9,3,115.6,0.8
+81d9279b-1bf7-494e-82b6-56e018833352,Dog,Maine Coon,3.2,7.4,Female,Low,None,7.3,376.9,29.5,19.0,51.5,107.7,2,53.9,0.86
+14594328-048e-40b0-9b07-b1e872575968,Cat,Persian Cat,4.6,4.5,Female,Low,Joint Issues,4.5,259.5,32.0,12.9,55.1,74.1,2,37.0,0.37
+aaf43f63-9797-4947-a6be-2fa930c0944a,Dog,German Shepherd,11.1,32.2,Female,High,Obesity,34.0,1286.9,25.2,15.1,59.7,367.7,4,91.9,0.48
+f460247f-e7f5-4b72-b58f-62d590bb55d0,Dog,Poodle,3.0,41.3,Female,Moderate,Joint Issues,44.3,1596.6,29.9,16.0,54.1,456.2,3,152.1,0.36
+521ba6c8-bc2a-4ad4-a8df-c6233e737e0d,Dog,German Shepherd,7.4,11.2,Male,Low,Diabetes,12.2,462.8,30.8,16.7,52.5,132.2,2,66.1,0.46
+718afc11-fee2-4134-abc2-6c25c8ab6037,Cat,Persian Cat,4.9,1.6,Male,Moderate,Diabetes,1.6,125.5,35.4,10.9,53.7,35.9,3,12.0,0.37
+194eff29-c364-43a9-b3fd-824d7bdc2376,Dog,Beagle,2.8,24.4,Female,High,None,26.7,1229.6,34.6,24.1,41.3,351.3,4,87.8,0.52
+6cc008aa-e5b9-49c9-a8e2-1a1e98847e60,Dog,Poodle,3.7,4.3,Male,Moderate,Obesity,4.4,248.7,31.8,24.8,43.4,71.1,3,23.7,0.52
+6a98d8a5-c227-4e55-a100-a1b7eea26462,Dog,Ragdoll,13.7,24.1,Male,Low,Joint Issues,22.8,913.7,38.1,11.2,50.7,261.1,2,130.6,0.57
+50217973-faa1-431d-86e8-40d4bade1605,Cat,Persian Cat,1.6,5.7,Male,Low,Joint Issues,5.3,309.9,38.5,13.0,48.5,88.5,2,44.2,0.62
+b5c20d97-2f7d-46d9-a064-7e704ed52621,Dog,German Shepherd,5.3,15.6,Female,Low,Obesity,15.1,560.5,35.8,17.3,46.9,160.1,2,80.0,0.84
+0f3d892a-7e4c-481e-9b36-645bfab1cecf,Dog,Maine Coon,12.2,24.4,Female,Low,Joint Issues,25.2,922.2,31.2,18.5,50.3,263.5,2,131.8,0.64
+4fac7d91-6671-4f9b-9a13-69c26a671a56,Dog,Beagle,11.0,34.6,Female,Moderate,None,32.3,1398.1,36.2,18.7,45.1,399.5,3,133.2,0.33
+1f88c347-e5f1-4300-b233-d0b103b0c8bf,Cat,Persian Cat,10.7,3.9,Male,Low,Allergies,3.6,233.1,25.5,16.1,58.4,66.6,2,33.3,0.76
+84b8a44c-8e02-4e9e-a1d5-97a8ced78bc3,Cat,Siamese Cat,5.9,3.4,Female,Moderate,Allergies,3.1,245.4,30.6,20.2,49.2,70.1,3,23.4,0.7
+4cabe186-2bad-4ba5-b0e0-43e13ebf0db9,Dog,Ragdoll,2.4,23.9,Female,Low,Obesity,22.5,771.8,39.9,15.9,44.2,220.5,2,110.2,0.38
+24c16ed2-09c1-47d9-9785-6db858830a2c,Dog,Poodle,12.6,14.6,Male,Moderate,Allergies,14.2,732.0,35.1,18.2,46.7,209.1,3,69.7,0.62
+91ef5455-0b46-425d-830c-af692c2883bb,Dog,Poodle,4.1,44.6,Female,Low,Diabetes,40.5,1304.7,27.8,23.1,49.1,372.8,2,186.4,0.76
+d09cb72a-b804-4966-9341-db8606c2057c,Dog,Golden Retriever,12.2,25.4,Female,High,None,26.9,1267.2,28.6,11.0,60.4,362.1,4,90.5,0.66
+12aad484-f776-478b-b3c4-ed89bfe43edf,Dog,Maine Coon,9.2,18.0,Male,Low,None,19.3,734.1,31.0,13.5,55.5,209.7,2,104.8,0.43
+3ff919b8-597a-44d8-b856-bc6e4a22000b,Dog,Golden Retriever,2.5,27.1,Female,Low,Joint Issues,29.4,997.7,29.8,19.0,51.2,285.1,2,142.6,0.7
+7bc70bfa-e057-407a-a109-173a19dfa16b,Cat,Persian Cat,3.9,4.8,Male,High,Joint Issues,5.1,363.2,28.3,14.5,57.2,103.8,4,25.9,0.34
+ea3958ce-cc60-4f53-bec6-5c621fcc59a1,Dog,British Shorthair,13.3,22.8,Male,High,Allergies,23.9,1168.6,33.3,10.7,56.0,333.9,4,83.5,0.51
+6352b374-5462-442a-a963-6fec7ad93198,Cat,Siamese Cat,11.9,3.9,Female,High,Allergies,3.8,310.8,31.1,14.5,54.4,88.8,4,22.2,0.41
+77ad9fd8-64b6-4e3a-872a-3f8986fa73e1,Dog,Ragdoll,7.4,19.2,Male,Moderate,Obesity,19.1,764.0,37.1,23.7,39.2,218.3,3,72.8,0.64
+59ae4ffc-cdf9-4ccc-ad5c-3eeedea771a9,Cat,Siamese Cat,8.6,2.0,Male,Moderate,Obesity,2.0,140.1,28.8,15.0,56.2,40.0,3,13.3,0.35
+f942414f-8055-46b5-8191-160e3034cfbd,Dog,Maine Coon,12.8,38.7,Male,High,Obesity,40.6,1477.1,25.8,15.7,58.5,422.0,4,105.5,0.66
+e02a7461-ecd9-47d2-921d-fb83b7bf7340,Dog,Golden Retriever,13.2,30.8,Male,High,Joint Issues,30.9,1464.3,28.3,13.1,58.6,418.4,4,104.6,0.84
+b16ffc06-7158-4b36-b56d-f4d70b11f7f2,Dog,Beagle,14.4,28.1,Male,Low,Obesity,28.3,871.4,39.4,11.8,48.8,249.0,2,124.5,0.9
+4fad06d8-cac6-4c40-80d2-f29c23a8889f,Dog,Maine Coon,13.8,23.7,Male,Moderate,Obesity,23.9,894.8,33.3,21.6,45.1,255.7,3,85.2,0.53
+fb694beb-bb6a-432b-904f-990451cc7585,Dog,Ragdoll,9.9,15.4,Female,Moderate,Diabetes,14.6,685.7,32.7,17.5,49.8,195.9,3,65.3,0.36
+67e9cf14-066b-44ed-820b-4ddb9c1156fa,Dog,Maine Coon,11.5,17.4,Female,Low,Diabetes,15.7,644.1,29.7,10.7,59.6,184.0,2,92.0,0.82
+215c2164-61eb-4169-b2c8-f115a866d2bd,Dog,German Shepherd,0.7,10.8,Female,Moderate,Obesity,10.4,496.3,27.9,13.5,58.6,141.8,3,47.3,0.64
+9eb5a259-5eed-4a9e-bcf2-00b3eba3af57,Dog,Poodle,7.7,18.5,Female,Moderate,Allergies,17.1,874.2,39.5,19.6,40.9,249.8,3,83.3,0.59
+58b8fc4e-e484-4a2f-98b5-204834e376b1,Dog,German Shepherd,11.1,14.2,Female,Low,Obesity,15.3,522.3,35.8,17.3,46.9,149.2,2,74.6,0.85
+31a9ab45-7688-4c9b-b1f9-cde7618dbd08,Dog,Ragdoll,14.9,41.9,Male,High,None,44.3,1844.5,37.6,11.1,51.3,527.0,4,131.8,0.79
+d842e2dc-9a5b-4406-92f5-17930a32d2c2,Dog,Golden Retriever,11.6,33.8,Female,Low,Obesity,33.8,1000.9,26.0,12.3,61.7,286.0,2,143.0,0.43
+a89d38b7-6a43-4636-8e5d-03bd0454f0e0,Dog,Maine Coon,5.9,25.8,Female,High,Allergies,26.2,1282.1,25.2,18.0,56.8,366.3,4,91.6,0.55
+a1149364-cad2-4d9d-b050-cfffb9f76ac9,Dog,Golden Retriever,8.2,16.4,Female,High,Diabetes,17.2,821.5,25.3,22.2,52.5,234.7,4,58.7,0.7
+b3ea6bfa-b873-446b-84fd-867b59a1cd01,Dog,German Shepherd,2.1,14.6,Male,High,Obesity,14.0,711.1,28.6,19.3,52.1,203.2,4,50.8,0.45
+599cab5b-3fc5-4b80-acbf-dd41b4078200,Cat,Persian Cat,4.4,4.6,Female,Low,Diabetes,4.5,237.5,39.4,16.9,43.7,67.9,2,34.0,0.45
+8e5bfa59-72f5-40d8-919b-6979607ee6bd,Dog,Poodle,4.8,34.3,Male,High,None,33.3,1587.4,26.4,15.7,57.9,453.5,4,113.4,0.63
+6c81b07e-c7be-4910-84b3-9528aa58a23d,Dog,Golden Retriever,9.7,44.1,Male,Low,Allergies,48.4,1437.5,37.7,19.7,42.6,410.7,2,205.3,0.5
+8b82bde5-7ccb-4225-bb38-2f5429bc6a09,Dog,Bulldog,13.5,11.0,Male,Low,Obesity,10.1,431.3,38.5,20.4,41.1,123.2,2,61.6,0.64
+0f83867d-bc40-40f0-8e5f-b8197eea6e86,Dog,Beagle,1.2,30.6,Male,High,Diabetes,28.5,1311.4,38.5,18.5,43.0,374.7,4,93.7,0.32
+f4d8dd97-da15-420a-92c9-ee9b6c891f10,Cat,Persian Cat,0.7,3.7,Male,High,Obesity,3.5,254.0,36.3,20.7,43.0,72.6,4,18.1,0.54
+c7fa0e57-88b0-47d9-9339-3804df46e46d,Dog,Bulldog,4.8,20.1,Male,High,Allergies,19.2,1063.2,35.2,18.1,46.7,303.8,4,76.0,0.53
+a3a84598-fa22-4f54-9d85-bec54df872a8,Dog,German Shepherd,12.0,25.5,Male,High,Diabetes,25.0,1143.8,25.8,16.6,57.6,326.8,4,81.7,0.8
+837e6d95-e0a0-4dc4-8214-3ff103f8046f,Cat,Persian Cat,9.3,3.3,Female,Moderate,None,3.6,239.9,34.5,21.8,43.7,68.5,3,22.8,0.57
+48e3f1d2-d546-465d-958e-99ad290f38ae,Dog,Poodle,5.7,22.6,Female,Moderate,Obesity,24.7,863.4,35.2,19.9,44.9,246.7,3,82.2,0.35
+9efe5b1f-58a7-4de8-bbdf-684ee8229c7a,Dog,British Shorthair,4.8,15.9,Male,High,None,17.1,891.8,26.2,12.3,61.5,254.8,4,63.7,0.73
+518f04e0-1d19-44e3-b68b-07d0a58e78dd,Dog,German Shepherd,11.2,19.2,Female,Moderate,None,17.9,898.9,26.4,24.1,49.5,256.8,3,85.6,0.57
+444df609-7841-4c89-807f-851261293001,Dog,Beagle,2.0,32.6,Male,Low,Allergies,33.7,1146.0,31.7,18.3,50.0,327.4,2,163.7,0.54
+4450b2b0-446e-4fb9-aaa6-c4f7455976a6,Dog,Golden Retriever,1.8,26.0,Male,High,Joint Issues,26.4,1289.6,36.8,23.0,40.2,368.5,4,92.1,0.31
+7276b905-4c5b-4b87-bcf2-dd68e059c881,Cat,Siamese Cat,6.1,6.5,Male,High,Joint Issues,6.2,455.9,38.6,24.7,36.7,130.3,4,32.6,0.64
+6b93cbe6-11e6-44e8-8a58-6d79e2cd307a,Dog,German Shepherd,10.4,18.4,Male,Low,Diabetes,17.8,671.6,29.5,17.4,53.1,191.9,2,96.0,0.34
+477e4d69-e3eb-4fd4-bb4b-10870228f3c6,Cat,Siamese Cat,4.5,6.1,Female,Moderate,None,6.0,380.4,30.4,24.2,45.4,108.7,3,36.2,0.73
+6a2ad5e3-de22-4b40-bf90-211b39cce462,Dog,Maine Coon,9.1,8.7,Male,Moderate,None,8.0,496.4,27.0,10.1,62.9,141.8,3,47.3,0.54
+b3402262-469d-46dd-bc79-65040df9e95b,Dog,British Shorthair,6.0,25.5,Female,Moderate,Diabetes,26.1,1000.9,31.5,22.4,46.1,286.0,3,95.3,0.69
+f46ef894-b1ce-408b-957b-2c5e3f10aa81,Dog,British Shorthair,2.5,31.4,Female,High,Obesity,29.2,1262.8,32.2,12.7,55.1,360.8,4,90.2,0.54
+3ac5691f-96b7-496f-a957-4450572f4a66,Cat,Persian Cat,4.7,1.7,Female,High,Obesity,1.7,141.7,29.9,14.2,55.9,40.5,4,10.1,0.77
+8d280b26-8a6f-4546-8f78-762270ede66c,Cat,Persian Cat,2.2,3.7,Male,High,Joint Issues,3.6,298.8,27.7,21.5,50.8,85.4,4,21.4,0.32
+33c35ae7-2a3d-4884-9e7b-78992b16aaaf,Dog,Maine Coon,14.2,25.5,Male,Moderate,Diabetes,23.6,1000.9,37.5,11.0,51.5,286.0,3,95.3,0.81
+453ac04a-0e10-4ee7-b86d-0a9cbacb0566,Cat,Siamese Cat,10.3,7.0,Male,High,Diabetes,6.7,433.8,28.6,19.9,51.5,123.9,4,31.0,0.73
+58f0fe5d-01fe-43d2-94bd-7a051a4ecbf9,Cat,Siamese Cat,1.6,3.8,Female,High,Allergies,3.9,304.8,33.0,23.9,43.1,87.1,4,21.8,0.82
+887e5c14-ca09-4534-9244-721b3df8be25,Cat,Siamese Cat,8.4,6.1,Female,High,Joint Issues,6.1,434.7,33.9,23.7,42.4,124.2,4,31.1,0.37
+3c06791b-59d1-4ff1-a096-573a1654dc49,Dog,Poodle,10.0,39.4,Female,Low,Joint Issues,38.7,1321.0,25.7,24.8,49.5,377.4,2,188.7,0.71
+a065afc6-1640-4409-bdb1-b38bfa9c0a8a,Cat,Siamese Cat,14.5,6.2,Female,Moderate,None,6.6,385.1,25.2,13.9,60.9,110.0,3,36.7,0.61
+11e86862-7783-45a8-aee6-6a01922f03fe,Dog,Ragdoll,8.6,23.0,Male,Moderate,Diabetes,25.1,926.3,30.9,21.6,47.5,264.7,3,88.2,0.65
+1b50c294-4b76-4985-986d-dbc2d9c03a78,Dog,Ragdoll,2.7,28.7,Male,Moderate,None,31.2,1215.2,29.4,23.8,46.8,347.2,3,115.7,0.35
+2e8d6728-5a93-423e-a36a-cf753f8aa75c,Dog,German Shepherd,5.6,19.0,Female,Moderate,Obesity,17.8,758.1,32.8,15.2,52.0,216.6,3,72.2,0.36
+f923c8da-c556-4ce1-8db4-6327187262ef,Dog,Maine Coon,5.1,25.9,Female,Low,None,26.3,964.4,25.3,15.1,59.6,275.5,2,137.8,0.37
+03c5ae9d-9f69-4963-928c-49cc22a09083,Dog,German Shepherd,14.0,23.4,Male,High,Obesity,25.0,1012.9,33.3,15.0,51.7,289.4,4,72.3,0.56
+5fd72587-7c92-4ad3-bf1e-7202b78b5326,Dog,Maine Coon,3.9,28.4,Female,High,Obesity,26.7,1171.2,27.8,19.9,52.3,334.6,4,83.7,0.54
+dd38878a-a7c1-4ca0-be77-667b1ac778f4,Dog,British Shorthair,13.3,20.9,Female,High,Allergies,19.5,1094.8,30.8,20.6,48.6,312.8,4,78.2,0.42
+199b2159-542a-4a5c-be54-1040bb507e50,Dog,Bulldog,8.9,28.9,Male,Moderate,Diabetes,29.9,1099.4,28.0,11.7,60.3,314.1,3,104.7,0.7
+89e02be9-9db7-4acf-be81-666429053f67,Dog,Maine Coon,8.2,20.8,Female,High,Allergies,20.9,1090.9,34.2,18.8,47.0,311.7,4,77.9,0.51
+9e880be1-37db-45c4-a16d-dc6d9757bd3a,Dog,Maine Coon,9.5,33.7,Female,High,Joint Issues,33.0,1566.5,26.3,12.0,61.7,447.6,4,111.9,0.37
+ab975497-3082-4936-b039-4bdc02561054,Dog,Beagle,2.2,21.7,Female,High,Obesity,23.1,957.2,32.7,16.3,51.0,273.5,4,68.4,0.38
+5a8f29ec-ff62-44f5-a35a-974c6ee9f92c,Cat,Siamese Cat,6.6,1.0,Female,High,Joint Issues,1.0,112.0,35.4,19.7,44.9,32.0,4,8.0,0.9
+016f3962-9b58-4359-b498-37b66a921b57,Dog,Ragdoll,2.9,14.9,Female,Low,Obesity,14.3,541.5,29.7,16.8,53.5,154.7,2,77.3,0.33
+ac960e71-7a14-4fdc-9731-ce1f81109da2,Cat,Persian Cat,14.3,5.0,Female,Low,Obesity,4.7,238.7,37.2,24.5,38.3,68.2,2,34.1,0.6
+db341c57-526a-48cf-89e4-e4bc3f0cb772,Dog,Maine Coon,6.4,41.8,Female,Moderate,Allergies,45.1,1611.0,32.3,11.2,56.5,460.3,3,153.4,0.32
+7630f42f-8f64-48db-8549-4da334df8586,Dog,Poodle,4.7,33.3,Female,Low,Joint Issues,36.0,1164.4,29.3,21.7,49.0,332.7,2,166.3,0.64
+338db8f9-522b-4cf5-b324-b86665c9abed,Dog,Maine Coon,8.5,2.9,Male,High,None,3.0,248.9,29.0,18.1,52.9,71.1,4,17.8,0.89
+d17c544a-678a-488e-856e-3b9b7dc96ee6,Dog,Ragdoll,12.4,10.2,Male,High,Allergies,9.5,639.2,33.2,24.8,42.0,182.6,4,45.6,0.36
+709a71ff-d8db-4aa5-aeb9-aa5a751ebb9f,Dog,Poodle,4.8,36.4,Male,Moderate,Diabetes,38.5,1307.1,30.2,22.3,47.5,373.5,3,124.5,0.56
+1116a0e2-6f72-458f-aa2a-414b7609dccd,Dog,Bulldog,11.7,31.3,Male,Low,Joint Issues,33.8,1111.6,35.3,22.9,41.8,317.6,2,158.8,0.67
+3eff2b38-5633-4464-a0ab-56d2fd7a2bd1,Cat,Siamese Cat,2.9,9.5,Male,Low,Obesity,10.0,386.4,37.1,18.6,44.3,110.4,2,55.2,0.62
+73656ef5-1201-4828-aaba-f0b9d26e94bb,Dog,British Shorthair,8.3,20.4,Female,High,Diabetes,19.4,967.6,29.3,14.0,56.7,276.5,4,69.1,0.81
+348789ab-3c7d-43c0-8a6a-04e8b1adfff1,Dog,Bulldog,2.5,16.5,Female,Low,Diabetes,17.3,618.9,38.0,11.9,50.1,176.8,2,88.4,0.82
+0ff50559-48c9-4a87-9b81-fe12310faebe,Dog,Poodle,2.6,25.7,Female,Low,Allergies,27.0,958.8,32.3,18.7,49.0,273.9,2,136.9,0.46
+714e44a5-2c20-4135-93be-d2d409dde328,Cat,Siamese Cat,5.9,4.0,Male,High,None,4.3,316.8,31.0,21.2,47.8,90.5,4,22.6,0.72
+53115c6b-b084-4a57-9dfc-3fbd1b318074,Cat,Persian Cat,7.1,7.1,Female,Moderate,Joint Issues,6.5,426.3,25.0,21.6,53.4,121.8,3,40.6,0.74
+33dbd29d-8fbb-4b81-81f4-7c5fbe275c78,Dog,Maine Coon,9.7,19.9,Female,Low,Joint Issues,21.3,791.4,31.0,24.5,44.5,226.1,2,113.0,0.79
+7a09aa99-40ee-492b-b8ed-3957e82e1ea4,Dog,Maine Coon,4.4,22.3,Female,Moderate,Joint Issues,23.6,1005.7,33.7,18.5,47.8,287.3,3,95.8,0.59
+94772086-f7eb-4d15-a04e-d1ff1da0044e,Cat,Persian Cat,13.5,3.0,Male,Low,None,2.8,191.5,34.4,22.6,43.0,54.7,2,27.4,0.31
+e758764d-ad07-45cf-8b18-5e38a871ab3d,Dog,German Shepherd,6.9,32.6,Male,Moderate,Obesity,34.0,1136.5,39.9,23.6,36.5,324.7,3,108.2,0.83
+7287d640-e43c-47cb-81a3-32b5ade9173a,Dog,Beagle,2.8,15.8,Female,Low,Diabetes,16.2,599.1,28.8,15.6,55.6,171.2,2,85.6,0.84
+6aa8db1b-c507-466a-a0ae-3649ddc96719,Dog,German Shepherd,1.3,29.1,Female,High,Obesity,27.7,1192.8,31.4,11.4,57.2,340.8,4,85.2,0.36
+432787a8-561e-4f35-b030-8b2dbc98b9e9,Dog,Poodle,7.4,43.8,Male,High,Obesity,42.4,1620.8,32.8,16.7,50.5,463.1,4,115.8,0.3
+14e1aa61-c386-41f8-85f0-b1a317d4a9c6,Cat,Persian Cat,12.3,1.4,Female,High,Obesity,1.4,122.5,32.2,13.4,54.4,35.0,4,8.8,0.35
+48082f4d-ce99-4760-8c07-b3fa441b00d5,Dog,Bulldog,2.0,40.0,Female,Moderate,Obesity,43.6,1324.9,30.7,22.2,47.1,378.5,3,126.2,0.82
+9c8d70d5-306d-4110-9132-cc65e230e8a7,Dog,German Shepherd,1.5,27.8,Male,High,Obesity,27.8,1152.6,31.6,20.8,47.6,329.3,4,82.3,0.68
+ee3ec6d3-9695-4207-b245-2f351f3ac44a,Dog,German Shepherd,13.8,13.7,Female,Low,None,14.0,598.2,38.4,12.1,49.5,170.9,2,85.5,0.37
+a8b841d8-c210-4d83-a65e-908ede26d01c,Cat,Siamese Cat,5.6,5.2,Female,Moderate,Obesity,5.4,286.8,28.7,19.7,51.6,81.9,3,27.3,0.45
+357b9667-2286-4643-b408-2ae7dfb962da,Dog,British Shorthair,9.2,32.3,Female,High,None,35.0,1517.5,37.7,19.9,42.4,433.6,4,108.4,0.48
+50ef3b92-f64a-4f4b-9c9d-22c5b8b43b5a,Dog,Ragdoll,9.3,17.1,Male,High,Allergies,17.4,941.8,29.4,10.8,59.8,269.1,4,67.3,0.84
+f5cba9f4-b727-4f37-9aa4-2383b8575be3,Dog,Poodle,7.7,29.7,Male,Low,Allergies,30.3,1068.7,34.6,11.1,54.3,305.3,2,152.7,0.83
+3c505439-c68b-48fe-96a5-4361aca43c9c,Dog,Golden Retriever,14.8,40.9,Female,Low,Allergies,44.5,1358.5,37.9,18.5,43.6,388.1,2,194.1,0.52
+834369e7-32e4-40e7-a405-4a4a4060d8aa,Dog,German Shepherd,11.6,19.9,Male,Low,Joint Issues,21.6,791.4,26.0,13.9,60.1,226.1,2,113.0,0.32
+e454408c-e36d-4ca8-945c-d1e43a1ea6d0,Dog,Golden Retriever,14.3,15.1,Female,High,Diabetes,16.6,772.1,34.4,17.5,48.1,220.6,4,55.1,0.55
+00322942-5d18-4f9b-beff-5eb7fb95805c,Cat,Siamese Cat,1.7,4.7,Male,Moderate,None,5.0,312.8,29.6,17.7,52.7,89.4,3,29.8,0.42
+5a734f5b-8820-43af-805b-60619e6b46c8,Dog,German Shepherd,8.3,25.6,Female,High,None,26.1,1274.7,29.7,16.6,53.7,364.2,4,91.0,0.87
+2040645b-470d-4f37-9486-e78d2b79005f,Dog,Poodle,1.3,35.9,Male,Moderate,None,35.2,1437.3,31.8,19.1,49.1,410.7,3,136.9,0.49
+510e15a6-7962-41fa-84bb-473fe2d680db,Dog,German Shepherd,2.2,23.4,Male,High,None,24.8,1191.6,27.5,24.3,48.2,340.5,4,85.1,0.61
+cbdfb048-92f4-4f7d-bc85-2afef128a7f8,Dog,Beagle,2.9,20.7,Male,High,Diabetes,18.6,978.2,36.0,11.8,52.2,279.5,4,69.9,0.84
+d185c069-332d-4244-bee9-aefc41fc6492,Cat,Persian Cat,12.2,3.0,Female,High,None,3.0,255.3,28.9,24.6,46.5,72.9,4,18.2,0.68
+1fa09279-bd1c-44b4-8881-780c50fb84fd,Dog,Maine Coon,7.1,8.5,Female,Low,Allergies,9.2,418.2,37.9,12.5,49.6,119.5,2,59.8,0.39
+18a9a900-fbc3-4321-8390-c93747d7b2ee,Dog,Bulldog,13.5,12.1,Male,Low,Joint Issues,12.7,545.0,25.0,22.9,52.1,155.7,2,77.8,0.31
+4890ae38-6e19-4e6f-9894-7a6224a592bf,Dog,Golden Retriever,7.3,12.0,Female,Low,Obesity,11.9,460.3,39.0,22.9,38.1,131.5,2,65.8,0.63
+ab16b961-e4e8-49b4-9018-76bd7fd97a1e,Cat,Siamese Cat,3.8,4.5,Male,Moderate,Diabetes,4.2,272.5,29.1,11.2,59.7,77.9,3,26.0,0.52
+b7d84dcc-b64b-4276-8f7f-1974101725b8,Dog,Ragdoll,10.3,10.0,Male,Low,Obesity,9.4,401.5,37.1,24.7,38.2,114.7,2,57.4,0.87
+4ecdd07c-1272-4d1c-bd80-150d2d4f8f52,Dog,Bulldog,13.2,2.0,Female,Moderate,Diabetes,2.2,148.3,26.3,16.9,56.8,42.4,3,14.1,0.52
+e340a386-3efa-4d05-9c15-8a2a5b9cd660,Dog,Beagle,8.7,24.5,Female,High,Joint Issues,23.8,1233.4,28.6,15.5,55.9,352.4,4,88.1,0.88
+d4f37c11-1912-4e80-a3f6-da9394b9ab2a,Dog,Poodle,11.1,43.5,Male,Low,None,39.3,1422.8,39.0,10.4,50.6,406.5,2,203.2,0.62
+4a870cef-4540-4b7e-8f4b-f7fb91f2f87e,Dog,Golden Retriever,14.3,36.3,Male,High,Allergies,37.5,1656.3,37.7,20.9,41.4,473.2,4,118.3,0.36
+c6ad1c6e-8bc4-4518-9083-37fc4e269f30,Dog,Ragdoll,14.8,22.3,Female,Moderate,None,20.5,1005.7,39.6,12.1,48.3,287.3,3,95.8,0.47
+ee5e2679-2c3b-4d0f-8746-ee899ef9e53d,Dog,Golden Retriever,13.9,13.9,Female,High,Diabetes,15.3,725.6,31.9,21.2,46.9,207.3,4,51.8,0.65
+e17e6b08-0351-4e54-8230-6fd8f72755d6,Dog,Ragdoll,2.4,50.7,Female,Low,Joint Issues,46.3,1596.0,33.5,16.5,50.0,456.0,2,228.0,0.88
+ed53b407-11bf-4458-aae9-08fab1f2c732,Dog,Poodle,4.7,25.6,Female,Moderate,Diabetes,26.9,1003.8,29.8,14.1,56.1,286.8,3,95.6,0.34
+7a5bcea0-26f1-4173-a786-2c6b46cf0d76,Dog,Poodle,2.5,27.0,Male,Low,None,25.4,995.0,27.5,17.0,55.5,284.3,2,142.2,0.54
+9a99feea-11cf-4836-92db-350157eb8f1f,Dog,Ragdoll,5.7,23.6,Male,Moderate,Diabetes,22.1,944.4,32.0,22.8,45.2,269.8,3,89.9,0.35
+5b0217c9-9751-416f-bfd8-55624e23e3f1,Dog,Beagle,12.5,24.7,Male,Low,Diabetes,25.0,837.6,27.2,20.7,52.1,239.3,2,119.7,0.88
+87786e84-107c-41be-9e27-f46be7fd4b91,Cat,Siamese Cat,7.9,3.9,Female,Moderate,Obesity,3.6,231.2,25.5,16.1,58.4,66.1,3,22.0,0.57
+760b312d-85ba-4a04-9fff-581272cc2129,Dog,Ragdoll,4.1,22.5,Female,Low,Obesity,22.6,737.6,26.8,10.9,62.3,210.7,2,105.3,0.77
+ce3aab6b-208b-4476-b008-ec9c1054e5d7,Dog,Poodle,2.4,40.0,Female,Moderate,None,39.5,1558.7,33.7,13.9,52.4,445.3,3,148.4,0.79
+ae4617d3-79bc-4b3c-9cbf-9f292e08e44b,Dog,Golden Retriever,15.0,37.5,Male,High,Allergies,34.9,1697.2,37.1,11.4,51.5,484.9,4,121.2,0.81
+e3592c08-7759-43c1-a2fe-f501edfd9914,Cat,Persian Cat,2.3,1.0,Female,Low,Obesity,0.9,71.4,38.9,16.5,44.6,20.4,2,10.2,0.73
+9b007f05-6816-4c30-9a7e-d7599f2675c3,Dog,Maine Coon,0.9,10.9,Female,Low,Diabetes,11.2,453.5,28.2,12.8,59.0,129.6,2,64.8,0.47
+375784f1-f0b9-4bce-97ce-4d71254199fc,Dog,German Shepherd,1.0,17.2,Male,High,Diabetes,16.9,851.3,32.5,23.2,44.3,243.2,4,60.8,0.59
+1d3c4cd1-09c9-474f-b14f-771c5ffdca98,Dog,Bulldog,4.6,34.4,Male,Moderate,Obesity,31.1,1183.2,34.6,22.0,43.4,338.1,3,112.7,0.45
+12056f68-d97d-400d-a675-5947c54f2ac5,Dog,Ragdoll,12.0,37.7,Female,High,Diabetes,35.6,1533.6,32.2,21.7,46.1,438.2,4,109.5,0.51
+810cce4c-d319-4fdb-a613-20df46abca48,Dog,British Shorthair,7.8,32.2,Female,Moderate,Obesity,29.1,1126.0,25.4,19.0,55.6,321.7,3,107.2,0.32
+9863229f-4c74-42cf-97bd-f4da1df9dc92,Dog,Beagle,1.3,13.7,Female,High,Diabetes,12.6,717.8,36.5,25.0,38.5,205.1,4,51.3,0.88
+9714ccfb-0b91-4934-bfec-3031b1a4dd6a,Dog,Bulldog,4.1,19.8,Male,Moderate,Joint Issues,20.4,919.9,37.2,23.8,39.0,262.8,3,87.6,0.33
+f432267e-2136-40f5-b47c-982db26bbdf5,Dog,Poodle,8.8,29.9,Female,Moderate,Obesity,28.3,1065.1,27.6,18.9,53.5,304.3,3,101.4,0.78
+44cc39c2-974d-4ee3-a890-fb98e2fa2133,Cat,Persian Cat,13.8,4.5,Male,High,Diabetes,4.7,311.4,39.2,18.5,42.3,89.0,4,22.2,0.64
+bc7801fb-588e-48aa-8940-36df7d588fd2,Dog,Poodle,12.6,21.3,Female,High,Diabetes,22.8,999.4,27.6,10.6,61.8,285.5,4,71.4,0.33
+9aae5c8b-4ea8-40dc-83c8-2f3f920ec539,Dog,British Shorthair,3.7,21.4,Female,Low,Diabetes,22.1,752.2,38.8,13.0,48.2,214.9,2,107.5,0.38
+fe0f797e-51f5-44f3-af88-8012e014675c,Dog,German Shepherd,13.8,36.6,Female,Low,None,34.4,1249.9,27.2,20.6,52.2,357.1,2,178.6,0.38
+cca3afb8-d792-4efe-99da-482d57134820,Dog,Bulldog,12.8,30.9,Female,Low,Diabetes,27.9,990.8,35.6,19.9,44.5,283.1,2,141.6,0.65
+d9cb6ccf-b14c-4a1d-9056-d93a7dc152b3,Cat,Persian Cat,4.9,4.4,Male,Low,Allergies,4.0,255.2,36.9,24.4,38.7,72.9,2,36.5,0.69
+f5bb87c1-3cbf-4968-ba0f-d25f4b863958,Dog,German Shepherd,10.8,28.3,Female,Low,Joint Issues,27.9,1030.7,37.2,15.7,47.1,294.5,2,147.2,0.74
+85a1f67f-14aa-4e66-9b8a-a9c290e584cc,Dog,Beagle,2.3,12.5,Male,High,Joint Issues,13.5,744.6,30.9,24.9,44.2,212.7,4,53.2,0.88
+f34caa81-636f-4987-a9b9-c34f7b06611c,Dog,Golden Retriever,3.1,19.8,Female,High,Obesity,18.8,893.6,34.6,11.6,53.8,255.3,4,63.8,0.6
+4791addc-fdfa-4130-a832-b63e01ebc137,Cat,Persian Cat,11.3,7.1,Male,Moderate,Diabetes,6.9,383.6,27.5,23.3,49.2,109.6,3,36.5,0.35
+55dae9f8-b0c9-4085-b98d-d0d84994fbd9,Cat,Persian Cat,7.0,1.9,Female,Low,Obesity,1.9,115.5,35.4,15.3,49.3,33.0,2,16.5,0.77
+d73c342a-a9ee-4a4d-8687-9e69b76eb787,Dog,Golden Retriever,1.2,31.1,Female,High,Allergies,30.5,1475.0,39.5,23.3,37.2,421.4,4,105.3,0.6
+7b22e722-75f4-4008-95ad-ac6352274629,Cat,Siamese Cat,5.6,1.0,Female,Low,Allergies,1.0,84.0,36.8,18.7,44.5,24.0,2,12.0,0.75
+9275be1e-3061-4349-af12-fce92fe208db,Dog,Poodle,2.9,42.0,Male,Low,Diabetes,45.8,1247.3,25.3,13.9,60.8,356.4,2,178.2,0.36
+cfea8aef-be80-4b4c-83f8-f4536186e0a6,Cat,Persian Cat,3.0,3.9,Female,Low,None,4.2,233.1,33.2,23.5,43.3,66.6,2,33.3,0.36
+cdf17a28-45e9-4ab1-b001-c9f607619651,Dog,British Shorthair,14.8,29.0,Female,High,None,28.9,1399.6,31.5,19.8,48.7,399.9,4,100.0,0.66
+65075353-2667-4fed-980b-31730227c3b6,Cat,Siamese Cat,2.8,5.2,Male,Moderate,Obesity,5.1,286.8,39.6,16.1,44.3,81.9,3,27.3,0.63
+135994b0-4954-4974-82ce-180443cdf963,Dog,Ragdoll,4.3,26.5,Female,Moderate,Obesity,24.0,972.9,26.4,15.9,57.7,278.0,3,92.7,0.63
+26fbe1c1-6995-449e-83c7-c4dc4e1ebad3,Dog,Maine Coon,2.7,28.1,Female,Low,Allergies,28.9,1025.2,26.3,22.4,51.3,292.9,2,146.4,0.68
+57c7c8fb-9ac7-4166-a156-ce0ae4976499,Dog,Maine Coon,3.4,7.9,Male,Low,Obesity,7.5,336.4,34.6,24.7,40.7,96.1,2,48.0,0.58
+3d53e3ed-2649-49de-975c-7646f2e48670,Dog,Bulldog,5.0,26.7,Female,Moderate,Allergies,29.3,1151.1,38.4,14.0,47.6,328.9,3,109.6,0.69
+6523f718-6e43-4cfd-862c-8f3b1211d31d,Cat,Siamese Cat,3.2,4.6,Female,Moderate,Obesity,4.6,261.6,31.7,13.9,54.4,74.7,3,24.9,0.58
+6fefbb12-cfef-41a7-bdc7-07927d418d06,Dog,Poodle,12.6,19.6,Male,Low,None,17.7,782.5,26.3,15.2,58.5,223.6,2,111.8,0.62
+b1eba270-b44f-4ee5-8b49-253317b6f734,Dog,British Shorthair,3.8,17.2,Male,Moderate,Joint Issues,18.6,827.7,31.3,18.0,50.7,236.5,3,78.8,0.82
+f68bdf83-f303-4594-b4ba-f2fdbec8aeb2,Dog,Maine Coon,8.8,27.0,Male,Moderate,Diabetes,25.8,1044.7,26.2,23.5,50.3,298.5,3,99.5,0.73
+0ead0548-b506-47d5-ba05-f6fe147ff362,Dog,Ragdoll,8.8,15.2,Male,Low,Allergies,15.4,646.6,27.6,24.8,47.6,184.7,2,92.3,0.88
+0f244442-3366-4ab8-8bd6-c87322591a1c,Dog,Poodle,2.3,35.3,Female,Low,Allergies,33.2,1216.5,28.0,22.3,49.7,347.6,2,173.8,0.39
+c4df35ae-e56d-48dc-a8d1-83817c3e2c62,Dog,British Shorthair,4.2,29.7,Male,Low,Allergies,26.8,1068.7,33.3,18.3,48.4,305.3,2,152.7,0.81
+7026b693-c50c-4545-8858-294ea5c892ab,Dog,Ragdoll,7.1,27.6,Male,High,Joint Issues,28.2,1348.7,33.8,21.7,44.5,385.3,4,96.3,0.37
+2a78d2cf-2183-48a0-93a7-b1fbe7479dff,Dog,German Shepherd,2.6,34.8,Male,Low,Joint Issues,35.9,1203.5,36.7,21.8,41.5,343.9,2,171.9,0.82
+3e6151d9-83ab-46b3-a74e-d48496817f12,Cat,Persian Cat,13.2,1.3,Female,Moderate,Allergies,1.3,119.3,33.6,17.1,49.3,34.1,3,11.4,0.4
+9130dbe6-0c12-4180-ae15-a0a76618fb5d,Cat,Siamese Cat,2.6,2.4,Female,Low,Allergies,2.2,162.0,38.3,15.0,46.7,46.3,2,23.1,0.44
+e1ffa091-177c-4d7c-8c11-1db06f6bfeab,Dog,Maine Coon,13.9,30.2,Female,Low,Diabetes,27.7,973.9,37.3,14.5,48.2,278.3,2,139.2,0.47
+e1575bd2-0cf8-4861-a753-0b56bbc71b7d,Dog,Maine Coon,12.9,17.7,Male,Low,Obesity,18.1,616.1,29.5,21.2,49.3,176.0,2,88.0,0.76
+17305359-17ff-42eb-97df-e15c5c0819f8,Cat,Persian Cat,4.4,3.8,Female,High,None,3.6,304.8,27.8,13.2,59.0,87.1,4,21.8,0.79
+7741b20c-fe0a-49a9-9228-871ee27e7944,Dog,Maine Coon,11.5,10.9,Female,Low,Joint Issues,10.6,503.9,36.9,11.0,52.1,144.0,2,72.0,0.73
+b1db17d4-2258-482d-94b0-5539eae18d5a,Cat,Siamese Cat,2.5,3.0,Male,Low,Obesity,3.0,162.8,38.1,13.0,48.9,46.5,2,23.2,0.33
+3b876451-90b7-4486-afcf-cae36fa968b9,Dog,Golden Retriever,7.1,35.5,Female,High,Obesity,35.3,1384.5,29.1,22.4,48.5,395.6,4,98.9,0.6
+68ac3f4f-1643-4b6e-89fe-6f46f8a79825,Dog,Bulldog,10.4,29.9,Male,Moderate,Allergies,31.3,1253.1,33.9,12.7,53.4,358.0,3,119.3,0.82
+e600c2f8-f0c6-49be-bb4a-b2eaa07f1149,Dog,British Shorthair,8.5,26.8,Female,Low,Diabetes,25.3,890.5,36.2,20.3,43.5,254.4,2,127.2,0.47
+b4e8b1e4-45ee-4cdf-a857-b559d762f574,Cat,Siamese Cat,1.2,3.8,Male,Low,Obesity,3.8,194.3,35.2,14.0,50.8,55.5,2,27.8,0.55
+55ff0885-ea3c-47a9-8f5d-46188db931f7,Dog,Golden Retriever,13.0,26.2,Male,Moderate,Obesity,26.7,964.7,34.7,19.0,46.3,275.6,3,91.9,0.31
+eee83647-9249-466d-b81d-e8d98e414c20,Dog,Beagle,9.3,36.5,Female,High,Diabetes,33.6,1496.9,31.4,15.6,53.0,427.7,4,106.9,0.51
+89dc2f25-dcf3-4e4c-9f4a-8b6ea80c17ac,Dog,Beagle,3.7,18.0,Female,High,Joint Issues,16.5,978.8,37.4,16.0,46.6,279.7,4,69.9,0.36
+ec247f34-0c42-4354-bc9b-1b126758b3f1,Dog,Ragdoll,15.0,24.7,Female,High,Joint Issues,25.6,1240.9,34.1,14.5,51.4,354.5,4,88.6,0.36
+1bf417cc-c5a3-46a1-8603-c7a2985b6ca5,Dog,Bulldog,5.4,42.7,Female,High,Diabetes,42.1,1683.8,37.9,13.9,48.2,481.1,4,120.3,0.73
+a7564946-37d7-4d11-b4d6-4bfbddf1aa3e,Dog,Beagle,3.2,32.1,Male,Low,Joint Issues,34.0,1132.8,31.1,14.8,54.1,323.7,2,161.8,0.38
+fd0f08dc-d2f6-4d2f-9cf8-98f0c550552e,Dog,Golden Retriever,10.0,19.4,Female,Moderate,Allergies,20.2,905.9,31.1,21.1,47.8,258.8,3,86.3,0.65
+ed9fdead-e2a3-4abf-9c18-e4a34b369098,Dog,British Shorthair,12.3,31.2,Female,High,Obesity,30.3,1256.8,35.3,19.6,45.1,359.1,4,89.8,0.59
+f5232f7c-6476-460f-a0e8-b877f0d01745,Cat,Persian Cat,7.9,1.9,Male,High,Joint Issues,1.7,181.3,27.7,11.5,60.8,51.8,4,12.9,0.38
+ca9ba354-c8a9-4629-b957-838e45cca2be,Dog,Beagle,11.0,24.3,Male,High,Diabetes,22.8,1103.2,34.8,13.3,51.9,315.2,4,78.8,0.43
+00c03215-338c-421b-8b66-2b121fb78fa0,Dog,Beagle,6.6,31.2,Female,Moderate,Diabetes,31.5,1164.4,33.8,17.0,49.2,332.7,3,110.9,0.37
+6edc6082-7477-4836-b468-3d4a160afc5c,Dog,Golden Retriever,13.1,28.8,Male,Moderate,Obesity,30.6,1035.6,32.5,23.0,44.5,295.9,3,98.6,0.53
+e9f16f09-f548-44d3-90bc-458bfa705ec9,Dog,Beagle,6.5,31.1,Male,Low,Obesity,32.1,940.3,30.1,24.8,45.1,268.7,2,134.3,0.84
+6882effd-0080-49fe-a10f-3a16466cf0b3,Dog,Maine Coon,2.6,33.3,Male,Low,Allergies,31.6,1164.4,30.0,24.8,45.2,332.7,2,166.3,0.49
+24fadd3a-1a43-483a-bfcc-1b99ae028aaf,Dog,Golden Retriever,0.6,29.6,Female,Low,Obesity,29.5,906.1,33.6,12.4,54.0,258.9,2,129.4,0.77
+19bdcca3-6827-4e0b-8b35-52d2e0ad10cb,Dog,Bulldog,2.4,29.3,Female,High,Allergies,27.4,1410.5,31.1,24.5,44.4,403.0,4,100.8,0.53
+7f760f6f-eaa9-447e-ac93-36abf50a6b0d,Dog,Golden Retriever,8.2,27.1,Female,Low,Diabetes,27.5,897.9,36.4,18.0,45.6,256.5,2,128.2,0.31
+e2f396bf-2fc1-4c60-b03b-b748b4546e7d,Dog,Golden Retriever,9.6,14.2,Male,Low,Diabetes,15.4,553.0,29.7,11.5,58.8,158.0,2,79.0,0.6
+28a1c567-b1e4-4540-b2d6-572a98045b99,Dog,Beagle,2.9,35.5,Male,Moderate,Diabetes,38.8,1282.7,31.8,17.8,50.4,366.5,3,122.2,0.61
+61d5e174-0320-4eb4-bb48-06ce0d94f465,Cat,Siamese Cat,13.4,4.9,Male,Moderate,Allergies,5.3,322.8,30.4,12.8,56.8,92.2,3,30.7,0.87
+ad49a969-f86e-40cf-8239-4bd1af5cd64a,Cat,Siamese Cat,0.8,6.4,Male,High,Obesity,6.8,383.1,28.2,10.3,61.5,109.5,4,27.4,0.6
+5b6815a1-55fa-4711-b50e-c195606552d0,Dog,Bulldog,5.8,34.4,Male,Moderate,Diabetes,31.2,1252.8,36.6,19.3,44.1,357.9,3,119.3,0.66
+2ea93f7b-6214-44e6-9f1c-c188705451aa,Dog,Golden Retriever,10.1,19.8,Male,Low,None,20.2,788.5,31.3,15.7,53.0,225.3,2,112.7,0.63
+0f2354b3-c690-4eb2-af4a-b9dfa6ddf8a0,Dog,Maine Coon,10.7,20.7,Male,High,None,18.9,1086.9,29.5,19.9,50.6,310.5,4,77.6,0.7
+afbc6ea3-3e8b-4f62-91c4-fa73fb1490c7,Dog,Beagle,9.5,21.9,Male,Moderate,None,22.8,992.1,32.7,19.3,48.0,283.5,3,94.5,0.47
+7cd4ff92-ce26-4045-8a79-aab4370a6606,Dog,Bulldog,7.7,37.6,Male,Moderate,Joint Issues,34.3,1488.0,39.6,15.4,45.0,425.1,3,141.7,0.55
+b2404067-b393-4efa-a7db-327c8def744d,Dog,German Shepherd,1.1,16.1,Female,Low,Allergies,15.5,675.1,30.0,10.0,60.0,192.9,2,96.5,0.7
+a094495a-e14d-4ff8-9238-138df3b877a6,Dog,Bulldog,12.6,39.5,Female,Low,None,38.1,1323.5,36.7,11.1,52.2,378.1,2,189.1,0.73
+6b6c045a-d829-45b7-b66d-760f3f12e5c7,Dog,Beagle,9.8,27.0,Female,Moderate,Diabetes,27.7,1044.7,32.0,11.5,56.5,298.5,3,99.5,0.4
+36edbdc9-ae7d-4963-b354-c063b78b9531,Dog,Golden Retriever,12.9,27.7,Female,High,Diabetes,26.2,1217.1,31.4,11.7,56.9,347.7,4,86.9,0.81
+452cb361-92c6-436f-8b49-12b29799ca41,Dog,Golden Retriever,0.6,33.9,Male,High,Obesity,30.7,1337.5,29.9,23.4,46.7,382.1,4,95.5,0.87
+e2f2c5b6-dbd5-4623-bf83-425a37c9a6ce,Dog,Beagle,13.2,25.8,Male,Moderate,Diabetes,28.1,1009.7,27.7,16.0,56.3,288.5,3,96.2,0.88
+6a45df6c-b0c2-4f1b-acbe-7084f5900049,Dog,Beagle,12.6,35.7,Female,Moderate,Obesity,37.8,1216.6,26.7,20.4,52.9,347.6,3,115.9,0.34
+c2a4555a-e433-43e6-b0aa-ac19d1841713,Dog,German Shepherd,2.0,19.8,Female,High,Allergies,19.7,1051.3,27.7,15.7,56.6,300.4,4,75.1,0.52
+a95791f6-642c-4ef9-b64e-8eea004bb670,Dog,Golden Retriever,13.0,39.1,Male,Moderate,Allergies,40.1,1532.4,26.7,16.2,57.1,437.8,3,145.9,0.33
+66f198c6-d327-4aa5-966c-5b89dc5ae3b3,Dog,Beagle,10.0,20.5,Male,High,Joint Issues,20.2,1079.0,36.5,18.6,44.9,308.3,4,77.1,0.64
+eafbeb23-fdb9-41db-bfa5-4ec87083236d,Cat,Persian Cat,8.0,7.9,Male,Moderate,Obesity,8.3,392.5,32.2,20.0,47.8,112.1,3,37.4,0.68
+bc5bc49f-de2c-4eb2-b25e-9256d70409dd,Dog,German Shepherd,12.7,20.8,Male,Low,Obesity,20.2,695.4,32.6,17.0,50.4,198.7,2,99.3,0.6
+b1e42550-c94c-4176-9df5-6ea5013cdff2,Dog,German Shepherd,1.6,22.2,Female,Moderate,Obesity,21.3,851.9,30.0,14.2,55.8,243.4,3,81.1,0.6
+6fe2fe2d-3f29-4b40-84cc-dc5651cb0336,Dog,Ragdoll,9.8,15.0,Female,Low,None,13.6,640.2,31.9,22.0,46.1,182.9,2,91.5,0.57
+4e116b9b-2042-4407-a481-e368a6b78109,Dog,Maine Coon,7.0,17.3,Male,Moderate,None,15.6,831.3,26.5,16.2,57.3,237.5,3,79.2,0.63
+93266d68-881d-4414-af92-ee4bf3ae6e7f,Dog,Golden Retriever,12.5,24.7,Female,High,Joint Issues,24.1,1240.9,28.1,20.1,51.8,354.5,4,88.6,0.87
+33b736c2-0f36-486d-be2d-a20b3a99d41a,Cat,Persian Cat,12.5,5.5,Male,Moderate,Diabetes,5.7,316.8,33.4,19.3,47.3,90.5,3,30.2,0.58
+9c034fca-9958-49d9-8a38-9c6b35d4f66a,Cat,Persian Cat,10.9,7.0,Male,Low,Obesity,7.6,307.3,25.0,15.3,59.7,87.8,2,43.9,0.68
+252778d0-57f0-4fee-b125-361e3e3bf134,Dog,Beagle,8.4,22.9,Female,High,None,22.8,1172.5,25.7,12.5,61.8,335.0,4,83.8,0.38
+229d9f7c-6666-4729-a388-28bb74f3aafc,Cat,Siamese Cat,2.1,2.8,Male,Low,None,3.1,181.8,39.0,15.9,45.1,51.9,2,25.9,0.57
+49212458-07eb-494b-bb0f-57918fa9c49d,Dog,Poodle,10.9,28.8,Male,Moderate,None,27.3,1218.3,38.9,22.6,38.5,348.1,3,116.0,0.65
+62cea1fb-99a4-47a4-a797-e2fecdf94e58,Dog,Maine Coon,7.1,26.7,Male,Moderate,None,27.3,1151.1,33.0,10.7,56.3,328.9,3,109.6,0.86
+ce14217a-a241-45eb-9d3e-21a2cd6334a4,Dog,British Shorthair,7.5,29.9,Male,High,Joint Issues,30.0,1432.1,27.6,22.2,50.2,409.2,4,102.3,0.36
+611793ee-5099-400b-a751-0b2e750a6ba0,Dog,British Shorthair,9.3,18.6,Female,High,Allergies,17.6,1003.1,31.3,19.1,49.6,286.6,4,71.7,0.72
+7a9f9764-a5dc-4e2f-87da-d8c1fca37ce8,Dog,Poodle,4.5,19.7,Female,Moderate,Allergies,18.5,916.4,37.1,12.1,50.8,261.8,3,87.3,0.66
+eddf8553-599c-40e3-89da-c15c21ba19c2,Dog,Ragdoll,4.8,18.6,Female,High,Joint Issues,17.0,1003.1,34.5,13.0,52.5,286.6,4,71.7,0.67
+af688543-a679-4cb1-8fb2-c2a85d6b34d8,Dog,Beagle,10.5,36.9,Male,High,Obesity,40.4,1425.3,32.6,20.4,47.0,407.2,4,101.8,0.49
+6c230f21-da34-4977-80f3-b121bd552e6c,Dog,Bulldog,11.5,39.2,Female,High,Joint Issues,40.7,1754.6,39.1,20.7,40.2,501.3,4,125.3,0.7
+5a856bd9-cec8-4133-b5e8-e90d70202182,Dog,Ragdoll,4.6,19.3,Female,Low,Joint Issues,18.0,773.5,26.6,15.7,57.7,221.0,2,110.5,0.33
+d2a12aca-3142-4cbb-a816-012a377a310f,Dog,Golden Retriever,3.4,19.5,Male,Moderate,Diabetes,18.4,818.5,27.2,10.9,61.9,233.9,3,78.0,0.77
+03b99f2e-1ae1-4cac-b1c0-646930ac301b,Dog,Poodle,11.4,31.3,Male,Moderate,Allergies,31.5,1296.8,26.5,23.0,50.5,370.5,3,123.5,0.74
+0a443525-9acb-4e17-a116-db3789e72f7d,Dog,Poodle,11.3,40.5,Female,Low,Joint Issues,37.2,1348.6,36.8,22.0,41.2,385.3,2,192.7,0.47
+e20ec912-5aec-4cca-8b30-5b9c117b2870,Dog,Golden Retriever,13.9,43.0,Female,Moderate,Diabetes,46.2,1481.1,39.5,10.8,49.7,423.2,3,141.1,0.75
+87d30ebc-4917-4545-a5a8-0100f3cc68b6,Dog,Poodle,9.5,18.9,Female,Low,Diabetes,20.4,685.3,36.3,18.2,45.5,195.8,2,97.9,0.66
+7e406f36-32fb-4c31-8c55-030f313792ed,Dog,Poodle,4.8,21.1,Male,High,None,23.0,1102.6,27.8,12.6,59.6,315.0,4,78.8,0.61
+e15640af-ca98-4b49-80b4-695f1410128e,Cat,Siamese Cat,1.1,5.6,Female,High,Diabetes,5.8,366.9,27.0,18.8,54.2,104.8,4,26.2,0.45
+69a66584-cac6-409e-aee9-1ea95e7e5fc0,Cat,Persian Cat,7.3,5.7,Male,Low,Obesity,5.8,263.4,38.9,19.0,42.1,75.3,2,37.6,0.76
+a3a7e2af-35e0-4163-9237-2d978810ba35,Dog,British Shorthair,12.7,23.2,Female,Moderate,Joint Issues,22.6,1036.0,33.3,11.1,55.6,296.0,3,98.7,0.72
+d6d0b615-3bd7-487b-a208-966b672312d2,Dog,Ragdoll,3.7,17.0,Male,High,None,16.2,937.7,36.8,12.4,50.8,267.9,4,67.0,0.63
+c2320d61-f2f1-4d85-b136-7d98a90389f2,Cat,Siamese Cat,1.8,4.9,Male,Low,Diabetes,4.5,249.0,30.0,14.4,55.6,71.1,2,35.5,0.87
+3e13173c-03dd-497c-aca4-6948c62b187f,Dog,British Shorthair,8.2,42.9,Male,Low,Diabetes,40.5,1267.3,31.7,23.6,44.7,362.1,2,181.1,0.67
+150fa63a-d788-4b5f-8140-00b4c964c16a,Dog,British Shorthair,4.0,19.8,Male,High,Diabetes,21.2,946.1,30.7,21.9,47.4,270.3,4,67.6,0.37
+177bca1b-5c68-4a96-9fb6-031ff4d7c3fc,Dog,Beagle,8.3,27.2,Female,Low,Joint Issues,27.2,1000.5,37.3,15.6,47.1,285.9,2,142.9,0.78
+9e851aa0-ab20-4918-9898-ee22e596c027,Dog,Maine Coon,7.6,50.3,Female,High,Obesity,53.6,1798.1,29.8,11.2,59.0,513.7,4,128.4,0.36
+b4ed1988-2cdd-418d-830a-9fb63dc0d998,Dog,Ragdoll,8.2,19.7,Male,Low,Obesity,19.1,667.6,38.0,16.4,45.6,190.7,2,95.3,0.36
+b326d1a2-fd46-4867-9fa0-ba4e8bff72c1,Dog,Ragdoll,12.5,31.8,Female,High,None,30.3,1499.8,36.2,12.3,51.5,428.5,4,107.1,0.58
+b58c4da6-a38a-4cc9-b69a-97bc5726a504,Cat,Persian Cat,1.0,8.7,Male,Low,Obesity,9.4,361.7,36.9,18.4,44.7,103.3,2,51.6,0.64
+2b95ae17-c84d-4ada-a8f2-2bab9895ee2f,Dog,Poodle,13.7,30.9,Female,Moderate,Allergies,33.1,1284.4,34.5,16.5,49.0,367.0,3,122.3,0.31
+559ccacd-f26f-460d-bc40-d7719216e571,Dog,Bulldog,8.3,36.1,Male,High,Joint Issues,38.8,1649.5,25.7,22.7,51.6,471.3,4,117.8,0.51
+a25a18ed-2d7c-4b84-afc2-1aac517f68f8,Dog,Ragdoll,2.0,33.2,Female,High,None,34.5,1549.1,29.2,23.9,46.9,442.6,4,110.7,0.53
+ce2b888d-9fe9-4538-a6e1-ce729452471d,Dog,Golden Retriever,7.4,30.1,Male,Low,Allergies,31.2,1079.5,37.0,22.7,40.3,308.4,2,154.2,0.48
+ab84fdb8-e9f5-49d9-9f2b-e5f9d9d43307,Dog,German Shepherd,4.8,38.8,Female,Low,Joint Issues,36.2,1305.9,38.1,12.1,49.8,373.1,2,186.6,0.33
+a9ac063f-0199-4f0f-9fe7-0639addbf38c,Dog,British Shorthair,9.2,31.5,Male,Moderate,Obesity,33.9,1107.6,36.2,23.6,40.2,316.5,3,105.5,0.51
+7e86c8e3-65bd-4532-94ee-17a1d8f16b83,Cat,Siamese Cat,13.6,4.7,Male,Low,Obesity,4.5,227.9,28.3,22.5,49.2,65.1,2,32.5,0.42
+6e6284fa-d166-434c-9694-eed48c32a4cc,Dog,German Shepherd,10.2,26.5,Male,High,Allergies,27.8,1308.1,34.7,11.1,54.2,373.7,4,93.4,0.7
+a194c6a1-7d7e-4730-98c2-5fe3f52476b0,Dog,Beagle,1.9,28.7,Female,Moderate,Diabetes,30.6,1093.7,26.9,19.8,53.3,312.5,3,104.2,0.36
+2d6719d8-1229-4781-ad87-3ad7f024093c,Dog,British Shorthair,1.5,21.1,Male,Moderate,Allergies,21.1,964.8,31.8,19.2,49.0,275.7,3,91.9,0.48
+be7a458f-e766-4c9c-906f-e41d0795486e,Dog,British Shorthair,2.7,26.9,Female,Moderate,Allergies,27.6,1157.6,27.5,14.7,57.8,330.7,3,110.2,0.77
+f74221ac-bd29-47e3-bcb2-302e3a1fdeab,Cat,Siamese Cat,4.5,5.1,Female,Low,Diabetes,4.9,256.6,38.2,16.9,44.9,73.3,2,36.6,0.52
+eda98e51-9d9e-43e2-b25b-64e569e71587,Dog,Beagle,7.6,31.5,Male,Low,Joint Issues,33.3,1116.9,26.2,14.2,59.6,319.1,2,159.6,0.8
+8a86784b-4939-4cb4-a61a-ff0add90ba8d,Dog,Ragdoll,3.3,46.6,Male,High,None,42.9,1997.6,38.4,22.7,38.9,570.7,4,142.7,0.68
+d1c43706-5b85-4e97-9ab1-9bdab948e352,Dog,British Shorthair,8.9,27.5,Male,Low,Joint Issues,30.0,1008.7,28.9,23.4,47.7,288.2,2,144.1,0.62
+fb5cc90e-7002-4f4d-8fc9-e1900f8249b9,Dog,German Shepherd,5.8,40.8,Male,High,Diabetes,39.5,1627.3,27.0,17.5,55.5,464.9,4,116.2,0.35
+e522c7a4-30c0-4c56-99df-c49be1c65647,Cat,Persian Cat,7.8,6.2,Male,High,Obesity,5.7,374.1,36.4,12.1,51.5,106.9,4,26.7,0.4
+41544477-ec8b-4705-be02-16d11aff3b19,Dog,British Shorthair,14.3,26.9,Male,High,Allergies,29.3,1322.9,39.1,10.6,50.3,378.0,4,94.5,0.76
+b6cd9895-4af7-4c70-a200-3efb249d8e28,Dog,Poodle,1.4,20.5,Female,Low,None,19.7,809.3,35.0,17.8,47.2,231.2,2,115.6,0.77
+c76b1ddc-6e36-42dc-bd01-19f8bf15ee80,Cat,Siamese Cat,7.3,5.4,Female,Low,None,5.6,297.6,39.7,14.9,45.4,85.0,2,42.5,0.72
+d807649c-1c9e-4e25-bc9b-f4f1fe38f351,Dog,Ragdoll,9.7,26.3,Female,High,Diabetes,25.5,1170.7,33.7,18.6,47.7,334.5,4,83.6,0.53
+493652a5-6844-4a76-b6df-681994537181,Cat,Siamese Cat,5.8,3.6,Male,High,Diabetes,3.7,263.4,30.6,23.6,45.8,75.3,4,18.8,0.61
+32702f10-de0e-4c41-9a11-435c1e9667da,Cat,Persian Cat,12.3,3.9,Female,Moderate,Allergies,4.1,272.0,38.3,10.1,51.6,77.7,3,25.9,0.83
+06eb38d1-c9a9-4581-8523-e3cb06d1c77d,Dog,Maine Coon,2.9,28.8,Male,High,Diabetes,26.1,1253.2,28.2,12.8,59.0,358.1,4,89.5,0.52
+8bac5458-156b-412e-8e7f-0d81e01945ad,Dog,Bulldog,10.1,40.7,Female,Moderate,None,42.2,1579.1,32.2,17.2,50.6,451.2,3,150.4,0.43
+115d41c9-24e6-46b8-ab90-0c657879b7d8,Dog,German Shepherd,9.9,24.3,Female,Low,Obesity,24.0,781.5,25.6,18.6,55.8,223.3,2,111.7,0.4
+91a20b45-30f0-46c1-863d-5788cd8901ee,Dog,Ragdoll,1.1,10.5,Male,Low,Obesity,9.8,416.5,28.9,12.7,58.4,119.0,2,59.5,0.87
+f419d289-33e3-4c5d-b393-3940b32f8a7c,Dog,British Shorthair,14.6,3.0,Male,High,Diabetes,3.2,229.8,39.2,13.2,47.6,65.7,4,16.4,0.66
+fbcbfccc-93a9-40fe-bf93-ee222571d608,Dog,Maine Coon,13.1,14.8,Male,Low,Allergies,13.6,633.8,34.0,21.9,44.1,181.1,2,90.5,0.79
+272e41b8-0d7f-47a9-afd7-129c99c45a10,Dog,German Shepherd,9.5,32.1,Female,Low,Diabetes,33.3,1019.5,38.8,18.9,42.3,291.3,2,145.7,0.34
+b0935163-d450-49da-916b-ac974f4bbc36,Cat,Siamese Cat,6.1,2.4,Male,Low,Obesity,2.6,137.7,32.8,23.6,43.6,39.3,2,19.6,0.71
+46eae4ab-64c7-4002-b0f1-639200416b8d,Dog,German Shepherd,9.3,33.7,Male,Moderate,Joint Issues,31.3,1370.7,34.0,23.2,42.8,391.6,3,130.5,0.62
+178c9af4-0ff5-4fa3-9144-0a0acf1505e2,Dog,Bulldog,1.9,31.5,Male,High,Joint Issues,31.0,1489.2,37.4,23.5,39.1,425.5,4,106.4,0.76
+e1e0523d-9bce-42b7-92cd-3f1cb976eab1,Cat,Siamese Cat,8.1,4.8,Female,Low,Joint Issues,4.9,272.4,31.4,24.1,44.5,77.8,2,38.9,0.59
+b60bdd78-e2bb-4986-acdd-af7c3324ec9d,Cat,Siamese Cat,5.6,1.9,Male,Moderate,Obesity,2.1,134.8,28.8,21.5,49.7,38.5,3,12.8,0.85
+66697822-44df-4281-b95f-1e6aa6402b32,Dog,Bulldog,4.6,18.1,Female,Moderate,Obesity,17.8,731.0,25.1,21.2,53.7,208.9,3,69.6,0.3
+479a2ddd-4091-4ef2-8bb8-401f4449f978,Dog,Ragdoll,2.2,22.6,Male,Moderate,Obesity,21.3,863.4,35.3,14.7,50.0,246.7,3,82.2,0.52
+38bfa6d4-7c8c-43f7-8541-3c4aeda51e99,Dog,German Shepherd,6.7,28.5,Female,Moderate,Joint Issues,25.8,1208.8,31.4,15.5,53.1,345.4,3,115.1,0.47
+3912732a-0560-4ae7-8773-03936e371797,Cat,Siamese Cat,11.4,2.5,Female,High,Joint Issues,2.7,222.7,32.2,15.6,52.2,63.6,4,15.9,0.63
+ed81ca58-e0e6-4091-b02c-9889647a62a2,Dog,Beagle,14.8,39.4,Female,High,Allergies,39.2,1761.3,36.0,22.8,41.2,503.2,4,125.8,0.7
+2b2bb6b9-8bdb-4160-a41f-02fb7ddbfd43,Dog,Poodle,7.0,28.4,Male,Low,Obesity,29.9,878.4,32.6,21.8,45.6,251.0,2,125.5,0.78
+c0a55181-6504-4a85-9dc6-1f88f0db1c14,Dog,British Shorthair,10.6,29.6,Male,Low,Allergies,31.6,1066.0,39.5,10.1,50.4,304.6,2,152.3,0.35
+4d712e5b-c646-4838-b57c-b6b6a0e289ff,Dog,German Shepherd,7.3,31.4,Female,Low,None,29.1,1114.2,28.9,15.6,55.5,318.3,2,159.2,0.67
+ac637cac-98cc-4749-8a65-5fd4f6f6f319,Cat,Siamese Cat,14.0,7.7,Female,High,Joint Issues,7.0,517.7,29.3,24.5,46.2,147.9,4,37.0,0.33
+d9147a23-9712-453b-a3f2-e44805927fd8,Dog,German Shepherd,9.8,27.0,Female,Low,Obesity,28.6,845.7,37.8,24.0,38.2,241.6,2,120.8,0.61
+5c5c88ba-d0e4-42fd-b223-b4a024666993,Dog,Poodle,1.0,32.1,Male,High,Obesity,32.0,1283.9,35.1,15.4,49.5,366.8,4,91.7,0.69
+0b8a6cf2-1a69-433f-a34e-d6b8725de720,Dog,German Shepherd,1.8,18.2,Female,Moderate,Diabetes,17.1,777.2,35.0,16.1,48.9,222.1,3,74.0,0.42
+85d1a6bb-dbf5-4ca5-8d98-f8936f68f8de,Dog,Golden Retriever,11.2,43.0,Male,Low,Joint Issues,42.9,1410.5,29.3,22.4,48.3,403.0,2,201.5,0.85
+9ee39c79-4c51-416b-98c6-87159a885b25,Cat,Persian Cat,5.5,5.3,Female,Low,Joint Issues,5.1,293.4,39.4,16.8,43.8,83.8,2,41.9,0.54
+60888e30-0e10-456b-a6b8-f178afceb0ff,Dog,Golden Retriever,4.3,18.2,Female,High,None,19.3,986.9,33.4,17.5,49.1,282.0,4,70.5,0.5
+e6385b5b-e64e-4bcb-a448-d07eaf5afd67,Dog,Bulldog,12.1,20.5,Female,High,Joint Issues,18.5,1079.0,28.8,16.6,54.6,308.3,4,77.1,0.53
+7d12f853-c276-44b1-a386-60fb0228bfbe,Dog,Maine Coon,11.7,6.1,Female,Moderate,Allergies,5.6,380.4,38.4,22.9,38.7,108.7,3,36.2,0.59
+2586a80d-1bca-43b9-9f5b-e1c112b92e88,Dog,Beagle,1.5,20.5,Male,High,Obesity,20.9,917.2,37.0,16.2,46.8,262.1,4,65.5,0.51
+efe4b908-8c32-47bf-80bd-932de0497ff2,Dog,Ragdoll,0.6,1.0,Female,Low,Diabetes,1.0,75.6,26.4,20.1,53.5,21.6,2,10.8,0.79
+aed612da-adb6-4bab-9687-49a8ba69e823,Dog,Bulldog,8.5,32.9,Male,Moderate,Diabetes,34.7,1211.6,30.3,23.4,46.3,346.2,3,115.4,0.46
+dba93ecd-7c56-4fff-a2d7-8122ed1f597e,Dog,Poodle,7.7,29.3,Male,Low,Obesity,26.6,899.2,38.1,13.1,48.8,256.9,2,128.4,0.42
+02ba9669-d751-4992-8574-db49d2e038fd,Dog,Poodle,12.6,15.3,Female,Low,None,14.5,649.8,26.8,11.2,62.0,185.7,2,92.8,0.87
+9977bebf-a272-4dc4-90cb-99de882841af,Dog,Maine Coon,9.4,24.5,Male,Moderate,Diabetes,26.9,971.3,34.3,17.4,48.3,277.5,3,92.5,0.89
+760024a6-4b5e-49bd-9876-fff86246d241,Dog,British Shorthair,13.1,25.0,Female,Low,Joint Issues,25.6,939.1,29.2,13.3,57.5,268.3,2,134.2,0.65
+a96d9cb1-0f08-4743-8f73-d39ea6422957,Dog,Golden Retriever,8.1,13.4,Female,Moderate,Joint Issues,13.9,686.4,25.5,15.2,59.3,196.1,3,65.4,0.82
+4830d4a0-a52e-4efa-9ac2-42860fa30774,Dog,German Shepherd,7.1,22.8,Male,High,Joint Issues,22.0,1168.6,31.9,20.3,47.8,333.9,4,83.5,0.31
+53ab8134-2395-41b9-b5cc-4db567659505,Dog,Poodle,6.0,25.3,Male,Moderate,Diabetes,25.4,995.0,34.2,13.9,51.9,284.3,3,94.8,0.63
+f4e5cf0a-ef93-4dac-a73b-52c8d1e2bd79,Dog,Poodle,4.4,22.5,Female,Moderate,Obesity,20.4,860.6,32.5,13.2,54.3,245.9,3,82.0,0.72
+9460ab3a-e13e-496c-a925-ece245e678bb,Cat,Persian Cat,5.8,3.6,Female,Moderate,Allergies,3.3,256.1,27.7,12.0,60.3,73.2,3,24.4,0.65
+be63094d-e782-4bff-8093-96564e9d5467,Dog,Poodle,12.3,15.0,Female,Low,Joint Issues,15.2,640.2,31.5,15.7,52.8,182.9,2,91.5,0.39
+e3f7d801-ab83-43a1-98bc-723b07d976dc,Dog,German Shepherd,7.4,22.2,Male,Low,Allergies,23.0,859.1,32.5,24.9,42.6,245.5,2,122.8,0.81
+c907bdb4-f015-429d-a2a8-0f42ee9be470,Dog,Ragdoll,8.2,19.3,Female,Moderate,Diabetes,18.0,812.2,28.8,22.9,48.3,232.1,3,77.4,0.33
+ea434379-a044-49b1-bb6a-4bd51a023779,Dog,Bulldog,10.5,30.7,Male,Low,Diabetes,28.3,986.0,32.1,19.4,48.5,281.7,2,140.8,0.57
+8bfe98be-94a8-4a53-a73a-3a17d70dbb4b,Cat,Persian Cat,4.3,7.8,Female,High,Joint Issues,7.1,522.7,39.0,13.9,47.1,149.3,4,37.3,0.31
+ad7aaf1b-75fd-4b01-b6d6-cd7a293cd3a6,Dog,Bulldog,5.6,34.2,Male,High,Joint Issues,37.2,1583.9,34.7,18.1,47.2,452.5,4,113.1,0.89
+2e9dc879-6d43-4077-b2c6-c9c81238a3ae,Dog,Beagle,5.6,25.6,Female,High,Allergies,26.7,1274.7,38.3,15.7,46.0,364.2,4,91.0,0.47
+c7acfa6b-f541-4306-b153-e10bb68e3edc,Dog,German Shepherd,13.1,18.5,Female,Moderate,Joint Issues,19.9,874.2,33.6,22.7,43.7,249.8,3,83.3,0.34
+579e1e7c-15f1-488c-90cc-2d5b261e1dc7,Dog,German Shepherd,5.5,34.0,Female,Moderate,Diabetes,32.9,1241.9,35.7,19.1,45.2,354.8,3,118.3,0.54
+8be691a7-01f0-49c5-92e7-f9d474208fbc,Dog,Maine Coon,11.8,31.4,Female,High,Joint Issues,33.4,1485.6,32.8,16.8,50.4,424.5,4,106.1,0.4
+13c77838-80ef-44a7-a77f-d969233da3c4,Dog,Golden Retriever,2.3,38.2,Male,High,Diabetes,37.8,1548.8,39.1,20.5,40.4,442.5,4,110.6,0.35
+0b6ff863-0108-402e-9073-07f7f5519aee,Dog,German Shepherd,6.3,27.0,Male,Low,Allergies,27.8,995.0,33.2,10.4,56.4,284.3,2,142.2,0.54
+4d6c7ee0-0cc6-413d-a2d3-b22676a12ccc,Dog,Bulldog,2.0,42.4,Male,Low,Allergies,38.9,1395.7,29.6,13.7,56.7,398.8,2,199.4,0.47
+c173c7b8-bb27-4bf3-88ec-55a5150d2717,Dog,German Shepherd,2.4,27.0,Male,Low,None,24.6,995.0,35.0,22.9,42.1,284.3,2,142.2,0.5
+65996139-44be-41df-809b-79957c15aaa8,Dog,Maine Coon,7.3,18.5,Female,High,Allergies,19.9,999.1,27.0,24.2,48.8,285.5,4,71.4,0.62
+f6232947-2715-4311-9e85-ecf6ded513ac,Dog,British Shorthair,9.2,20.2,Female,High,Joint Issues,19.1,1067.2,29.6,15.2,55.2,304.9,4,76.2,0.62
+c6e18538-13bc-4636-bce8-376758cd5b25,Dog,Bulldog,6.9,30.2,Female,Moderate,Diabetes,31.2,1136.2,27.3,10.2,62.5,324.6,3,108.2,0.61
+c449d182-b40d-4f45-b35e-feed61746c5f,Dog,German Shepherd,5.5,19.3,Female,High,None,19.3,1031.3,35.3,17.4,47.3,294.7,4,73.7,0.75
+9871999c-bbe1-45c0-8a2d-af91ee10bba3,Dog,Beagle,0.6,42.3,Female,Moderate,Joint Issues,40.0,1625.5,28.5,10.1,61.4,464.4,3,154.8,0.52
+77b6b5cb-2c34-4314-812a-a8ed417d7036,Cat,Siamese Cat,13.3,5.9,Female,Moderate,Obesity,6.5,315.3,27.4,21.1,51.5,90.1,3,30.0,0.53
+f08b6128-6d4a-4f63-8515-6016334712d3,Cat,Siamese Cat,3.7,5.1,Male,Moderate,Obesity,4.8,282.7,32.7,22.0,45.3,80.8,3,26.9,0.67
+4d8cc698-036b-40cd-8a7e-46336e3e6c5e,Dog,Beagle,4.6,26.2,Female,Moderate,Obesity,27.1,964.7,37.8,12.7,49.5,275.6,3,91.9,0.47
+94902359-fbae-4c8f-a148-18cfb51fb334,Dog,Maine Coon,9.5,22.4,Female,High,Joint Issues,24.0,1153.2,32.4,14.8,52.8,329.5,4,82.4,0.39
+95dbd0ca-4a7d-4b00-9131-b326cc926078,Dog,Ragdoll,0.8,8.3,Male,Moderate,Diabetes,8.7,431.3,26.9,16.6,56.5,123.2,3,41.1,0.3
+d27ef94c-b422-49d9-a8a5-da685c7b5257,Dog,Bulldog,2.7,20.2,Female,Low,Diabetes,19.6,720.3,31.3,21.8,46.9,205.8,2,102.9,0.6
+e9cf5fbc-d3e6-45e1-baef-97e56bfcd78a,Cat,Persian Cat,7.2,8.1,Male,Moderate,None,7.9,470.5,37.7,24.3,38.0,134.4,3,44.8,0.33
+c0c56cd4-0f78-4eb7-9ef5-227b9ed83c8b,Cat,Siamese Cat,1.5,5.4,Female,Low,Obesity,5.3,252.9,38.4,13.8,47.8,72.3,2,36.1,0.53
+de30e8c1-ca1f-4667-a46e-033a6998e74b,Dog,Golden Retriever,2.3,35.5,Male,Moderate,Allergies,37.1,1425.3,28.7,24.9,46.4,407.2,3,135.7,0.42
+c6292c86-c56f-41d3-9644-49af2032921c,Dog,Bulldog,8.1,35.8,Male,Moderate,Allergies,38.7,1434.3,35.2,14.7,50.1,409.8,3,136.6,0.49
+446f3d84-dbe3-4a91-8461-ccb2cde10dac,Dog,Golden Retriever,11.3,24.6,Male,Moderate,Allergies,24.2,1082.5,34.6,13.0,52.4,309.3,3,103.1,0.83
+51021d30-dd49-4a3a-a47f-ff9e5deecb00,Dog,Poodle,14.6,31.5,Male,High,Allergies,34.1,1489.2,29.9,12.5,57.6,425.5,4,106.4,0.47
+15e39319-63ef-426f-84fe-5e00be939970,Dog,Bulldog,6.2,9.2,Male,Low,None,8.7,443.7,33.7,20.4,45.9,126.8,2,63.4,0.71
+3fbc01c4-3c55-4183-96f1-7c7bf7a9d84b,Dog,German Shepherd,5.9,39.8,Male,Low,Obesity,41.7,1131.4,32.5,20.3,47.2,323.3,2,161.7,0.5
+94b7a97f-0378-42e6-b4b7-6c27392eea4b,Dog,Golden Retriever,1.4,38.8,Male,High,Joint Issues,35.9,1741.2,36.9,11.9,51.2,497.5,4,124.4,0.44
+f9395027-0778-4410-9cf7-7678b2866cde,Dog,Ragdoll,11.9,29.9,Female,Moderate,Obesity,28.0,1065.1,25.3,15.7,59.0,304.3,3,101.4,0.73
+3c5b6d4f-753e-4491-bc3d-7cccc549a8f5,Dog,Beagle,13.5,27.6,Female,High,Allergies,26.2,1348.7,33.4,18.1,48.5,385.3,4,96.3,0.59
+a4b60d5d-fe7f-4aa3-a530-bffe01043466,Dog,British Shorthair,3.2,24.7,Female,Moderate,Allergies,23.5,1085.8,29.1,22.5,48.4,310.2,3,103.4,0.85
+dd9c6c6d-b12f-464a-8a41-77fae96eb6e0,Dog,Ragdoll,2.8,36.7,Male,Moderate,Diabetes,39.4,1315.1,37.3,18.1,44.6,375.7,3,125.2,0.57
+dae4f680-bc03-4924-b3d4-55467380a5c6,Dog,Ragdoll,6.0,32.7,Male,Low,Joint Issues,31.8,1148.7,37.9,21.6,40.5,328.2,2,164.1,0.44
+066857ba-4a5a-415b-8e4e-09155a150881,Dog,Bulldog,10.0,3.5,Female,Low,Joint Issues,3.6,214.9,35.2,21.5,43.3,61.4,2,30.7,0.39
+93dd326f-1731-4f7e-b0c9-4e9d1bd08eea,Dog,Beagle,5.2,21.4,Female,Low,None,23.4,835.8,32.8,11.0,56.2,238.8,2,119.4,0.8
+9fc531b6-df93-420d-b329-e0443fbe1965,Dog,German Shepherd,3.1,13.8,Male,Low,None,13.1,601.4,32.3,11.5,56.2,171.8,2,85.9,0.64
+60254c70-2242-4cb6-ae98-d20bacacbbbb,Cat,Siamese Cat,10.0,2.4,Female,Low,Diabetes,2.5,145.8,28.3,20.8,50.9,41.7,2,20.9,0.31
+fe0ec455-4fff-428c-8934-d53cccd88ddb,Dog,Poodle,10.0,36.6,Male,Moderate,None,33.9,1458.3,30.4,21.2,48.4,416.7,3,138.9,0.83
+4b040bb5-26be-4262-af63-6a5bdcd88bb9,Cat,Persian Cat,12.0,4.9,Male,High,Diabetes,4.6,332.0,32.9,21.0,46.1,94.9,4,23.7,0.8
+9918c14b-a9d9-40a1-85ce-e0b7b4dbfb2d,Dog,Bulldog,14.2,29.8,Male,Low,Obesity,27.3,910.7,33.0,12.8,54.2,260.2,2,130.1,0.62
+b802bd78-b574-479a-b853-3cfb976608d3,Dog,Poodle,8.8,25.8,Male,High,Joint Issues,25.0,1282.1,31.2,11.6,57.2,366.3,4,91.6,0.68
+5b836939-9b42-40bf-be8f-f3fb27096048,Cat,Persian Cat,10.3,2.4,Female,Low,Obesity,2.6,137.7,36.9,18.2,44.9,39.3,2,19.6,0.6
+8ae045a7-ef2c-421c-b145-b0c5bfad10ee,Dog,German Shepherd,8.2,9.4,Female,Moderate,Diabetes,9.6,473.5,33.3,25.0,41.7,135.3,3,45.1,0.81
+ede3c043-2c44-4443-bac7-cc988a4f95fe,Cat,Siamese Cat,11.6,4.1,Female,High,Diabetes,4.3,290.4,34.1,18.4,47.5,83.0,4,20.8,0.43
+709da121-02f4-465a-98fd-f68c0de46cc8,Dog,Ragdoll,13.9,21.5,Female,Moderate,Allergies,19.5,978.5,31.7,16.0,52.3,279.6,3,93.2,0.74
+afc4660f-05a8-42bb-b6df-8788754c4cea,Dog,Beagle,9.1,21.5,Male,Moderate,None,22.5,978.5,29.5,13.3,57.2,279.6,3,93.2,0.81
+e7f92b9a-a94b-4281-b5fb-8c0aa74d7001,Dog,Golden Retriever,11.7,21.8,Female,High,Joint Issues,23.3,1130.0,33.3,23.9,42.8,322.9,4,80.7,0.39
+614e22d4-f051-4fa9-84eb-44bb9559749c,Dog,Golden Retriever,7.2,45.8,Male,Low,Diabetes,48.6,1331.0,30.5,18.7,50.8,380.3,2,190.2,0.44
+4f30742b-6728-4560-b932-546f12ac67e4,Dog,Beagle,1.8,35.3,Female,High,Obesity,33.2,1378.7,36.0,20.9,43.1,393.9,4,98.5,0.78
+1df4a0f8-8892-48d0-aacf-eba8bd7e59c0,Dog,German Shepherd,7.6,27.4,Male,High,Diabetes,25.3,1207.2,25.6,22.1,52.3,344.9,4,86.2,0.53
+918b9475-34df-4691-bd26-b6b6bc8086ab,Dog,Golden Retriever,13.9,24.3,Female,Moderate,Allergies,24.5,1072.6,31.2,23.0,45.8,306.5,3,102.2,0.82
+2d227389-6f14-448d-a20d-824e29d8a1a1,Dog,Poodle,11.3,24.6,Male,High,Allergies,26.7,1237.1,25.8,17.9,56.3,353.5,4,88.4,0.49
+67533b50-1c04-451e-99d0-18b9e46e87b4,Dog,British Shorthair,2.7,32.3,Male,Low,None,31.1,1138.1,35.1,25.0,39.9,325.2,2,162.6,0.88
+5aeffe41-b640-4baa-8174-c847b0450394,Dog,British Shorthair,8.8,24.2,Male,Low,Allergies,24.2,916.5,29.3,15.9,54.8,261.9,2,130.9,0.38
+ce467d47-7bf5-4ecd-8999-9946837a6ec6,Dog,Bulldog,7.4,34.2,Male,High,Allergies,33.9,1583.9,28.9,16.0,55.1,452.5,4,113.1,0.56
+242e1de4-1ffe-4969-bbb1-44452c369614,Dog,German Shepherd,11.5,28.5,Female,High,Obesity,28.6,1174.3,32.3,19.8,47.9,335.5,4,83.9,0.42
+81eb5487-6799-4946-9732-b5b5f85655a1,Dog,British Shorthair,15.0,45.9,Male,Low,None,42.6,1481.3,29.0,16.5,54.5,423.2,2,211.6,0.71
+ae6f9304-d0ba-4b7c-89cd-78dd80035592,Dog,British Shorthair,1.8,23.6,Female,Moderate,Diabetes,21.4,944.4,30.2,14.8,55.0,269.8,3,89.9,0.66
+2d38443c-aca6-4f84-a263-30df7d1c1b3d,Dog,Golden Retriever,11.7,36.1,Male,Moderate,Joint Issues,33.9,1443.3,37.3,22.0,40.7,412.4,3,137.5,0.67
+798f7bc4-fb02-4a53-99aa-2382890a364a,Dog,Maine Coon,1.2,14.6,Male,Low,Diabetes,15.1,564.7,27.3,20.9,51.8,161.3,2,80.7,0.35
+ac317ef9-cb2b-4d30-b30b-9cddd8c27210,Dog,Golden Retriever,4.0,18.8,Male,Moderate,None,20.2,884.8,30.1,22.1,47.8,252.8,3,84.3,0.48
+77ab6ce8-2ea0-43de-9926-05e1fd49f5d2,Dog,Maine Coon,0.8,44.1,Male,High,Joint Issues,41.3,1916.7,28.2,18.2,53.6,547.6,4,136.9,0.75
+5ec7227c-32b1-4e48-9ec2-c9c3acaf9d3d,Dog,Ragdoll,7.5,33.7,Male,High,None,36.7,1566.5,30.6,23.6,45.8,447.6,4,111.9,0.62
+c8fea4f4-b07e-40cc-84ab-a1c3f2466211,Dog,Beagle,3.0,30.0,Female,Low,Joint Issues,31.1,1076.8,29.1,17.0,53.9,307.7,2,153.8,0.87
+b8586afa-6d3f-4ab9-aa5f-f8a61766ae1b,Dog,Bulldog,6.1,49.0,Female,High,Diabetes,52.6,1866.8,38.0,10.3,51.7,533.4,4,133.3,0.82
+f46bf5df-3a23-45db-bee3-d41fb7fb75ef,Cat,Siamese Cat,3.9,4.9,Female,High,None,5.0,368.9,38.6,17.3,44.1,105.4,4,26.4,0.66
+daa705fa-7b35-4d1f-a969-e3f327415f49,Dog,Bulldog,3.2,36.1,Female,High,None,34.0,1649.5,25.6,23.8,50.6,471.3,4,117.8,0.48
+bd6f5171-6622-4afd-8a4f-fc0302717f3a,Dog,Maine Coon,6.2,36.9,Male,Low,Diabetes,38.1,1131.9,35.3,15.3,49.4,323.4,2,161.7,0.48
+c0d77743-5ac4-44d9-95f3-2ac62a8e8cce,Dog,Ragdoll,4.5,41.3,Male,High,Diabetes,38.1,1642.2,38.2,23.4,38.4,469.2,4,117.3,0.79
+f50d9aa8-a0bf-484f-b3ae-3fd9ae5c4388,Dog,Golden Retriever,14.2,13.5,Female,Low,Obesity,13.9,502.9,30.1,15.9,54.0,143.7,2,71.8,0.38
+e731b859-dda9-4996-beea-82b1e255b50b,Cat,Siamese Cat,8.1,4.9,Male,Moderate,Obesity,5.3,274.3,33.6,16.4,50.0,78.4,3,26.1,0.49
+dad15a07-ae18-4a04-aebd-4baf8f04cf73,Dog,British Shorthair,5.3,28.3,Male,Low,Obesity,29.9,876.1,33.7,20.3,46.0,250.3,2,125.2,0.42
+bd1e5664-bae7-4ce6-8a40-0107aa7fa7cf,Dog,German Shepherd,5.0,41.1,Male,Moderate,Obesity,44.2,1352.2,34.8,18.5,46.7,386.3,3,128.8,0.39
+cb7ddf8f-f7d9-4a58-9b8d-b04903b971b7,Dog,Bulldog,8.6,29.5,Male,Low,Diabetes,28.9,956.9,37.6,12.2,50.2,273.4,2,136.7,0.32
+401c91e8-c801-4208-b1d5-9d9413aa3ef0,Cat,Persian Cat,13.3,7.4,Female,Moderate,Diabetes,7.9,395.7,31.6,24.0,44.4,113.1,3,37.7,0.84
+6ccab61f-bd81-414c-9f88-0be4c58d3f6b,Dog,Beagle,2.7,12.7,Male,Low,Obesity,13.4,480.3,27.8,21.4,50.8,137.2,2,68.6,0.67
+3118033f-9a70-42b9-a3df-966b22a5a4b3,Dog,Beagle,9.3,22.0,Male,High,Obesity,23.4,967.1,28.5,10.4,61.1,276.3,4,69.1,0.35
+7b5a8beb-f732-4df0-8c52-f4ba276c8e60,Dog,Maine Coon,2.4,38.8,Female,High,Diabetes,35.9,1567.1,27.8,15.8,56.4,447.7,4,111.9,0.58
+4e179566-311d-41f5-9c6b-a726d14863d9,Dog,German Shepherd,3.3,23.3,Male,Moderate,None,22.5,1039.3,38.9,24.3,36.8,296.9,3,99.0,0.43
+c2371b00-8f96-4eb5-adcb-97ff8381b8e7,Dog,Poodle,11.5,25.2,Male,Low,Allergies,24.5,944.8,38.0,17.3,44.7,269.9,2,134.9,0.49
+341f3e58-56c3-419a-9e9f-ec99a0f8d4e6,Dog,Maine Coon,13.4,40.9,Female,Moderate,None,40.0,1585.0,34.1,22.4,43.5,452.9,3,151.0,0.73
+80356fb1-612c-4799-a9d1-9d9308c70f00,Cat,Siamese Cat,9.4,3.3,Male,High,None,3.3,274.2,31.8,22.4,45.8,78.3,4,19.6,0.33
+7449abc7-34b3-458d-bad4-04800f1ef4b3,Dog,Poodle,8.0,18.6,Female,High,None,17.6,1003.1,33.4,17.7,48.9,286.6,4,71.7,0.68
+029b9470-1631-4877-91fa-ce7ca6448fa5,Dog,Golden Retriever,3.3,11.8,Female,Moderate,Diabetes,10.8,561.5,36.6,14.3,49.1,160.4,3,53.5,0.4
+4b9c1bbe-78ce-4414-a0b1-e94620346654,Dog,Beagle,9.4,41.4,Male,High,Joint Issues,42.4,1828.0,38.6,17.0,44.4,522.3,4,130.6,0.69
+22eea0d0-20c6-477a-a7f2-5baed1c3d1f1,Dog,Bulldog,11.0,35.1,Male,Low,Joint Issues,34.8,1211.3,39.1,20.4,40.5,346.1,2,173.1,0.38
+5f15eb51-825a-497f-882a-a7f09e3ecc0e,Cat,Siamese Cat,5.2,7.0,Male,Low,Allergies,7.0,361.5,33.9,20.7,45.4,103.3,2,51.6,0.42
+1f2a3ce2-6d32-4869-ab18-427822ad0720,Dog,Maine Coon,1.8,21.8,Female,High,Obesity,21.7,960.5,35.8,11.9,52.3,274.4,4,68.6,0.37
+f4299568-9d65-48ae-9362-173d5ebaea23,Dog,Maine Coon,9.7,11.1,Male,High,Allergies,11.3,681.1,35.9,24.6,39.5,194.6,4,48.6,0.67
+7124893d-1002-487a-bb87-7124ffeccd2d,Dog,German Shepherd,6.0,8.5,Female,Low,Obesity,8.6,355.4,38.7,18.5,42.8,101.5,2,50.8,0.7
+6b649773-9519-49c3-9b91-55fb8fa039fe,Dog,German Shepherd,2.9,38.8,Male,Low,None,41.2,1305.9,31.3,14.6,54.1,373.1,2,186.6,0.76
+25b1fcf9-3993-4e9f-bde7-323fde82b5ef,Dog,Maine Coon,4.7,30.6,Male,Low,Obesity,31.9,928.9,39.4,10.1,50.5,265.4,2,132.7,0.76
+68ba6c17-5f7e-4ab9-b042-8a979da2fe2b,Dog,Golden Retriever,7.2,32.6,Female,High,None,30.9,1528.0,34.1,17.4,48.5,436.6,4,109.2,0.43
+21e31a60-aefe-48f7-ad5c-b9bb9dfcf72a,Dog,Maine Coon,7.1,27.8,Female,Low,Joint Issues,30.2,1017.0,34.0,13.7,52.3,290.6,2,145.3,0.63
+3540134c-aac7-4705-9c24-86c4d2a383f0,Dog,British Shorthair,9.6,17.5,Male,Low,Obesity,17.5,610.9,27.2,19.8,53.0,174.5,2,87.2,0.32
+a8f4cd6a-6080-4d1d-b865-69d85aca6f23,Dog,Golden Retriever,10.2,22.2,Female,Moderate,None,21.1,1002.3,25.7,16.3,58.0,286.4,3,95.5,0.41
+1cd8cb2a-7534-4e41-adfb-da4b1e9feaa9,Dog,Beagle,9.4,15.1,Male,Moderate,Joint Issues,16.0,750.7,30.4,10.5,59.1,214.5,3,71.5,0.76
+04924798-d92c-460d-9b4d-6d497b5f8670,Cat,Persian Cat,5.8,2.8,Female,Low,Allergies,2.8,181.8,37.6,11.0,51.4,51.9,2,25.9,0.58
+95f8d186-7ab4-4260-9a1c-53ea96f38454,Dog,Bulldog,10.6,34.2,Female,Moderate,Joint Issues,35.7,1385.9,31.2,13.1,55.7,396.0,3,132.0,0.43
+71d18d99-c241-427a-9fee-edd1b35e074c,Dog,Golden Retriever,2.1,9.3,Male,Moderate,Joint Issues,8.9,521.9,39.0,24.8,36.2,149.1,3,49.7,0.47
+14ab7bf7-3c5c-4857-af66-d879a66f8dc0,Dog,British Shorthair,12.8,15.2,Female,High,Joint Issues,14.2,862.2,39.9,15.3,44.8,246.3,4,61.6,0.38
+8970497e-c1b8-478d-b3e3-07b0e9f6c636,Dog,British Shorthair,7.7,22.8,Female,Moderate,Obesity,23.6,869.2,38.3,13.5,48.2,248.3,3,82.8,0.47
+7a5e655f-59de-4dff-b716-8aeea6b15be5,Dog,Poodle,0.5,26.1,Male,Moderate,None,27.2,1131.6,36.1,13.1,50.8,323.3,3,107.8,0.67
+5bf13038-b89c-4b9b-9ef5-30bdc36ce947,Cat,Siamese Cat,6.5,2.3,Female,Moderate,Joint Issues,2.1,183.0,37.1,13.2,49.7,52.3,3,17.4,0.68
+ce981442-7fde-432a-8eb9-8e3502208fbd,Dog,Beagle,4.2,9.1,Male,Moderate,Diabetes,9.9,462.1,32.6,14.9,52.5,132.0,3,44.0,0.3
+b0aafc53-774e-4db7-b885-ea638a192ab0,Cat,Persian Cat,5.4,5.9,Male,Low,Obesity,5.9,270.3,30.0,15.1,54.9,77.2,2,38.6,0.7
+dc83e4e8-3142-47db-8ab8-591287caa58b,Dog,Maine Coon,12.1,27.2,Male,Moderate,Obesity,24.7,992.1,34.4,23.4,42.2,283.5,3,94.5,0.62
+4cc96053-812f-4d61-9784-67b43ca87582,Cat,Persian Cat,7.2,7.7,Female,High,None,7.9,517.7,37.5,14.5,48.0,147.9,4,37.0,0.73
+408188e2-592b-4e4d-b8e1-ec11bebea6c7,Cat,Persian Cat,8.6,5.2,Male,Low,Joint Issues,5.5,289.3,35.3,22.0,42.7,82.7,2,41.4,0.83
+90a428f0-ec6b-48a2-91a8-cd40fd99c82a,Cat,Persian Cat,1.5,6.1,Male,Moderate,None,6.6,380.4,30.1,15.6,54.3,108.7,3,36.2,0.62
+e6820792-564d-4af0-90e7-7870b98c4cf6,Dog,German Shepherd,8.8,18.0,Female,Low,Joint Issues,18.4,734.1,26.8,21.7,51.5,209.7,2,104.8,0.48
+6d5ceb41-b285-4538-812c-87fbcc719b3c,Cat,Persian Cat,10.8,3.7,Female,Moderate,None,3.6,261.4,32.5,13.6,53.9,74.7,3,24.9,0.57
+fa048bae-866c-4ba2-8fa9-2542f579007d,Dog,Beagle,3.6,12.6,Female,Low,None,13.3,561.8,30.6,10.6,58.8,160.5,2,80.2,0.42
+fb8cf1db-2f2b-4c79-9246-786aa2d5a657,Dog,Bulldog,6.9,18.1,Male,Moderate,Joint Issues,17.3,860.0,27.3,15.1,57.6,245.7,3,81.9,0.59
+0b63d59b-aae8-4bf3-8d53-cb0c845a3f92,Dog,Ragdoll,5.0,22.1,Female,Low,None,22.8,856.2,37.3,24.1,38.6,244.6,2,122.3,0.71
+31ab63d9-2069-4f91-b9dc-95217285355b,Dog,German Shepherd,3.5,37.5,Male,Moderate,Allergies,34.5,1485.1,35.7,17.8,46.5,424.3,3,141.4,0.3
+26d5bd1b-920d-4e47-bdd6-4148179ce529,Dog,Golden Retriever,10.5,16.6,Male,Moderate,Allergies,16.9,805.9,38.3,11.5,50.2,230.3,3,76.8,0.76
+a90d8759-21e0-4345-b901-a4aa678fb2e2,Dog,Beagle,0.8,46.5,Female,High,Obesity,43.4,1695.2,29.8,12.9,57.3,484.3,4,121.1,0.47
+6a9df7c7-9e1a-4ccf-b01d-dfde3c4dfa1f,Cat,Persian Cat,11.7,6.3,Male,Moderate,Obesity,5.9,331.2,27.4,11.7,60.9,94.6,3,31.5,0.87
+f8e90590-11ab-408c-9440-599fbcc70555,Dog,Ragdoll,8.0,29.1,Male,High,Diabetes,26.7,1262.9,33.2,14.1,52.7,360.8,4,90.2,0.87
+c63eb39c-28a0-4d57-a8a3-ce6faab560a1,Dog,Beagle,8.8,25.4,Male,Low,Diabetes,25.9,855.4,34.2,15.1,50.7,244.4,2,122.2,0.57
+91a590cd-7048-4422-a2ad-dd0662654ff6,Dog,German Shepherd,0.9,23.5,Male,Low,Allergies,23.7,896.6,25.8,16.4,57.8,256.2,2,128.1,0.41
+1e306aa4-1f70-4dc4-9924-eff15f03c95f,Dog,British Shorthair,13.4,19.4,Female,High,Diabetes,19.8,931.8,29.7,22.3,48.0,266.2,4,66.5,0.73
+083b2a6c-aba9-444d-954c-45ebdb8f0547,Dog,Ragdoll,1.6,11.3,Female,High,Obesity,11.3,586.7,26.4,22.0,51.6,167.6,4,41.9,0.72
+9a8b2558-abaa-46be-8cf5-e857ba2f68fc,Dog,Bulldog,7.1,17.0,Female,Moderate,Obesity,16.8,697.4,39.2,12.2,48.6,199.3,3,66.4,0.84
+9e1c93c2-8d23-40a2-8382-7b95c42a9938,Dog,Beagle,13.7,41.4,Female,Low,Diabetes,43.2,1233.9,36.8,23.2,40.0,352.5,2,176.2,0.57
+b867ee5f-216e-4d49-9bb7-dac6d61ede4b,Dog,Golden Retriever,1.4,30.7,Male,Moderate,Allergies,29.3,1278.1,31.9,12.6,55.5,365.2,3,121.7,0.76
+45232990-13d4-48fd-a6ad-0afc3ba7a3de,Dog,British Shorthair,8.8,41.3,Male,Moderate,None,37.8,1596.6,29.9,19.7,50.4,456.2,3,152.1,0.78
+3d18190d-7dad-49d2-b4a9-683c5b014374,Dog,Ragdoll,7.2,19.2,Female,Low,Joint Issues,18.2,770.5,28.7,12.4,58.9,220.1,2,110.0,0.59
+cbd751f2-1d8a-489b-be5a-84bd16e61c81,Dog,Bulldog,5.4,14.9,Female,Moderate,Joint Issues,14.5,743.2,36.8,18.2,45.0,212.3,3,70.8,0.44
+d9711c83-033b-4764-a79d-4bf62d6403e0,Dog,Bulldog,11.2,25.3,Female,Low,Joint Issues,23.1,947.6,33.9,14.9,51.2,270.7,2,135.3,0.36
+84f49f2e-0d39-4437-bd7a-4d343cf1a780,Dog,Maine Coon,3.1,17.3,Female,Low,Joint Issues,18.3,712.5,26.6,22.2,51.2,203.6,2,101.8,0.76
+81bf69be-0a0e-49ef-ac2b-13fd1d5a81ec,Cat,Siamese Cat,5.2,5.5,Male,Low,Obesity,5.9,256.4,37.3,23.3,39.4,73.3,2,36.6,0.84
+39cc2382-a02e-401c-b494-f82cb29b77c9,Dog,Golden Retriever,11.5,9.4,Male,Moderate,Joint Issues,9.7,526.1,29.4,19.2,51.4,150.3,3,50.1,0.57
+730447cc-53a9-4c77-8867-7eda89071934,Dog,Poodle,10.4,5.1,Female,Moderate,Joint Issues,4.9,332.6,36.9,20.2,42.9,95.0,3,31.7,0.85
+ba2704df-f83f-4765-b564-5a5c6e78fa49,Cat,Siamese Cat,10.9,5.7,Female,Low,Joint Issues,5.9,309.9,25.1,24.8,50.1,88.5,2,44.2,0.54
+b65c169c-b116-43e2-9882-331595d48c4e,Dog,German Shepherd,12.9,41.7,Male,Moderate,Joint Issues,41.4,1608.2,39.5,10.0,50.5,459.5,3,153.2,0.64
+b64f6978-0ae4-42e4-93ce-fe862a15347f,Cat,Persian Cat,2.1,5.8,Female,Low,Obesity,5.3,266.9,31.5,18.9,49.6,76.3,2,38.1,0.68
+831a0c42-b057-4a1f-8301-cd772e914a88,Cat,Siamese Cat,6.4,6.1,Female,High,Obesity,5.7,369.5,34.9,17.1,48.0,105.6,4,26.4,0.41
+52f388dd-3420-43ac-be56-59ad5fe284cc,Cat,Siamese Cat,12.7,5.2,Female,Moderate,Obesity,5.4,286.8,29.3,23.1,47.6,81.9,3,27.3,0.38
+76a03be4-5ab4-4245-a98c-9b3221337c0a,Dog,Golden Retriever,1.5,26.7,Male,Low,Allergies,24.5,986.6,34.9,24.6,40.5,281.9,2,140.9,0.38
+9f372067-6713-4d4e-8615-9b57fd1d5726,Dog,German Shepherd,9.8,10.9,Female,Moderate,Joint Issues,10.8,587.9,39.0,19.3,41.7,168.0,3,56.0,0.57
+76138e97-3f7a-4d16-920d-ac6b8f770185,Cat,Siamese Cat,8.5,3.5,Female,Moderate,Diabetes,3.6,225.7,28.4,16.4,55.2,64.5,3,21.5,0.3
+f79fb64d-61eb-4556-8460-c3147e4bc0d7,Dog,Maine Coon,12.8,37.4,Male,High,Joint Issues,39.6,1693.8,29.0,23.9,47.1,483.9,4,121.0,0.65
+7bed279c-b7f6-468f-b97f-304fb1b86962,Dog,Golden Retriever,14.7,14.1,Female,High,Diabetes,15.5,733.5,26.7,17.2,56.1,209.6,4,52.4,0.71
+551f9596-62cf-4324-86c1-4447ecbc1522,Dog,German Shepherd,11.1,21.8,Female,Moderate,Joint Issues,23.7,988.7,26.2,23.3,50.5,282.5,3,94.2,0.35
+8d9a1f57-acaa-4141-b911-7da6a2a4a5be,Dog,Maine Coon,9.6,37.1,Male,High,Joint Issues,37.3,1683.6,37.0,14.7,48.3,481.0,4,120.2,0.33
+bd5e5c91-83fb-4772-8f53-a3b63c1e75fb,Cat,Persian Cat,8.3,5.3,Male,Moderate,Allergies,5.4,342.3,32.7,17.0,50.3,97.8,3,32.6,0.74
+b5246522-10af-4467-91e2-0fa7ad3e0f43,Cat,Siamese Cat,5.6,5.4,Female,Moderate,Obesity,5.0,295.1,25.5,23.8,50.7,84.3,3,28.1,0.75
+2f05dd3d-b1e0-45d0-ac9e-fb594c804632,Dog,British Shorthair,4.3,21.9,Female,High,Obesity,23.3,963.8,33.6,19.8,46.6,275.4,4,68.8,0.48
+00809124-c2e8-41c1-a455-cbdbc9f96f2b,Dog,British Shorthair,0.9,32.1,Female,Low,Obesity,29.1,962.9,32.6,22.8,44.6,275.1,2,137.6,0.47
+4640f26a-d43e-466d-9a94-7ff1e967ac9e,Dog,German Shepherd,9.4,34.6,Female,Moderate,None,33.2,1398.1,36.1,19.1,44.8,399.5,3,133.2,0.85
+203aa1bc-ca6f-4a3f-89bc-dc1eaa96e3d9,Dog,German Shepherd,10.1,17.1,Female,Low,Diabetes,15.7,635.7,36.7,13.5,49.8,181.6,2,90.8,0.41
+47c36e13-1d43-4ff8-9c16-24d9bd8f9511,Dog,Ragdoll,13.0,11.7,Female,Low,Obesity,12.7,451.7,33.9,22.3,43.8,129.1,2,64.5,0.8
+57e055ed-ef40-4545-a37e-cb657f7429eb,Cat,Siamese Cat,11.7,1.3,Male,High,Allergies,1.3,136.4,35.9,12.5,51.6,39.0,4,9.8,0.65
+92621493-19f4-41e7-bca8-08114d39eacd,Cat,Persian Cat,1.3,6.0,Female,Low,None,5.9,322.0,27.5,16.0,56.5,92.0,2,46.0,0.48
+ab622fb5-b04d-4cd8-b5ac-569baa29ce5c,Dog,Ragdoll,3.9,28.9,Female,Moderate,Diabetes,31.3,1099.4,27.2,23.1,49.7,314.1,3,104.7,0.31
+3379eab5-d57f-4e42-9993-438f89b78feb,Dog,Maine Coon,6.0,49.9,Female,High,None,49.9,2102.8,26.5,18.0,55.5,600.8,4,150.2,0.51
+b02bef50-69c6-4517-92c9-04e0a88755dd,Cat,Siamese Cat,9.4,5.2,Female,Moderate,Diabetes,5.1,303.7,29.0,11.5,59.5,86.8,3,28.9,0.69
+798872bb-71d7-4edb-a130-2b58ad51eec0,Cat,Siamese Cat,7.2,4.8,Male,High,Joint Issues,5.2,363.2,36.6,17.8,45.6,103.8,4,25.9,0.71
+91dc141f-85a0-4988-a246-6263be87d57a,Dog,German Shepherd,5.0,27.7,Male,High,None,29.3,1352.3,37.5,10.2,52.3,386.4,4,96.6,0.36
+d540fcd4-6836-49fc-b473-00f793ff8518,Dog,Bulldog,10.4,28.2,Female,Low,Diabetes,27.1,925.1,28.8,10.5,60.7,264.3,2,132.2,0.67
+08490241-6962-403c-9b33-03e796adfd69,Dog,Golden Retriever,14.1,23.3,Male,High,None,21.8,1187.8,35.6,11.8,52.6,339.4,4,84.8,0.81
+7eabf694-08b3-4316-801d-e591bcab1ad9,Dog,German Shepherd,6.0,17.4,Male,Low,Obesity,18.1,608.3,28.8,17.0,54.2,173.8,2,86.9,0.86
+8fc01cd4-ec4a-419c-9e43-938bc4a0462d,Dog,Maine Coon,13.9,25.3,Female,Moderate,Diabetes,26.0,995.0,28.9,21.7,49.4,284.3,3,94.8,0.47
+b1a8382d-2071-4b79-9eb6-f7c041c47233,Dog,Golden Retriever,6.1,24.9,Female,Low,Diabetes,26.5,842.7,39.3,14.0,46.7,240.8,2,120.4,0.56
+f8f1b361-f9cc-48ea-a381-3674e75c2cda,Dog,Maine Coon,14.7,24.7,Male,High,Allergies,25.2,1240.9,27.7,17.4,54.9,354.5,4,88.6,0.39
+039f145d-9caa-4d50-8322-3f087b23f255,Cat,Siamese Cat,3.7,6.6,Male,Moderate,Diabetes,6.9,363.2,26.5,11.1,62.4,103.8,3,34.6,0.64
+d5c78026-70e1-46a7-8743-31d5f5cbe586,Dog,Beagle,11.8,25.1,Male,Moderate,Obesity,24.6,934.1,34.8,10.0,55.2,266.9,3,89.0,0.32
+2dbc0a0c-b5ab-409f-9768-7faf28689468,Cat,Siamese Cat,4.4,2.4,Female,Moderate,Joint Issues,2.2,189.0,25.1,20.6,54.3,54.0,3,18.0,0.76
+54f16410-4984-4615-813a-71a5b317591e,Dog,Maine Coon,6.8,18.9,Male,High,Obesity,17.1,862.9,25.0,24.3,50.7,246.5,4,61.6,0.79
+64fcc33c-85f9-4000-b9a8-72e85ccdc43d,Dog,Maine Coon,2.3,23.1,Female,Moderate,Diabetes,21.4,929.3,31.0,19.5,49.5,265.5,3,88.5,0.88
+4c488f72-8861-469c-921f-333e1cc25421,Dog,Bulldog,5.8,25.6,Female,Low,Allergies,28.0,956.0,36.4,14.3,49.3,273.1,2,136.6,0.42
+663a606b-d5bd-461f-9454-56ded82eeb03,Dog,Ragdoll,1.1,30.3,Female,High,Obesity,29.9,1229.5,29.5,15.9,54.6,351.3,4,87.8,0.36
+59032dff-38e4-410a-a355-5dc040ec97f8,Cat,Persian Cat,7.6,5.1,Female,High,Obesity,5.0,323.1,27.1,12.9,60.0,92.3,4,23.1,0.73
+392b91b9-1214-4f8b-afe2-f1747c856dd7,Dog,British Shorthair,4.0,5.2,Female,Low,Joint Issues,4.8,289.3,34.7,17.5,47.8,82.7,2,41.4,0.88
+e45a64cc-c4b8-4db6-9e9a-70fd104b83fe,Dog,Maine Coon,14.5,12.9,Male,Low,Diabetes,13.2,514.6,25.8,21.8,52.4,147.0,2,73.5,0.33
+4945d97f-1305-4834-b490-cd629c913b7a,Dog,Bulldog,3.6,31.0,Female,High,Joint Issues,31.9,1471.4,27.2,18.7,54.1,420.4,4,105.1,0.85
+865b802a-a82d-4460-9447-0d658ad0d486,Dog,Golden Retriever,11.2,22.9,Female,High,None,20.9,1172.5,32.1,23.8,44.1,335.0,4,83.8,0.33
+4201a490-f1e0-42df-968c-848671c1a6d4,Dog,German Shepherd,0.7,39.9,Male,Moderate,None,43.8,1555.8,31.8,12.6,55.6,444.5,3,148.2,0.65
+0f647e8d-37a3-487b-b107-ec528674476c,Dog,Bulldog,2.2,26.5,Male,Low,Obesity,29.1,833.9,31.4,22.2,46.4,238.3,2,119.2,0.89
+97ee3759-88c2-42ba-ac55-d242d5da790a,Cat,Siamese Cat,5.2,4.3,Male,Moderate,Obesity,4.1,248.7,36.5,18.9,44.6,71.1,3,23.7,0.5
+d131ad80-c098-4bb6-b9d1-e21c1d899934,Dog,Bulldog,4.5,18.9,Female,Low,Diabetes,19.6,685.3,33.3,16.6,50.1,195.8,2,97.9,0.86
+00b665ac-0245-4737-8d49-9e15d73401e3,Dog,Golden Retriever,2.4,22.0,Female,Low,None,20.1,853.3,38.2,11.2,50.6,243.8,2,121.9,0.3
+9ee6f71e-adb5-4cc1-b539-9a21a95fc8e2,Dog,Bulldog,10.7,26.6,Female,Moderate,Allergies,28.3,1147.9,35.4,13.1,51.5,328.0,3,109.3,0.68
+a1a2d7ca-a2b9-4b89-b8cd-21e5a9cf9e44,Dog,Ragdoll,7.0,25.0,Male,Low,Joint Issues,25.6,939.1,35.4,18.9,45.7,268.3,2,134.2,0.73
+1a1d44a3-dc00-4a3f-b4b7-a003400929b9,Dog,British Shorthair,14.3,34.5,Female,Moderate,Allergies,34.7,1395.1,25.1,13.5,61.4,398.6,3,132.9,0.37
+92c54c57-787a-4c8d-8b0e-e829f9724b31,Dog,Ragdoll,14.7,10.2,Female,High,Joint Issues,10.0,639.2,28.3,21.6,50.1,182.6,4,45.6,0.7
+4cc4cec0-6da2-4927-8381-558b78ee1448,Dog,Beagle,1.3,11.3,Male,Low,Allergies,11.0,517.7,32.5,12.4,55.1,147.9,2,74.0,0.85
+e91c20a7-3a0c-410b-ba35-800ed768eca7,Dog,Golden Retriever,9.9,22.8,Female,Low,Allergies,22.4,876.5,28.8,19.3,51.9,250.4,2,125.2,0.83
+fcb7fad4-361e-4f3a-a0f0-81f24f1e9b10,Dog,Maine Coon,1.1,30.4,Male,High,Obesity,32.0,1232.5,27.4,10.4,62.2,352.1,4,88.0,0.61
+d5ad6dbd-a3bf-4901-8dc0-e959b9b88d6a,Dog,Bulldog,13.5,32.6,Female,High,Joint Issues,29.4,1528.0,29.9,13.0,57.1,436.6,4,109.2,0.71
+f5b3d261-aeae-42c8-8760-4e6858ac89f1,Cat,Persian Cat,3.8,3.8,Male,Moderate,Obesity,3.4,226.7,26.5,21.1,52.4,64.8,3,21.6,0.82
+0c326271-6f9c-4887-af35-c01319a3f1ec,Cat,Siamese Cat,13.4,1.0,Male,Moderate,Joint Issues,1.0,98.0,32.3,23.4,44.3,28.0,3,9.3,0.39
+77189327-0755-41cd-8897-43972818ed3b,Dog,British Shorthair,7.1,19.5,Female,Moderate,Obesity,19.6,773.0,31.9,12.9,55.2,220.9,3,73.6,0.52
+e993ff55-0e20-4883-a9f4-8cdcba67d2cc,Dog,Beagle,3.4,28.9,Male,Low,Joint Issues,27.3,1047.0,25.9,12.0,62.1,299.1,2,149.6,0.81
+9cd58736-e55e-408a-a0f1-1a3bf3092704,Dog,Maine Coon,6.6,24.8,Female,Low,Diabetes,22.9,840.2,34.1,21.8,44.1,240.1,2,120.0,0.68
+0ed89515-0140-48f9-86c4-17aeb9e2a84c,Dog,British Shorthair,13.6,30.8,Male,Low,Allergies,31.1,1098.2,37.9,17.3,44.8,313.8,2,156.9,0.9
+bce9af94-710a-4da7-9475-1df50a3f8e5e,Dog,British Shorthair,7.4,37.0,Female,Moderate,None,34.0,1470.2,36.0,21.0,43.0,420.1,3,140.0,0.45
+808f84fe-109b-4321-8726-e028c5ce70cf,Cat,Persian Cat,6.8,4.7,Male,High,Obesity,4.7,303.9,38.7,23.5,37.8,86.8,4,21.7,0.55
+45b5e5b4-592d-47ab-994f-448563dddb2b,Dog,Golden Retriever,1.1,20.6,Female,High,Joint Issues,21.6,1083.0,25.5,18.0,56.5,309.4,4,77.3,0.59
+bbeb0dd7-2bf7-4dac-9b1e-f01d03780358,Dog,Bulldog,7.1,16.2,Male,Low,Joint Issues,16.1,678.3,36.3,20.4,43.3,193.8,2,96.9,0.54
+91687128-c27d-4535-a9b4-895354062805,Dog,Poodle,2.4,11.3,Female,Low,None,11.2,517.7,25.2,20.0,54.8,147.9,2,74.0,0.4
+f996d1b7-b5d6-4dc7-9928-0df6bf4b6bf9,Dog,Maine Coon,12.9,8.9,Male,Moderate,Allergies,9.4,505.0,36.6,23.1,40.3,144.3,3,48.1,0.54
+97ebea30-7cbf-46da-b225-8dd08e009633,Cat,Persian Cat,9.6,3.7,Male,High,None,3.8,298.8,30.8,20.4,48.8,85.4,4,21.4,0.62
+d41da159-6848-45b2-8971-5a6ae861958a,Dog,Beagle,6.7,35.4,Female,High,Joint Issues,35.0,1625.4,33.1,21.9,45.0,464.4,4,116.1,0.77
+3c5a5268-97a2-4b96-bfeb-0748d9550a5d,Dog,Bulldog,9.5,31.8,Female,High,None,28.9,1499.8,32.7,23.7,43.6,428.5,4,107.1,0.52
+549bd576-6b3c-42a2-a4df-92a110c7f790,Dog,Golden Retriever,2.1,20.1,Female,Moderate,Joint Issues,21.7,930.3,25.6,15.5,58.9,265.8,3,88.6,0.69
+9e97385b-b958-4dee-a0f6-12d998576167,Dog,Bulldog,8.6,46.6,Male,Low,Diabetes,48.1,1348.4,28.6,11.7,59.7,385.3,2,192.7,0.59
+3ca49657-a414-4d03-b89c-7457e078aee2,Dog,British Shorthair,13.1,18.9,Male,High,Obesity,20.4,862.9,29.8,23.5,46.7,246.5,4,61.6,0.6
+4cd10fce-8490-4965-9b1a-173feb6741dc,Cat,Siamese Cat,4.5,7.6,Male,Moderate,Diabetes,6.9,403.7,31.8,17.5,50.7,115.3,3,38.4,0.8
+b32a58da-db16-4567-9edf-0ea04a03b967,Dog,Maine Coon,10.8,40.6,Female,Moderate,Joint Issues,40.7,1576.2,30.5,20.1,49.4,450.3,3,150.1,0.72
+7c53f0c2-bdb5-4d11-809f-faa44e1a8588,Dog,Bulldog,3.2,29.6,Female,Low,None,29.7,1066.0,30.9,12.7,56.4,304.6,2,152.3,0.87
+3d75bc66-3392-4006-8549-4ff958be1c41,Dog,Bulldog,2.1,18.2,Female,Low,Obesity,18.9,629.1,32.4,23.1,44.5,179.7,2,89.8,0.61
+a98a5f9a-202c-4010-8395-48ee0bee37ba,Dog,Golden Retriever,4.8,21.3,Male,Moderate,Diabetes,19.5,874.5,31.3,21.1,47.6,249.9,3,83.3,0.31
+79372480-251d-410e-808b-81cd513b9ba1,Dog,Poodle,1.4,26.8,Male,High,Diabetes,24.2,1187.3,31.2,15.1,53.7,339.2,4,84.8,0.69
+69bef0bd-41a5-4b0a-a09c-39f449d709e7,Cat,Persian Cat,7.5,2.3,Female,Moderate,Diabetes,2.2,164.7,33.5,23.5,43.0,47.1,3,15.7,0.48
+0e457cfd-92d1-4cdd-b938-7a5c22faced1,Dog,Beagle,3.8,15.3,Female,Moderate,None,16.1,758.1,27.2,14.3,58.5,216.6,3,72.2,0.87
+83bb2225-261d-4eec-99e0-38b2a26b93c1,Dog,British Shorthair,13.9,14.5,Female,Low,Obesity,13.6,530.5,37.6,20.4,42.0,151.6,2,75.8,0.7
+2955cf8e-de69-4925-b1b3-b4a12ae6efa6,Dog,German Shepherd,2.8,30.4,Male,Low,Diabetes,28.0,978.8,33.6,16.6,49.8,279.7,2,139.8,0.52
+624c3297-7fa6-4da1-b34e-55dbd89e36e9,Dog,Poodle,8.7,36.9,Male,High,Diabetes,35.2,1509.1,39.7,12.2,48.1,431.2,4,107.8,0.57
+f9cf2674-aa6e-409d-9285-2f4638e11e30,Dog,German Shepherd,8.2,32.2,Male,Low,Allergies,29.1,1135.5,39.0,21.5,39.5,324.4,2,162.2,0.87
+e1902e73-47b8-4d89-8418-1243501040fd,Cat,Persian Cat,2.8,7.0,Female,High,Diabetes,7.2,433.8,32.1,14.3,53.6,123.9,4,31.0,0.87
+dc4274b2-e99c-40af-98ff-291560bf20ba,Dog,British Shorthair,10.2,17.4,Female,Moderate,None,17.0,834.9,36.0,23.5,40.5,238.5,3,79.5,0.38
+5135083f-70b6-43e5-9977-505a31ba35ba,Dog,Ragdoll,2.2,21.8,Male,Moderate,Joint Issues,22.3,988.7,37.6,16.7,45.7,282.5,3,94.2,0.36
+008ae856-5f01-49a2-a936-28e219507b48,Dog,Golden Retriever,9.3,22.5,Male,High,Joint Issues,23.7,1157.1,28.3,24.0,47.7,330.6,4,82.7,0.47
+b8db0134-2829-4ee3-9370-db57ea789be7,Dog,Golden Retriever,1.7,29.6,Female,High,None,26.9,1421.3,39.6,15.9,44.5,406.1,4,101.5,0.59
+b55c6cf1-60ef-438e-8a77-63e1817ce1b4,Dog,British Shorthair,9.3,46.7,Male,High,Diabetes,51.1,1800.7,31.0,20.7,48.3,514.5,4,128.6,0.56
+548d5f97-84b9-4f7c-8457-4c84e472c4dc,Cat,Siamese Cat,5.9,3.7,Female,Moderate,Diabetes,4.1,235.3,29.6,16.7,53.7,67.2,3,22.4,0.64
+65a208a4-49c8-4cba-90f4-72ee551e2c62,Dog,Poodle,11.1,34.3,Female,High,Allergies,35.0,1587.4,37.1,14.3,48.6,453.5,4,113.4,0.78
+1bb7d363-fe7d-4f4d-bcbd-8c5b3521337a,Cat,Siamese Cat,11.1,8.1,Female,Low,Joint Issues,8.6,403.3,34.0,12.2,53.8,115.2,2,57.6,0.48
+dc26423b-6942-4b70-80a0-dc445145938e,Dog,Ragdoll,14.8,30.1,Male,High,Allergies,31.0,1439.3,26.3,16.1,57.6,411.2,4,102.8,0.85
+db2e6b73-8fb1-47e3-992d-f6178f0de648,Cat,Siamese Cat,3.0,4.3,Female,High,Joint Issues,4.7,334.4,36.3,12.1,51.6,95.5,4,23.9,0.41
+bbd28ce6-e84a-4016-be8c-ce2503724dd0,Cat,Siamese Cat,4.7,3.3,Female,Low,Diabetes,3.1,185.1,37.5,14.6,47.9,52.9,2,26.4,0.64
+8c6b38eb-b586-4dfe-a9e5-7cd59b9ffef6,Dog,Maine Coon,3.8,14.6,Male,Low,Diabetes,14.4,564.7,29.5,19.6,50.9,161.3,2,80.7,0.68
+4d2436c8-e07c-486c-b5d7-4cff0221f7fa,Dog,Bulldog,10.0,5.3,Female,Moderate,Obesity,5.4,291.0,32.4,20.3,47.3,83.1,3,27.7,0.45
+08165b65-c444-4c27-a5ce-a00832a3e8db,Dog,Bulldog,11.6,22.8,Female,Low,Joint Issues,24.6,876.5,36.2,18.7,45.1,250.4,2,125.2,0.64
+e7e8533c-6a59-4d1c-b56b-a3a0b7398aa7,Dog,Beagle,9.6,22.2,Female,High,None,22.8,1145.5,30.6,21.0,48.4,327.3,4,81.8,0.31
+2d111e41-1558-4c97-a3b6-b13e39bf122b,Dog,Beagle,2.9,33.6,Male,Low,Diabetes,36.0,1055.1,31.9,20.4,47.7,301.5,2,150.8,0.51
+1420324a-343e-4e61-9d69-a3befedea65e,Dog,Golden Retriever,4.5,19.2,Female,High,Diabetes,20.5,924.6,25.7,14.4,59.9,264.2,4,66.0,0.68
+43b99592-cc6e-4676-9446-5b2d08693f68,Dog,Bulldog,8.0,23.3,Male,Low,Joint Issues,24.5,890.8,36.3,18.2,45.5,254.5,2,127.2,0.82
+32dd5849-60f4-4126-ae8b-3e22148b4aad,Dog,Beagle,4.4,27.8,Female,Low,Joint Issues,27.6,1017.0,33.7,22.3,44.0,290.6,2,145.3,0.31
+98a20ddf-422f-4463-992e-d1d8f593f986,Dog,Ragdoll,4.6,29.9,Female,Moderate,Diabetes,31.6,1127.8,38.8,12.4,48.8,322.2,3,107.4,0.43
+442b8ea8-c19d-429e-be9f-df03eb5cbe26,Dog,Ragdoll,3.7,32.3,Male,High,Joint Issues,33.3,1517.5,35.3,24.3,40.4,433.6,4,108.4,0.81
+5455538d-5724-44d7-84bf-7187d0897b33,Dog,Ragdoll,10.7,26.8,Male,Moderate,Allergies,29.4,1154.3,38.7,11.7,49.6,329.8,3,109.9,0.38
+2f680f65-1f7b-4d95-8dea-36c164664f99,Dog,Golden Retriever,7.5,12.0,Female,High,Diabetes,13.0,649.9,27.1,16.6,56.3,185.7,4,46.4,0.89
+533139b5-0163-41a4-9b1c-9304962faa0e,Dog,Ragdoll,11.6,29.0,Female,Low,Diabetes,30.8,944.8,25.4,22.2,52.4,269.9,2,134.9,0.43
+4c8bac47-c672-4bef-a703-57c0a2c8665f,Dog,German Shepherd,10.5,18.5,Female,Low,Obesity,17.4,636.9,27.0,11.2,61.8,182.0,2,91.0,0.71
+d97ff4ef-46e3-4b7b-bcc3-81ede7b7640e,Dog,Bulldog,1.6,37.4,Female,Moderate,None,39.1,1482.1,27.9,10.5,61.6,423.5,3,141.2,0.7
+d15e4c7f-8e59-44de-a9de-d7f99bd70933,Dog,British Shorthair,1.4,25.2,Male,Moderate,None,25.4,1102.2,26.0,20.0,54.0,314.9,3,105.0,0.75
+7ec38005-029d-4bd4-aaf7-6f4e512eee33,Dog,Bulldog,13.8,27.4,Male,High,Obesity,26.3,1140.1,27.8,15.3,56.9,325.7,4,81.4,0.35
+7044820a-000f-4889-b88f-64ac1f02609b,Dog,Beagle,14.3,51.0,Female,Moderate,Obesity,51.7,1589.7,37.8,21.7,40.5,454.2,3,151.4,0.67
+4c6dcd4e-a7c8-4fcd-9cb3-8ca171a41712,Dog,Ragdoll,8.8,32.5,Male,High,None,33.4,1524.5,32.9,20.7,46.4,435.6,4,108.9,0.88
+95030b80-a5ae-427f-82a9-d8d4cca61d2a,Dog,German Shepherd,13.6,28.8,Male,High,None,30.3,1392.4,38.9,23.8,37.3,397.8,4,99.5,0.81
+3a7ed343-d520-4597-99ae-d4ad695c92f7,Dog,Maine Coon,5.8,23.6,Male,Moderate,None,21.3,1049.3,27.7,15.3,57.0,299.8,3,99.9,0.53
+4605b6d0-d797-41b4-8542-e140f0706161,Dog,Poodle,8.0,12.8,Female,Low,Diabetes,12.2,511.6,26.9,11.7,61.4,146.2,2,73.1,0.38
+ae5373e4-f2fa-4704-8f0a-022ce915ea74,Cat,Persian Cat,10.7,4.6,Male,Low,Diabetes,4.9,237.5,32.4,15.8,51.8,67.9,2,34.0,0.57
+7dbf40c4-2e57-425d-9581-9fb112348bff,Dog,Beagle,10.5,16.5,Female,Low,Joint Issues,15.5,687.7,31.1,24.8,44.1,196.5,2,98.2,0.56
+bc28ce89-0df1-48fc-9a3d-0153d8f20efa,Dog,Bulldog,13.5,41.7,Female,High,Diabetes,42.7,1654.1,27.7,25.0,47.3,472.6,4,118.2,0.59
+1b6c682a-7ca9-483a-8ea9-0c972759b421,Dog,Bulldog,6.2,28.9,Male,Low,Obesity,27.1,890.0,30.9,20.4,48.7,254.3,2,127.2,0.89
+72dcf5d6-d474-4574-9d8e-2cff58ad6ad3,Dog,German Shepherd,1.4,37.0,Male,Moderate,Obesity,37.4,1249.7,33.9,24.9,41.2,357.1,3,119.0,0.37
+7038cde0-a885-44de-be36-b2033f1f4c3f,Cat,Siamese Cat,11.0,3.8,Female,High,Joint Issues,3.4,304.8,33.9,21.3,44.8,87.1,4,21.8,0.78
+cd231a14-ab43-4223-900b-eea7600210e8,Cat,Siamese Cat,5.7,3.4,Female,Moderate,Joint Issues,3.7,245.4,29.2,21.5,49.3,70.1,3,23.4,0.36
+dcad0d77-7c36-4383-9678-d8bcf7b3ec7d,Dog,Beagle,7.6,31.5,Male,High,Obesity,30.7,1265.8,25.4,21.1,53.5,361.7,4,90.4,0.8
+97a2c83c-2b81-4651-847a-ccb037875f23,Dog,Maine Coon,10.3,16.1,Male,Moderate,Joint Issues,15.5,787.7,35.2,12.3,52.5,225.1,3,75.0,0.67
+318bae94-f77c-4544-aad9-acd26ec7d809,Dog,Bulldog,11.5,20.6,Female,Moderate,Obesity,22.2,805.5,29.4,17.5,53.1,230.1,3,76.7,0.6
+d67d928a-7ab4-4103-9bcf-e0cda3f211a1,Dog,Ragdoll,5.5,42.3,Male,Low,Allergies,45.6,1393.3,38.2,11.8,50.0,398.1,2,199.1,0.57
+757a95a1-0f95-47dd-9043-c994700fff6b,Cat,Siamese Cat,6.9,4.2,Male,Low,Obesity,4.3,209.5,33.3,22.9,43.8,59.9,2,29.9,0.48
+ebbd8659-dcc6-453f-a9b9-b5d9d4a44a23,Dog,German Shepherd,7.6,10.8,Male,Moderate,Allergies,11.2,583.8,32.3,11.6,56.1,166.8,3,55.6,0.71
+61bfe90a-8c3c-420c-9acc-83d6de42efae,Dog,Ragdoll,10.4,7.4,Female,Moderate,Joint Issues,6.7,439.7,37.8,17.6,44.6,125.6,3,41.9,0.53
+c3daedca-962c-4dd1-9dd6-db73ef5e8d50,Dog,Maine Coon,9.1,9.7,Female,High,Diabetes,10.3,554.0,36.5,14.3,49.2,158.3,4,39.6,0.34
+a62b32cb-2036-43a5-bbf7-68aaa51c6967,Dog,British Shorthair,1.2,37.6,Female,Moderate,Joint Issues,34.5,1488.0,25.4,23.4,51.2,425.1,3,141.7,0.5
+10aaaa78-a604-409b-be00-c3aba57047a4,Dog,Bulldog,6.7,19.5,Female,Moderate,Diabetes,20.1,818.5,25.8,13.7,60.5,233.9,3,78.0,0.44
+ee7a933e-2ac1-4726-8fcd-0507804ed435,Dog,Beagle,9.1,50.6,Male,Moderate,None,46.2,1859.3,30.1,10.3,59.6,531.2,3,177.1,0.5
+aa831dc9-f1a6-48fc-a55e-acda4722c876,Dog,Maine Coon,10.0,40.4,Female,High,Joint Issues,40.9,1794.8,38.5,14.0,47.5,512.8,4,128.2,0.72
+d430a15c-2b2a-481d-9496-ccf4cdb31221,Dog,British Shorthair,0.8,45.1,Female,Moderate,Joint Issues,46.0,1705.5,30.9,18.6,50.5,487.3,3,162.4,0.78
+45edc3c2-f121-4913-99db-63ff699cac00,Dog,Bulldog,10.5,35.2,Male,Moderate,Allergies,33.6,1416.2,32.5,21.5,46.0,404.6,3,134.9,0.5
+ad280484-c910-4e5b-92a4-a6f94001da9e,Dog,British Shorthair,4.8,30.9,Female,Low,Allergies,32.9,1100.9,34.5,24.6,40.9,314.5,2,157.2,0.35
+7cf96e5c-365a-4e4c-a9e0-a972b3192ffd,Dog,Ragdoll,3.6,16.8,Female,Low,Diabetes,15.3,627.3,39.9,16.0,44.1,179.2,2,89.6,0.44
+d8f2451b-9ad8-4959-b190-6bd91c92183d,Dog,Bulldog,10.9,25.0,Male,High,Diabetes,24.2,1127.0,29.1,18.5,52.4,322.0,4,80.5,0.62
+62d6acb1-5064-4f8f-9f61-8b73d3f79ee2,Cat,Siamese Cat,3.5,6.4,Male,High,Diabetes,6.8,405.6,32.6,14.5,52.9,115.9,4,29.0,0.7
+91d45d8f-659d-4b3e-a970-71a82f393d33,Cat,Persian Cat,3.4,6.9,Female,Moderate,Joint Issues,6.9,417.2,32.7,20.1,47.2,119.2,3,39.7,0.63
+9b543cf7-abdf-4669-94fd-b81d7507d93b,Dog,Golden Retriever,9.6,13.6,Male,High,Allergies,13.1,793.2,28.2,24.4,47.4,226.6,4,56.6,0.75
+f44eee6b-0af4-45d3-b4e9-cfd75fecc952,Dog,Maine Coon,4.4,23.1,Female,High,None,22.8,1180.1,32.8,15.5,51.7,337.2,4,84.3,0.39
+dc8f8a7f-981f-490d-980d-52aa42768eea,Dog,German Shepherd,11.3,24.2,Female,Moderate,Allergies,24.7,1069.3,29.8,22.5,47.7,305.5,3,101.8,0.34
+42822199-dca7-4dde-846d-49bcd51790c8,Dog,Poodle,12.8,23.8,Female,Moderate,Obesity,24.9,897.6,28.8,19.0,52.2,256.5,3,85.5,0.54
+5dd90553-8f7d-42bc-873a-011a2ca93df8,Dog,Bulldog,2.7,14.8,Male,Low,Diabetes,15.2,570.5,32.0,18.4,49.6,163.0,2,81.5,0.56
+5c34ff0f-3b2c-45c5-ad4a-3135bb4f695b,Dog,Golden Retriever,3.4,43.5,Female,Low,None,46.0,1422.8,28.9,22.1,49.0,406.5,2,203.2,0.7
+6c8b0ade-8ed0-4367-ab49-720d5bc5b66f,Dog,German Shepherd,9.8,22.7,Male,High,Allergies,24.2,1164.8,36.7,10.8,52.5,332.8,4,83.2,0.84
+2566a4af-21e6-4f79-8b69-c71ea1d03fa5,Cat,Persian Cat,9.2,3.1,Male,Moderate,Diabetes,3.0,206.1,35.1,23.3,41.6,58.9,3,19.6,0.54
+226920e9-f153-4280-a926-3c0a68457536,Dog,German Shepherd,3.9,43.8,Male,High,Joint Issues,41.0,1906.9,39.2,24.0,36.8,544.8,4,136.2,0.45
+8f2a39ac-ed20-455b-8ef4-5a5efe563bfb,Dog,Bulldog,4.0,40.4,Male,Moderate,Diabetes,39.3,1413.4,37.5,21.1,41.4,403.8,3,134.6,0.78
+70d75bbb-55cf-48fe-b48b-160ba99cf97e,Dog,Poodle,14.1,26.4,Male,Low,None,25.3,978.3,27.6,24.5,47.9,279.5,2,139.8,0.56
+93686a25-7156-4ac9-811b-e01eda113acc,Dog,Beagle,13.0,7.3,Male,Moderate,Joint Issues,7.9,435.2,30.6,24.2,45.2,124.3,3,41.4,0.49
+5e7cda08-fdde-42f3-8c35-f24ba723c960,Cat,Siamese Cat,7.4,4.1,Male,Moderate,Obesity,4.4,240.0,30.4,20.7,48.9,68.6,3,22.9,0.79
+3c9e3d6d-274d-4fef-9273-3b0fc49e5aa1,Dog,Golden Retriever,9.9,9.1,Male,High,None,9.7,586.8,35.4,21.8,42.8,167.7,4,41.9,0.44
+66e5a8bb-ae79-4efa-b1cb-702194046844,Dog,Ragdoll,6.1,30.1,Female,High,None,29.8,1439.3,33.0,13.5,53.5,411.2,4,102.8,0.57
+ff2b2020-0445-4a71-98a8-14cb25129691,Dog,Golden Retriever,13.7,19.7,Female,Moderate,Diabetes,19.6,824.7,26.4,22.3,51.3,235.6,3,78.5,0.44
+198a892b-d7b7-4913-aac9-3acd9c97e6d1,Dog,Poodle,13.0,24.7,Male,Moderate,Diabetes,24.4,977.2,38.2,21.5,40.3,279.2,3,93.1,0.54
+8091c753-d2b7-420f-9061-b7668ab86872,Dog,Golden Retriever,4.5,42.7,Male,Moderate,Allergies,44.7,1637.0,36.1,23.9,40.0,467.7,3,155.9,0.5
+adcc5224-f519-42de-ac88-f8e25ea64405,Cat,Siamese Cat,13.2,3.8,Male,Low,Diabetes,3.9,205.8,32.6,15.3,52.1,58.8,2,29.4,0.66
+934b5119-a356-4a65-92bc-a5ba4d355997,Dog,Ragdoll,11.2,29.7,Female,High,None,27.5,1424.9,36.4,19.6,44.0,407.1,4,101.8,0.41
+cd8fbc98-643b-4fe9-85fc-c6c16d9502e6,Dog,Maine Coon,12.0,32.7,Male,Low,Allergies,35.7,1148.7,28.0,14.6,57.4,328.2,2,164.1,0.65
+7ad6435e-787f-4b05-bf1f-7cfd34cab509,Dog,Bulldog,2.8,37.3,Male,High,Allergies,34.1,1690.4,36.9,14.8,48.3,483.0,4,120.8,0.59
+71a32f82-0d53-40c4-8cac-c87eab151cea,Dog,German Shepherd,4.3,24.0,Female,Moderate,Obesity,22.9,903.2,26.3,15.5,58.2,258.1,3,86.0,0.54
+2abb2bcb-fe6f-4e1c-8cbe-18719c71e47e,Cat,Siamese Cat,14.2,4.6,Male,Low,None,4.4,263.8,38.8,19.7,41.5,75.4,2,37.7,0.68
+14c3f0a2-333f-4d65-8461-ea2d89bd2706,Dog,Bulldog,14.6,22.7,Male,Moderate,Obesity,21.7,866.3,25.7,19.3,55.0,247.5,3,82.5,0.66
+096989f6-a8af-48e3-937a-7e9c213df15f,Dog,German Shepherd,1.8,28.7,Female,Low,Joint Issues,30.2,1041.6,26.8,20.8,52.4,297.6,2,148.8,0.56
+151a1acd-db8f-40a1-933c-b45e0a7f1368,Dog,Maine Coon,12.5,39.9,Female,Low,Obesity,36.4,1133.5,35.7,12.9,51.4,323.9,2,161.9,0.82
+96cec862-de7e-4efb-9944-f9737c921d0e,Dog,Beagle,4.7,22.3,Female,Moderate,Obesity,22.2,854.8,31.5,13.1,55.4,244.2,3,81.4,0.43
+d80dd7eb-bcf6-44b7-8f19-12d865d2cc57,Dog,Beagle,11.0,1.0,Male,Moderate,Obesity,1.0,83.3,31.1,12.2,56.7,23.8,3,7.9,0.47
+dfb67832-2897-4f3c-bb8e-e97156316d5e,Dog,Beagle,3.9,33.8,Female,Low,Diabetes,36.5,1059.8,33.7,19.7,46.6,302.8,2,151.4,0.35
+111d6335-6c25-47ae-a976-f3e0b7baac06,Dog,Maine Coon,2.4,25.7,Female,High,Allergies,27.9,1278.4,35.3,20.7,44.0,365.3,4,91.3,0.73
+a1d865fa-f68f-4e26-8955-d4684e33f057,Dog,British Shorthair,4.2,30.2,Male,High,None,27.5,1442.9,25.8,24.0,50.2,412.3,4,103.1,0.58
+bc5f901b-9c5e-4d91-be4f-8068d436d63c,Cat,Persian Cat,15.0,1.9,Male,Low,Diabetes,2.0,122.3,32.6,15.7,51.7,34.9,2,17.4,0.89
+c35bb1c5-be45-4977-bbc3-4da786a07afe,Cat,Persian Cat,2.4,3.9,Male,High,Obesity,4.3,264.2,28.9,17.6,53.5,75.5,4,18.9,0.86
+4e043303-fb1d-454b-a16b-933ad7f3ee71,Dog,Maine Coon,2.4,32.9,Female,High,Joint Issues,30.9,1538.6,31.5,13.9,54.6,439.6,4,109.9,0.49
+b803b119-13e0-4d12-91cb-19a3a15dedfe,Dog,German Shepherd,7.7,12.5,Female,High,Diabetes,12.7,670.1,38.9,14.2,46.9,191.5,4,47.9,0.83
+4abbdc7f-2840-4f17-8b9f-202a62e09a2a,Dog,British Shorthair,12.5,29.7,Female,High,Diabetes,30.3,1282.4,31.5,12.5,56.0,366.4,4,91.6,0.74
+517d4a45-f616-488f-9cc6-3bdf6dd78bd2,Dog,Maine Coon,11.6,24.6,Male,High,Allergies,23.9,1237.1,25.8,12.2,62.0,353.5,4,88.4,0.44
+e8aa9c00-6646-455f-a847-2f11a2a50346,Dog,Golden Retriever,7.3,17.7,Male,High,Allergies,18.9,966.5,31.5,24.9,43.6,276.1,4,69.0,0.86
+ad788320-39b0-4d12-81a0-f42b431f4156,Dog,Golden Retriever,6.9,16.9,Female,Moderate,Allergies,17.1,816.8,26.7,20.8,52.5,233.4,3,77.8,0.39
+6e630482-c953-4605-ab19-5818e62e35a5,Cat,Persian Cat,1.9,3.0,Female,Low,Obesity,3.2,162.8,36.2,22.3,41.5,46.5,2,23.2,0.64
+a9facd25-bdd1-4bf5-9880-e57ac3ecb125,Dog,British Shorthair,3.6,25.6,Male,High,Joint Issues,26.7,1274.7,27.7,23.8,48.5,364.2,4,91.0,0.45
+1df62bce-ee64-4c0d-b3aa-405d0d73579a,Dog,Maine Coon,10.3,26.8,Female,Low,Diabetes,27.0,890.5,35.2,20.2,44.6,254.4,2,127.2,0.54
+633d2edc-6ea4-4a27-8923-b6b537955f61,Dog,British Shorthair,14.0,21.3,Male,Moderate,Obesity,19.5,825.9,25.4,16.9,57.7,236.0,3,78.7,0.72
+dbd6fd3c-5849-43a8-bfc3-59c99fa9caba,Dog,Maine Coon,7.1,14.3,Female,High,None,13.3,823.6,29.9,10.7,59.4,235.3,4,58.8,0.67
+4ff11e14-0b59-4762-8932-62602a68f05d,Dog,Maine Coon,5.2,4.2,Male,Low,None,4.6,246.4,37.0,14.2,48.8,70.4,2,35.2,0.78
+464284a5-5b25-4bb8-a01f-a0eda45c90dc,Dog,Bulldog,8.4,29.4,Female,Low,Allergies,29.2,1060.6,28.8,13.6,57.6,303.0,2,151.5,0.76
+f1e70e37-7a9b-400f-abd6-3e579ac54ef6,Cat,Siamese Cat,1.8,6.8,Male,Low,Allergies,6.7,353.7,36.7,14.3,49.0,101.1,2,50.5,0.75
+009a882a-0283-4d56-be52-5412bf62e6e6,Dog,German Shepherd,2.2,31.2,Female,Moderate,Diabetes,28.5,1164.4,38.6,19.1,42.3,332.7,3,110.9,0.52
+280791ba-3547-4c48-b548-f089f0bb28ac,Dog,Bulldog,12.6,45.6,Male,Moderate,Allergies,45.7,1719.7,38.3,17.1,44.6,491.3,3,163.8,0.64
+d50ccdc2-6664-42ed-9960-76c35a805555,Cat,Siamese Cat,1.8,4.6,Female,Moderate,Joint Issues,4.2,307.8,27.8,19.5,52.7,87.9,3,29.3,0.36
+b582452e-c234-4e23-9833-5524f9e22252,Dog,Ragdoll,5.5,38.7,Female,High,Obesity,40.9,1477.1,34.7,20.7,44.6,422.0,4,105.5,0.86
+b8750c3d-0590-4374-9c74-e4f72e0838e8,Dog,Ragdoll,9.6,18.5,Male,Moderate,Allergies,17.3,874.2,31.6,23.6,44.8,249.8,3,83.3,0.59
+b00bc96a-11dd-4b1d-97f9-d0b79f086053,Dog,German Shepherd,14.8,17.0,Female,Low,Joint Issues,16.4,703.3,31.4,18.5,50.1,200.9,2,100.5,0.63
+778d8cc2-3b57-4658-bbc5-d71708606425,Dog,Golden Retriever,7.9,26.2,Female,Moderate,None,24.7,1134.9,32.0,20.8,47.2,324.3,3,108.1,0.79
+940d1c1c-6ed1-4e61-8bc5-11a271bbd4e7,Cat,Persian Cat,4.2,8.2,Male,High,None,8.8,542.7,26.7,19.9,53.4,155.1,4,38.8,0.41
+d6dce25a-435f-44cb-b6c7-9620b3a2a928,Dog,German Shepherd,12.7,22.1,Male,Low,Allergies,24.2,856.2,38.2,14.5,47.3,244.6,2,122.3,0.65
+ae41dc6a-f2b7-440f-9dbc-41a215bde267,Dog,Maine Coon,11.5,9.4,Female,High,Diabetes,9.9,541.1,30.1,23.8,46.1,154.6,4,38.6,0.79
+cb6c5b77-d07b-43bc-9ea0-d759919399b7,Dog,Poodle,3.2,33.8,Female,High,None,34.1,1570.0,31.5,10.3,58.2,448.6,4,112.2,0.54
+73e2bc21-e194-4268-95ad-cf7b388355ab,Dog,Golden Retriever,3.0,24.2,Female,Moderate,Allergies,24.2,1069.3,38.0,24.5,37.5,305.5,3,101.8,0.66
+f1914940-1e95-4e8e-8ee8-f212214a02ab,Dog,Maine Coon,4.9,28.0,Female,High,Allergies,29.8,1363.3,37.1,11.3,51.6,389.5,4,97.4,0.38
+a37183e4-f84f-448c-8f13-3a670f7f5efe,Dog,Poodle,2.1,17.5,Male,High,Obesity,17.1,814.5,37.9,13.1,49.0,232.7,4,58.2,0.69
+a6c94d9b-c440-4baa-a48b-cf82415d050c,Dog,Poodle,6.8,26.1,Male,Low,Diabetes,25.0,873.0,36.5,12.2,51.3,249.4,2,124.7,0.55
+a00fbb30-0637-4501-aec4-44a6dc8e5d34,Dog,Bulldog,2.9,10.6,Male,High,Allergies,11.2,658.0,39.5,17.1,43.4,188.0,4,47.0,0.82
+9ab8590b-37a9-4ea0-ac6c-6005afd5261f,Dog,British Shorthair,4.0,43.7,Female,High,Allergies,46.3,1903.6,25.8,10.1,64.1,543.9,4,136.0,0.68
+6d5e2454-86d0-402c-bad2-9c5eb17b9a00,Cat,Siamese Cat,14.7,7.2,Female,High,Joint Issues,7.1,492.3,33.9,18.3,47.8,140.7,4,35.2,0.47
+b55bb1c4-4d58-4ff6-8ebd-31cd20fde74d,Dog,Maine Coon,6.3,25.7,Female,Low,None,23.9,958.8,32.9,16.3,50.8,273.9,2,136.9,0.49
+0fa7c436-bdd4-404c-8101-ec7da25e9bd1,Dog,Bulldog,4.4,33.5,Female,Moderate,None,34.8,1364.6,32.4,24.1,43.5,389.9,3,130.0,0.51
+0428ff81-4b71-465a-8e5f-144ebc23fe40,Cat,Siamese Cat,0.8,3.7,Female,High,Obesity,4.0,254.0,32.0,16.6,51.4,72.6,4,18.1,0.6
+8061b7fd-a48e-4f25-86ac-596a835877c9,Dog,British Shorthair,13.7,35.3,Female,High,Allergies,38.2,1622.0,27.0,14.4,58.6,463.4,4,115.8,0.73
+e6cfefa5-6b8c-4868-bc65-288bbe5aa0c6,Cat,Siamese Cat,12.6,4.3,Female,Moderate,Obesity,4.0,248.7,34.3,14.2,51.5,71.1,3,23.7,0.75
+42148831-d95e-418d-aef3-1acc04f46ba1,Dog,Maine Coon,2.4,21.0,Male,Low,Joint Issues,22.7,824.0,32.4,21.9,45.7,235.4,2,117.7,0.87
+ccddbf1d-640e-4f3e-9679-cf4c0b3f4913,Dog,Maine Coon,4.9,15.4,Male,High,None,15.2,870.7,40.0,15.4,44.6,248.8,4,62.2,0.46
+c353eee6-c940-4a37-9584-569542c2087f,Dog,German Shepherd,3.0,29.2,Male,Low,Diabetes,29.9,949.6,31.5,19.3,49.2,271.3,2,135.7,0.37
+79632db7-6257-41ce-a9be-c174812b37df,Dog,Poodle,7.6,25.2,Female,Moderate,None,27.6,1102.2,36.6,18.4,45.0,314.9,3,105.0,0.84
+332accdb-4da0-42e9-915e-0427f35c7db3,Dog,Ragdoll,9.3,39.1,Male,High,None,38.5,1751.3,38.9,16.6,44.5,500.4,4,125.1,0.57
+b7f0beaa-c93c-44f4-b628-256f480b9708,Dog,Bulldog,14.6,14.4,Male,High,None,15.5,827.9,32.6,12.5,54.9,236.5,4,59.1,0.37
+098eac41-9782-4972-b724-37f755579235,Dog,Poodle,13.7,29.3,Male,High,Diabetes,28.9,1269.4,35.6,21.4,43.0,362.7,4,90.7,0.6
+caec6294-3576-429a-8018-51ef7eae1d34,Dog,Bulldog,2.7,36.9,Female,Moderate,Obesity,38.5,1247.1,26.8,13.0,60.2,356.3,3,118.8,0.88
+2bd15792-51c8-4837-a2f2-51b54f43491e,Dog,Golden Retriever,4.1,50.9,Female,Moderate,Diabetes,54.9,1680.8,32.6,11.3,56.1,480.2,3,160.1,0.52
+86d94006-dc49-4548-9dd6-6104482a5cc4,Cat,Siamese Cat,5.7,5.4,Male,Low,Joint Issues,5.1,297.6,31.3,13.4,55.3,85.0,2,42.5,0.78
+be55fcf5-e63a-4834-93aa-7836ec46a526,Cat,Siamese Cat,13.8,4.3,Female,High,Diabetes,4.6,301.0,39.2,16.6,44.2,86.0,4,21.5,0.76
+77567a5c-39d5-47a6-852f-f65f5b2db5b2,Dog,Ragdoll,14.2,26.7,Male,Moderate,Diabetes,27.8,1036.0,31.0,21.6,47.4,296.0,3,98.7,0.56
+19350dec-5eb0-4c51-86e4-dc78e5fb6d9e,Cat,Siamese Cat,11.5,7.6,Male,High,None,7.3,512.7,39.7,24.7,35.6,146.5,4,36.6,0.78
+0d878f38-c047-4a74-9b04-63c5e96da1c5,Dog,Ragdoll,14.6,38.2,Female,Moderate,Joint Issues,37.9,1505.8,38.1,20.8,41.1,430.2,3,143.4,0.49
+30dd3e62-5f0c-4823-8e02-bc124a3e2793,Cat,Persian Cat,0.6,4.8,Female,High,Joint Issues,4.7,363.2,38.8,20.5,40.7,103.8,4,25.9,0.57
+6cb95338-a8cf-42ce-aa58-73b10d8cdc39,Dog,Poodle,13.4,38.0,Female,High,Diabetes,36.7,1542.8,38.3,21.7,40.0,440.8,4,110.2,0.54
+be54a6ae-75d3-4f5b-bc26-a55fffa079c0,Dog,Poodle,13.3,24.8,Male,Low,Joint Issues,23.2,933.5,30.0,20.9,49.1,266.7,2,133.3,0.74
+beff87f0-6a2e-44b2-b7df-aebffbdd640f,Dog,German Shepherd,8.0,33.4,Female,Low,None,30.7,1167.0,32.7,14.7,52.6,333.4,2,166.7,0.5
+f822595e-29f0-4c1f-8fca-7510adcb05be,Dog,German Shepherd,0.8,30.5,Female,Low,Diabetes,28.9,981.2,35.9,24.8,39.3,280.3,2,140.2,0.37
+8b6fa3a1-374a-4d28-b2e5-8f2e36e11ac6,Dog,Golden Retriever,12.7,21.1,Female,High,Joint Issues,20.9,1102.6,30.3,10.7,59.0,315.0,4,78.8,0.69
+7809a78f-a835-4c39-86c8-9303a7ab9c03,Dog,Bulldog,7.0,15.8,Male,Moderate,Diabetes,16.6,699.0,39.7,22.1,38.2,199.7,3,66.6,0.89
+19769380-e636-4731-8411-4ed26dd6ec08,Dog,British Shorthair,10.9,37.2,Male,Moderate,Diabetes,36.1,1328.5,29.3,21.8,48.9,379.6,3,126.5,0.73
+a1f65c74-5ad2-4b01-8133-9fd41d5a15f4,Dog,German Shepherd,10.9,40.2,Male,Low,Diabetes,42.9,1207.0,32.7,12.9,54.4,344.9,2,172.4,0.77
+174a7370-3e58-458e-9b7d-0af14efb5bd4,Dog,Maine Coon,1.9,29.0,Female,Moderate,None,29.8,1224.7,26.4,16.4,57.2,349.9,3,116.6,0.38
+a02b4fa7-7e01-4120-b182-342d07f91584,Dog,Poodle,7.0,24.8,Female,High,Joint Issues,22.9,1244.7,31.0,18.4,50.6,355.6,4,88.9,0.77
+76415dfd-6372-4b20-9f37-0b40952a4ca2,Dog,Beagle,9.0,13.2,Female,Moderate,Allergies,13.7,678.7,36.0,16.3,47.7,193.9,3,64.6,0.4
+a88ec217-b6a2-4be3-a8af-d31eb4ac98e0,Dog,Ragdoll,2.3,36.9,Female,Low,Joint Issues,33.7,1257.6,37.9,11.8,50.3,359.3,2,179.7,0.43
+29c42539-b1b1-4cc7-b630-96e99bfa5f67,Dog,Maine Coon,1.0,27.8,Male,High,Diabetes,26.3,1220.4,38.8,11.8,49.4,348.7,4,87.2,0.81
+b19d521f-b093-4ce4-ba39-7be2f5d84956,Dog,Bulldog,2.3,22.4,Female,Low,Joint Issues,23.9,864.9,27.3,15.6,57.1,247.1,2,123.5,0.89
+5dd01758-4092-4136-a7b0-f25698c195c8,Dog,Beagle,4.8,33.7,Male,Low,Obesity,35.0,998.7,36.8,16.3,46.9,285.3,2,142.7,0.86
+9144053f-7011-4e9e-9aa1-6b8886fa6770,Dog,Beagle,13.4,11.5,Male,Low,Allergies,11.5,524.6,25.0,18.2,56.8,149.9,2,75.0,0.34
+e048f40b-e390-4d56-bafc-4deb9baf9c4f,Dog,Golden Retriever,6.6,15.0,Female,High,Allergies,13.6,853.7,38.5,21.7,39.8,243.9,4,61.0,0.59
+f18c12f4-b5bd-44f5-8564-a605658e5369,Dog,British Shorthair,2.4,18.2,Male,High,Allergies,17.5,986.9,36.4,20.0,43.6,282.0,4,70.5,0.39
+03128a9c-606a-445a-94c9-bf7274ad9d33,Cat,Persian Cat,1.8,6.0,Female,Moderate,Obesity,6.4,319.3,38.5,15.1,46.4,91.2,3,30.4,0.33
+916592de-1155-4a40-ac05-432ed4aedcd2,Dog,Maine Coon,11.2,26.8,Male,Low,None,28.2,989.4,33.6,21.9,44.5,282.7,2,141.3,0.72
+3baa2a99-a43e-4068-9561-72cfa7e3290d,Dog,Ragdoll,9.9,31.3,Male,Low,Joint Issues,29.8,1111.6,33.1,21.4,45.5,317.6,2,158.8,0.87
+a68bfdc0-2c9e-4366-9fd2-20825bf0826d,Dog,Ragdoll,3.2,36.1,Female,High,None,39.0,1649.5,26.8,24.0,49.2,471.3,4,117.8,0.41
+5964820a-5e11-4e72-8c1a-5027dce8c644,Dog,Golden Retriever,4.5,31.7,Male,Low,Joint Issues,29.2,1122.2,31.7,22.1,46.2,320.6,2,160.3,0.66
+e82a662b-67cf-4953-a6da-f75fdc770cb2,Cat,Siamese Cat,9.0,8.8,Female,Low,Diabetes,8.7,386.3,31.6,16.2,52.2,110.4,2,55.2,0.82
+cc5b2b96-f20d-4812-8390-b49500772860,Cat,Persian Cat,6.0,7.2,Male,Low,None,7.3,369.2,33.1,14.3,52.6,105.5,2,52.8,0.41
+5b70943e-a985-4aea-a32b-ab029539d21c,Dog,Bulldog,2.7,23.8,Female,High,Obesity,23.2,1025.8,25.9,24.4,49.7,293.1,4,73.3,0.41
+e747a8a5-5e03-4014-8f5f-c2a25847e822,Dog,Golden Retriever,4.8,19.6,Male,Moderate,Obesity,20.5,776.0,31.2,14.9,53.9,221.7,3,73.9,0.53
+a4c70c00-3e84-436d-bfa9-cbc11a626e7b,Dog,Bulldog,1.3,24.1,Male,High,Joint Issues,26.1,1218.2,28.5,17.6,53.9,348.1,4,87.0,0.6
+c3babe73-20b8-406a-ae19-00d2dc0843d1,Dog,Bulldog,4.4,32.1,Female,Moderate,Joint Issues,30.8,1321.6,31.1,17.3,51.6,377.6,3,125.9,0.54
+b21d78b4-0e67-4dca-b5d8-efd0cfcafc8a,Dog,Poodle,13.7,20.6,Male,Moderate,Joint Issues,22.3,947.6,39.5,20.1,40.4,270.7,3,90.2,0.45
+e577b8d5-b4cb-4099-aaac-ef9b50e6f920,Dog,Ragdoll,9.9,32.4,Male,Moderate,Joint Issues,29.3,1330.9,31.1,11.3,57.6,380.3,3,126.8,0.68
+963dbb66-a05e-4a62-b447-6906ceb9ee1d,Dog,Poodle,11.9,31.2,Male,Moderate,Joint Issues,34.1,1293.7,39.8,21.7,38.5,369.6,3,123.2,0.62
+60ce0628-5b7f-4aab-ab80-0d70b97b62e0,Cat,Siamese Cat,14.4,3.1,Female,Low,None,3.3,196.2,37.2,24.4,38.4,56.1,2,28.1,0.67
+5f852e3d-c88f-4cdc-bb80-d4f65f056a35,Dog,German Shepherd,0.5,35.9,Female,Moderate,Joint Issues,34.3,1437.3,28.8,20.2,51.0,410.7,3,136.9,0.9
+268a3a7e-ed89-42ad-b30b-b5b0f40a5034,Dog,Poodle,9.0,28.7,Female,Low,Obesity,26.4,885.3,36.1,18.4,45.5,252.9,2,126.5,0.48
+90c5b117-1f4e-4e84-adc9-ec889ae017ef,Cat,Siamese Cat,10.6,8.7,Male,High,Joint Issues,8.3,567.4,40.0,23.2,36.8,162.1,4,40.5,0.43
+f772e184-d665-47c2-ae63-47a162346849,Dog,Ragdoll,14.4,24.8,Female,High,Diabetes,23.8,1120.2,34.5,24.7,40.8,320.1,4,80.0,0.72
+a1e02f4b-526e-4c1d-85cb-f33fb30efcaf,Dog,Beagle,4.1,22.0,Female,Moderate,Obesity,22.4,846.2,31.9,19.0,49.1,241.8,3,80.6,0.31
+faf17dd0-5741-4095-8edc-15f7f519d20b,Dog,German Shepherd,9.9,14.5,Male,High,Allergies,15.2,832.2,25.1,10.1,64.8,237.8,4,59.5,0.4
+d2d41ad7-57e3-45f7-9cac-17688d7c5d48,Dog,Ragdoll,13.5,14.3,Female,Moderate,Joint Issues,13.0,720.7,26.2,23.2,50.6,205.9,3,68.6,0.69
+d0d38ca5-16ef-4d7d-ac1f-f3dee8e13b36,Dog,Ragdoll,0.9,34.5,Female,High,None,37.2,1594.3,30.3,22.2,47.5,455.5,4,113.9,0.8
+8adff132-fdf4-4e0b-b95b-411edbd93592,Cat,Persian Cat,6.1,8.4,Male,Low,Allergies,7.9,414.5,30.6,12.9,56.5,118.4,2,59.2,0.31
+e397f58e-de33-419f-be93-45d1117ab884,Dog,Golden Retriever,11.5,24.0,Female,Low,None,25.4,910.8,37.2,19.4,43.4,260.2,2,130.1,0.79
+dbf33f22-7274-4216-aefe-fea34ef3602f,Dog,Poodle,3.9,23.3,Female,Moderate,None,21.1,1039.3,29.2,23.6,47.2,296.9,3,99.0,0.72
+1ac0df55-dbec-48f1-ba6c-82e8b367fb13,Dog,Poodle,0.6,25.7,Female,Low,Diabetes,23.5,862.9,33.5,17.4,49.1,246.5,2,123.2,0.63
+2641b05e-ded9-4605-a279-5068c8efe541,Dog,British Shorthair,10.2,36.6,Male,Low,Joint Issues,39.0,1249.9,26.9,11.0,62.1,357.1,2,178.6,0.46
+fee8398b-4766-41c9-9ed5-cebd5ae2356f,Dog,British Shorthair,12.9,15.7,Female,Low,None,14.4,662.5,39.9,20.4,39.7,189.3,2,94.7,0.62
+b8272b15-ac78-4370-895c-7b64576be7e1,Dog,Beagle,10.4,27.4,Female,Low,Allergies,29.6,1006.0,34.6,24.1,41.3,287.4,2,143.7,0.33
