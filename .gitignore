@@ -1,0 +1,34 @@
+# Windows
+desktop.ini
+Thumbs.db
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Build artifacts
+build/
+*.apk
+*.aab
+
+# Local configuration
+local.properties
+
+# Compiled models (optional - uncomment if models are too large)
+# *.h5
+# *.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
