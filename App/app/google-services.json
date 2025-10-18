@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "368549031373",
+    "firebase_url": "https://pawtracker-496fa-default-rtdb.firebaseio.com",
+    "project_id": "pawtracker-496fa",
+    "storage_bucket": "pawtracker-496fa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368549031373:android:8697b65d61d8333ac22884",
+        "android_client_info": {
+          "package_name": "com.cy.pawtrackerai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeumt2R64GoJbGtzYd7j94oC5hXveFxO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
