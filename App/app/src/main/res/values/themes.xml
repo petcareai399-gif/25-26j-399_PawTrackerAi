@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PawTrackerAI" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:fontFamily">@font/poppins</item>
+
+    </style>
+
+
+    <style name="Theme.PawTrackerAI.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#FFF5E6</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/app_logo</item>
+        <item name="windowSplashScreenIconBackgroundColor">@android:color/transparent</item>
+        <item name="windowSplashScreenAnimationDuration">1000</item>
+        <item name="postSplashScreenTheme">@style/Base.Theme.PawTrackerAI</item>
+        <item name="android:statusBarColor">#FFF5E6</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+        <item name="android:fontFamily">@font/poppins</item>
+
+    </style>
+</resources>

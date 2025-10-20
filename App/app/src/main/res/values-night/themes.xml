@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PawTrackerAI" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:fontFamily">@font/poppins</item>
+
+    </style>
+        <!-- Customize your dark theme here. -->
+    <!-- ADD THIS - Splash Screen Theme for Dark Mode -->
+    <style name="Theme.PawTrackerAI.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#1A1A1A</item> <!-- Dark background -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/app_logo</item>
+        <item name="windowSplashScreenIconBackgroundColor">@android:color/transparent</item>
+        <item name="windowSplashScreenAnimationDuration">1000</item>
+        <item name="postSplashScreenTheme">@style/Base.Theme.PawTrackerAI</item>
+        <item name="android:statusBarColor">#1A1A1A</item>
+        <item name="android:windowLightStatusBar">false</item> <!-- Dark status bar icons -->
+        <item name="android:fontFamily">@font/poppins</item>
+
+    </style>
+</resources>
