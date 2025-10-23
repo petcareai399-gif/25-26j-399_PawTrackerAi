@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/nextButton"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="@dimen/_20sdp"
+            android:gravity="center">
+
+            <!-- Feature Card 1: AI-powered symptom checking -->
+            <LinearLayout
+                android:id="@+id/featureCard1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:background="@drawable/feature_card_bg"
+                android:backgroundTint="#B3E5FC"
+                android:padding="@dimen/_15sdp"
+                android:gravity="center_vertical"
+                android:layout_marginBottom="@dimen/_15sdp"
+                android:elevation="2dp">
+
+                <View
+                    android:id="@+id/dot1"
+                    android:layout_width="8dp"
+                    android:layout_height="8dp"
+                    android:background="@drawable/dot_indicator"
+                    android:backgroundTint="#00BCD4"/>
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="AI-powered symptom checking"
+                    android:textSize="@dimen/_12ssp"
+                    android:textColor="@android:color/black"
+                    android:layout_marginStart="@dimen/_12sdp"/>
+
+            </LinearLayout>
+
+            <!-- Feature Card 2: Mood & behavior monitoring -->
+            <LinearLayout
+                android:id="@+id/featureCard2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:background="@drawable/feature_card_bg"
+                android:backgroundTint="#E1BEE7"
+                android:padding="@dimen/_15sdp"
+                android:gravity="center_vertical"
+                android:layout_marginBottom="@dimen/_15sdp"
+                android:elevation="2dp">
+
+                <View
+                    android:id="@+id/dot2"
+                    android:layout_width="8dp"
+                    android:layout_height="8dp"
+                    android:background="@drawable/dot_indicator"
+                    android:backgroundTint="#9C27B0"/>
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Mood &amp; behavior monitoring"
+                    android:textSize="@dimen/_12ssp"
+                    android:textColor="@android:color/black"
+                    android:layout_marginStart="@dimen/_12sdp"/>
+
+            </LinearLayout>
+
+            <!-- Feature Card 3: Personalized nutrition -->
+            <LinearLayout
+                android:id="@+id/featureCard3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:background="@drawable/feature_card_bg"
+                android:backgroundTint="#C8E6C9"
+                android:padding="@dimen/_15sdp"
+                android:gravity="center_vertical"
+                android:layout_marginBottom="@dimen/_15sdp"
+                android:elevation="2dp">
+
+                <View
+                    android:id="@+id/dot3"
+                    android:layout_width="8dp"
+                    android:layout_height="8dp"
+                    android:background="@drawable/dot_indicator"
+                    android:backgroundTint="#4CAF50"/>
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="PERSONALIZED NUTRITION AND FEEDING AI SYSTEM"
+                    android:textSize="@dimen/_12ssp"
+                    android:textColor="@android:color/black"
+                    android:layout_marginStart="@dimen/_12sdp"/>
+
+            </LinearLayout>
+
+            <!-- Feature Card 4: AI viral disease detection -->
+            <LinearLayout
+                android:id="@+id/featureCard4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:background="@drawable/feature_card_bg"
+                android:backgroundTint="#FFCCBC"
+                android:padding="@dimen/_15sdp"
+                android:gravity="center_vertical"
+                android:elevation="2dp">
+
+                <View
+                    android:id="@+id/dot4"
+                    android:layout_width="8dp"
+                    android:layout_height="8dp"
+                    android:background="@drawable/dot_indicator"
+                    android:backgroundTint="#FF5722"/>
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="AI viral DISEASE DETECTION AND ALERT SYSTEM"
+                    android:textSize="@dimen/_12ssp"
+                    android:textColor="@android:color/black"
+                    android:layout_marginStart="@dimen/_12sdp"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <!-- Next Button -->
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/nextButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginHorizontal="@dimen/_20sdp"
+        android:layout_marginBottom="@dimen/_50sdp"
+        android:text="Next"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/_14ssp"
+        android:textAllCaps="false"
+        android:paddingHorizontal="@dimen/_40sdp"
+        android:paddingVertical="@dimen/_12sdp"
+        android:backgroundTint="@color/orange_primary"
+        app:cornerRadius="50dp"
+        app:elevation="4dp"/>
+
+</RelativeLayout>
