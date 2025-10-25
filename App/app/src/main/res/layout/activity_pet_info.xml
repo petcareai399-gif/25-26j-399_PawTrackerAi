@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+    <!-- Top Bar -->
+    <RelativeLayout
+        android:id="@+id/topBar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_56sdp"
+        android:layout_alignParentTop="true"
+        android:background="@android:color/white"
+        android:elevation="@dimen/_4sdp">
+
+        <ImageView
+            android:id="@+id/backButton"
+            android:layout_width="@dimen/_40sdp"
+            android:layout_height="@dimen/_40sdp"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="@dimen/_8sdp"
+            android:padding="@dimen/_8sdp"
+            android:src="@drawable/ic_back_arrow"
+            android:contentDescription="Back"
+            android:background="?attr/selectableItemBackgroundBorderless" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="Add Your Pet"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/_18ssp"
+            android:fontFamily="sans-serif-medium" />
+
+    </RelativeLayout>
+
+    <!-- Scrollable Content -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/topBar"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="@dimen/_20sdp">
+
+            <!-- Description Text -->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Tell us about your furry friend so we can provide personalized care"
+                android:textSize="@dimen/_12ssp"
+                android:textColor="#666666"
+                android:gravity="center"
+                android:layout_marginBottom="@dimen/_24sdp" />
+
+            <!-- Profile Picture Section -->
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginBottom="@dimen/_24sdp">
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:id="@+id/petProfileImage"
+                    android:layout_width="@dimen/_100sdp"
+                    android:layout_height="@dimen/_100sdp"
+                    android:src="@drawable/ic_placeholder_pet"
+                    android:layout_centerHorizontal="true"
+                    app:civ_border_width="@dimen/_2sdp"
+                    app:civ_border_color="#4DB6AC" />
+
+                <com.google.android.material.floatingactionbutton.FloatingActionButton
+                    android:id="@+id/cameraButton"
+                    android:layout_width="@dimen/_40sdp"
+                    android:layout_height="@dimen/_40sdp"
+                    android:layout_alignEnd="@id/petProfileImage"
+                    android:layout_alignBottom="@id/petProfileImage"
+                    android:layout_marginEnd="@dimen/_5sdp"
+                    android:src="@drawable/ic_camera"
+                    app:fabCustomSize="@dimen/_40sdp"
+                    app:fabSize="mini"
+                    app:backgroundTint="#4DB6AC"
+                    app:tint="@android:color/white"
+                    android:contentDescription="Add Photo" />
+
+            </RelativeLayout>
+
+            <!-- Pet Name Field (Mandatory) -->
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/petNameInputLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/_16sdp"
+                app:boxStrokeColor="#4DB6AC"
+                app:hintTextColor="#4DB6AC"
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/petNameEditText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Pet Name *"
+                    android:inputType="textCapWords"
+                    android:textSize="@dimen/_14ssp" />
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <!-- Species and Gender Row -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginBottom="@dimen/_16sdp"
+                android:weightSum="2">
+
+                <!-- Species Spinner (Mandatory) -->
+                <com.google.android.material.textfield.TextInputLayout
+                    android:id="@+id/speciesInputLayout"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginEnd="@dimen/_8sdp"
+                    app:boxStrokeColor="#4DB6AC"
+                    app:hintTextColor="#4DB6AC"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu">
+
+                    <AutoCompleteTextView
+                        android:id="@+id/speciesSpinner"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="Species *"
+                        android:inputType="none"
+                        android:textSize="@dimen/_14ssp" />
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <!-- Gender Spinner (Mandatory) -->
+                <com.google.android.material.textfield.TextInputLayout
+                    android:id="@+id/genderInputLayout"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginStart="@dimen/_8sdp"
+                    app:boxStrokeColor="#4DB6AC"
+                    app:hintTextColor="#4DB6AC"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu">
+
+                    <AutoCompleteTextView
+                        android:id="@+id/genderSpinner"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="Gender *"
+                        android:inputType="none"
+                        android:textSize="@dimen/_14ssp" />
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+            </LinearLayout>
+
+            <!-- Breed Field (Optional) -->
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/breedInputLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/_16sdp"
+                app:boxStrokeColor="#4DB6AC"
+                app:hintTextColor="#4DB6AC"
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/breedEditText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Breed"
+                    android:inputType="textCapWords"
+                    android:textSize="@dimen/_14ssp" />
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <!-- Age and Weight Row -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginBottom="@dimen/_24sdp"
+                android:weightSum="2">
+
+                <!-- Age Field (Optional) -->
+                <com.google.android.material.textfield.TextInputLayout
+                    android:id="@+id/ageInputLayout"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginEnd="@dimen/_8sdp"
+                    app:boxStrokeColor="#4DB6AC"
+                    app:hintTextColor="#4DB6AC"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/ageEditText"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="Age (years)"
+                        android:inputType="number"
+                        android:textSize="@dimen/_14ssp" />
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <!-- Weight Field (Optional) -->
+                <com.google.android.material.textfield.TextInputLayout
+                    android:id="@+id/weightInputLayout"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginStart="@dimen/_8sdp"
+                    app:boxStrokeColor="#4DB6AC"
+                    app:hintTextColor="#4DB6AC"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/weightEditText"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="Weight (kg)"
+                        android:inputType="numberDecimal"
+                        android:textSize="@dimen/_14ssp" />
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+            </LinearLayout>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="For pets younger than 1 year (e.g., 8 months), enter 1 years."
+                android:textColor="@color/hint"
+                android:textSize="@dimen/_11ssp"
+                android:layout_marginBottom="@dimen/_8sdp"
+                android:layout_marginTop="4dp"/>
+            <!-- Continue Button -->
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/continueButton"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_50sdp"
+                android:text="Continue"
+                android:textSize="@dimen/_14ssp"
+                android:textColor="@android:color/white"
+                app:backgroundTint="#4DB6AC"
+                app:cornerRadius="@dimen/_25sdp"
+                android:textAllCaps="false"
+                android:fontFamily="sans-serif-medium" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

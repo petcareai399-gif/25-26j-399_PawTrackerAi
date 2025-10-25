@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:maxWidth="320dp"
+    android:layout_margin="24dp"
+    app:cardCornerRadius="20dp"
+    app:cardElevation="8dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <!-- Image (Optional) -->
+        <ImageView
+            android:id="@+id/dialog_image"
+            android:layout_width="140dp"
+            android:layout_height="140dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="16dp"
+            android:contentDescription="Dialog icon"
+            android:visibility="gone"
+            android:src="@drawable/app_logo" />
+
+        <!-- Title -->
+        <TextView
+            android:id="@+id/dialog_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Dialog Title"
+            android:textColor="@android:color/black"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="8dp" />
+
+        <!-- Subtitle (Optional) -->
+        <TextView
+            android:id="@+id/dialog_subtitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Subtitle text goes here"
+            android:textColor="@android:color/darker_gray"
+            android:textSize="15sp"
+            android:layout_marginBottom="24dp"
+            android:visibility="gone" />
+
+        <!-- Buttons Container -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center">
+
+            <!-- Cancel Button -->
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/dialog_negative_button"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:layout_marginEnd="8dp"
+                app:strokeColor="@color/orange_primary"
+                android:text="Cancel"
+                android:textColor="@color/orange_primary"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:elevation="0dp"
+                app:cornerRadius="@dimen/_8sdp"
+                app:strokeWidth="@dimen/_1sdp"
+                style="?attr/materialButtonOutlinedStyle" />
+
+            <!-- OK Button -->
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/dialog_positive_button"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+
+                android:layout_marginStart="8dp"
+                app:backgroundTint="@color/orange_primary"
+                android:text="OK"
+                android:textColor="@android:color/white"
+                android:textSize="16sp"
+                app:cornerRadius="@dimen/_8sdp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
