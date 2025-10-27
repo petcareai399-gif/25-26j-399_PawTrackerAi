@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F5F5F5">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <!-- Header -->
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp">
+
+            <ImageView
+                android:id="@+id/btnBack"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                android:padding="8dp"
+                android:src="@drawable/ic_back_arrow"
+                android:contentDescription="Back" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="AI Symptom Checker"
+                android:textColor="#000000"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+        </RelativeLayout>
+
+        <!-- Description Text -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Describe what you've noticed, upload photos, and review real-time health data from your pet's smart device."
+            android:textColor="#666666"
+            android:textSize="14sp"
+            android:layout_marginBottom="16dp"
+            android:lineSpacingExtra="2dp" />
+
+        <!-- Live IoT Health Data Card -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="0dp"
+            android:layout_marginBottom="16dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+
+                android:background="@drawable/card_rounded_stroke"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+                <!-- Header with Refresh -->
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="16dp">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:layout_alignParentStart="true"
+                        android:layout_centerVertical="true">
+
+                        <ImageView
+                            android:layout_width="24dp"
+                            android:layout_height="24dp"
+                            android:src="@drawable/ic_live_data"
+                            android:layout_marginEnd="8dp"
+                            android:contentDescription="Live Data" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Live IoT Health Data"
+                            android:textColor="#000000"
+                            android:textSize="16sp"
+                            android:textStyle="bold" />
+
+                    </LinearLayout>
+
+                    <ImageView
+                        android:id="@+id/btnRefresh"
+                        android:layout_width="85dp"
+                        android:layout_height="35dp"
+                        android:layout_alignParentEnd="true"
+                        android:layout_centerVertical="true"
+                        android:padding="6dp"
+                        android:src="@drawable/refresh_btn"
+                        android:contentDescription="Refresh" />
+
+                </RelativeLayout>
+
+                <!-- Heart Rate Card -->
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/card_rounded"
+                    app:cardBackgroundColor="#FFFFFF"
+                    app:cardCornerRadius="12dp"
+                    android:layout_marginHorizontal="@dimen/_2sdp"
+                    app:cardElevation="2dp"
+                    android:layout_marginBottom="12dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:padding="16dp">
+
+                        <!-- Heart Rate Header -->
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:layout_marginBottom="8dp">
+
+                            <ImageView
+                                android:layout_width="20dp"
+                                android:layout_height="20dp"
+                                android:src="@drawable/ic_activity"
+                                android:layout_marginEnd="8dp"
+                                android:contentDescription="Heart Rate" />
+
+                            <TextView
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:text="Heart Rate"
+                                android:textColor="#666666"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/tvHeartRateStatus"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="WARNING"
+                                android:textColor="#FF6B6B"
+                                android:textSize="11sp"
+                                android:background="@drawable/card_rounded"
+                                android:backgroundTint="#FFEBEE"
+                                android:paddingStart="8dp"
+                                android:paddingEnd="8dp"
+                                android:paddingTop="4dp"
+                                android:paddingBottom="4dp"
+                                android:textStyle="bold" />
+
+                        </LinearLayout>
+
+                        <!-- BPM Value -->
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:layout_marginBottom="4dp"
+                            android:baselineAligned="false">
+
+                            <TextView
+                                android:id="@+id/tvHeartRate"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="112"
+                                android:textColor="@color/red_primary"
+                                android:textSize="32sp"
+                                android:textStyle="bold" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="BPM"
+                                android:textColor="#666666"
+                                android:textSize="14sp"
+                                android:layout_marginStart="4dp"
+                                android:layout_gravity="center_vertical" />
+
+                            <TextView
+                                android:id="@+id/tvHeartRateRange"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:text="↑ 14% from normal"
+                                android:textColor="#FF6B6B"
+                                android:textSize="12sp"
+                                android:layout_gravity="center_vertical"
+                                android:layout_marginStart="8dp"
+                                android:gravity="end" />
+
+                        </LinearLayout>
+
+
+
+                        <!-- Progress Bar -->
+                        <ProgressBar
+                            android:id="@+id/progressHeartRate"
+                            style="?android:attr/progressBarStyleHorizontal"
+                            android:layout_width="match_parent"
+                            android:layout_height="6dp"
+                            android:progress="75"
+                            android:progressTint="#FF6B6B"
+                            android:progressBackgroundTint="#EEEEEE" />
+
+                        <!-- Normal Range Text -->
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Normal range: 60-100 BPM"
+                            android:textColor="#999999"
+                            android:layout_marginTop="@dimen/_5sdp"
+                            android:textSize="12sp"
+                            android:layout_marginBottom="8dp" />
+                    </LinearLayout>
+
+                </androidx.cardview.widget.CardView>
+
+                <!-- Body Temperature Card -->
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/card_rounded"
+                    app:cardBackgroundColor="#FFFFFF"
+                    android:layout_marginHorizontal="@dimen/_2sdp"
+                    app:cardCornerRadius="12dp"
+                    app:cardElevation="2dp"
+                    android:layout_marginBottom="12dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:padding="16dp">
+
+                        <!-- Temperature Header -->
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:layout_marginBottom="8dp">
+
+                            <ImageView
+                                android:layout_width="20dp"
+                                android:layout_height="20dp"
+                                android:src="@drawable/ic_body_temp"
+                                android:layout_marginEnd="8dp"
+                                android:contentDescription="Temperature" />
+
+                            <TextView
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:text="Body Temperature"
+                                android:textColor="#666666"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/tvTempStatus"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="CRITICAL"
+                                android:textColor="#FF4444"
+                                android:textSize="11sp"
+                                android:background="@drawable/card_rounded"
+                                android:backgroundTint="#FFEBEE"
+                                android:paddingStart="8dp"
+                                android:paddingEnd="8dp"
+                                android:paddingTop="4dp"
+                                android:paddingBottom="4dp"
+                                android:textStyle="bold" />
+
+                        </LinearLayout>
+
+                        <!-- Temperature Value -->
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:layout_marginBottom="4dp"
+                            android:baselineAligned="false">
+
+                            <TextView
+                                android:id="@+id/tvTemperature"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="39.8"
+                                android:textColor="#FF4444"
+                                android:textSize="32sp"
+                                android:textStyle="bold" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="°C"
+                                android:textColor="#666666"
+                                android:textSize="14sp"
+                                android:layout_marginStart="4dp"
+                                android:layout_gravity="center_vertical" />
+
+                            <TextView
+                                android:id="@+id/tvTempRange"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:text="Running up"
+                                android:textColor="#FF4444"
+                                android:textSize="12sp"
+                                android:layout_gravity="center_vertical"
+                                android:layout_marginStart="8dp"
+                                android:gravity="end" />
+
+                        </LinearLayout>
+
+
+                        <!-- Progress Bar -->
+                        <ProgressBar
+                        android:id="@+id/progressTemperature"
+                        style="?android:attr/progressBarStyleHorizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="6dp"
+                        android:progress="85"
+                        android:progressTint="#FF4444"
+                        android:progressBackgroundTint="#EEEEEE" />
+                        <!-- Normal Range Text -->
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Normal range: 38.0-39.2°C"
+                            android:layout_marginTop="@dimen/_5sdp"
+                            android:textColor="#999999"
+                            android:textSize="12sp"
+                            android:layout_marginBottom="8dp" />
+
+                    </LinearLayout>
+
+                </androidx.cardview.widget.CardView>
+
+                <!-- Blood Oxygen Card -->
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/card_rounded"
+                    app:cardBackgroundColor="#FFFFFF"
+                    android:layout_marginHorizontal="@dimen/_2sdp"
+                    app:cardCornerRadius="12dp"
+                    app:cardElevation="2dp"
+                    android:layout_marginBottom="12dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:padding="16dp">
+
+                        <!-- Blood Oxygen Header -->
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:layout_marginBottom="8dp">
+
+                            <ImageView
+                                android:layout_width="20dp"
+                                android:layout_height="20dp"
+                                android:src="@drawable/ic_health"
+                                android:layout_marginEnd="8dp"
+                                android:contentDescription="Blood Oxygen" />
+
+                            <TextView
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:text="Blood Oxygen (SpO₂)"
+                                android:textColor="#666666"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:id="@+id/tvOxygenStatus"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="NORMAL"
+                                android:textColor="#4CAF50"
+                                android:textSize="11sp"
+                                android:background="@drawable/card_rounded"
+                                android:backgroundTint="#E8F5E9"
+                                android:paddingStart="8dp"
+                                android:paddingEnd="8dp"
+                                android:paddingTop="4dp"
+                                android:paddingBottom="4dp"
+                                android:textStyle="bold" />
+
+                        </LinearLayout>
+
+                        <!-- Oxygen Value -->
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:layout_marginBottom="4dp"
+                            android:baselineAligned="false">
+
+                            <TextView
+                                android:id="@+id/tvOxygen"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="94"
+                                android:textColor="#4CAF50"
+                                android:textSize="32sp"
+                                android:textStyle="bold" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="%"
+                                android:textColor="#666666"
+                                android:textSize="14sp"
+                                android:layout_marginStart="4dp"
+                                android:layout_gravity="center_vertical" />
+
+                            <TextView
+                                android:id="@+id/tvOxygenRange"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:text="✓ Stable"
+                                android:textColor="#4CAF50"
+                                android:textSize="12sp"
+                                android:layout_gravity="center_vertical"
+                                android:layout_marginStart="8dp"
+                                android:gravity="end" />
+
+                        </LinearLayout>
+
+
+
+                        <!-- Progress Bar -->
+                        <ProgressBar
+                            android:id="@+id/progressOxygen"
+                            style="?android:attr/progressBarStyleHorizontal"
+                            android:layout_width="match_parent"
+                            android:layout_height="6dp"
+                            android:progress="94"
+                            android:progressTint="#4CAF50"
+                            android:progressBackgroundTint="#EEEEEE" />
+
+                        <!-- Normal Range Text -->
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Normal range: 95-100%"
+                            android:textColor="#999999"
+                            android:textSize="12sp"
+                            android:layout_marginBottom="8dp" />
+                    </LinearLayout>
+
+                </androidx.cardview.widget.CardView>
+
+                <!-- Info Note -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:background="#FFF9E6"
+                    android:padding="12dp"
+                    android:layout_marginTop="4dp">
+
+                    <ImageView
+                        android:layout_width="16dp"
+                        android:layout_height="16dp"
+                        android:src="@drawable/ic_alert"
+                        android:layout_marginEnd="8dp"
+                        android:layout_gravity="center_vertical"
+                        android:contentDescription="Info" />
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="IoT data is automatically included in AI analysis for more accurate diagnosis."
+                        android:textColor="#856404"
+                        android:textSize="12sp"
+                        android:lineSpacingExtra="2dp" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <!-- Upload Photos or Videos Section -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="0dp"
+            android:layout_marginBottom="16dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/upload_bg"
+                android:orientation="vertical"
+                android:padding="24dp"
+                android:gravity="center">
+
+                <ImageView
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    android:src="@drawable/ic_image"
+                    android:contentDescription="Upload"
+                    android:layout_marginBottom="12dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Upload Photos or Videos"
+                    android:textColor="#000000"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:layout_marginBottom="4dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Support multiple images for better analysis"
+                    android:textColor="#999999"
+                    android:textSize="13sp"
+                    android:layout_marginBottom="16dp" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/btnCamera"
+                        android:layout_width="100dp"
+                        android:layout_height="40dp"
+                        android:src="@drawable/btn_camera"
+                        android:layout_marginEnd="12dp"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:contentDescription="Camera" />
+
+                    <ImageView
+                        android:id="@+id/btnGallery"
+                        android:layout_width="100dp"
+                        android:layout_height="40dp"
+                        android:src="@drawable/btn_gallary"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:contentDescription="Gallery" />
+
+                </LinearLayout>
+
+                <!-- Image Attached Notes -->
+                <LinearLayout
+                    android:id="@+id/layoutImageNotes"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginTop="12dp"
+                    android:visibility="gone">
+
+                    <!-- Will be populated dynamically -->
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <!-- Describe the Symptoms Section -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Describe the Symptoms"
+            android:textColor="#000000"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="8dp" />
+
+        <EditText
+            android:id="@+id/etSymptomDescription"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:background="@drawable/card_rounded"
+            android:padding="16dp"
+            android:hint="Example: My dog has been lethargic since this morning"
+            android:textColorHint="#AAAAAA"
+            android:textColor="#000000"
+            android:textSize="14sp"
+            android:gravity="top|start"
+            android:inputType="textMultiLine|textCapSentences"
+            android:layout_marginBottom="8dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Be as detailed as possible. Include when symptoms started, frequency, and any other observations."
+            android:textColor="#999999"
+            android:textSize="12sp"
+            android:layout_marginBottom="16dp"
+            android:lineSpacingExtra="2dp" />
+
+        <!-- Common Symptoms Section -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Common Symptoms (tap to add)"
+            android:textColor="#000000"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="12dp" />
+
+        <com.google.android.flexbox.FlexboxLayout
+            android:id="@+id/flexboxSymptoms"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:flexWrap="wrap"
+            app:alignItems="flex_start"
+            app:alignContent="flex_start"
+            android:layout_marginBottom="24dp">
+
+            <TextView
+                android:id="@+id/tagVomiting"
+                style="@style/SymptomTag"
+                android:text="Vomiting" />
+
+            <TextView
+                android:id="@+id/tagDiarrhea"
+                style="@style/SymptomTag"
+                android:text="Diarrhea" />
+
+            <TextView
+                android:id="@+id/tagLethargy"
+                style="@style/SymptomTag"
+                android:text="Lethargy" />
+
+            <TextView
+                android:id="@+id/tagLossAppetite"
+                style="@style/SymptomTag"
+                android:text="Loss of appetite" />
+
+            <TextView
+                android:id="@+id/tagCoughing"
+                style="@style/SymptomTag"
+                android:text="Coughing" />
+
+            <TextView
+                android:id="@+id/tagScratching"
+                style="@style/SymptomTag"
+                android:text="Scratching" />
+
+            <TextView
+                android:id="@+id/tagLimping"
+                style="@style/SymptomTag"
+                android:text="Limping" />
+
+            <TextView
+                android:id="@+id/tagFever"
+                style="@style/SymptomTag"
+                android:text="Fever" />
+
+        </com.google.android.flexbox.FlexboxLayout>
+
+        <!-- Analyze Button -->
+        <androidx.cardview.widget.CardView
+            android:id="@+id/btnAnalyze"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardBackgroundColor="#00BFA5"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="4dp"
+            android:clickable="true"
+            android:focusable="true"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:layout_marginBottom="16dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:padding="16dp"
+                android:gravity="center">
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:src="@drawable/ic_brain"
+                    android:layout_marginEnd="8dp"
+                    android:contentDescription="AI" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Analyze with AI (Text + Images + IoT Data)"
+                    android:textColor="#FFFFFF"
+                    android:textSize="12sp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <!-- Warning Note -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:layout_marginBottom="24dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="⚠️"
+                android:textSize="14sp"
+                android:layout_marginEnd="4dp" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="This is not a substitute for professional veterinary advice"
+                android:textColor="#999999"
+                android:textSize="12sp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>
