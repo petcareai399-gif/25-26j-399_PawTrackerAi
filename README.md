@@ -262,6 +262,10 @@ pip install tensorflow numpy matplotlib scikit-learn pandas joblib pillow
 
 ## ⚙️ Quick Installation Guide
 
+## 📁 Repository
+- **GitHub**: https://github.com/petcareai399-gif/25-26j-399_PawTrackerAi.git
+- **Clone**: `git clone https://github.com/petcareai399-gif/25-26j-399_PawTrackerAi.git`
+
 ### 📱 Android App
 
 ```bash
