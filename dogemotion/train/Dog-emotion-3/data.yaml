@@ -1,0 +1,15 @@
+names:
+- angry
+- happy
+- relax
+- sad
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: dog-emotion-8jsym
+  url: https://universe.roboflow.com/xin-cs6rn/dog-emotion-8jsym/dataset/3
+  version: 3
+  workspace: xin-cs6rn
+test: ../test/images
+train: ../train/images
+val: ../valid/images
