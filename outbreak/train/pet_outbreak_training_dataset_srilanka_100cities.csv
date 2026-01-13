@@ -1,0 +1,5001 @@
+Location,Search_Term,Search_Volume,Vet_Reported_Cases,Weather,Humidity_Index,Risk_Level
+Warakapola,lethargy,21,6,dry,2,Medium
+Wellawaya,eye infection,7,2,rainy,6,Low
+Hikkaduwa,itchy skin,2,9,rainy,6,Medium
+Kelaniya,fleas,17,5,dry,2,Medium
+Wariyapola,ticks,3,7,rainy,6,Medium
+Ganemulla,ticks,0,10,rainy,6,Medium
+Dambulla,dog vomiting,22,15,hot,4,High
+Hikkaduwa,fleas,8,2,dry,2,Low
+Ratnapura,lethargy,24,0,rainy,6,Medium
+Monaragala,loss of appetite,18,5,dry,2,Medium
+Ginigathhena,ticks,6,3,dry,2,Low
+Avissawella,fleas,10,0,humid,10,Medium
+Mannar,fleas,10,2,rainy,6,Medium
+Kandy,itchy skin,5,4,rainy,6,Low
+Dankotuwa,dog vomiting,12,4,dry,2,Medium
+Gonapola,dog fever,10,7,rainy,6,Medium
+Passara,kennel cough,15,6,humid,10,Medium
+Kothmale,eye infection,3,0,dry,2,Low
+Aluthgama,dog coughing,2,10,humid,10,Medium
+Haputale,ticks,16,2,dry,2,Medium
+Kandana,ticks,14,1,hot,4,Medium
+Deniyaya,dog coughing,15,0,humid,10,Medium
+Ratnapura,loss of appetite,7,7,rainy,6,Medium
+Jaffna,kennel cough,10,4,hot,4,Medium
+Maharagama,dog fever,6,0,rainy,6,Low
+Weeraketiya,dog vomiting,4,2,humid,10,Low
+Negombo,fleas,10,11,rainy,6,Medium
+Hanwella,dog vomiting,15,0,dry,2,Medium
+Galewela,dog fever,11,6,dry,2,Medium
+Dambulla,kennel cough,9,7,hot,4,Medium
+Anuradhapura,eye infection,12,0,rainy,6,Medium
+Ampara,dog coughing,20,7,dry,2,Medium
+Warakapola,loss of appetite,11,0,dry,2,Low
+Kalutara,itchy skin,14,0,rainy,6,Medium
+Aluthgama,dog vomiting,4,3,hot,4,Low
+Wattala,ticks,10,7,rainy,6,Medium
+Point Pedro,ticks,18,8,rainy,6,High
+Galgamuwa,itchy skin,1,5,dry,2,Low
+Kuliyapitiya,dog vomiting,7,1,dry,2,Low
+Horana,lethargy,5,4,dry,2,Low
+Ratnapura,dog coughing,0,0,humid,10,Low
+Moratuwa,ticks,16,12,dry,2,High
+Passara,lethargy,12,2,hot,4,Medium
+Ragama,dog vomiting,5,12,dry,2,Medium
+Ja-Ela,dog coughing,19,1,humid,10,Medium
+Jaffna,loss of appetite,13,0,dry,2,Low
+Galle,ticks,25,4,hot,4,High
+Badulla,itchy skin,13,0,hot,4,Medium
+Matugama,dog coughing,10,7,rainy,6,Medium
+Jaffna,eye infection,9,0,dry,2,Low
+Matara,dog fever,2,1,dry,2,Low
+Weeraketiya,kennel cough,7,6,rainy,6,Medium
+Aluthgama,ticks,13,6,hot,4,Medium
+Kuliyapitiya,dog vomiting,19,8,humid,10,High
+Buttala,eye infection,11,4,humid,10,Medium
+Kuliyapitiya,lethargy,20,8,rainy,6,High
+Galgamuwa,itchy skin,15,12,dry,2,High
+Kandy,itchy skin,18,6,hot,4,Medium
+Mannar,fleas,18,3,humid,10,Medium
+Mapalana,eye infection,10,0,dry,2,Low
+Marawila,dog vomiting,10,6,rainy,6,Medium
+Warakapola,loss of appetite,12,4,hot,4,Medium
+Buttala,ticks,20,1,rainy,6,Medium
+Rathmalana,ticks,0,2,rainy,6,Low
+Kadawatha,eye infection,2,0,rainy,6,Low
+Katunayake,loss of appetite,15,13,hot,4,High
+Polonnaruwa,itchy skin,7,1,hot,4,Low
+Gonapola,dog fever,1,0,rainy,6,Low
+Puttalam,fleas,0,2,hot,4,Low
+Maharagama,loss of appetite,9,4,dry,2,Medium
+Maskeliya,itchy skin,0,5,dry,2,Low
+Trincomalee,dog vomiting,23,0,humid,10,Medium
+Dambulla,dog vomiting,7,7,rainy,6,Medium
+Kandana,eye infection,4,3,humid,10,Medium
+Kahawatte,dog fever,9,0,humid,10,Medium
+Kalawana,eye infection,8,11,dry,2,Medium
+Dambulla,kennel cough,13,5,hot,4,Medium
+Dambulla,dog fever,21,9,hot,4,High
+Ganemulla,ticks,4,4,humid,10,Medium
+Batticaloa,kennel cough,11,3,humid,10,Medium
+Ratnapura,itchy skin,20,5,rainy,6,Medium
+Matale,loss of appetite,11,0,humid,10,Medium
+Kosgama,dog coughing,10,7,hot,4,Medium
+Buttala,dog coughing,21,1,hot,4,Medium
+Homagama,dog fever,11,3,humid,10,Medium
+Buttala,kennel cough,26,4,dry,2,High
+Avissawella,dog fever,6,2,humid,10,Medium
+Weeraketiya,ticks,20,8,rainy,6,High
+Minuwangoda,loss of appetite,0,6,humid,10,Medium
+Chilaw,itchy skin,3,0,humid,10,Low
+Gampaha,dog vomiting,7,9,dry,2,Medium
+Negombo,ticks,12,11,humid,10,High
+Vavuniya,lethargy,2,3,humid,10,Low
+Boralesgamuwa,kennel cough,18,4,hot,4,Medium
+Seeduwa,dog vomiting,4,3,dry,2,Low
+Warakapola,itchy skin,15,7,dry,2,Medium
+Vavuniya,lethargy,3,1,dry,2,Low
+Moratuwa,dog coughing,14,1,dry,2,Medium
+Narammala,loss of appetite,8,2,hot,4,Low
+Point Pedro,lethargy,19,5,humid,10,High
+Kurunegala,dog fever,22,0,rainy,6,Medium
+Kilinochchi,kennel cough,13,2,humid,10,Medium
+Trincomalee,fleas,11,1,dry,2,Low
+Dehiwala,eye infection,21,2,hot,4,Medium
+Hatton,dog coughing,9,7,rainy,6,Medium
+Chilaw,kennel cough,12,5,hot,4,Medium
+Kelaniya,kennel cough,4,13,rainy,6,Medium
+Puttalam,loss of appetite,10,5,humid,10,Medium
+Kothmale,itchy skin,7,2,humid,10,Medium
+Kataragama,lethargy,12,5,humid,10,Medium
+Batticaloa,itchy skin,7,1,rainy,6,Low
+Weligama,loss of appetite,7,4,hot,4,Low
+Ginigathhena,kennel cough,11,8,rainy,6,Medium
+Mahiyanganaya,dog coughing,7,0,humid,10,Low
+Galewela,itchy skin,12,4,dry,2,Medium
+Elpitiya,eye infection,15,8,dry,2,Medium
+Weeraketiya,dog coughing,22,6,dry,2,Medium
+Ratnapura,kennel cough,26,4,dry,2,High
+Weligama,ticks,11,4,hot,4,Medium
+Anuradhapura,dog coughing,3,4,hot,4,Low
+Jaffna,lethargy,26,8,rainy,6,High
+Deniyaya,kennel cough,7,2,hot,4,Low
+Monaragala,eye infection,10,3,hot,4,Medium
+Wariyapola,itchy skin,11,7,humid,10,Medium
+Tissamaharama,eye infection,11,2,dry,2,Low
+Mannar,eye infection,10,0,dry,2,Low
+Passara,dog vomiting,12,1,hot,4,Medium
+Maskeliya,kennel cough,10,7,humid,10,Medium
+Dankotuwa,fleas,14,5,humid,10,Medium
+Hatton,eye infection,11,5,dry,2,Medium
+Rathmalana,loss of appetite,12,8,rainy,6,Medium
+Galgamuwa,fleas,1,8,rainy,6,Medium
+Kilinochchi,loss of appetite,1,8,humid,10,Medium
+Kosgama,dog coughing,2,11,rainy,6,Medium
+Kosgama,loss of appetite,22,10,dry,2,High
+Panadura,lethargy,22,7,hot,4,High
+Moratuwa,kennel cough,22,10,rainy,6,High
+Kegalle,fleas,12,1,humid,10,Medium
+Monaragala,eye infection,8,1,humid,10,Medium
+Ja-Ela,dog vomiting,19,11,rainy,6,High
+Buttala,ticks,3,0,humid,10,Low
+Deniyaya,dog coughing,8,0,rainy,6,Low
+Agunukolapelessa,itchy skin,10,3,dry,2,Low
+Embilipitiya,lethargy,3,2,humid,10,Low
+Mawanella,fleas,3,4,hot,4,Low
+Homagama,kennel cough,1,4,rainy,6,Low
+Batticaloa,dog coughing,15,3,humid,10,Medium
+Deniyaya,ticks,16,9,humid,10,High
+Embilipitiya,fleas,16,13,hot,4,High
+Gonapola,fleas,3,6,hot,4,Low
+Weeraketiya,dog coughing,7,1,dry,2,Low
+Kuliyapitiya,loss of appetite,8,6,dry,2,Medium
+Gonapola,itchy skin,11,10,rainy,6,Medium
+Gampaha,dog fever,10,0,rainy,6,Low
+Matale,dog coughing,7,3,dry,2,Low
+Jaffna,dog fever,4,12,rainy,6,Medium
+Dambulla,dog fever,18,3,hot,4,Medium
+Giriulla,dog vomiting,10,3,rainy,6,Medium
+Matale,dog vomiting,8,3,dry,2,Low
+Dankotuwa,loss of appetite,3,8,dry,2,Low
+Kalawana,lethargy,14,12,humid,10,High
+Mahiyanganaya,dog vomiting,20,0,hot,4,Medium
+Dambulla,dog fever,1,0,humid,10,Low
+Kotte,itchy skin,27,2,hot,4,High
+Dehiwala,dog vomiting,17,5,hot,4,Medium
+Haputale,lethargy,19,9,rainy,6,High
+Kalutara,dog fever,5,7,dry,2,Medium
+Colombo,kennel cough,17,7,rainy,6,Medium
+Ja-Ela,ticks,7,1,rainy,6,Low
+Seeduwa,kennel cough,4,0,humid,10,Low
+Monaragala,loss of appetite,1,7,hot,4,Low
+Hambantota,dog coughing,16,0,rainy,6,Medium
+Buttala,fleas,4,4,rainy,6,Low
+Kegalle,fleas,2,9,rainy,6,Medium
+Ampara,dog coughing,18,9,hot,4,High
+Kothmale,dog coughing,1,4,rainy,6,Low
+Ragama,dog vomiting,1,11,dry,2,Medium
+Polonnaruwa,dog fever,19,0,hot,4,Medium
+Middeniya,dog coughing,13,2,humid,10,Medium
+Kothmale,dog vomiting,18,5,rainy,6,Medium
+Trincomalee,fleas,4,7,dry,2,Low
+Wariyapola,dog fever,13,10,rainy,6,Medium
+Avissawella,dog fever,8,1,hot,4,Low
+Giriulla,loss of appetite,9,0,dry,2,Low
+Puttalam,fleas,19,10,humid,10,High
+Kurunegala,fleas,1,6,hot,4,Low
+Negombo,fleas,0,11,rainy,6,Medium
+Ginigathhena,ticks,1,8,dry,2,Low
+Matara,eye infection,12,11,humid,10,High
+Dankotuwa,loss of appetite,6,5,dry,2,Low
+Kandana,lethargy,17,4,hot,4,Medium
+Seeduwa,dog fever,12,6,rainy,6,Medium
+Galle,kennel cough,8,0,hot,4,Low
+Passara,loss of appetite,4,8,hot,4,Medium
+Mannar,dog fever,26,1,humid,10,High
+Ragama,kennel cough,5,10,rainy,6,Medium
+Wattala,loss of appetite,5,9,dry,2,Medium
+Narammala,fleas,10,2,humid,10,Medium
+Mirissa,loss of appetite,9,5,hot,4,Medium
+Piliyandala,kennel cough,4,8,rainy,6,Medium
+Batticaloa,dog fever,15,3,hot,4,Medium
+Kosgama,dog fever,22,1,dry,2,Medium
+Wellawaya,fleas,9,3,rainy,6,Medium
+Mahiyanganaya,dog coughing,12,8,rainy,6,Medium
+Haputale,fleas,12,2,hot,4,Medium
+Bandaragama,lethargy,6,7,dry,2,Medium
+Kotte,kennel cough,14,0,humid,10,Medium
+Maskeliya,kennel cough,1,6,rainy,6,Low
+Boralesgamuwa,fleas,24,12,hot,4,High
+Ampara,itchy skin,11,3,rainy,6,Medium
+Mawanella,ticks,17,8,hot,4,Medium
+Vavuniya,loss of appetite,23,5,rainy,6,High
+Galewela,eye infection,16,5,hot,4,Medium
+Moratuwa,dog vomiting,21,5,hot,4,Medium
+Negombo,dog coughing,13,4,dry,2,Medium
+Gonapola,fleas,16,1,dry,2,Medium
+Ganemulla,eye infection,4,1,hot,4,Low
+Maharagama,dog fever,0,9,dry,2,Low
+Warakapola,lethargy,9,10,dry,2,Medium
+Mapalana,eye infection,1,0,hot,4,Low
+Bandarawela,itchy skin,14,0,humid,10,Medium
+Wattala,eye infection,15,2,rainy,6,Medium
+Hambantota,dog vomiting,11,10,humid,10,High
+Kilinochchi,dog coughing,16,1,dry,2,Medium
+Balangoda,dog vomiting,13,5,rainy,6,Medium
+Ambalangoda,ticks,6,5,hot,4,Medium
+Kothmale,dog vomiting,3,2,dry,2,Low
+Hatton,ticks,21,7,humid,10,High
+Haputale,dog fever,3,0,dry,2,Low
+Negombo,itchy skin,6,8,rainy,6,Medium
+Monaragala,lethargy,22,3,humid,10,High
+Hanwella,dog fever,11,4,humid,10,Medium
+Matara,lethargy,6,5,hot,4,Medium
+Wattala,ticks,9,10,rainy,6,Medium
+Dankotuwa,lethargy,16,13,humid,10,High
+Nuwara Eliya,loss of appetite,10,10,dry,2,Medium
+Homagama,lethargy,14,5,hot,4,Medium
+Balangoda,dog fever,18,10,hot,4,High
+Batticaloa,itchy skin,2,10,dry,2,Medium
+Wariyapola,itchy skin,0,7,rainy,6,Low
+Maharagama,lethargy,7,13,rainy,6,Medium
+Kelaniya,dog fever,15,9,rainy,6,High
+Kalawana,ticks,18,8,rainy,6,High
+Kalawana,dog vomiting,16,2,rainy,6,Medium
+Agunukolapelessa,lethargy,4,6,hot,4,Low
+Kilinochchi,kennel cough,9,14,dry,2,Medium
+Buttala,dog fever,0,3,hot,4,Low
+Nuwara Eliya,lethargy,13,7,dry,2,Medium
+Moragahamula,itchy skin,11,3,humid,10,Medium
+Deniyaya,fleas,8,0,humid,10,Low
+Homagama,dog coughing,16,0,humid,10,Medium
+Bandarawela,eye infection,11,5,hot,4,Medium
+Ampara,loss of appetite,10,1,humid,10,Medium
+Beruwala,ticks,15,0,hot,4,Medium
+Ganemulla,ticks,7,0,dry,2,Low
+Dehiwala,dog fever,17,0,hot,4,Medium
+Mullaitivu,lethargy,5,1,rainy,6,Low
+Katunayake,dog vomiting,9,3,dry,2,Low
+Kurunegala,dog fever,3,1,hot,4,Low
+Agunukolapelessa,kennel cough,1,8,rainy,6,Medium
+Wellawaya,ticks,0,7,humid,10,Medium
+Galgamuwa,fleas,7,10,dry,2,Medium
+Middeniya,dog vomiting,0,5,dry,2,Low
+Badulla,dog vomiting,18,4,dry,2,Medium
+Ampara,fleas,1,12,dry,2,Medium
+Kandy,itchy skin,1,1,hot,4,Low
+Galgamuwa,loss of appetite,13,5,dry,2,Medium
+Seeduwa,itchy skin,12,9,humid,10,High
+Vavuniya,ticks,24,1,humid,10,High
+Matale,dog vomiting,14,5,humid,10,Medium
+Kahawatte,loss of appetite,21,4,dry,2,Medium
+Gonapola,loss of appetite,5,8,hot,4,Medium
+Matale,fleas,17,0,dry,2,Medium
+Kahawatte,dog coughing,5,6,humid,10,Medium
+Kilinochchi,itchy skin,3,2,hot,4,Low
+Badulla,kennel cough,21,3,rainy,6,Medium
+Seeduwa,dog fever,14,5,hot,4,Medium
+Boralesgamuwa,ticks,14,8,dry,2,Medium
+Nuwara Eliya,itchy skin,19,10,rainy,6,High
+Mahiyanganaya,dog fever,16,0,dry,2,Medium
+Bandaragama,ticks,17,8,rainy,6,High
+Kalutara,kennel cough,5,10,rainy,6,Medium
+Matara,lethargy,4,0,rainy,6,Low
+Minuwangoda,fleas,16,10,humid,10,High
+Panadura,fleas,8,7,humid,10,Medium
+Tissamaharama,lethargy,10,10,rainy,6,Medium
+Dambulla,loss of appetite,8,6,humid,10,Medium
+Marawila,kennel cough,2,1,dry,2,Low
+Wariyapola,dog fever,11,12,humid,10,High
+Kandy,lethargy,4,12,humid,10,Medium
+Kalawana,fleas,9,4,dry,2,Medium
+Chilaw,lethargy,4,8,dry,2,Medium
+Weligama,dog vomiting,23,0,dry,2,Medium
+Moragahamula,fleas,8,9,dry,2,Medium
+Ambalangoda,kennel cough,3,3,hot,4,Low
+Embilipitiya,dog vomiting,4,3,dry,2,Low
+Kurunegala,loss of appetite,9,6,hot,4,Medium
+Narammala,itchy skin,19,8,dry,2,Medium
+Monaragala,dog coughing,1,4,dry,2,Low
+Ambalangoda,lethargy,22,6,rainy,6,High
+Mannar,dog fever,8,11,hot,4,Medium
+Anuradhapura,ticks,5,9,rainy,6,Medium
+Pelmadulla,dog fever,2,1,rainy,6,Low
+Jaffna,eye infection,8,2,hot,4,Low
+Gampaha,dog fever,19,0,hot,4,Medium
+Balangoda,ticks,8,13,rainy,6,Medium
+Hanwella,dog vomiting,13,4,hot,4,Medium
+Marawila,loss of appetite,12,4,rainy,6,Medium
+Mannar,dog vomiting,12,3,humid,10,Medium
+Matugama,itchy skin,5,5,dry,2,Low
+Gampaha,itchy skin,20,0,dry,2,Medium
+Matugama,dog fever,11,6,hot,4,Medium
+Minuwangoda,kennel cough,4,9,hot,4,Medium
+Passara,itchy skin,18,11,rainy,6,High
+Kuliyapitiya,ticks,6,0,rainy,6,Low
+Polonnaruwa,kennel cough,28,3,hot,4,High
+Middeniya,itchy skin,13,6,humid,10,Medium
+Embilipitiya,dog vomiting,11,4,rainy,6,Medium
+Mirissa,eye infection,22,3,dry,2,Medium
+Moragahamula,itchy skin,12,8,rainy,6,Medium
+Kelaniya,fleas,7,4,hot,4,Low
+Warakapola,eye infection,20,13,dry,2,High
+Mawanella,loss of appetite,3,11,rainy,6,Medium
+Aluthgama,dog vomiting,10,4,humid,10,Medium
+Galgamuwa,dog vomiting,9,9,rainy,6,Medium
+Dambulla,dog vomiting,12,1,dry,2,Low
+Bandaragama,eye infection,3,4,hot,4,Low
+Embilipitiya,itchy skin,19,8,rainy,6,High
+Giriulla,dog vomiting,8,0,humid,10,Low
+Kotte,lethargy,12,4,dry,2,Medium
+Anuradhapura,itchy skin,6,5,hot,4,Medium
+Boralesgamuwa,dog fever,3,4,rainy,6,Low
+Kegalle,itchy skin,24,5,hot,4,High
+Kahawatte,dog fever,10,8,humid,10,Medium
+Bandaragama,itchy skin,12,4,hot,4,Medium
+Kegalle,ticks,1,0,humid,10,Low
+Matale,ticks,15,4,hot,4,Medium
+Wariyapola,dog fever,15,0,humid,10,Medium
+Gampaha,dog fever,13,0,hot,4,Medium
+Galle,itchy skin,2,4,rainy,6,Low
+Mawanella,kennel cough,12,8,hot,4,Medium
+Rathmalana,loss of appetite,4,12,rainy,6,Medium
+Ampara,loss of appetite,17,15,hot,4,High
+Galle,kennel cough,11,0,rainy,6,Low
+Wariyapola,fleas,17,11,dry,2,High
+Weligama,dog fever,5,3,rainy,6,Low
+Rathmalana,dog fever,8,7,hot,4,Medium
+Elpitiya,dog vomiting,6,5,dry,2,Low
+Mapalana,ticks,11,7,dry,2,Medium
+Hambantota,dog coughing,8,2,hot,4,Low
+Kosgama,kennel cough,11,2,humid,10,Medium
+Wattala,ticks,18,4,rainy,6,Medium
+Batticaloa,ticks,4,5,rainy,6,Low
+Seeduwa,dog coughing,10,0,hot,4,Low
+Dankotuwa,fleas,4,6,humid,10,Medium
+Puttalam,eye infection,25,10,rainy,6,High
+Kosgama,lethargy,0,13,dry,2,Medium
+Hikkaduwa,itchy skin,13,3,dry,2,Medium
+Marawila,loss of appetite,20,7,hot,4,High
+Beruwala,itchy skin,2,0,rainy,6,Low
+Elpitiya,dog coughing,3,5,hot,4,Low
+Ratnapura,fleas,22,5,dry,2,Medium
+Elpitiya,dog vomiting,10,1,dry,2,Low
+Puttalam,dog coughing,11,3,dry,2,Medium
+Passara,dog coughing,15,2,dry,2,Medium
+Negombo,fleas,22,7,hot,4,High
+Batticaloa,kennel cough,10,8,humid,10,Medium
+Ragama,ticks,6,7,humid,10,Medium
+Dambulla,eye infection,24,6,humid,10,High
+Kegalle,fleas,4,2,humid,10,Low
+Moratuwa,eye infection,9,5,hot,4,Medium
+Dehiwala,eye infection,12,6,hot,4,Medium
+Kadawatha,itchy skin,0,1,rainy,6,Low
+Negombo,ticks,22,5,rainy,6,High
+Marawila,kennel cough,14,11,humid,10,High
+Badulla,kennel cough,0,12,humid,10,Medium
+Middeniya,fleas,14,9,humid,10,High
+Embilipitiya,kennel cough,12,6,rainy,6,Medium
+Hanwella,lethargy,23,10,dry,2,High
+Passara,dog coughing,8,7,humid,10,Medium
+Dehiwala,ticks,14,3,humid,10,Medium
+Kothmale,kennel cough,27,3,humid,10,High
+Mawanella,ticks,8,8,rainy,6,Medium
+Chilaw,ticks,13,0,rainy,6,Medium
+Passara,kennel cough,8,0,rainy,6,Low
+Ganemulla,kennel cough,8,4,hot,4,Medium
+Gampaha,fleas,2,2,hot,4,Low
+Moragahamula,itchy skin,9,3,dry,2,Low
+Katunayake,fleas,13,0,hot,4,Medium
+Aluthgama,dog vomiting,4,3,humid,10,Medium
+Trincomalee,dog vomiting,1,14,hot,4,Medium
+Ratnapura,loss of appetite,5,5,rainy,6,Medium
+Ginigathhena,itchy skin,9,2,humid,10,Medium
+Rathmalana,eye infection,12,6,humid,10,Medium
+Mannar,loss of appetite,24,1,humid,10,High
+Katunayake,eye infection,4,4,dry,2,Low
+Agunukolapelessa,dog fever,6,0,hot,4,Low
+Weligama,fleas,2,0,humid,10,Low
+Chilaw,loss of appetite,9,6,humid,10,Medium
+Katunayake,itchy skin,2,10,rainy,6,Medium
+Negombo,fleas,6,4,humid,10,Medium
+Kandana,fleas,9,0,humid,10,Medium
+Mullaitivu,kennel cough,4,6,dry,2,Low
+Embilipitiya,lethargy,5,5,dry,2,Low
+Dankotuwa,lethargy,4,12,humid,10,Medium
+Horana,dog fever,10,0,rainy,6,Low
+Deniyaya,eye infection,0,5,hot,4,Low
+Ganemulla,eye infection,4,0,dry,2,Low
+Weligama,loss of appetite,5,3,hot,4,Low
+Matugama,dog vomiting,16,13,dry,2,High
+Hikkaduwa,dog coughing,16,9,hot,4,Medium
+Passara,eye infection,5,8,rainy,6,Medium
+Gampaha,fleas,3,13,humid,10,Medium
+Trincomalee,lethargy,5,0,rainy,6,Low
+Rathmalana,dog coughing,17,5,hot,4,Medium
+Kegalle,kennel cough,14,1,humid,10,Medium
+Warakapola,fleas,16,8,dry,2,Medium
+Kahawatte,fleas,10,2,rainy,6,Medium
+Kalutara,itchy skin,13,11,rainy,6,High
+Kalawana,dog coughing,12,2,rainy,6,Medium
+Middeniya,ticks,15,3,dry,2,Medium
+Maharagama,eye infection,17,4,hot,4,Medium
+Matugama,dog coughing,12,11,humid,10,High
+Hikkaduwa,loss of appetite,0,1,hot,4,Low
+Avissawella,dog vomiting,3,1,dry,2,Low
+Tissamaharama,eye infection,12,10,dry,2,Medium
+Beruwala,lethargy,28,17,dry,2,High
+Kotte,kennel cough,27,8,humid,10,High
+Negombo,dog vomiting,12,7,humid,10,Medium
+Vavuniya,loss of appetite,12,3,rainy,6,Medium
+Giriulla,dog vomiting,2,0,dry,2,Low
+Kegalle,dog coughing,2,2,hot,4,Low
+Beruwala,fleas,13,3,hot,4,Medium
+Matale,ticks,4,4,dry,2,Low
+Chilaw,itchy skin,2,1,dry,2,Low
+Hanwella,fleas,15,4,hot,4,Medium
+Hatton,dog fever,18,5,dry,2,Medium
+Puttalam,loss of appetite,4,6,humid,10,Medium
+Mullaitivu,eye infection,10,6,hot,4,Medium
+Buttala,kennel cough,18,5,rainy,6,Medium
+Monaragala,ticks,8,4,humid,10,Medium
+Kataragama,dog vomiting,17,2,rainy,6,Medium
+Avissawella,dog coughing,23,5,humid,10,High
+Wattala,fleas,10,6,hot,4,Medium
+Katunayake,dog coughing,3,2,rainy,6,Low
+Weligama,dog coughing,16,0,dry,2,Medium
+Matara,dog fever,11,8,dry,2,Medium
+Chilaw,dog coughing,5,2,dry,2,Low
+Kurunegala,eye infection,2,3,humid,10,Low
+Mirissa,dog fever,12,2,dry,2,Medium
+Kurunegala,dog fever,1,2,hot,4,Low
+Kotte,itchy skin,14,1,humid,10,Medium
+Kandana,dog fever,11,18,hot,4,High
+Narammala,fleas,23,2,hot,4,Medium
+Kahawatte,fleas,6,9,hot,4,Medium
+Horana,dog vomiting,5,5,rainy,6,Medium
+Kalutara,dog fever,20,5,rainy,6,Medium
+Matale,dog vomiting,3,2,hot,4,Low
+Panadura,dog coughing,0,0,hot,4,Low
+Mullaitivu,kennel cough,15,10,dry,2,Medium
+Tissamaharama,lethargy,6,1,hot,4,Low
+Dambulla,lethargy,10,4,hot,4,Medium
+Galle,loss of appetite,1,1,humid,10,Low
+Chilaw,eye infection,9,6,hot,4,Medium
+Ja-Ela,dog coughing,8,4,humid,10,Medium
+Galle,kennel cough,8,3,dry,2,Low
+Gampaha,itchy skin,3,11,rainy,6,Medium
+Kelaniya,loss of appetite,0,10,dry,2,Low
+Avissawella,loss of appetite,10,13,humid,10,High
+Avissawella,lethargy,4,4,rainy,6,Low
+Hatton,ticks,19,3,hot,4,Medium
+Kothmale,dog coughing,0,9,rainy,6,Medium
+Matara,loss of appetite,2,0,dry,2,Low
+Galewela,dog coughing,1,2,dry,2,Low
+Warakapola,dog fever,8,4,rainy,6,Medium
+Tissamaharama,ticks,10,2,rainy,6,Medium
+Piliyandala,kennel cough,22,6,hot,4,High
+Agunukolapelessa,loss of appetite,2,5,dry,2,Low
+Galgamuwa,eye infection,16,3,hot,4,Medium
+Maharagama,fleas,10,0,humid,10,Medium
+Kandana,ticks,10,3,humid,10,Medium
+Wariyapola,itchy skin,8,7,rainy,6,Medium
+Matale,loss of appetite,13,5,humid,10,Medium
+Giriulla,dog vomiting,18,3,rainy,6,Medium
+Hikkaduwa,eye infection,2,9,rainy,6,Medium
+Ampara,dog coughing,13,2,rainy,6,Medium
+Narammala,eye infection,2,0,hot,4,Low
+Buttala,lethargy,15,8,dry,2,Medium
+Rathmalana,itchy skin,7,3,humid,10,Medium
+Homagama,itchy skin,14,0,rainy,6,Medium
+Piliyandala,dog fever,15,0,hot,4,Medium
+Kalawana,dog coughing,18,5,dry,2,Medium
+Dehiwala,loss of appetite,2,2,dry,2,Low
+Anuradhapura,dog coughing,10,3,hot,4,Medium
+Kotte,itchy skin,7,13,hot,4,Medium
+Dehiwala,dog vomiting,10,12,dry,2,Medium
+Kelaniya,itchy skin,1,7,dry,2,Low
+Anuradhapura,lethargy,9,1,dry,2,Low
+Negombo,ticks,6,7,humid,10,Medium
+Kothmale,kennel cough,19,4,hot,4,Medium
+Gonapola,kennel cough,13,3,rainy,6,Medium
+Kataragama,loss of appetite,1,6,humid,10,Medium
+Pelmadulla,dog vomiting,10,13,humid,10,High
+Agunukolapelessa,ticks,7,10,hot,4,Medium
+Kelaniya,dog fever,10,5,hot,4,Medium
+Monaragala,loss of appetite,10,2,hot,4,Low
+Ganemulla,dog coughing,1,4,hot,4,Low
+Jaffna,loss of appetite,9,6,humid,10,Medium
+Ambalangoda,dog fever,8,9,humid,10,Medium
+Kotte,lethargy,16,4,hot,4,Medium
+Weligama,fleas,3,8,rainy,6,Medium
+Colombo,lethargy,5,4,hot,4,Low
+Galewela,loss of appetite,22,11,dry,2,High
+Galgamuwa,ticks,20,13,dry,2,High
+Kadawatha,dog fever,5,9,dry,2,Medium
+Haputale,dog coughing,23,4,humid,10,High
+Kuliyapitiya,lethargy,15,4,humid,10,Medium
+Kandy,lethargy,6,5,rainy,6,Medium
+Panadura,itchy skin,15,2,dry,2,Medium
+Dehiwala,ticks,8,7,humid,10,Medium
+Moratuwa,loss of appetite,11,9,dry,2,Medium
+Dankotuwa,fleas,9,0,rainy,6,Low
+Galgamuwa,eye infection,20,0,hot,4,Medium
+Kalawana,dog fever,23,6,hot,4,High
+Batticaloa,dog vomiting,4,4,hot,4,Low
+Wattala,loss of appetite,4,10,humid,10,Medium
+Vavuniya,dog coughing,1,8,humid,10,Medium
+Pelmadulla,loss of appetite,0,3,hot,4,Low
+Kataragama,loss of appetite,7,9,hot,4,Medium
+Wattala,lethargy,12,3,humid,10,Medium
+Hanwella,lethargy,7,17,rainy,6,High
+Piliyandala,kennel cough,10,7,humid,10,Medium
+Kegalle,eye infection,8,1,hot,4,Low
+Buttala,kennel cough,26,4,hot,4,High
+Wattala,dog fever,6,7,rainy,6,Medium
+Ratnapura,dog vomiting,18,3,rainy,6,Medium
+Kataragama,dog vomiting,15,6,rainy,6,Medium
+Middeniya,dog coughing,4,9,hot,4,Medium
+Kandy,itchy skin,13,0,rainy,6,Medium
+Ragama,dog vomiting,12,4,humid,10,Medium
+Kegalle,dog fever,4,10,dry,2,Medium
+Weligama,dog vomiting,4,12,rainy,6,Medium
+Moragahamula,itchy skin,9,5,dry,2,Medium
+Puttalam,lethargy,10,0,humid,10,Medium
+Gampaha,kennel cough,3,18,dry,2,Medium
+Matara,itchy skin,4,5,hot,4,Low
+Agunukolapelessa,dog fever,4,12,rainy,6,Medium
+Mawanella,loss of appetite,1,0,dry,2,Low
+Kahawatte,itchy skin,21,10,humid,10,High
+Embilipitiya,itchy skin,1,8,dry,2,Low
+Kandy,dog coughing,15,1,humid,10,Medium
+Weeraketiya,dog fever,5,9,hot,4,Medium
+Embilipitiya,dog vomiting,21,5,humid,10,High
+Kalawana,ticks,8,8,dry,2,Medium
+Vavuniya,itchy skin,6,8,dry,2,Medium
+Batticaloa,kennel cough,18,1,hot,4,Medium
+Ginigathhena,dog coughing,7,2,humid,10,Medium
+Ja-Ela,fleas,2,11,rainy,6,Medium
+Moragahamula,lethargy,7,1,dry,2,Low
+Katunayake,eye infection,3,8,rainy,6,Medium
+Galle,eye infection,2,5,humid,10,Medium
+Batticaloa,ticks,8,4,rainy,6,Medium
+Batticaloa,lethargy,7,4,dry,2,Low
+Seeduwa,ticks,3,11,dry,2,Medium
+Aluthgama,itchy skin,16,12,dry,2,High
+Kalutara,loss of appetite,24,3,humid,10,High
+Kadawatha,dog coughing,16,7,rainy,6,Medium
+Kosgama,dog coughing,5,3,humid,10,Medium
+Maskeliya,kennel cough,16,2,humid,10,Medium
+Moratuwa,dog fever,28,4,hot,4,High
+Middeniya,dog fever,22,0,hot,4,Medium
+Ganemulla,loss of appetite,11,12,hot,4,Medium
+Point Pedro,dog vomiting,2,7,humid,10,Medium
+Giriulla,loss of appetite,5,6,rainy,6,Medium
+Point Pedro,itchy skin,2,9,dry,2,Medium
+Monaragala,dog vomiting,14,8,hot,4,Medium
+Ambalangoda,fleas,12,5,humid,10,Medium
+Dambulla,itchy skin,2,5,rainy,6,Low
+Marawila,itchy skin,2,11,dry,2,Medium
+Moratuwa,eye infection,5,13,rainy,6,Medium
+Bandaragama,dog coughing,2,2,humid,10,Low
+Hanwella,dog fever,18,4,rainy,6,Medium
+Mirissa,fleas,9,5,rainy,6,Medium
+Giriulla,dog vomiting,7,7,dry,2,Medium
+Negombo,kennel cough,20,0,humid,10,Medium
+Kandy,dog vomiting,6,5,dry,2,Low
+Ratnapura,itchy skin,14,7,hot,4,Medium
+Kuliyapitiya,dog vomiting,19,5,rainy,6,Medium
+Kalutara,fleas,8,0,rainy,6,Low
+Kilinochchi,dog vomiting,14,6,hot,4,Medium
+Ragama,ticks,9,0,hot,4,Low
+Kalutara,dog vomiting,22,6,rainy,6,High
+Rathmalana,dog vomiting,14,1,humid,10,Medium
+Kilinochchi,fleas,4,10,hot,4,Medium
+Kadawatha,lethargy,2,0,dry,2,Low
+Beruwala,eye infection,6,5,humid,10,Medium
+Bandarawela,loss of appetite,21,0,hot,4,Medium
+Mirissa,lethargy,11,4,hot,4,Medium
+Passara,ticks,1,5,rainy,6,Low
+Piliyandala,dog fever,9,5,hot,4,Medium
+Anuradhapura,ticks,3,0,rainy,6,Low
+Middeniya,eye infection,5,9,dry,2,Medium
+Kotte,dog fever,12,0,humid,10,Medium
+Giriulla,loss of appetite,1,4,rainy,6,Low
+Kegalle,loss of appetite,9,2,dry,2,Low
+Ragama,ticks,8,8,humid,10,Medium
+Tissamaharama,ticks,5,4,rainy,6,Low
+Kadawatha,dog vomiting,5,3,humid,10,Medium
+Wattala,ticks,5,5,dry,2,Low
+Ja-Ela,fleas,8,4,dry,2,Low
+Moragahamula,dog fever,11,5,humid,10,Medium
+Negombo,loss of appetite,10,0,dry,2,Low
+Polonnaruwa,itchy skin,7,6,dry,2,Medium
+Avissawella,kennel cough,9,9,humid,10,Medium
+Dambulla,lethargy,3,8,dry,2,Low
+Monaragala,lethargy,6,7,humid,10,Medium
+Kilinochchi,eye infection,10,7,humid,10,Medium
+Balangoda,itchy skin,5,5,rainy,6,Medium
+Mannar,dog vomiting,7,0,hot,4,Low
+Galle,dog fever,17,5,dry,2,Medium
+Weeraketiya,dog fever,16,3,humid,10,Medium
+Kahawatte,itchy skin,6,1,humid,10,Low
+Passara,itchy skin,19,8,dry,2,Medium
+Haputale,loss of appetite,10,1,rainy,6,Medium
+Ampara,eye infection,19,4,rainy,6,Medium
+Deniyaya,fleas,27,5,hot,4,High
+Wariyapola,dog coughing,1,1,hot,4,Low
+Gonapola,dog coughing,13,3,rainy,6,Medium
+Elpitiya,ticks,8,6,hot,4,Medium
+Bandarawela,fleas,2,11,rainy,6,Medium
+Ja-Ela,fleas,14,5,hot,4,Medium
+Tissamaharama,eye infection,15,2,humid,10,Medium
+Middeniya,loss of appetite,15,6,rainy,6,Medium
+Galle,lethargy,1,5,humid,10,Low
+Katunayake,lethargy,6,4,rainy,6,Medium
+Weeraketiya,loss of appetite,14,3,dry,2,Medium
+Maskeliya,fleas,29,2,dry,2,High
+Ambalangoda,eye infection,5,4,rainy,6,Low
+Negombo,itchy skin,0,9,humid,10,Medium
+Boralesgamuwa,kennel cough,10,0,dry,2,Low
+Chilaw,ticks,18,8,hot,4,High
+Kosgama,eye infection,11,2,dry,2,Low
+Hatton,dog vomiting,12,0,hot,4,Low
+Badulla,eye infection,0,3,humid,10,Low
+Kotte,loss of appetite,17,6,humid,10,High
+Rathmalana,dog vomiting,6,3,humid,10,Medium
+Mirissa,dog fever,3,10,humid,10,Medium
+Haputale,dog vomiting,22,4,humid,10,High
+Matugama,lethargy,15,13,rainy,6,High
+Katunayake,itchy skin,6,0,humid,10,Low
+Puttalam,eye infection,6,8,rainy,6,Medium
+Piliyandala,ticks,11,5,dry,2,Medium
+Warakapola,dog fever,27,1,humid,10,High
+Kahawatte,dog vomiting,2,3,dry,2,Low
+Seeduwa,itchy skin,15,14,dry,2,High
+Minuwangoda,itchy skin,6,4,dry,2,Low
+Moratuwa,dog fever,14,8,hot,4,Medium
+Ambalangoda,loss of appetite,1,0,dry,2,Low
+Kilinochchi,eye infection,7,11,humid,10,Medium
+Mirissa,fleas,1,6,hot,4,Low
+Boralesgamuwa,dog vomiting,20,3,rainy,6,Medium
+Colombo,dog coughing,13,4,hot,4,Medium
+Ratnapura,lethargy,2,4,hot,4,Low
+Bandaragama,lethargy,6,0,rainy,6,Low
+Mannar,dog fever,21,5,humid,10,High
+Narammala,kennel cough,10,0,humid,10,Medium
+Point Pedro,loss of appetite,2,6,humid,10,Medium
+Ginigathhena,itchy skin,11,8,hot,4,Medium
+Badulla,lethargy,15,3,rainy,6,Medium
+Vavuniya,itchy skin,13,0,rainy,6,Medium
+Galgamuwa,eye infection,21,12,humid,10,High
+Ampara,loss of appetite,12,0,dry,2,Low
+Mullaitivu,fleas,10,4,humid,10,Medium
+Gonapola,itchy skin,6,1,hot,4,Low
+Pelmadulla,eye infection,3,6,humid,10,Medium
+Warakapola,dog coughing,13,4,dry,2,Medium
+Trincomalee,ticks,3,3,dry,2,Low
+Badulla,eye infection,15,4,hot,4,Medium
+Kalutara,itchy skin,14,10,hot,4,Medium
+Weligama,ticks,18,0,hot,4,Medium
+Mapalana,eye infection,2,0,humid,10,Low
+Katunayake,dog vomiting,15,9,dry,2,Medium
+Mannar,dog vomiting,2,3,dry,2,Low
+Ragama,lethargy,1,7,rainy,6,Low
+Elpitiya,itchy skin,11,0,hot,4,Low
+Galgamuwa,eye infection,21,11,rainy,6,High
+Kotte,dog coughing,7,4,hot,4,Low
+Kadawatha,ticks,6,2,hot,4,Low
+Ragama,dog fever,2,6,hot,4,Low
+Chilaw,ticks,18,1,humid,10,Medium
+Matara,lethargy,16,3,humid,10,Medium
+Agunukolapelessa,fleas,8,2,hot,4,Low
+Moratuwa,lethargy,5,0,humid,10,Low
+Vavuniya,ticks,5,1,humid,10,Low
+Rathmalana,dog coughing,4,10,hot,4,Medium
+Passara,lethargy,20,10,humid,10,High
+Boralesgamuwa,ticks,9,9,humid,10,Medium
+Kataragama,fleas,19,8,rainy,6,High
+Polonnaruwa,lethargy,20,4,dry,2,Medium
+Polonnaruwa,dog fever,11,7,hot,4,Medium
+Weligama,eye infection,1,5,humid,10,Low
+Ginigathhena,loss of appetite,13,0,hot,4,Medium
+Gampaha,dog vomiting,2,0,humid,10,Low
+Rathmalana,kennel cough,13,8,rainy,6,Medium
+Galle,loss of appetite,8,11,humid,10,Medium
+Ganemulla,dog fever,12,0,dry,2,Low
+Kataragama,dog fever,10,7,humid,10,Medium
+Kurunegala,dog fever,19,8,humid,10,High
+Negombo,dog vomiting,16,0,hot,4,Medium
+Kalutara,eye infection,18,8,rainy,6,High
+Weligama,dog fever,3,0,hot,4,Low
+Deniyaya,fleas,9,3,hot,4,Medium
+Seeduwa,lethargy,23,13,dry,2,High
+Puttalam,kennel cough,1,6,dry,2,Low
+Chilaw,eye infection,3,4,dry,2,Low
+Katunayake,fleas,12,4,dry,2,Medium
+Embilipitiya,fleas,1,0,hot,4,Low
+Ganemulla,fleas,8,6,humid,10,Medium
+Gampaha,itchy skin,19,10,hot,4,High
+Warakapola,dog vomiting,5,1,dry,2,Low
+Hambantota,eye infection,9,1,humid,10,Medium
+Beruwala,loss of appetite,8,1,hot,4,Low
+Ambalangoda,dog fever,13,3,rainy,6,Medium
+Kotte,loss of appetite,2,0,rainy,6,Low
+Galle,eye infection,4,5,dry,2,Low
+Warakapola,dog fever,4,6,humid,10,Medium
+Chilaw,dog vomiting,8,10,hot,4,Medium
+Kuliyapitiya,itchy skin,23,3,dry,2,Medium
+Maharagama,dog fever,9,8,hot,4,Medium
+Wattala,itchy skin,4,0,humid,10,Low
+Wellawaya,dog coughing,6,0,rainy,6,Low
+Wattala,eye infection,6,0,humid,10,Low
+Kegalle,loss of appetite,26,10,humid,10,High
+Deniyaya,eye infection,2,10,dry,2,Medium
+Ratnapura,eye infection,12,0,rainy,6,Medium
+Ambalangoda,loss of appetite,14,4,hot,4,Medium
+Haputale,kennel cough,9,3,rainy,6,Medium
+Pelmadulla,dog coughing,18,0,hot,4,Medium
+Kurunegala,dog fever,1,9,rainy,6,Medium
+Dankotuwa,kennel cough,6,11,humid,10,Medium
+Kahawatte,eye infection,22,1,hot,4,Medium
+Marawila,fleas,1,9,hot,4,Medium
+Minuwangoda,dog coughing,5,7,dry,2,Medium
+Galewela,itchy skin,5,4,hot,4,Low
+Matugama,itchy skin,2,0,dry,2,Low
+Kegalle,fleas,4,11,rainy,6,Medium
+Jaffna,dog vomiting,9,13,hot,4,Medium
+Wariyapola,kennel cough,8,4,hot,4,Medium
+Ja-Ela,eye infection,13,11,dry,2,Medium
+Negombo,dog fever,3,1,dry,2,Low
+Dambulla,kennel cough,3,5,rainy,6,Low
+Weeraketiya,lethargy,0,2,rainy,6,Low
+Avissawella,dog fever,16,7,hot,4,Medium
+Vavuniya,itchy skin,25,10,dry,2,High
+Horana,ticks,6,6,rainy,6,Medium
+Elpitiya,dog fever,16,9,rainy,6,High
+Homagama,fleas,23,8,humid,10,High
+Dambulla,dog coughing,5,1,humid,10,Low
+Wattala,dog vomiting,5,0,humid,10,Low
+Kuliyapitiya,lethargy,9,6,rainy,6,Medium
+Ganemulla,kennel cough,9,4,rainy,6,Medium
+Seeduwa,dog coughing,4,2,hot,4,Low
+Buttala,fleas,18,5,rainy,6,Medium
+Kothmale,itchy skin,4,2,humid,10,Low
+Narammala,kennel cough,9,5,rainy,6,Medium
+Kurunegala,eye infection,5,3,rainy,6,Low
+Nuwara Eliya,dog coughing,5,2,dry,2,Low
+Ganemulla,dog vomiting,19,3,rainy,6,Medium
+Bandaragama,eye infection,5,1,dry,2,Low
+Mahiyanganaya,loss of appetite,2,10,dry,2,Medium
+Aluthgama,fleas,1,8,hot,4,Low
+Pelmadulla,itchy skin,7,4,rainy,6,Medium
+Dehiwala,dog coughing,6,0,humid,10,Low
+Kotte,itchy skin,12,4,hot,4,Medium
+Jaffna,eye infection,10,2,rainy,6,Medium
+Piliyandala,dog fever,7,5,hot,4,Medium
+Kalutara,dog fever,24,3,rainy,6,High
+Dehiwala,lethargy,7,6,rainy,6,Medium
+Ambalangoda,fleas,9,10,rainy,6,Medium
+Monaragala,dog coughing,15,4,hot,4,Medium
+Pelmadulla,dog vomiting,12,9,humid,10,High
+Narammala,kennel cough,21,7,dry,2,High
+Homagama,fleas,16,1,dry,2,Medium
+Beruwala,kennel cough,27,2,humid,10,High
+Homagama,eye infection,5,0,rainy,6,Low
+Mirissa,dog vomiting,11,9,hot,4,Medium
+Mullaitivu,eye infection,7,6,dry,2,Medium
+Kadawatha,lethargy,22,4,humid,10,High
+Wariyapola,dog fever,15,8,dry,2,Medium
+Dankotuwa,fleas,16,3,rainy,6,Medium
+Mannar,loss of appetite,23,3,hot,4,Medium
+Hikkaduwa,dog vomiting,10,4,humid,10,Medium
+Anuradhapura,dog coughing,22,11,rainy,6,High
+Matara,fleas,7,2,hot,4,Low
+Mannar,lethargy,10,0,rainy,6,Low
+Negombo,dog vomiting,14,12,humid,10,High
+Ratnapura,ticks,3,3,rainy,6,Low
+Middeniya,eye infection,14,7,dry,2,Medium
+Narammala,eye infection,8,1,humid,10,Medium
+Beruwala,kennel cough,6,1,hot,4,Low
+Ampara,dog vomiting,3,3,rainy,6,Low
+Pelmadulla,fleas,13,8,humid,10,High
+Bandaragama,fleas,15,2,hot,4,Medium
+Balangoda,fleas,9,0,rainy,6,Low
+Ganemulla,kennel cough,12,4,humid,10,Medium
+Warakapola,dog coughing,8,0,humid,10,Low
+Bandaragama,loss of appetite,10,4,humid,10,Medium
+Ginigathhena,dog vomiting,7,9,humid,10,Medium
+Elpitiya,ticks,9,11,humid,10,High
+Hanwella,dog fever,11,13,dry,2,Medium
+Ampara,eye infection,23,1,hot,4,Medium
+Minuwangoda,loss of appetite,5,2,humid,10,Low
+Maharagama,kennel cough,6,5,rainy,6,Medium
+Mannar,kennel cough,5,7,hot,4,Medium
+Kegalle,dog coughing,23,5,rainy,6,High
+Deniyaya,kennel cough,5,7,hot,4,Medium
+Moratuwa,loss of appetite,10,1,humid,10,Medium
+Marawila,kennel cough,17,5,rainy,6,Medium
+Beruwala,kennel cough,6,0,rainy,6,Low
+Boralesgamuwa,itchy skin,11,9,rainy,6,Medium
+Panadura,dog fever,20,1,rainy,6,Medium
+Moratuwa,lethargy,10,0,dry,2,Low
+Mapalana,dog fever,25,5,humid,10,High
+Ragama,ticks,15,1,rainy,6,Medium
+Middeniya,dog coughing,17,7,hot,4,Medium
+Hikkaduwa,ticks,16,7,rainy,6,Medium
+Kuliyapitiya,eye infection,13,6,hot,4,Medium
+Giriulla,ticks,8,3,rainy,6,Medium
+Warakapola,dog coughing,7,5,hot,4,Medium
+Horana,loss of appetite,9,3,hot,4,Medium
+Seeduwa,loss of appetite,0,9,humid,10,Medium
+Dehiwala,fleas,6,1,rainy,6,Low
+Moragahamula,dog vomiting,20,12,rainy,6,High
+Rathmalana,dog fever,8,12,humid,10,High
+Avissawella,kennel cough,18,6,hot,4,Medium
+Haputale,dog fever,12,5,humid,10,Medium
+Trincomalee,loss of appetite,6,4,rainy,6,Medium
+Trincomalee,kennel cough,8,4,rainy,6,Medium
+Giriulla,lethargy,15,5,humid,10,Medium
+Middeniya,itchy skin,9,0,hot,4,Low
+Nuwara Eliya,dog coughing,13,5,rainy,6,Medium
+Embilipitiya,fleas,8,3,humid,10,Medium
+Kadawatha,dog vomiting,9,12,humid,10,High
+Mapalana,fleas,5,10,hot,4,Medium
+Tissamaharama,eye infection,8,13,rainy,6,Medium
+Bandaragama,dog fever,22,7,dry,2,High
+Wellawaya,dog vomiting,7,5,dry,2,Low
+Kahawatte,kennel cough,18,4,rainy,6,Medium
+Piliyandala,kennel cough,19,12,hot,4,High
+Boralesgamuwa,lethargy,15,0,humid,10,Medium
+Katunayake,eye infection,13,9,rainy,6,Medium
+Colombo,loss of appetite,16,1,rainy,6,Medium
+Kataragama,loss of appetite,15,1,rainy,6,Medium
+Kotte,ticks,11,5,humid,10,Medium
+Elpitiya,ticks,5,0,hot,4,Low
+Pelmadulla,itchy skin,26,4,dry,2,High
+Embilipitiya,lethargy,14,7,humid,10,Medium
+Galewela,eye infection,2,2,dry,2,Low
+Mapalana,eye infection,13,8,dry,2,Medium
+Giriulla,kennel cough,8,2,dry,2,Low
+Kelaniya,kennel cough,9,4,humid,10,Medium
+Badulla,ticks,5,12,hot,4,Medium
+Vavuniya,itchy skin,7,9,humid,10,Medium
+Marawila,eye infection,6,5,dry,2,Low
+Matara,dog vomiting,19,2,humid,10,Medium
+Middeniya,eye infection,7,1,humid,10,Medium
+Narammala,loss of appetite,32,1,humid,10,High
+Boralesgamuwa,eye infection,27,6,rainy,6,High
+Ampara,dog vomiting,2,13,rainy,6,Medium
+Avissawella,itchy skin,11,3,dry,2,Medium
+Kegalle,ticks,21,7,hot,4,High
+Embilipitiya,dog fever,9,3,humid,10,Medium
+Boralesgamuwa,loss of appetite,10,13,hot,4,Medium
+Mannar,kennel cough,20,6,rainy,6,High
+Katunayake,loss of appetite,10,6,hot,4,Medium
+Kilinochchi,dog vomiting,0,1,hot,4,Low
+Horana,kennel cough,7,0,rainy,6,Low
+Kataragama,itchy skin,14,1,dry,2,Medium
+Hikkaduwa,eye infection,12,0,rainy,6,Medium
+Beruwala,ticks,10,7,hot,4,Medium
+Ragama,eye infection,21,3,humid,10,High
+Wellawaya,ticks,19,0,rainy,6,Medium
+Bandarawela,fleas,0,2,hot,4,Low
+Hikkaduwa,loss of appetite,15,3,hot,4,Medium
+Elpitiya,fleas,14,13,humid,10,High
+Anuradhapura,eye infection,1,8,rainy,6,Medium
+Batticaloa,kennel cough,13,3,dry,2,Medium
+Hambantota,dog coughing,14,5,dry,2,Medium
+Middeniya,itchy skin,5,0,hot,4,Low
+Puttalam,loss of appetite,5,10,hot,4,Medium
+Maskeliya,fleas,5,10,rainy,6,Medium
+Kothmale,fleas,10,2,humid,10,Medium
+Ginigathhena,itchy skin,10,0,humid,10,Medium
+Nuwara Eliya,itchy skin,3,6,hot,4,Low
+Negombo,lethargy,17,8,hot,4,Medium
+Bandaragama,lethargy,7,2,hot,4,Low
+Matara,loss of appetite,11,8,rainy,6,Medium
+Kahawatte,eye infection,3,12,hot,4,Medium
+Kandy,dog fever,24,12,rainy,6,High
+Marawila,dog vomiting,17,2,dry,2,Medium
+Beruwala,dog fever,22,7,hot,4,High
+Nuwara Eliya,dog fever,2,2,humid,10,Low
+Kadawatha,fleas,9,10,hot,4,Medium
+Elpitiya,lethargy,12,1,humid,10,Medium
+Hatton,kennel cough,26,2,dry,2,Medium
+Kandana,lethargy,5,9,hot,4,Medium
+Maharagama,loss of appetite,4,5,humid,10,Medium
+Kadawatha,dog coughing,8,0,humid,10,Low
+Ampara,kennel cough,1,7,humid,10,Medium
+Ganemulla,loss of appetite,7,4,hot,4,Low
+Jaffna,itchy skin,20,4,humid,10,High
+Kahawatte,dog fever,10,3,hot,4,Medium
+Gampaha,fleas,5,0,dry,2,Low
+Dehiwala,dog vomiting,19,13,rainy,6,High
+Pelmadulla,fleas,2,1,hot,4,Low
+Kandana,kennel cough,16,6,rainy,6,Medium
+Marawila,eye infection,4,3,rainy,6,Low
+Katunayake,kennel cough,21,0,dry,2,Medium
+Warakapola,dog fever,14,4,rainy,6,Medium
+Aluthgama,lethargy,11,0,hot,4,Low
+Rathmalana,dog coughing,24,4,hot,4,High
+Ja-Ela,dog vomiting,7,6,humid,10,Medium
+Galewela,eye infection,0,2,dry,2,Low
+Ratnapura,dog fever,13,0,hot,4,Medium
+Kotte,dog vomiting,10,6,rainy,6,Medium
+Aluthgama,kennel cough,5,14,humid,10,High
+Dehiwala,fleas,0,6,rainy,6,Low
+Hikkaduwa,itchy skin,6,7,rainy,6,Medium
+Kahawatte,itchy skin,1,3,dry,2,Low
+Kegalle,dog coughing,7,6,dry,2,Medium
+Wariyapola,eye infection,18,14,humid,10,High
+Mapalana,eye infection,5,11,humid,10,Medium
+Kandy,dog fever,17,1,rainy,6,Medium
+Galle,kennel cough,14,3,humid,10,Medium
+Moratuwa,dog coughing,18,7,dry,2,Medium
+Horana,loss of appetite,1,3,hot,4,Low
+Ja-Ela,fleas,24,9,hot,4,High
+Piliyandala,dog fever,1,7,humid,10,Medium
+Kandy,kennel cough,27,2,hot,4,High
+Seeduwa,loss of appetite,10,7,dry,2,Medium
+Ja-Ela,loss of appetite,15,0,dry,2,Medium
+Balangoda,kennel cough,16,7,rainy,6,Medium
+Hatton,dog fever,2,5,hot,4,Low
+Kalawana,dog fever,26,2,humid,10,High
+Boralesgamuwa,lethargy,14,4,humid,10,Medium
+Anuradhapura,ticks,4,6,rainy,6,Medium
+Jaffna,ticks,6,5,humid,10,Medium
+Point Pedro,dog vomiting,14,4,humid,10,Medium
+Moratuwa,fleas,8,4,rainy,6,Medium
+Wellawaya,fleas,4,0,humid,10,Low
+Panadura,dog vomiting,19,5,dry,2,Medium
+Homagama,dog coughing,8,2,rainy,6,Low
+Kothmale,dog fever,11,0,rainy,6,Low
+Kalawana,loss of appetite,0,0,humid,10,Low
+Homagama,dog vomiting,1,7,humid,10,Medium
+Dankotuwa,loss of appetite,1,2,humid,10,Low
+Kalawana,eye infection,16,5,dry,2,Medium
+Anuradhapura,fleas,6,4,dry,2,Low
+Anuradhapura,eye infection,3,1,rainy,6,Low
+Kurunegala,fleas,2,1,humid,10,Low
+Mirissa,dog vomiting,14,3,rainy,6,Medium
+Gonapola,ticks,9,1,hot,4,Low
+Passara,ticks,18,3,dry,2,Medium
+Wariyapola,lethargy,1,6,dry,2,Low
+Hanwella,dog coughing,5,1,humid,10,Low
+Galle,ticks,13,7,rainy,6,Medium
+Colombo,dog coughing,20,5,rainy,6,Medium
+Kandy,itchy skin,8,3,dry,2,Low
+Hambantota,ticks,3,8,hot,4,Medium
+Point Pedro,ticks,7,3,hot,4,Low
+Avissawella,dog fever,9,1,humid,10,Medium
+Pelmadulla,ticks,9,5,rainy,6,Medium
+Bandaragama,dog vomiting,9,6,rainy,6,Medium
+Ampara,dog fever,11,5,rainy,6,Medium
+Hikkaduwa,dog vomiting,6,10,dry,2,Medium
+Pelmadulla,dog coughing,15,4,hot,4,Medium
+Deniyaya,lethargy,11,3,rainy,6,Medium
+Haputale,fleas,23,2,hot,4,Medium
+Homagama,ticks,20,4,humid,10,High
+Gampaha,lethargy,13,6,rainy,6,Medium
+Kotte,eye infection,24,2,rainy,6,Medium
+Polonnaruwa,itchy skin,14,1,humid,10,Medium
+Middeniya,fleas,15,4,hot,4,Medium
+Mirissa,itchy skin,10,0,humid,10,Medium
+Trincomalee,itchy skin,27,15,rainy,6,High
+Ginigathhena,fleas,19,11,dry,2,High
+Moratuwa,lethargy,24,3,humid,10,High
+Warakapola,loss of appetite,13,5,rainy,6,Medium
+Kosgama,dog vomiting,0,9,hot,4,Low
+Matale,lethargy,2,1,hot,4,Low
+Boralesgamuwa,ticks,17,6,dry,2,Medium
+Kosgama,kennel cough,20,0,humid,10,Medium
+Bandaragama,eye infection,3,0,hot,4,Low
+Avissawella,itchy skin,7,8,rainy,6,Medium
+Hikkaduwa,eye infection,5,6,hot,4,Medium
+Boralesgamuwa,itchy skin,24,5,humid,10,High
+Buttala,dog fever,19,11,humid,10,High
+Kelaniya,ticks,15,2,hot,4,Medium
+Minuwangoda,kennel cough,13,0,hot,4,Medium
+Mahiyanganaya,kennel cough,17,11,humid,10,High
+Ginigathhena,fleas,6,2,dry,2,Low
+Kataragama,fleas,16,7,dry,2,Medium
+Pelmadulla,ticks,12,11,hot,4,Medium
+Matara,dog vomiting,6,11,rainy,6,Medium
+Middeniya,dog coughing,15,1,rainy,6,Medium
+Kuliyapitiya,itchy skin,12,2,hot,4,Medium
+Hambantota,eye infection,0,1,rainy,6,Low
+Kelaniya,loss of appetite,15,8,dry,2,Medium
+Kosgama,kennel cough,9,16,hot,4,High
+Gonapola,dog vomiting,19,5,hot,4,Medium
+Kegalle,dog vomiting,12,0,rainy,6,Medium
+Embilipitiya,loss of appetite,10,6,dry,2,Medium
+Ganemulla,dog vomiting,3,7,humid,10,Medium
+Pelmadulla,dog coughing,14,0,hot,4,Medium
+Mahiyanganaya,dog coughing,10,5,humid,10,Medium
+Monaragala,dog vomiting,10,13,humid,10,High
+Horana,dog fever,1,9,rainy,6,Medium
+Matugama,fleas,26,0,humid,10,High
+Boralesgamuwa,dog vomiting,18,0,rainy,6,Medium
+Middeniya,eye infection,20,5,rainy,6,Medium
+Weligama,dog fever,6,0,hot,4,Low
+Jaffna,kennel cough,16,8,dry,2,Medium
+Mannar,dog vomiting,14,13,rainy,6,High
+Gonapola,fleas,9,1,hot,4,Low
+Ginigathhena,dog fever,7,8,rainy,6,Medium
+Kadawatha,loss of appetite,5,5,rainy,6,Medium
+Chilaw,kennel cough,15,8,rainy,6,Medium
+Kilinochchi,loss of appetite,8,14,dry,2,Medium
+Polonnaruwa,fleas,19,3,rainy,6,Medium
+Tissamaharama,eye infection,8,2,humid,10,Medium
+Embilipitiya,dog vomiting,11,6,rainy,6,Medium
+Kadawatha,loss of appetite,18,7,dry,2,Medium
+Ampara,kennel cough,10,7,rainy,6,Medium
+Trincomalee,itchy skin,4,2,hot,4,Low
+Kothmale,dog fever,3,1,humid,10,Low
+Pelmadulla,loss of appetite,8,6,rainy,6,Medium
+Trincomalee,eye infection,19,6,hot,4,Medium
+Kuliyapitiya,lethargy,12,1,dry,2,Low
+Ganemulla,loss of appetite,12,2,hot,4,Medium
+Mullaitivu,lethargy,2,5,rainy,6,Low
+Wariyapola,fleas,8,2,hot,4,Low
+Minuwangoda,dog coughing,15,9,dry,2,Medium
+Kurunegala,itchy skin,2,0,dry,2,Low
+Gampaha,itchy skin,18,0,dry,2,Medium
+Nuwara Eliya,ticks,10,6,humid,10,Medium
+Mahiyanganaya,itchy skin,8,9,hot,4,Medium
+Balangoda,kennel cough,18,7,humid,10,High
+Katunayake,eye infection,6,3,hot,4,Low
+Galgamuwa,fleas,14,1,humid,10,Medium
+Kothmale,ticks,16,0,hot,4,Medium
+Mahiyanganaya,itchy skin,8,1,hot,4,Low
+Narammala,lethargy,1,10,hot,4,Medium
+Point Pedro,fleas,6,12,rainy,6,Medium
+Kahawatte,dog coughing,1,8,humid,10,Medium
+Ginigathhena,dog coughing,2,7,humid,10,Medium
+Embilipitiya,loss of appetite,8,0,humid,10,Low
+Ratnapura,fleas,19,4,hot,4,Medium
+Kalutara,kennel cough,6,0,dry,2,Low
+Mahiyanganaya,loss of appetite,2,7,humid,10,Medium
+Horana,itchy skin,7,3,humid,10,Medium
+Kadawatha,ticks,2,5,dry,2,Low
+Avissawella,dog vomiting,2,11,rainy,6,Medium
+Wellawaya,itchy skin,20,0,hot,4,Medium
+Boralesgamuwa,kennel cough,11,1,hot,4,Low
+Matugama,dog coughing,1,0,dry,2,Low
+Warakapola,dog coughing,5,8,humid,10,Medium
+Avissawella,kennel cough,15,6,dry,2,Medium
+Wattala,ticks,11,1,rainy,6,Medium
+Jaffna,kennel cough,10,9,dry,2,Medium
+Galle,dog fever,4,3,rainy,6,Low
+Dankotuwa,itchy skin,20,8,rainy,6,High
+Giriulla,dog fever,17,3,hot,4,Medium
+Puttalam,fleas,14,10,rainy,6,High
+Mirissa,lethargy,12,6,dry,2,Medium
+Kegalle,dog vomiting,11,2,dry,2,Low
+Ampara,lethargy,9,7,rainy,6,Medium
+Moragahamula,dog fever,6,8,humid,10,Medium
+Puttalam,fleas,16,3,hot,4,Medium
+Horana,kennel cough,3,2,hot,4,Low
+Mullaitivu,lethargy,16,1,hot,4,Medium
+Bandarawela,lethargy,2,13,humid,10,Medium
+Kandy,loss of appetite,12,3,humid,10,Medium
+Weeraketiya,eye infection,5,4,dry,2,Low
+Seeduwa,itchy skin,2,10,hot,4,Medium
+Ja-Ela,dog fever,8,14,humid,10,High
+Negombo,lethargy,14,2,rainy,6,Medium
+Minuwangoda,kennel cough,2,13,rainy,6,Medium
+Gampaha,dog vomiting,22,9,humid,10,High
+Rathmalana,itchy skin,12,4,humid,10,Medium
+Mapalana,dog vomiting,13,0,rainy,6,Medium
+Katunayake,dog vomiting,7,1,humid,10,Medium
+Minuwangoda,ticks,18,6,rainy,6,Medium
+Mapalana,loss of appetite,5,5,rainy,6,Medium
+Kegalle,dog vomiting,12,3,hot,4,Medium
+Dambulla,fleas,8,7,humid,10,Medium
+Galewela,eye infection,23,0,dry,2,Medium
+Rathmalana,kennel cough,7,0,hot,4,Low
+Deniyaya,kennel cough,13,5,hot,4,Medium
+Weeraketiya,fleas,19,7,dry,2,Medium
+Pelmadulla,loss of appetite,11,5,dry,2,Medium
+Ratnapura,dog coughing,13,4,dry,2,Medium
+Beruwala,lethargy,20,6,humid,10,High
+Haputale,dog vomiting,2,1,rainy,6,Low
+Monaragala,loss of appetite,10,9,humid,10,Medium
+Jaffna,ticks,10,7,hot,4,Medium
+Galle,kennel cough,13,3,humid,10,Medium
+Negombo,dog fever,15,8,dry,2,Medium
+Passara,eye infection,7,0,rainy,6,Low
+Kotte,fleas,1,1,humid,10,Low
+Trincomalee,fleas,5,0,rainy,6,Low
+Anuradhapura,itchy skin,0,10,hot,4,Medium
+Trincomalee,dog fever,7,3,dry,2,Low
+Katunayake,lethargy,23,4,rainy,6,High
+Maskeliya,dog fever,14,8,rainy,6,Medium
+Moratuwa,itchy skin,5,2,hot,4,Low
+Boralesgamuwa,dog coughing,5,2,hot,4,Low
+Kothmale,dog vomiting,13,5,rainy,6,Medium
+Marawila,itchy skin,10,3,dry,2,Low
+Kataragama,loss of appetite,10,0,rainy,6,Low
+Middeniya,eye infection,20,5,dry,2,Medium
+Kegalle,loss of appetite,1,3,dry,2,Low
+Aluthgama,dog coughing,14,0,hot,4,Medium
+Kurunegala,itchy skin,12,10,rainy,6,Medium
+Mannar,itchy skin,7,7,humid,10,Medium
+Kadawatha,kennel cough,10,7,dry,2,Medium
+Kataragama,dog fever,7,2,rainy,6,Low
+Aluthgama,itchy skin,9,9,hot,4,Medium
+Boralesgamuwa,loss of appetite,13,5,humid,10,Medium
+Ratnapura,dog fever,10,0,humid,10,Medium
+Mannar,fleas,3,8,humid,10,Medium
+Beruwala,dog coughing,13,4,hot,4,Medium
+Rathmalana,lethargy,17,4,dry,2,Medium
+Moragahamula,eye infection,5,4,dry,2,Low
+Deniyaya,ticks,1,4,rainy,6,Low
+Hanwella,ticks,5,1,hot,4,Low
+Gampaha,eye infection,22,5,dry,2,Medium
+Nuwara Eliya,lethargy,13,8,humid,10,High
+Gampaha,loss of appetite,15,8,dry,2,Medium
+Passara,ticks,18,0,hot,4,Medium
+Kuliyapitiya,ticks,5,0,hot,4,Low
+Kalawana,dog vomiting,4,6,rainy,6,Medium
+Balangoda,dog fever,12,5,hot,4,Medium
+Matugama,eye infection,23,3,humid,10,High
+Ambalangoda,dog fever,8,8,humid,10,Medium
+Negombo,lethargy,13,0,dry,2,Low
+Wellawaya,loss of appetite,25,8,dry,2,High
+Chilaw,eye infection,15,14,rainy,6,High
+Dehiwala,loss of appetite,14,9,rainy,6,Medium
+Hambantota,dog vomiting,15,0,hot,4,Medium
+Buttala,dog vomiting,12,5,rainy,6,Medium
+Monaragala,lethargy,12,6,dry,2,Medium
+Ginigathhena,ticks,3,2,hot,4,Low
+Homagama,itchy skin,18,13,dry,2,High
+Giriulla,dog fever,4,0,hot,4,Low
+Vavuniya,ticks,14,1,humid,10,Medium
+Weeraketiya,fleas,1,7,dry,2,Low
+Deniyaya,itchy skin,11,1,humid,10,Medium
+Tissamaharama,dog vomiting,0,8,hot,4,Low
+Kalawana,dog fever,9,11,hot,4,Medium
+Narammala,kennel cough,13,6,humid,10,Medium
+Matara,eye infection,7,3,hot,4,Low
+Marawila,dog fever,5,4,rainy,6,Low
+Matara,ticks,14,1,rainy,6,Medium
+Kahawatte,lethargy,4,6,humid,10,Medium
+Dambulla,dog fever,3,8,hot,4,Medium
+Kotte,ticks,12,2,hot,4,Medium
+Passara,dog vomiting,25,7,dry,2,High
+Boralesgamuwa,dog fever,21,9,humid,10,High
+Aluthgama,itchy skin,12,8,hot,4,Medium
+Matugama,itchy skin,1,8,rainy,6,Medium
+Kuliyapitiya,dog coughing,8,10,rainy,6,Medium
+Matugama,ticks,3,0,hot,4,Low
+Puttalam,lethargy,15,5,dry,2,Medium
+Nuwara Eliya,lethargy,15,9,rainy,6,High
+Matara,eye infection,14,0,rainy,6,Medium
+Monaragala,dog vomiting,14,5,dry,2,Medium
+Horana,ticks,10,10,dry,2,Medium
+Moragahamula,dog fever,17,4,hot,4,Medium
+Nuwara Eliya,dog fever,24,11,hot,4,High
+Seeduwa,fleas,7,1,hot,4,Low
+Kandana,eye infection,16,5,humid,10,Medium
+Wariyapola,eye infection,15,8,dry,2,Medium
+Haputale,dog coughing,3,2,hot,4,Low
+Tissamaharama,ticks,18,3,rainy,6,Medium
+Wellawaya,dog vomiting,20,3,hot,4,Medium
+Colombo,dog fever,12,0,rainy,6,Medium
+Kahawatte,eye infection,3,8,rainy,6,Medium
+Weligama,loss of appetite,17,0,rainy,6,Medium
+Middeniya,loss of appetite,16,7,rainy,6,Medium
+Gonapola,itchy skin,1,8,dry,2,Low
+Kuliyapitiya,ticks,9,4,rainy,6,Medium
+Pelmadulla,fleas,20,6,rainy,6,High
+Polonnaruwa,dog fever,15,8,humid,10,High
+Kalawana,fleas,13,2,rainy,6,Medium
+Kahawatte,itchy skin,11,0,rainy,6,Low
+Tissamaharama,dog vomiting,6,5,hot,4,Medium
+Kosgama,ticks,25,3,dry,2,Medium
+Mannar,itchy skin,12,11,rainy,6,High
+Moratuwa,eye infection,0,6,humid,10,Medium
+Kalawana,dog vomiting,9,10,humid,10,Medium
+Ratnapura,kennel cough,12,3,rainy,6,Medium
+Kurunegala,dog fever,7,6,rainy,6,Medium
+Kataragama,dog coughing,21,2,dry,2,Medium
+Wattala,dog vomiting,16,0,dry,2,Medium
+Chilaw,dog vomiting,7,2,humid,10,Medium
+Maharagama,eye infection,14,14,dry,2,High
+Ginigathhena,fleas,20,2,hot,4,Medium
+Ja-Ela,dog coughing,9,9,humid,10,Medium
+Vavuniya,dog coughing,4,7,hot,4,Medium
+Ja-Ela,ticks,18,9,hot,4,High
+Polonnaruwa,dog fever,26,1,rainy,6,High
+Rathmalana,loss of appetite,6,6,hot,4,Medium
+Hatton,dog fever,11,7,rainy,6,Medium
+Jaffna,kennel cough,18,9,dry,2,High
+Kilinochchi,itchy skin,6,13,dry,2,Medium
+Badulla,ticks,8,10,rainy,6,Medium
+Mannar,loss of appetite,6,2,hot,4,Low
+Batticaloa,dog coughing,5,8,humid,10,Medium
+Moratuwa,lethargy,17,1,rainy,6,Medium
+Badulla,itchy skin,10,4,rainy,6,Medium
+Kilinochchi,itchy skin,10,7,hot,4,Medium
+Maharagama,dog fever,12,2,humid,10,Medium
+Hatton,eye infection,12,8,hot,4,Medium
+Homagama,lethargy,7,1,dry,2,Low
+Kilinochchi,eye infection,15,4,hot,4,Medium
+Galle,eye infection,12,10,rainy,6,Medium
+Kalawana,fleas,5,4,hot,4,Low
+Piliyandala,eye infection,9,3,rainy,6,Medium
+Embilipitiya,kennel cough,24,5,hot,4,High
+Middeniya,loss of appetite,22,2,dry,2,Medium
+Matale,ticks,20,11,humid,10,High
+Piliyandala,kennel cough,1,3,rainy,6,Low
+Weligama,ticks,3,5,humid,10,Medium
+Mahiyanganaya,kennel cough,15,9,humid,10,High
+Ambalangoda,kennel cough,15,0,dry,2,Medium
+Weeraketiya,kennel cough,6,1,rainy,6,Low
+Balangoda,dog vomiting,9,5,hot,4,Medium
+Balangoda,loss of appetite,16,0,rainy,6,Medium
+Panadura,eye infection,17,11,rainy,6,High
+Horana,fleas,7,9,humid,10,Medium
+Mawanella,itchy skin,0,6,dry,2,Low
+Hikkaduwa,lethargy,4,2,hot,4,Low
+Balangoda,loss of appetite,17,5,dry,2,Medium
+Kandy,dog fever,3,5,dry,2,Low
+Weeraketiya,itchy skin,21,3,rainy,6,Medium
+Narammala,dog coughing,15,7,dry,2,Medium
+Anuradhapura,dog coughing,19,4,rainy,6,Medium
+Passara,fleas,13,5,rainy,6,Medium
+Rathmalana,dog fever,7,1,humid,10,Medium
+Kelaniya,loss of appetite,14,14,humid,10,High
+Kandana,dog coughing,16,0,hot,4,Medium
+Rathmalana,itchy skin,1,3,hot,4,Low
+Narammala,dog vomiting,11,12,rainy,6,High
+Bandarawela,itchy skin,4,9,dry,2,Medium
+Batticaloa,dog coughing,6,2,dry,2,Low
+Kothmale,fleas,16,0,hot,4,Medium
+Kotte,loss of appetite,8,1,humid,10,Medium
+Dankotuwa,lethargy,10,8,rainy,6,Medium
+Mirissa,itchy skin,4,2,rainy,6,Low
+Kelaniya,lethargy,6,6,rainy,6,Medium
+Kegalle,ticks,8,0,humid,10,Low
+Galgamuwa,ticks,11,8,rainy,6,Medium
+Matugama,lethargy,7,10,rainy,6,Medium
+Ganemulla,ticks,6,9,hot,4,Medium
+Ganemulla,itchy skin,3,9,rainy,6,Medium
+Kataragama,itchy skin,13,7,dry,2,Medium
+Kalutara,loss of appetite,22,4,hot,4,Medium
+Negombo,dog fever,14,12,dry,2,High
+Ragama,loss of appetite,16,3,rainy,6,Medium
+Moragahamula,dog vomiting,14,3,humid,10,Medium
+Maharagama,loss of appetite,14,3,hot,4,Medium
+Matale,fleas,11,0,humid,10,Medium
+Middeniya,eye infection,11,10,dry,2,Medium
+Polonnaruwa,ticks,22,9,hot,4,High
+Matara,lethargy,8,5,rainy,6,Medium
+Dankotuwa,fleas,1,0,rainy,6,Low
+Gonapola,dog fever,5,0,humid,10,Low
+Elpitiya,fleas,2,0,dry,2,Low
+Kosgama,kennel cough,14,8,dry,2,Medium
+Galgamuwa,kennel cough,5,2,hot,4,Low
+Passara,loss of appetite,4,6,dry,2,Low
+Gonapola,lethargy,4,5,rainy,6,Low
+Negombo,dog vomiting,16,4,humid,10,Medium
+Badulla,ticks,14,6,dry,2,Medium
+Kosgama,lethargy,8,8,humid,10,Medium
+Wellawaya,eye infection,13,2,humid,10,Medium
+Bandaragama,dog fever,6,0,dry,2,Low
+Marawila,dog fever,5,4,hot,4,Low
+Colombo,dog vomiting,7,8,rainy,6,Medium
+Badulla,kennel cough,4,2,humid,10,Low
+Galle,itchy skin,4,11,dry,2,Medium
+Ja-Ela,dog fever,1,0,rainy,6,Low
+Hatton,itchy skin,12,4,hot,4,Medium
+Giriulla,dog coughing,5,11,rainy,6,Medium
+Bandarawela,ticks,12,0,hot,4,Low
+Kothmale,eye infection,1,3,hot,4,Low
+Haputale,loss of appetite,11,5,humid,10,Medium
+Haputale,loss of appetite,23,0,rainy,6,Medium
+Piliyandala,itchy skin,4,7,hot,4,Medium
+Agunukolapelessa,loss of appetite,13,0,humid,10,Medium
+Wellawaya,itchy skin,23,8,humid,10,High
+Maskeliya,ticks,5,5,humid,10,Medium
+Haputale,fleas,17,12,dry,2,High
+Puttalam,fleas,20,1,humid,10,Medium
+Hanwella,fleas,21,12,hot,4,High
+Dehiwala,fleas,6,3,rainy,6,Low
+Vavuniya,itchy skin,5,0,rainy,6,Low
+Marawila,fleas,18,3,hot,4,Medium
+Mirissa,ticks,18,0,humid,10,Medium
+Ambalangoda,ticks,7,7,humid,10,Medium
+Trincomalee,fleas,4,1,humid,10,Low
+Ambalangoda,eye infection,2,5,dry,2,Low
+Dambulla,dog vomiting,2,9,humid,10,Medium
+Kataragama,itchy skin,13,5,dry,2,Medium
+Gampaha,kennel cough,2,5,rainy,6,Low
+Hanwella,kennel cough,12,6,humid,10,Medium
+Galle,lethargy,31,7,humid,10,High
+Kandana,itchy skin,14,12,hot,4,High
+Seeduwa,lethargy,7,0,dry,2,Low
+Galewela,fleas,13,10,humid,10,High
+Mahiyanganaya,ticks,11,16,humid,10,High
+Narammala,ticks,8,3,rainy,6,Medium
+Gonapola,dog coughing,1,6,rainy,6,Low
+Trincomalee,fleas,11,7,dry,2,Medium
+Maharagama,dog coughing,5,1,dry,2,Low
+Polonnaruwa,eye infection,13,3,humid,10,Medium
+Mullaitivu,kennel cough,20,2,rainy,6,Medium
+Ginigathhena,dog fever,3,8,hot,4,Medium
+Kotte,dog fever,9,4,dry,2,Medium
+Gampaha,loss of appetite,1,5,humid,10,Low
+Hatton,dog coughing,9,1,rainy,6,Low
+Matale,loss of appetite,19,2,dry,2,Medium
+Matugama,eye infection,21,6,rainy,6,High
+Pelmadulla,fleas,3,0,dry,2,Low
+Beruwala,kennel cough,2,10,dry,2,Medium
+Matale,dog vomiting,15,6,hot,4,Medium
+Galewela,itchy skin,3,5,rainy,6,Low
+Giriulla,loss of appetite,2,9,humid,10,Medium
+Mannar,eye infection,11,8,dry,2,Medium
+Ganemulla,itchy skin,5,16,hot,4,Medium
+Middeniya,dog coughing,13,9,rainy,6,Medium
+Ganemulla,dog coughing,18,6,rainy,6,Medium
+Avissawella,ticks,14,9,humid,10,High
+Kandy,kennel cough,2,5,dry,2,Low
+Buttala,dog coughing,13,2,dry,2,Medium
+Monaragala,dog vomiting,6,0,dry,2,Low
+Galgamuwa,ticks,26,12,dry,2,High
+Mirissa,itchy skin,16,0,hot,4,Medium
+Passara,fleas,15,3,rainy,6,Medium
+Mirissa,ticks,4,15,humid,10,High
+Weeraketiya,kennel cough,11,8,humid,10,Medium
+Ganemulla,kennel cough,23,5,hot,4,High
+Mullaitivu,itchy skin,14,0,rainy,6,Medium
+Jaffna,dog coughing,13,7,humid,10,Medium
+Matale,fleas,12,0,rainy,6,Medium
+Horana,eye infection,13,14,humid,10,High
+Aluthgama,kennel cough,1,5,hot,4,Low
+Polonnaruwa,dog vomiting,3,13,humid,10,Medium
+Ragama,loss of appetite,2,5,humid,10,Medium
+Vavuniya,ticks,9,8,hot,4,Medium
+Embilipitiya,itchy skin,21,8,humid,10,High
+Haputale,fleas,3,6,hot,4,Low
+Polonnaruwa,ticks,5,7,rainy,6,Medium
+Kalutara,itchy skin,1,0,hot,4,Low
+Kurunegala,kennel cough,1,1,humid,10,Low
+Ja-Ela,loss of appetite,6,0,dry,2,Low
+Kandy,fleas,9,2,dry,2,Low
+Dehiwala,dog fever,11,3,dry,2,Medium
+Horana,kennel cough,13,3,rainy,6,Medium
+Dehiwala,fleas,2,0,dry,2,Low
+Horana,kennel cough,4,1,rainy,6,Low
+Embilipitiya,ticks,15,0,humid,10,Medium
+Ratnapura,fleas,10,5,dry,2,Medium
+Puttalam,dog fever,3,11,rainy,6,Medium
+Colombo,lethargy,13,7,humid,10,Medium
+Kandy,dog coughing,1,7,hot,4,Low
+Narammala,loss of appetite,11,13,hot,4,High
+Dehiwala,dog coughing,12,0,rainy,6,Medium
+Trincomalee,dog coughing,22,0,humid,10,Medium
+Boralesgamuwa,dog vomiting,15,2,dry,2,Medium
+Beruwala,fleas,6,9,hot,4,Medium
+Gonapola,dog fever,19,9,rainy,6,High
+Batticaloa,dog fever,8,9,humid,10,Medium
+Mirissa,dog vomiting,9,7,hot,4,Medium
+Matale,dog fever,10,6,hot,4,Medium
+Balangoda,lethargy,10,0,dry,2,Low
+Kadawatha,kennel cough,2,1,humid,10,Low
+Beruwala,lethargy,10,8,hot,4,Medium
+Galewela,fleas,9,2,humid,10,Medium
+Galgamuwa,kennel cough,8,3,dry,2,Low
+Dambulla,fleas,7,3,humid,10,Medium
+Boralesgamuwa,fleas,11,7,dry,2,Medium
+Passara,lethargy,17,5,rainy,6,Medium
+Ratnapura,eye infection,4,4,dry,2,Low
+Ja-Ela,kennel cough,9,0,hot,4,Low
+Dankotuwa,dog coughing,6,9,hot,4,Medium
+Vavuniya,eye infection,4,7,humid,10,Medium
+Mannar,loss of appetite,11,4,humid,10,Medium
+Anuradhapura,eye infection,9,11,rainy,6,Medium
+Ragama,loss of appetite,14,6,rainy,6,Medium
+Wariyapola,dog fever,2,3,humid,10,Low
+Ja-Ela,ticks,30,3,dry,2,High
+Ja-Ela,dog coughing,15,0,dry,2,Medium
+Minuwangoda,eye infection,12,2,rainy,6,Medium
+Balangoda,eye infection,4,4,dry,2,Low
+Weeraketiya,ticks,9,3,dry,2,Low
+Gampaha,loss of appetite,12,7,dry,2,Medium
+Panadura,kennel cough,17,10,humid,10,High
+Balangoda,dog coughing,19,1,humid,10,Medium
+Weligama,itchy skin,12,5,rainy,6,Medium
+Seeduwa,eye infection,2,3,rainy,6,Low
+Batticaloa,dog vomiting,18,0,hot,4,Medium
+Mapalana,dog vomiting,13,12,dry,2,Medium
+Maharagama,eye infection,8,7,hot,4,Medium
+Hikkaduwa,itchy skin,5,8,humid,10,Medium
+Matale,itchy skin,22,6,rainy,6,High
+Mullaitivu,ticks,10,3,dry,2,Low
+Giriulla,eye infection,16,5,hot,4,Medium
+Ragama,dog fever,22,3,hot,4,Medium
+Colombo,dog coughing,18,5,dry,2,Medium
+Matara,dog fever,14,6,hot,4,Medium
+Panadura,loss of appetite,25,6,dry,2,High
+Deniyaya,dog vomiting,7,9,dry,2,Medium
+Ampara,loss of appetite,21,0,dry,2,Medium
+Maharagama,fleas,0,2,rainy,6,Low
+Mapalana,lethargy,8,0,humid,10,Low
+Wattala,dog fever,2,11,hot,4,Medium
+Piliyandala,kennel cough,18,6,humid,10,High
+Haputale,lethargy,25,13,hot,4,High
+Maharagama,lethargy,19,7,hot,4,Medium
+Galle,dog coughing,22,3,humid,10,High
+Nuwara Eliya,dog fever,15,0,hot,4,Medium
+Moragahamula,kennel cough,12,11,humid,10,High
+Beruwala,itchy skin,8,3,humid,10,Medium
+Warakapola,dog fever,3,1,humid,10,Low
+Ja-Ela,lethargy,17,3,humid,10,Medium
+Trincomalee,eye infection,6,7,dry,2,Medium
+Kadawatha,dog fever,17,4,dry,2,Medium
+Puttalam,loss of appetite,14,3,humid,10,Medium
+Nuwara Eliya,dog coughing,16,12,dry,2,High
+Kahawatte,dog fever,1,11,hot,4,Medium
+Panadura,itchy skin,6,10,hot,4,Medium
+Kosgama,kennel cough,11,1,dry,2,Low
+Kandy,fleas,15,0,rainy,6,Medium
+Marawila,kennel cough,1,12,dry,2,Medium
+Kurunegala,dog fever,7,0,dry,2,Low
+Kotte,dog fever,9,3,dry,2,Low
+Warakapola,loss of appetite,29,5,rainy,6,High
+Matugama,dog fever,11,4,rainy,6,Medium
+Mannar,loss of appetite,22,0,dry,2,Medium
+Bandaragama,dog coughing,9,0,hot,4,Low
+Moratuwa,fleas,5,8,hot,4,Medium
+Kothmale,dog coughing,17,3,hot,4,Medium
+Homagama,ticks,12,8,humid,10,Medium
+Trincomalee,lethargy,11,9,rainy,6,Medium
+Wellawaya,kennel cough,19,6,hot,4,Medium
+Ratnapura,dog vomiting,6,8,humid,10,Medium
+Mahiyanganaya,lethargy,12,0,dry,2,Low
+Horana,itchy skin,17,6,dry,2,Medium
+Panadura,dog coughing,0,8,rainy,6,Low
+Galle,dog vomiting,9,6,humid,10,Medium
+Kalawana,itchy skin,0,2,humid,10,Low
+Ja-Ela,dog coughing,3,4,humid,10,Medium
+Matugama,dog fever,8,3,humid,10,Medium
+Moragahamula,fleas,19,4,rainy,6,Medium
+Matara,loss of appetite,6,9,humid,10,Medium
+Bandarawela,itchy skin,11,7,dry,2,Medium
+Kalutara,lethargy,11,11,rainy,6,Medium
+Avissawella,kennel cough,3,4,humid,10,Medium
+Trincomalee,ticks,5,7,rainy,6,Medium
+Piliyandala,fleas,23,6,humid,10,High
+Anuradhapura,eye infection,13,3,humid,10,Medium
+Kalutara,kennel cough,3,6,rainy,6,Medium
+Maskeliya,itchy skin,7,7,humid,10,Medium
+Ganemulla,ticks,21,10,dry,2,High
+Ja-Ela,dog coughing,1,10,dry,2,Medium
+Kandy,dog fever,4,4,dry,2,Low
+Batticaloa,ticks,16,7,dry,2,Medium
+Kandy,itchy skin,12,3,rainy,6,Medium
+Anuradhapura,eye infection,5,1,humid,10,Low
+Anuradhapura,fleas,13,8,rainy,6,Medium
+Pelmadulla,lethargy,3,1,dry,2,Low
+Kotte,kennel cough,1,4,dry,2,Low
+Jaffna,kennel cough,20,1,humid,10,Medium
+Embilipitiya,fleas,0,0,humid,10,Low
+Seeduwa,dog coughing,11,5,hot,4,Medium
+Kosgama,loss of appetite,12,4,hot,4,Medium
+Hanwella,dog fever,18,5,humid,10,High
+Kurunegala,ticks,16,5,hot,4,Medium
+Vavuniya,eye infection,4,0,hot,4,Low
+Mawanella,kennel cough,4,7,dry,2,Low
+Ja-Ela,fleas,10,2,dry,2,Low
+Dankotuwa,dog coughing,11,1,hot,4,Low
+Jaffna,dog fever,18,3,hot,4,Medium
+Kalutara,fleas,18,8,hot,4,High
+Kandy,eye infection,0,2,rainy,6,Low
+Marawila,eye infection,7,6,humid,10,Medium
+Kataragama,itchy skin,14,8,hot,4,Medium
+Kegalle,fleas,22,11,dry,2,High
+Galgamuwa,fleas,6,2,hot,4,Low
+Mullaitivu,lethargy,4,2,rainy,6,Low
+Ratnapura,dog coughing,13,9,hot,4,Medium
+Aluthgama,lethargy,6,7,hot,4,Medium
+Mullaitivu,loss of appetite,3,5,humid,10,Medium
+Hikkaduwa,itchy skin,20,4,hot,4,Medium
+Hambantota,lethargy,13,0,dry,2,Low
+Balangoda,dog coughing,14,2,dry,2,Medium
+Warakapola,eye infection,6,0,dry,2,Low
+Galle,ticks,5,1,dry,2,Low
+Point Pedro,eye infection,2,10,dry,2,Medium
+Aluthgama,dog coughing,16,1,rainy,6,Medium
+Matugama,dog coughing,16,6,hot,4,Medium
+Rathmalana,ticks,14,11,rainy,6,High
+Polonnaruwa,fleas,6,5,hot,4,Medium
+Mirissa,itchy skin,14,1,rainy,6,Medium
+Kothmale,eye infection,18,9,hot,4,High
+Hikkaduwa,eye infection,3,10,hot,4,Medium
+Kosgama,dog vomiting,9,7,dry,2,Medium
+Katunayake,itchy skin,21,2,rainy,6,Medium
+Anuradhapura,dog vomiting,7,6,rainy,6,Medium
+Weeraketiya,kennel cough,12,3,rainy,6,Medium
+Kalutara,kennel cough,20,6,rainy,6,High
+Batticaloa,itchy skin,20,5,dry,2,Medium
+Ragama,fleas,12,2,hot,4,Medium
+Kahawatte,loss of appetite,20,3,hot,4,Medium
+Bandaragama,itchy skin,12,1,hot,4,Medium
+Polonnaruwa,fleas,2,6,dry,2,Low
+Polonnaruwa,dog coughing,7,10,hot,4,Medium
+Mullaitivu,eye infection,17,16,dry,2,High
+Puttalam,kennel cough,31,2,humid,10,High
+Mapalana,itchy skin,7,2,rainy,6,Low
+Maskeliya,dog fever,0,0,humid,10,Low
+Aluthgama,fleas,8,8,rainy,6,Medium
+Kadawatha,lethargy,21,1,dry,2,Medium
+Hambantota,fleas,3,17,humid,10,High
+Anuradhapura,ticks,13,2,hot,4,Medium
+Seeduwa,dog coughing,17,8,hot,4,Medium
+Agunukolapelessa,lethargy,13,5,humid,10,Medium
+Matale,dog vomiting,15,1,humid,10,Medium
+Panadura,eye infection,2,10,hot,4,Medium
+Kegalle,fleas,0,3,humid,10,Low
+Batticaloa,eye infection,21,8,dry,2,High
+Point Pedro,dog coughing,15,10,rainy,6,High
+Embilipitiya,dog vomiting,15,6,dry,2,Medium
+Pelmadulla,dog fever,3,5,rainy,6,Low
+Middeniya,dog fever,3,1,humid,10,Low
+Kegalle,fleas,10,0,dry,2,Low
+Galewela,eye infection,9,6,hot,4,Medium
+Agunukolapelessa,lethargy,9,8,dry,2,Medium
+Minuwangoda,eye infection,5,2,rainy,6,Low
+Buttala,dog fever,4,10,rainy,6,Medium
+Dehiwala,dog fever,26,5,humid,10,High
+Kuliyapitiya,kennel cough,11,0,dry,2,Low
+Mirissa,kennel cough,15,9,rainy,6,High
+Homagama,ticks,18,2,hot,4,Medium
+Colombo,itchy skin,6,12,humid,10,Medium
+Embilipitiya,lethargy,12,4,humid,10,Medium
+Kandana,itchy skin,18,4,humid,10,Medium
+Mapalana,lethargy,15,5,rainy,6,Medium
+Katunayake,kennel cough,11,2,hot,4,Medium
+Ambalangoda,dog vomiting,22,5,hot,4,High
+Balangoda,loss of appetite,4,2,hot,4,Low
+Puttalam,loss of appetite,16,7,hot,4,Medium
+Matara,eye infection,1,5,dry,2,Low
+Dehiwala,kennel cough,11,1,dry,2,Low
+Seeduwa,fleas,0,0,humid,10,Low
+Chilaw,ticks,4,2,dry,2,Low
+Galewela,loss of appetite,21,3,hot,4,Medium
+Point Pedro,dog coughing,2,7,humid,10,Medium
+Mawanella,ticks,2,7,humid,10,Medium
+Tissamaharama,dog vomiting,6,9,rainy,6,Medium
+Maskeliya,eye infection,13,2,humid,10,Medium
+Kegalle,dog vomiting,10,13,rainy,6,High
+Kotte,loss of appetite,9,3,rainy,6,Medium
+Kalutara,ticks,5,2,dry,2,Low
+Colombo,eye infection,13,4,rainy,6,Medium
+Ratnapura,itchy skin,20,11,humid,10,High
+Wariyapola,loss of appetite,9,10,hot,4,Medium
+Dankotuwa,ticks,15,9,hot,4,Medium
+Balangoda,dog vomiting,6,4,hot,4,Low
+Puttalam,lethargy,10,0,dry,2,Low
+Weligama,kennel cough,14,3,humid,10,Medium
+Dankotuwa,fleas,0,0,rainy,6,Low
+Passara,ticks,18,3,rainy,6,Medium
+Ginigathhena,itchy skin,16,7,rainy,6,Medium
+Buttala,kennel cough,16,5,dry,2,Medium
+Kandy,loss of appetite,18,8,hot,4,High
+Hanwella,loss of appetite,10,6,dry,2,Medium
+Jaffna,fleas,18,8,hot,4,High
+Galle,loss of appetite,9,4,rainy,6,Medium
+Maskeliya,kennel cough,9,8,humid,10,Medium
+Embilipitiya,dog vomiting,11,7,hot,4,Medium
+Wariyapola,dog fever,12,5,humid,10,Medium
+Pelmadulla,kennel cough,24,3,humid,10,High
+Hanwella,lethargy,21,8,dry,2,High
+Passara,ticks,22,1,hot,4,Medium
+Agunukolapelessa,itchy skin,15,3,humid,10,Medium
+Wariyapola,dog vomiting,18,14,rainy,6,High
+Mirissa,ticks,7,6,humid,10,Medium
+Balangoda,ticks,2,7,dry,2,Low
+Minuwangoda,loss of appetite,15,3,hot,4,Medium
+Marawila,dog vomiting,18,11,dry,2,High
+Giriulla,ticks,10,7,hot,4,Medium
+Ginigathhena,dog coughing,18,1,dry,2,Medium
+Minuwangoda,kennel cough,5,0,dry,2,Low
+Nuwara Eliya,loss of appetite,11,7,hot,4,Medium
+Kadawatha,itchy skin,0,10,rainy,6,Medium
+Wariyapola,kennel cough,7,10,hot,4,Medium
+Balangoda,eye infection,5,0,rainy,6,Low
+Deniyaya,itchy skin,18,2,dry,2,Medium
+Vavuniya,kennel cough,3,8,rainy,6,Medium
+Seeduwa,ticks,12,6,hot,4,Medium
+Kuliyapitiya,lethargy,5,4,dry,2,Low
+Boralesgamuwa,eye infection,9,10,dry,2,Medium
+Gonapola,dog coughing,2,9,humid,10,Medium
+Bandarawela,itchy skin,17,8,hot,4,Medium
+Maskeliya,dog coughing,11,10,dry,2,Medium
+Avissawella,itchy skin,4,5,humid,10,Medium
+Gampaha,dog fever,23,8,hot,4,High
+Kothmale,ticks,17,0,humid,10,Medium
+Point Pedro,loss of appetite,2,3,hot,4,Low
+Marawila,dog vomiting,3,5,dry,2,Low
+Mannar,eye infection,13,3,hot,4,Medium
+Buttala,dog fever,3,0,dry,2,Low
+Piliyandala,kennel cough,8,1,rainy,6,Low
+Galgamuwa,kennel cough,9,0,hot,4,Low
+Batticaloa,dog vomiting,4,11,humid,10,Medium
+Dambulla,fleas,16,2,hot,4,Medium
+Dambulla,fleas,10,5,rainy,6,Medium
+Elpitiya,loss of appetite,2,9,humid,10,Medium
+Matara,dog vomiting,8,6,hot,4,Medium
+Balangoda,loss of appetite,6,3,humid,10,Medium
+Middeniya,eye infection,2,5,humid,10,Medium
+Maharagama,ticks,10,8,humid,10,Medium
+Ratnapura,ticks,7,0,humid,10,Low
+Vavuniya,kennel cough,8,8,dry,2,Medium
+Ampara,dog vomiting,6,7,humid,10,Medium
+Ragama,loss of appetite,13,3,hot,4,Medium
+Monaragala,dog fever,16,8,humid,10,High
+Trincomalee,loss of appetite,21,0,humid,10,Medium
+Maskeliya,lethargy,4,0,humid,10,Low
+Galewela,dog fever,11,7,rainy,6,Medium
+Piliyandala,loss of appetite,21,6,rainy,6,High
+Hatton,itchy skin,16,2,rainy,6,Medium
+Hatton,eye infection,7,9,humid,10,Medium
+Kalutara,kennel cough,0,6,humid,10,Medium
+Kandy,ticks,3,7,dry,2,Low
+Nuwara Eliya,itchy skin,18,8,humid,10,High
+Batticaloa,kennel cough,9,9,dry,2,Medium
+Weeraketiya,loss of appetite,6,4,humid,10,Medium
+Kalawana,eye infection,20,6,hot,4,Medium
+Vavuniya,dog vomiting,11,1,humid,10,Medium
+Gonapola,loss of appetite,7,10,dry,2,Medium
+Moratuwa,dog fever,4,4,hot,4,Low
+Gampaha,fleas,5,4,humid,10,Medium
+Hatton,dog coughing,8,8,humid,10,Medium
+Horana,lethargy,13,3,humid,10,Medium
+Warakapola,dog coughing,11,3,dry,2,Medium
+Mawanella,fleas,15,8,dry,2,Medium
+Hambantota,dog coughing,15,3,hot,4,Medium
+Galle,dog fever,1,3,dry,2,Low
+Vavuniya,fleas,10,13,humid,10,High
+Ragama,lethargy,11,1,humid,10,Medium
+Warakapola,ticks,14,6,rainy,6,Medium
+Mapalana,lethargy,20,2,dry,2,Medium
+Aluthgama,ticks,15,9,rainy,6,High
+Trincomalee,kennel cough,2,1,rainy,6,Low
+Dambulla,itchy skin,23,8,rainy,6,High
+Trincomalee,lethargy,7,10,rainy,6,Medium
+Avissawella,fleas,5,3,rainy,6,Low
+Mullaitivu,dog fever,11,2,dry,2,Low
+Galle,kennel cough,20,1,dry,2,Medium
+Vavuniya,ticks,20,0,humid,10,Medium
+Galgamuwa,fleas,10,11,rainy,6,Medium
+Kilinochchi,loss of appetite,7,6,rainy,6,Medium
+Maskeliya,itchy skin,13,5,hot,4,Medium
+Moragahamula,lethargy,25,9,rainy,6,High
+Haputale,kennel cough,1,12,hot,4,Medium
+Puttalam,dog coughing,26,8,rainy,6,High
+Vavuniya,kennel cough,8,10,dry,2,Medium
+Marawila,dog fever,4,12,humid,10,Medium
+Matale,dog vomiting,19,11,dry,2,High
+Aluthgama,dog fever,11,3,rainy,6,Medium
+Mahiyanganaya,eye infection,9,0,humid,10,Medium
+Galgamuwa,loss of appetite,20,6,dry,2,Medium
+Buttala,fleas,10,2,rainy,6,Medium
+Kalutara,fleas,1,7,humid,10,Medium
+Mapalana,ticks,6,7,hot,4,Medium
+Gampaha,dog fever,16,9,dry,2,Medium
+Mullaitivu,lethargy,15,11,rainy,6,High
+Bandarawela,dog coughing,7,5,rainy,6,Medium
+Hanwella,eye infection,14,9,humid,10,High
+Monaragala,dog vomiting,19,11,hot,4,High
+Moragahamula,itchy skin,7,3,hot,4,Low
+Dehiwala,dog fever,14,7,humid,10,Medium
+Hatton,lethargy,19,9,rainy,6,High
+Embilipitiya,ticks,15,1,rainy,6,Medium
+Wellawaya,fleas,3,7,rainy,6,Medium
+Weligama,fleas,16,7,hot,4,Medium
+Ragama,dog fever,5,8,dry,2,Medium
+Weligama,dog coughing,13,1,rainy,6,Medium
+Matara,dog vomiting,6,15,humid,10,High
+Mapalana,loss of appetite,16,0,rainy,6,Medium
+Negombo,ticks,2,6,hot,4,Low
+Deniyaya,dog vomiting,6,3,hot,4,Low
+Ratnapura,eye infection,26,3,dry,2,Medium
+Mirissa,ticks,0,3,humid,10,Low
+Avissawella,fleas,10,1,humid,10,Medium
+Weeraketiya,loss of appetite,17,9,hot,4,High
+Kurunegala,ticks,5,7,hot,4,Medium
+Matara,dog vomiting,9,5,dry,2,Medium
+Kuliyapitiya,dog vomiting,22,1,humid,10,Medium
+Kotte,dog coughing,16,6,humid,10,High
+Minuwangoda,lethargy,9,3,dry,2,Low
+Katunayake,itchy skin,2,9,hot,4,Medium
+Dankotuwa,kennel cough,12,9,humid,10,High
+Galgamuwa,eye infection,5,8,rainy,6,Medium
+Beruwala,itchy skin,7,0,dry,2,Low
+Trincomalee,dog fever,13,0,hot,4,Medium
+Weligama,loss of appetite,18,0,rainy,6,Medium
+Ratnapura,ticks,24,6,humid,10,High
+Point Pedro,itchy skin,22,0,humid,10,Medium
+Gonapola,kennel cough,20,4,hot,4,Medium
+Balangoda,loss of appetite,5,6,humid,10,Medium
+Marawila,lethargy,4,10,dry,2,Medium
+Matara,fleas,4,4,humid,10,Medium
+Gampaha,lethargy,6,13,hot,4,Medium
+Galewela,dog coughing,16,0,hot,4,Medium
+Galle,fleas,19,2,dry,2,Medium
+Passara,loss of appetite,3,6,rainy,6,Medium
+Hambantota,fleas,12,6,hot,4,Medium
+Kosgama,kennel cough,6,8,dry,2,Medium
+Middeniya,dog vomiting,5,11,rainy,6,Medium
+Warakapola,eye infection,17,0,rainy,6,Medium
+Kuliyapitiya,dog coughing,17,3,hot,4,Medium
+Point Pedro,loss of appetite,17,11,hot,4,High
+Hambantota,loss of appetite,4,0,humid,10,Low
+Piliyandala,itchy skin,1,6,dry,2,Low
+Embilipitiya,dog vomiting,1,12,dry,2,Medium
+Ampara,lethargy,14,6,humid,10,Medium
+Tissamaharama,dog vomiting,7,14,rainy,6,Medium
+Maskeliya,dog coughing,13,0,hot,4,Medium
+Avissawella,itchy skin,4,2,dry,2,Low
+Kothmale,lethargy,13,0,humid,10,Medium
+Balangoda,dog vomiting,8,8,dry,2,Medium
+Vavuniya,dog fever,10,5,hot,4,Medium
+Bandarawela,fleas,3,1,dry,2,Low
+Dambulla,loss of appetite,5,1,rainy,6,Low
+Rathmalana,fleas,13,9,humid,10,High
+Ganemulla,loss of appetite,12,7,rainy,6,Medium
+Mullaitivu,kennel cough,7,5,rainy,6,Medium
+Anuradhapura,ticks,12,0,humid,10,Medium
+Beruwala,kennel cough,2,10,humid,10,Medium
+Mapalana,ticks,8,12,hot,4,Medium
+Matale,dog coughing,11,7,hot,4,Medium
+Kahawatte,dog fever,18,11,dry,2,High
+Gonapola,dog coughing,11,6,humid,10,Medium
+Maskeliya,kennel cough,10,0,rainy,6,Low
+Matugama,fleas,14,6,humid,10,Medium
+Mapalana,dog coughing,5,4,humid,10,Medium
+Panadura,fleas,5,12,hot,4,Medium
+Warakapola,loss of appetite,24,5,humid,10,High
+Warakapola,fleas,10,6,dry,2,Medium
+Haputale,dog coughing,0,6,humid,10,Medium
+Bandarawela,itchy skin,11,6,hot,4,Medium
+Agunukolapelessa,lethargy,18,9,hot,4,High
+Wariyapola,kennel cough,7,7,hot,4,Medium
+Ratnapura,fleas,5,3,dry,2,Low
+Dehiwala,dog vomiting,2,3,rainy,6,Low
+Mannar,loss of appetite,11,5,humid,10,Medium
+Colombo,ticks,17,7,dry,2,Medium
+Moratuwa,eye infection,7,3,dry,2,Low
+Horana,kennel cough,15,3,rainy,6,Medium
+Agunukolapelessa,itchy skin,2,7,rainy,6,Medium
+Marawila,dog vomiting,6,7,rainy,6,Medium
+Kandy,dog fever,1,12,rainy,6,Medium
+Mannar,eye infection,8,6,hot,4,Medium
+Ganemulla,dog coughing,14,0,humid,10,Medium
+Tissamaharama,lethargy,12,9,hot,4,Medium
+Tissamaharama,eye infection,0,1,humid,10,Low
+Matugama,dog coughing,7,2,dry,2,Low
+Narammala,fleas,1,3,dry,2,Low
+Batticaloa,fleas,1,2,rainy,6,Low
+Puttalam,dog fever,10,3,hot,4,Medium
+Kegalle,dog coughing,18,8,humid,10,High
+Negombo,eye infection,3,4,dry,2,Low
+Kandana,loss of appetite,8,11,rainy,6,Medium
+Middeniya,dog coughing,20,7,dry,2,Medium
+Maharagama,loss of appetite,18,9,humid,10,High
+Mapalana,kennel cough,15,2,hot,4,Medium
+Dankotuwa,dog fever,2,4,humid,10,Low
+Dankotuwa,itchy skin,20,4,dry,2,Medium
+Trincomalee,dog coughing,1,5,humid,10,Low
+Vavuniya,dog fever,13,6,rainy,6,Medium
+Kosgama,dog fever,2,4,rainy,6,Low
+Elpitiya,ticks,21,6,dry,2,Medium
+Matara,dog coughing,2,4,hot,4,Low
+Gonapola,lethargy,13,2,dry,2,Medium
+Ja-Ela,ticks,18,9,rainy,6,High
+Kalawana,itchy skin,19,0,dry,2,Medium
+Hatton,kennel cough,17,13,rainy,6,High
+Nuwara Eliya,lethargy,6,5,hot,4,Medium
+Gampaha,eye infection,18,11,dry,2,High
+Middeniya,dog coughing,6,10,hot,4,Medium
+Vavuniya,dog vomiting,25,4,humid,10,High
+Wattala,itchy skin,19,10,humid,10,High
+Badulla,eye infection,8,0,humid,10,Low
+Ambalangoda,lethargy,19,1,rainy,6,Medium
+Avissawella,lethargy,1,0,dry,2,Low
+Weligama,eye infection,5,8,hot,4,Medium
+Bandarawela,lethargy,2,5,rainy,6,Low
+Kurunegala,ticks,0,2,hot,4,Low
+Batticaloa,dog fever,8,9,dry,2,Medium
+Rathmalana,fleas,17,8,rainy,6,High
+Wariyapola,loss of appetite,4,11,dry,2,Medium
+Kilinochchi,kennel cough,14,5,dry,2,Medium
+Mullaitivu,kennel cough,14,5,hot,4,Medium
+Marawila,eye infection,4,16,dry,2,Medium
+Ragama,dog coughing,12,5,rainy,6,Medium
+Nuwara Eliya,dog coughing,11,1,rainy,6,Medium
+Hanwella,dog vomiting,5,1,dry,2,Low
+Hambantota,fleas,2,3,hot,4,Low
+Matale,kennel cough,12,5,humid,10,Medium
+Kalawana,dog fever,15,8,hot,4,Medium
+Kataragama,dog fever,13,0,rainy,6,Medium
+Kataragama,loss of appetite,5,1,dry,2,Low
+Galle,itchy skin,10,2,dry,2,Low
+Dambulla,dog coughing,7,8,humid,10,Medium
+Seeduwa,kennel cough,22,2,humid,10,High
+Deniyaya,dog coughing,12,0,humid,10,Medium
+Nuwara Eliya,loss of appetite,18,5,rainy,6,Medium
+Bandarawela,ticks,14,4,rainy,6,Medium
+Maharagama,kennel cough,15,3,rainy,6,Medium
+Mahiyanganaya,fleas,4,6,hot,4,Low
+Gampaha,lethargy,4,17,humid,10,High
+Avissawella,dog vomiting,10,7,hot,4,Medium
+Haputale,dog fever,15,16,humid,10,High
+Chilaw,dog coughing,4,5,rainy,6,Low
+Matale,dog fever,12,11,dry,2,Medium
+Point Pedro,fleas,13,7,dry,2,Medium
+Pelmadulla,eye infection,12,5,hot,4,Medium
+Vavuniya,dog coughing,22,0,dry,2,Medium
+Aluthgama,dog coughing,16,6,hot,4,Medium
+Seeduwa,lethargy,19,10,rainy,6,High
+Bandaragama,dog coughing,7,9,rainy,6,Medium
+Batticaloa,kennel cough,14,0,dry,2,Low
+Ganemulla,itchy skin,25,2,rainy,6,High
+Kandana,lethargy,17,0,rainy,6,Medium
+Matale,ticks,17,0,rainy,6,Medium
+Mullaitivu,dog fever,12,7,humid,10,Medium
+Tissamaharama,lethargy,10,12,rainy,6,Medium
+Boralesgamuwa,kennel cough,19,14,dry,2,High
+Ganemulla,loss of appetite,15,2,dry,2,Medium
+Elpitiya,fleas,19,8,hot,4,High
+Mirissa,eye infection,9,0,humid,10,Medium
+Dehiwala,dog fever,6,5,rainy,6,Medium
+Hambantota,loss of appetite,6,1,rainy,6,Low
+Maharagama,dog fever,16,0,rainy,6,Medium
+Kataragama,kennel cough,13,8,rainy,6,Medium
+Kadawatha,itchy skin,8,8,hot,4,Medium
+Horana,lethargy,2,3,hot,4,Low
+Haputale,ticks,5,13,hot,4,Medium
+Ampara,dog fever,9,4,hot,4,Medium
+Elpitiya,dog vomiting,14,4,dry,2,Medium
+Matugama,lethargy,5,3,humid,10,Medium
+Warakapola,eye infection,8,4,hot,4,Medium
+Dankotuwa,dog fever,15,7,humid,10,High
+Elpitiya,itchy skin,1,10,dry,2,Medium
+Kelaniya,eye infection,1,2,dry,2,Low
+Weligama,loss of appetite,20,11,hot,4,High
+Kuliyapitiya,dog vomiting,14,0,humid,10,Medium
+Mawanella,loss of appetite,7,7,dry,2,Medium
+Homagama,eye infection,13,1,dry,2,Low
+Beruwala,itchy skin,13,6,rainy,6,Medium
+Badulla,dog coughing,14,0,hot,4,Medium
+Ragama,ticks,12,4,rainy,6,Medium
+Galle,itchy skin,11,8,dry,2,Medium
+Ganemulla,fleas,4,4,hot,4,Low
+Mahiyanganaya,dog coughing,18,0,dry,2,Medium
+Galgamuwa,itchy skin,27,1,hot,4,Medium
+Nuwara Eliya,fleas,13,0,rainy,6,Medium
+Aluthgama,dog fever,5,2,rainy,6,Low
+Marawila,lethargy,3,11,humid,10,Medium
+Negombo,lethargy,8,2,dry,2,Low
+Anuradhapura,eye infection,7,5,rainy,6,Medium
+Ginigathhena,fleas,1,5,humid,10,Low
+Passara,lethargy,12,0,humid,10,Medium
+Kegalle,ticks,2,12,hot,4,Medium
+Jaffna,kennel cough,5,7,humid,10,Medium
+Narammala,dog fever,3,0,rainy,6,Low
+Dankotuwa,eye infection,19,10,dry,2,High
+Chilaw,eye infection,1,0,humid,10,Low
+Ganemulla,dog fever,5,12,dry,2,Medium
+Ginigathhena,dog vomiting,6,3,dry,2,Low
+Seeduwa,dog coughing,9,4,humid,10,Medium
+Galle,dog coughing,19,8,humid,10,High
+Trincomalee,dog fever,4,3,rainy,6,Low
+Kotte,ticks,14,7,hot,4,Medium
+Elpitiya,loss of appetite,15,6,rainy,6,Medium
+Elpitiya,dog vomiting,11,6,humid,10,Medium
+Embilipitiya,fleas,0,2,humid,10,Low
+Homagama,dog vomiting,1,5,dry,2,Low
+Kurunegala,dog coughing,5,7,dry,2,Medium
+Piliyandala,eye infection,1,12,rainy,6,Medium
+Moragahamula,kennel cough,13,4,rainy,6,Medium
+Nuwara Eliya,itchy skin,6,7,humid,10,Medium
+Kelaniya,lethargy,13,10,humid,10,High
+Kotte,dog vomiting,16,6,humid,10,High
+Mapalana,lethargy,17,8,dry,2,Medium
+Homagama,kennel cough,9,7,hot,4,Medium
+Kosgama,kennel cough,6,6,rainy,6,Medium
+Weeraketiya,kennel cough,5,1,humid,10,Low
+Kurunegala,dog vomiting,3,5,rainy,6,Low
+Colombo,dog fever,5,1,rainy,6,Low
+Passara,loss of appetite,16,0,dry,2,Medium
+Ragama,loss of appetite,8,5,dry,2,Medium
+Wattala,fleas,3,2,humid,10,Low
+Elpitiya,dog vomiting,9,3,humid,10,Medium
+Wellawaya,dog fever,14,4,humid,10,Medium
+Mannar,ticks,8,3,dry,2,Low
+Embilipitiya,eye infection,2,0,humid,10,Low
+Minuwangoda,kennel cough,10,14,dry,2,Medium
+Kadawatha,itchy skin,31,10,dry,2,High
+Boralesgamuwa,dog fever,4,16,dry,2,Medium
+Marawila,kennel cough,0,2,dry,2,Low
+Ja-Ela,dog coughing,5,2,humid,10,Low
+Dambulla,kennel cough,9,7,humid,10,Medium
+Kosgama,lethargy,21,9,hot,4,High
+Moratuwa,dog coughing,13,6,dry,2,Medium
+Rathmalana,dog fever,2,7,hot,4,Low
+Ampara,itchy skin,15,1,humid,10,Medium
+Aluthgama,loss of appetite,23,6,dry,2,High
+Piliyandala,dog fever,9,3,dry,2,Low
+Kalutara,itchy skin,11,6,rainy,6,Medium
+Kotte,ticks,3,4,hot,4,Low
+Bandarawela,dog vomiting,13,6,dry,2,Medium
+Maskeliya,eye infection,6,10,dry,2,Medium
+Boralesgamuwa,kennel cough,25,2,rainy,6,High
+Dehiwala,loss of appetite,13,0,hot,4,Medium
+Negombo,dog coughing,11,18,rainy,6,High
+Kurunegala,itchy skin,16,5,humid,10,Medium
+Nuwara Eliya,dog vomiting,16,9,dry,2,Medium
+Passara,itchy skin,15,7,hot,4,Medium
+Rathmalana,loss of appetite,5,7,rainy,6,Medium
+Kandy,loss of appetite,12,6,humid,10,Medium
+Piliyandala,dog fever,1,2,hot,4,Low
+Kurunegala,dog fever,2,3,rainy,6,Low
+Point Pedro,ticks,11,15,humid,10,High
+Galle,kennel cough,19,4,humid,10,High
+Weligama,fleas,5,9,dry,2,Medium
+Colombo,kennel cough,3,3,hot,4,Low
+Tissamaharama,eye infection,11,10,rainy,6,Medium
+Chilaw,dog fever,4,5,hot,4,Low
+Ratnapura,dog coughing,13,8,humid,10,High
+Middeniya,fleas,8,11,rainy,6,Medium
+Bandaragama,fleas,13,5,humid,10,Medium
+Mirissa,itchy skin,7,2,hot,4,Low
+Kalawana,dog fever,6,0,hot,4,Low
+Ginigathhena,lethargy,11,4,rainy,6,Medium
+Minuwangoda,itchy skin,14,2,dry,2,Medium
+Wattala,eye infection,13,1,rainy,6,Medium
+Elpitiya,loss of appetite,9,8,dry,2,Medium
+Ginigathhena,lethargy,4,4,dry,2,Low
+Kalawana,dog coughing,26,3,dry,2,Medium
+Embilipitiya,ticks,20,11,hot,4,High
+Gonapola,dog fever,13,0,humid,10,Medium
+Jaffna,fleas,17,3,dry,2,Medium
+Ambalangoda,dog coughing,15,9,humid,10,High
+Galewela,kennel cough,11,8,hot,4,Medium
+Trincomalee,fleas,4,1,rainy,6,Low
+Minuwangoda,lethargy,2,0,dry,2,Low
+Rathmalana,loss of appetite,21,1,dry,2,Medium
+Matale,kennel cough,8,12,dry,2,Medium
+Homagama,ticks,6,7,dry,2,Medium
+Bandarawela,fleas,5,5,humid,10,Medium
+Wattala,kennel cough,16,3,humid,10,Medium
+Homagama,loss of appetite,10,8,hot,4,Medium
+Kalutara,dog vomiting,18,7,dry,2,Medium
+Kataragama,kennel cough,23,3,humid,10,High
+Ampara,dog vomiting,6,6,dry,2,Low
+Agunukolapelessa,lethargy,15,7,hot,4,Medium
+Matugama,kennel cough,23,6,rainy,6,High
+Buttala,dog vomiting,17,8,dry,2,Medium
+Ratnapura,lethargy,10,5,dry,2,Medium
+Negombo,lethargy,1,3,hot,4,Low
+Middeniya,loss of appetite,10,6,humid,10,Medium
+Ambalangoda,kennel cough,4,4,rainy,6,Low
+Weligama,itchy skin,10,12,humid,10,High
+Hambantota,kennel cough,19,0,humid,10,Medium
+Jaffna,eye infection,19,9,dry,2,High
+Horana,fleas,8,0,hot,4,Low
+Ambalangoda,ticks,6,9,dry,2,Medium
+Middeniya,eye infection,10,5,hot,4,Medium
+Piliyandala,itchy skin,13,4,rainy,6,Medium
+Ampara,kennel cough,20,8,humid,10,High
+Mahiyanganaya,lethargy,10,0,rainy,6,Low
+Moratuwa,dog coughing,11,4,humid,10,Medium
+Katunayake,eye infection,4,2,humid,10,Low
+Giriulla,dog coughing,14,3,rainy,6,Medium
+Colombo,fleas,16,0,rainy,6,Medium
+Balangoda,kennel cough,8,7,humid,10,Medium
+Bandarawela,eye infection,20,4,hot,4,Medium
+Galewela,dog fever,7,1,rainy,6,Low
+Horana,kennel cough,10,4,humid,10,Medium
+Dehiwala,lethargy,4,4,humid,10,Medium
+Polonnaruwa,lethargy,14,0,hot,4,Medium
+Galewela,loss of appetite,8,0,humid,10,Low
+Kalawana,lethargy,0,0,dry,2,Low
+Kosgama,loss of appetite,5,4,hot,4,Low
+Panadura,itchy skin,14,8,rainy,6,Medium
+Seeduwa,ticks,24,2,humid,10,High
+Maskeliya,dog fever,4,0,humid,10,Low
+Balangoda,fleas,19,0,hot,4,Medium
+Passara,kennel cough,8,7,humid,10,Medium
+Minuwangoda,lethargy,17,7,dry,2,Medium
+Maharagama,itchy skin,8,9,hot,4,Medium
+Ratnapura,dog coughing,17,0,rainy,6,Medium
+Ampara,dog fever,7,0,humid,10,Low
+Galle,eye infection,29,2,hot,4,High
+Maharagama,fleas,2,3,humid,10,Low
+Mahiyanganaya,itchy skin,4,14,hot,4,Medium
+Kosgama,kennel cough,8,1,humid,10,Medium
+Kuliyapitiya,eye infection,15,13,rainy,6,High
+Kothmale,itchy skin,11,8,hot,4,Medium
+Kosgama,eye infection,0,8,rainy,6,Low
+Katunayake,ticks,12,8,hot,4,Medium
+Ja-Ela,dog fever,8,13,rainy,6,Medium
+Weeraketiya,eye infection,4,1,rainy,6,Low
+Batticaloa,eye infection,15,6,hot,4,Medium
+Ginigathhena,lethargy,17,4,hot,4,Medium
+Gampaha,kennel cough,4,9,hot,4,Medium
+Moratuwa,kennel cough,4,1,hot,4,Low
+Gampaha,ticks,10,2,humid,10,Medium
+Ampara,fleas,15,0,dry,2,Medium
+Kandy,fleas,21,4,hot,4,Medium
+Kahawatte,dog vomiting,20,6,dry,2,Medium
+Dankotuwa,ticks,2,5,humid,10,Medium
+Ganemulla,ticks,20,1,dry,2,Medium
+Katunayake,dog coughing,11,0,rainy,6,Low
+Agunukolapelessa,lethargy,12,3,humid,10,Medium
+Nuwara Eliya,lethargy,26,9,humid,10,High
+Wellawaya,lethargy,6,0,dry,2,Low
+Puttalam,lethargy,12,12,humid,10,High
+Ganemulla,eye infection,22,1,dry,2,Medium
+Dambulla,ticks,10,1,dry,2,Low
+Kataragama,eye infection,1,0,hot,4,Low
+Kelaniya,dog fever,15,8,hot,4,Medium
+Narammala,dog fever,3,3,hot,4,Low
+Marawila,lethargy,4,7,humid,10,Medium
+Boralesgamuwa,itchy skin,2,0,dry,2,Low
+Mawanella,itchy skin,20,8,hot,4,High
+Kothmale,ticks,0,12,hot,4,Medium
+Gampaha,dog fever,15,0,dry,2,Medium
+Ratnapura,lethargy,8,2,humid,10,Medium
+Kandy,eye infection,4,3,rainy,6,Low
+Gonapola,dog vomiting,1,3,dry,2,Low
+Avissawella,ticks,11,3,dry,2,Medium
+Kothmale,loss of appetite,19,6,dry,2,Medium
+Boralesgamuwa,eye infection,20,5,dry,2,Medium
+Jaffna,dog fever,5,8,hot,4,Medium
+Katunayake,ticks,9,7,rainy,6,Medium
+Dambulla,dog coughing,24,3,rainy,6,High
+Rathmalana,kennel cough,23,5,hot,4,High
+Gampaha,loss of appetite,23,10,dry,2,High
+Kurunegala,kennel cough,5,5,rainy,6,Medium
+Aluthgama,dog coughing,2,7,hot,4,Low
+Ampara,eye infection,10,6,humid,10,Medium
+Ragama,loss of appetite,21,11,rainy,6,High
+Weligama,loss of appetite,22,1,rainy,6,Medium
+Nuwara Eliya,dog coughing,10,6,dry,2,Medium
+Narammala,fleas,6,0,hot,4,Low
+Ragama,dog vomiting,17,2,humid,10,Medium
+Kataragama,ticks,2,14,dry,2,Medium
+Kandy,dog fever,11,3,humid,10,Medium
+Warakapola,itchy skin,2,8,rainy,6,Medium
+Wariyapola,lethargy,0,6,hot,4,Low
+Batticaloa,dog vomiting,13,9,hot,4,Medium
+Boralesgamuwa,itchy skin,11,7,dry,2,Medium
+Colombo,lethargy,9,12,hot,4,Medium
+Hikkaduwa,ticks,11,2,hot,4,Medium
+Dambulla,dog vomiting,20,9,humid,10,High
+Elpitiya,fleas,2,6,rainy,6,Low
+Marawila,eye infection,3,0,rainy,6,Low
+Maskeliya,dog coughing,12,0,humid,10,Medium
+Kalutara,dog vomiting,8,3,humid,10,Medium
+Maharagama,dog vomiting,7,2,hot,4,Low
+Bandarawela,lethargy,12,12,humid,10,High
+Minuwangoda,fleas,5,3,rainy,6,Low
+Bandaragama,lethargy,1,1,hot,4,Low
+Gampaha,eye infection,12,7,humid,10,Medium
+Bandaragama,dog coughing,16,9,rainy,6,High
+Middeniya,itchy skin,4,4,rainy,6,Low
+Passara,kennel cough,11,4,humid,10,Medium
+Moragahamula,dog coughing,11,12,dry,2,Medium
+Narammala,loss of appetite,7,8,humid,10,Medium
+Kandana,itchy skin,15,3,humid,10,Medium
+Mullaitivu,loss of appetite,20,7,hot,4,High
+Kandy,fleas,10,11,hot,4,Medium
+Buttala,dog coughing,17,6,hot,4,Medium
+Aluthgama,dog fever,6,8,rainy,6,Medium
+Kandy,eye infection,9,4,humid,10,Medium
+Kalawana,itchy skin,16,8,rainy,6,Medium
+Hanwella,itchy skin,17,1,rainy,6,Medium
+Mahiyanganaya,dog coughing,6,2,humid,10,Medium
+Homagama,eye infection,11,8,dry,2,Medium
+Ragama,loss of appetite,19,0,rainy,6,Medium
+Hatton,kennel cough,16,10,dry,2,Medium
+Nuwara Eliya,kennel cough,3,7,hot,4,Low
+Mannar,dog coughing,1,6,dry,2,Low
+Hatton,ticks,22,5,dry,2,Medium
+Anuradhapura,itchy skin,2,2,hot,4,Low
+Anuradhapura,loss of appetite,2,9,hot,4,Medium
+Bandaragama,dog fever,17,3,rainy,6,Medium
+Moragahamula,kennel cough,18,14,rainy,6,High
+Kalawana,loss of appetite,13,6,humid,10,Medium
+Deniyaya,eye infection,10,0,dry,2,Low
+Kilinochchi,eye infection,0,4,rainy,6,Low
+Mullaitivu,lethargy,20,2,rainy,6,Medium
+Batticaloa,kennel cough,12,0,humid,10,Medium
+Batticaloa,loss of appetite,6,0,dry,2,Low
+Ja-Ela,eye infection,1,4,humid,10,Low
+Mahiyanganaya,itchy skin,3,8,humid,10,Medium
+Buttala,dog coughing,10,14,dry,2,Medium
+Balangoda,dog coughing,19,10,humid,10,High
+Hambantota,dog coughing,2,2,rainy,6,Low
+Nuwara Eliya,fleas,17,5,rainy,6,Medium
+Kelaniya,eye infection,22,16,humid,10,High
+Haputale,lethargy,11,1,rainy,6,Medium
+Buttala,kennel cough,5,8,dry,2,Medium
+Kahawatte,loss of appetite,16,0,hot,4,Medium
+Badulla,dog coughing,6,3,hot,4,Low
+Giriulla,itchy skin,5,1,dry,2,Low
+Kothmale,lethargy,5,8,humid,10,Medium
+Mullaitivu,dog fever,6,8,dry,2,Medium
+Agunukolapelessa,dog coughing,29,6,rainy,6,High
+Ratnapura,dog fever,18,3,hot,4,Medium
+Passara,fleas,1,4,dry,2,Low
+Horana,dog vomiting,13,9,hot,4,Medium
+Passara,itchy skin,14,10,rainy,6,High
+Chilaw,lethargy,13,7,hot,4,Medium
+Weligama,eye infection,7,5,rainy,6,Medium
+Elpitiya,eye infection,12,4,rainy,6,Medium
+Deniyaya,dog vomiting,14,5,dry,2,Medium
+Embilipitiya,loss of appetite,4,2,hot,4,Low
+Mapalana,eye infection,16,2,dry,2,Medium
+Ganemulla,loss of appetite,12,12,rainy,6,High
+Polonnaruwa,dog vomiting,12,9,dry,2,Medium
+Warakapola,dog vomiting,19,11,humid,10,High
+Nuwara Eliya,dog fever,13,2,rainy,6,Medium
+Bandaragama,ticks,10,7,dry,2,Medium
+Beruwala,fleas,0,11,dry,2,Medium
+Embilipitiya,kennel cough,5,8,dry,2,Medium
+Galle,dog fever,5,10,hot,4,Medium
+Kuliyapitiya,fleas,15,1,hot,4,Medium
+Maskeliya,fleas,11,3,dry,2,Medium
+Dehiwala,dog fever,12,7,hot,4,Medium
+Agunukolapelessa,kennel cough,15,9,hot,4,Medium
+Kotte,dog coughing,8,6,humid,10,Medium
+Deniyaya,fleas,0,1,humid,10,Low
+Ginigathhena,lethargy,9,0,rainy,6,Low
+Gampaha,itchy skin,16,0,hot,4,Medium
+Middeniya,kennel cough,21,0,hot,4,Medium
+Panadura,lethargy,8,3,humid,10,Medium
+Maharagama,dog fever,5,1,rainy,6,Low
+Matugama,itchy skin,11,4,dry,2,Medium
+Marawila,loss of appetite,18,2,dry,2,Medium
+Kuliyapitiya,dog fever,21,0,hot,4,Medium
+Matara,fleas,11,11,humid,10,High
+Kelaniya,ticks,10,12,rainy,6,Medium
+Wariyapola,fleas,0,3,dry,2,Low
+Moragahamula,loss of appetite,9,6,humid,10,Medium
+Maharagama,dog vomiting,19,3,humid,10,Medium
+Wattala,lethargy,9,3,hot,4,Medium
+Polonnaruwa,itchy skin,16,0,humid,10,Medium
+Ginigathhena,eye infection,19,9,hot,4,High
+Avissawella,ticks,7,5,rainy,6,Medium
+Galewela,lethargy,9,8,humid,10,Medium
+Kurunegala,itchy skin,14,0,humid,10,Medium
+Ja-Ela,fleas,6,11,humid,10,Medium
+Kahawatte,fleas,20,6,dry,2,Medium
+Gonapola,lethargy,3,7,dry,2,Low
+Avissawella,itchy skin,5,12,rainy,6,Medium
+Aluthgama,itchy skin,19,10,hot,4,High
+Haputale,kennel cough,12,4,rainy,6,Medium
+Batticaloa,lethargy,8,0,hot,4,Low
+Hikkaduwa,itchy skin,11,5,dry,2,Medium
+Nuwara Eliya,kennel cough,20,3,humid,10,High
+Trincomalee,dog coughing,4,1,rainy,6,Low
+Kilinochchi,eye infection,7,6,rainy,6,Medium
+Matara,itchy skin,16,1,dry,2,Medium
+Elpitiya,kennel cough,7,7,hot,4,Medium
+Hikkaduwa,loss of appetite,26,4,dry,2,High
+Horana,itchy skin,11,3,rainy,6,Medium
+Batticaloa,fleas,7,6,hot,4,Medium
+Batticaloa,dog vomiting,11,5,rainy,6,Medium
+Kosgama,fleas,9,5,rainy,6,Medium
+Ragama,loss of appetite,1,2,dry,2,Low
+Chilaw,dog vomiting,21,6,humid,10,High
+Avissawella,fleas,11,6,dry,2,Medium
+Moragahamula,loss of appetite,1,5,humid,10,Low
+Gonapola,dog coughing,13,9,dry,2,Medium
+Wattala,itchy skin,3,10,rainy,6,Medium
+Galgamuwa,kennel cough,0,11,humid,10,Medium
+Seeduwa,itchy skin,20,12,humid,10,High
+Narammala,ticks,12,6,hot,4,Medium
+Moragahamula,dog vomiting,11,2,hot,4,Medium
+Galle,lethargy,0,3,rainy,6,Low
+Wariyapola,loss of appetite,15,3,hot,4,Medium
+Gonapola,itchy skin,9,10,dry,2,Medium
+Matale,itchy skin,8,1,humid,10,Medium
+Hikkaduwa,itchy skin,17,3,rainy,6,Medium
+Chilaw,dog vomiting,10,2,rainy,6,Medium
+Piliyandala,loss of appetite,15,0,dry,2,Medium
+Deniyaya,loss of appetite,0,4,humid,10,Low
+Kosgama,lethargy,18,3,dry,2,Medium
+Kothmale,dog coughing,3,1,rainy,6,Low
+Maskeliya,fleas,22,0,rainy,6,Medium
+Nuwara Eliya,dog coughing,18,3,dry,2,Medium
+Matale,dog vomiting,4,1,rainy,6,Low
+Batticaloa,dog fever,2,4,humid,10,Low
+Beruwala,ticks,1,6,dry,2,Low
+Mapalana,dog coughing,17,5,hot,4,Medium
+Horana,eye infection,4,5,humid,10,Medium
+Kadawatha,lethargy,8,8,hot,4,Medium
+Batticaloa,fleas,9,1,humid,10,Medium
+Vavuniya,kennel cough,9,8,humid,10,Medium
+Mannar,itchy skin,5,12,rainy,6,Medium
+Narammala,lethargy,8,9,rainy,6,Medium
+Mapalana,ticks,9,3,humid,10,Medium
+Embilipitiya,fleas,22,5,hot,4,High
+Colombo,fleas,24,6,hot,4,High
+Maharagama,fleas,8,11,humid,10,Medium
+Passara,kennel cough,13,12,hot,4,High
+Tissamaharama,lethargy,1,4,dry,2,Low
+Rathmalana,dog coughing,2,0,rainy,6,Low
+Ragama,eye infection,16,11,humid,10,High
+Jaffna,kennel cough,2,9,humid,10,Medium
+Hikkaduwa,loss of appetite,15,6,hot,4,Medium
+Weeraketiya,lethargy,15,9,hot,4,Medium
+Agunukolapelessa,fleas,7,6,dry,2,Medium
+Vavuniya,fleas,14,7,humid,10,Medium
+Giriulla,kennel cough,4,0,hot,4,Low
+Hanwella,ticks,13,2,hot,4,Medium
+Beruwala,eye infection,10,3,dry,2,Low
+Giriulla,ticks,3,8,humid,10,Medium
+Kalutara,ticks,1,7,hot,4,Low
+Jaffna,ticks,18,1,hot,4,Medium
+Kuliyapitiya,loss of appetite,11,8,humid,10,Medium
+Kelaniya,dog fever,1,2,rainy,6,Low
+Seeduwa,eye infection,7,9,humid,10,Medium
+Kelaniya,lethargy,3,3,dry,2,Low
+Hikkaduwa,lethargy,13,2,rainy,6,Medium
+Ragama,loss of appetite,1,4,rainy,6,Low
+Seeduwa,kennel cough,13,6,dry,2,Medium
+Middeniya,ticks,15,2,hot,4,Medium
+Buttala,itchy skin,7,3,hot,4,Low
+Wariyapola,lethargy,8,9,humid,10,Medium
+Kadawatha,loss of appetite,6,8,hot,4,Medium
+Kataragama,lethargy,9,9,dry,2,Medium
+Kandana,dog vomiting,8,4,dry,2,Low
+Colombo,loss of appetite,24,4,hot,4,High
+Colombo,itchy skin,15,2,humid,10,Medium
+Matale,fleas,8,6,humid,10,Medium
+Badulla,dog fever,7,5,dry,2,Low
+Agunukolapelessa,ticks,21,0,dry,2,Medium
+Batticaloa,dog vomiting,1,0,dry,2,Low
+Deniyaya,lethargy,9,4,rainy,6,Medium
+Wellawaya,dog coughing,7,3,dry,2,Low
+Dankotuwa,kennel cough,1,5,dry,2,Low
+Kothmale,dog fever,19,0,rainy,6,Medium
+Marawila,eye infection,1,3,dry,2,Low
+Maharagama,ticks,0,7,humid,10,Medium
+Tissamaharama,itchy skin,11,3,humid,10,Medium
+Wattala,loss of appetite,16,1,humid,10,Medium
+Kataragama,ticks,10,12,rainy,6,Medium
+Seeduwa,eye infection,14,2,dry,2,Medium
+Beruwala,dog vomiting,10,6,rainy,6,Medium
+Wariyapola,dog coughing,9,10,hot,4,Medium
+Kandana,itchy skin,7,4,humid,10,Medium
+Kahawatte,eye infection,14,7,rainy,6,Medium
+Balangoda,loss of appetite,16,7,humid,10,High
+Minuwangoda,fleas,9,1,hot,4,Low
+Kotte,eye infection,16,8,dry,2,Medium
+Embilipitiya,ticks,14,6,rainy,6,Medium
+Haputale,itchy skin,4,0,rainy,6,Low
+Batticaloa,fleas,12,4,dry,2,Medium
+Giriulla,eye infection,2,1,dry,2,Low
+Agunukolapelessa,dog vomiting,9,13,rainy,6,Medium
+Kahawatte,dog vomiting,2,4,rainy,6,Low
+Hanwella,itchy skin,5,11,rainy,6,Medium
+Marawila,dog coughing,2,5,dry,2,Low
+Ratnapura,dog vomiting,2,7,dry,2,Low
+Minuwangoda,kennel cough,3,4,rainy,6,Low
+Passara,fleas,19,12,humid,10,High
+Dambulla,dog vomiting,11,5,hot,4,Medium
+Ginigathhena,kennel cough,17,0,dry,2,Medium
+Aluthgama,dog vomiting,22,5,humid,10,High
+Matugama,dog fever,4,0,humid,10,Low
+Tissamaharama,kennel cough,20,2,rainy,6,Medium
+Point Pedro,dog fever,24,1,dry,2,Medium
+Kosgama,ticks,15,5,rainy,6,Medium
+Hatton,kennel cough,10,5,dry,2,Medium
+Moratuwa,ticks,17,3,hot,4,Medium
+Beruwala,dog fever,3,3,humid,10,Low
+Wattala,ticks,14,0,hot,4,Medium
+Badulla,eye infection,11,1,humid,10,Medium
+Kilinochchi,ticks,28,2,rainy,6,High
+Kalutara,dog fever,4,13,rainy,6,Medium
+Matugama,lethargy,0,14,hot,4,Medium
+Tissamaharama,dog coughing,17,6,hot,4,Medium
+Polonnaruwa,ticks,1,0,rainy,6,Low
+Kurunegala,itchy skin,16,7,dry,2,Medium
+Aluthgama,lethargy,22,5,rainy,6,High
+Deniyaya,kennel cough,7,11,rainy,6,Medium
+Katunayake,eye infection,13,5,humid,10,Medium
+Kurunegala,lethargy,6,3,rainy,6,Low
+Kurunegala,ticks,6,10,rainy,6,Medium
+Hatton,fleas,14,2,rainy,6,Medium
+Ginigathhena,dog vomiting,2,10,hot,4,Medium
+Batticaloa,itchy skin,10,6,rainy,6,Medium
+Kothmale,loss of appetite,1,4,hot,4,Low
+Agunukolapelessa,ticks,18,0,rainy,6,Medium
+Mannar,itchy skin,12,13,dry,2,Medium
+Boralesgamuwa,dog fever,16,9,dry,2,Medium
+Monaragala,kennel cough,5,7,dry,2,Medium
+Kadawatha,loss of appetite,17,5,hot,4,Medium
+Panadura,eye infection,14,5,humid,10,Medium
+Matara,dog fever,12,3,humid,10,Medium
+Maharagama,itchy skin,19,7,dry,2,Medium
+Beruwala,fleas,16,0,humid,10,Medium
+Galewela,dog fever,0,8,hot,4,Low
+Ja-Ela,kennel cough,18,4,hot,4,Medium
+Bandaragama,dog coughing,1,7,dry,2,Low
+Colombo,dog fever,7,9,humid,10,Medium
+Nuwara Eliya,ticks,19,5,humid,10,High
+Ambalangoda,itchy skin,15,0,humid,10,Medium
+Weeraketiya,fleas,16,7,hot,4,Medium
+Kataragama,dog fever,9,0,humid,10,Medium
+Ginigathhena,ticks,7,3,dry,2,Low
+Polonnaruwa,itchy skin,18,1,dry,2,Medium
+Bandaragama,ticks,1,10,dry,2,Medium
+Ginigathhena,itchy skin,9,5,rainy,6,Medium
+Boralesgamuwa,lethargy,19,3,humid,10,Medium
+Rathmalana,fleas,2,5,rainy,6,Low
+Polonnaruwa,fleas,3,0,dry,2,Low
+Kataragama,dog fever,14,9,dry,2,Medium
+Marawila,dog vomiting,9,12,hot,4,Medium
+Boralesgamuwa,eye infection,7,11,dry,2,Medium
+Kilinochchi,eye infection,9,9,humid,10,Medium
+Ragama,dog fever,16,10,humid,10,High
+Panadura,fleas,11,4,hot,4,Medium
+Kelaniya,eye infection,8,5,humid,10,Medium
+Balangoda,fleas,18,7,rainy,6,High
+Galewela,kennel cough,21,0,hot,4,Medium
+Matara,dog vomiting,18,9,hot,4,High
+Monaragala,kennel cough,19,1,dry,2,Medium
+Kothmale,kennel cough,16,1,hot,4,Medium
+Galgamuwa,itchy skin,15,6,humid,10,Medium
+Moratuwa,ticks,3,7,hot,4,Low
+Galewela,kennel cough,17,0,dry,2,Medium
+Ratnapura,eye infection,17,2,rainy,6,Medium
+Middeniya,lethargy,14,2,hot,4,Medium
+Point Pedro,dog fever,11,7,hot,4,Medium
+Ragama,dog fever,2,0,hot,4,Low
+Galewela,kennel cough,7,5,hot,4,Medium
+Katunayake,ticks,4,5,humid,10,Medium
+Balangoda,itchy skin,16,8,rainy,6,Medium
+Panadura,itchy skin,14,1,humid,10,Medium
+Elpitiya,eye infection,3,1,hot,4,Low
+Kotte,kennel cough,13,5,dry,2,Medium
+Seeduwa,kennel cough,6,2,humid,10,Medium
+Kosgama,ticks,8,1,dry,2,Low
+Mannar,dog fever,13,4,humid,10,Medium
+Katunayake,eye infection,5,13,hot,4,Medium
+Wariyapola,fleas,24,11,hot,4,High
+Deniyaya,dog vomiting,10,6,hot,4,Medium
+Galewela,dog vomiting,0,12,humid,10,Medium
+Wariyapola,dog fever,20,10,dry,2,High
+Ginigathhena,fleas,4,4,rainy,6,Low
+Minuwangoda,loss of appetite,6,4,hot,4,Low
+Wattala,dog vomiting,16,0,rainy,6,Medium
+Wariyapola,dog coughing,4,4,dry,2,Low
+Mahiyanganaya,loss of appetite,9,11,hot,4,Medium
+Matugama,loss of appetite,13,1,humid,10,Medium
+Kalutara,eye infection,1,3,hot,4,Low
+Maharagama,fleas,14,0,rainy,6,Medium
+Moragahamula,itchy skin,6,7,rainy,6,Medium
+Batticaloa,kennel cough,3,4,rainy,6,Low
+Kandana,loss of appetite,13,6,rainy,6,Medium
+Giriulla,loss of appetite,7,9,rainy,6,Medium
+Bandaragama,dog fever,13,0,dry,2,Low
+Mullaitivu,kennel cough,3,5,humid,10,Medium
+Kadawatha,dog fever,17,0,hot,4,Medium
+Marawila,eye infection,13,15,rainy,6,High
+Mapalana,loss of appetite,11,12,humid,10,High
+Katunayake,dog fever,11,9,hot,4,Medium
+Balangoda,dog fever,20,0,dry,2,Medium
+Hanwella,kennel cough,1,3,humid,10,Low
+Nuwara Eliya,lethargy,20,10,rainy,6,High
+Rathmalana,kennel cough,12,7,dry,2,Medium
+Colombo,dog fever,2,12,hot,4,Medium
+Hatton,dog coughing,10,1,hot,4,Low
+Colombo,dog fever,10,1,dry,2,Low
+Giriulla,dog coughing,10,5,dry,2,Medium
+Warakapola,fleas,12,13,rainy,6,High
+Matugama,itchy skin,3,6,rainy,6,Medium
+Bandarawela,lethargy,13,9,rainy,6,Medium
+Anuradhapura,kennel cough,3,6,dry,2,Low
+Marawila,fleas,1,1,dry,2,Low
+Ragama,loss of appetite,20,10,humid,10,High
+Mirissa,ticks,9,2,dry,2,Low
+Vavuniya,ticks,13,6,rainy,6,Medium
+Rathmalana,dog coughing,11,11,rainy,6,Medium
+Buttala,dog fever,11,6,hot,4,Medium
+Boralesgamuwa,loss of appetite,14,15,dry,2,High
+Middeniya,ticks,7,0,rainy,6,Low
+Passara,kennel cough,14,0,hot,4,Medium
+Haputale,fleas,9,6,rainy,6,Medium
+Jaffna,itchy skin,2,2,rainy,6,Low
+Homagama,itchy skin,3,12,rainy,6,Medium
+Wattala,dog fever,7,8,hot,4,Medium
+Wellawaya,lethargy,7,13,hot,4,Medium
+Agunukolapelessa,dog fever,19,2,dry,2,Medium
+Maharagama,dog fever,8,8,hot,4,Medium
+Galewela,dog vomiting,10,6,rainy,6,Medium
+Weeraketiya,itchy skin,4,1,dry,2,Low
+Ampara,kennel cough,23,3,humid,10,High
+Wellawaya,dog fever,12,3,rainy,6,Medium
+Agunukolapelessa,lethargy,10,9,dry,2,Medium
+Kataragama,ticks,7,6,dry,2,Medium
+Galgamuwa,lethargy,13,3,hot,4,Medium
+Kelaniya,itchy skin,8,6,humid,10,Medium
+Dambulla,dog coughing,1,19,hot,4,Medium
+Mawanella,fleas,5,11,hot,4,Medium
+Kuliyapitiya,dog fever,4,3,dry,2,Low
+Kadawatha,kennel cough,20,4,dry,2,Medium
+Balangoda,kennel cough,19,7,hot,4,Medium
+Maharagama,eye infection,16,1,hot,4,Medium
+Kegalle,dog fever,14,1,rainy,6,Medium
+Ganemulla,ticks,9,8,hot,4,Medium
+Panadura,kennel cough,12,11,dry,2,Medium
+Kalawana,dog fever,0,2,rainy,6,Low
+Balangoda,dog vomiting,18,2,dry,2,Medium
+Passara,fleas,7,4,dry,2,Low
+Hatton,itchy skin,10,6,dry,2,Medium
+Passara,dog vomiting,16,9,hot,4,Medium
+Haputale,dog coughing,14,7,humid,10,Medium
+Matara,fleas,8,1,hot,4,Low
+Colombo,dog fever,19,11,hot,4,High
+Kotte,loss of appetite,19,5,rainy,6,Medium
+Marawila,lethargy,12,6,humid,10,Medium
+Trincomalee,lethargy,6,0,humid,10,Low
+Giriulla,ticks,22,6,hot,4,High
+Matugama,eye infection,19,2,rainy,6,Medium
+Mapalana,fleas,27,1,dry,2,Medium
+Homagama,dog fever,9,3,humid,10,Medium
+Pelmadulla,loss of appetite,11,7,rainy,6,Medium
+Badulla,fleas,17,6,dry,2,Medium
+Haputale,fleas,9,0,rainy,6,Low
+Bandaragama,itchy skin,5,6,dry,2,Low
+Pelmadulla,ticks,13,0,humid,10,Medium
+Polonnaruwa,dog coughing,3,0,dry,2,Low
+Balangoda,dog fever,3,10,humid,10,Medium
+Dankotuwa,kennel cough,12,8,hot,4,Medium
+Monaragala,loss of appetite,28,4,rainy,6,High
+Weligama,kennel cough,20,13,rainy,6,High
+Kuliyapitiya,kennel cough,15,3,humid,10,Medium
+Giriulla,dog fever,1,3,dry,2,Low
+Badulla,lethargy,16,12,hot,4,High
+Aluthgama,fleas,8,10,hot,4,Medium
+Batticaloa,ticks,20,4,hot,4,Medium
+Chilaw,loss of appetite,14,0,rainy,6,Medium
+Mirissa,dog vomiting,16,5,dry,2,Medium
+Minuwangoda,fleas,4,2,hot,4,Low
+Trincomalee,itchy skin,20,7,humid,10,High
+Embilipitiya,eye infection,14,9,hot,4,Medium
+Ragama,dog fever,1,4,hot,4,Low
+Warakapola,loss of appetite,8,3,rainy,6,Medium
+Kandy,kennel cough,6,1,dry,2,Low
+Panadura,dog fever,19,7,humid,10,High
+Maharagama,dog fever,3,9,hot,4,Medium
+Badulla,dog vomiting,17,5,hot,4,Medium
+Panadura,kennel cough,22,3,hot,4,Medium
+Warakapola,loss of appetite,3,14,hot,4,Medium
+Mawanella,itchy skin,6,7,dry,2,Medium
+Mirissa,fleas,22,0,rainy,6,Medium
+Rathmalana,itchy skin,14,5,dry,2,Medium
+Buttala,eye infection,0,1,hot,4,Low
+Weligama,lethargy,19,6,dry,2,Medium
+Negombo,fleas,17,3,hot,4,Medium
+Wellawaya,loss of appetite,16,7,rainy,6,Medium
+Hikkaduwa,lethargy,1,0,humid,10,Low
+Passara,lethargy,15,5,dry,2,Medium
+Gampaha,dog fever,12,6,hot,4,Medium
+Kothmale,eye infection,18,7,dry,2,Medium
+Kahawatte,ticks,10,4,hot,4,Medium
+Warakapola,fleas,21,0,rainy,6,Medium
+Buttala,dog fever,10,9,humid,10,Medium
+Piliyandala,eye infection,0,0,humid,10,Low
+Minuwangoda,kennel cough,28,9,rainy,6,High
+Ampara,eye infection,11,1,hot,4,Low
+Gampaha,lethargy,7,5,rainy,6,Medium
+Minuwangoda,ticks,18,12,rainy,6,High
+Katunayake,dog fever,21,6,dry,2,Medium
+Mirissa,lethargy,22,4,humid,10,High
+Weligama,eye infection,6,8,rainy,6,Medium
+Matara,loss of appetite,2,0,hot,4,Low
+Vavuniya,ticks,11,0,rainy,6,Low
+Deniyaya,dog vomiting,27,5,rainy,6,High
+Boralesgamuwa,dog fever,7,0,rainy,6,Low
+Bandaragama,itchy skin,17,8,rainy,6,High
+Balangoda,fleas,0,3,rainy,6,Low
+Puttalam,kennel cough,13,11,hot,4,Medium
+Mawanella,eye infection,10,2,humid,10,Medium
+Hatton,loss of appetite,18,8,rainy,6,High
+Weeraketiya,loss of appetite,2,4,humid,10,Low
+Puttalam,fleas,3,7,rainy,6,Medium
+Dehiwala,dog fever,11,2,humid,10,Medium
+Kothmale,lethargy,12,8,rainy,6,Medium
+Mannar,loss of appetite,8,15,humid,10,High
+Kandana,lethargy,9,8,dry,2,Medium
+Dambulla,loss of appetite,16,3,humid,10,Medium
+Deniyaya,dog vomiting,2,4,dry,2,Low
+Kegalle,eye infection,10,0,rainy,6,Low
+Galewela,eye infection,12,8,dry,2,Medium
+Avissawella,lethargy,10,8,dry,2,Medium
+Narammala,itchy skin,19,10,humid,10,High
+Kalutara,dog coughing,16,1,rainy,6,Medium
+Kandy,dog coughing,23,4,humid,10,High
+Jaffna,fleas,6,2,humid,10,Medium
+Mirissa,kennel cough,4,5,rainy,6,Low
+Moratuwa,kennel cough,4,12,humid,10,Medium
+Jaffna,lethargy,9,7,rainy,6,Medium
+Chilaw,dog fever,15,9,dry,2,Medium
+Minuwangoda,loss of appetite,2,3,humid,10,Low
+Vavuniya,fleas,29,0,dry,2,Medium
+Mahiyanganaya,eye infection,17,11,humid,10,High
+Nuwara Eliya,dog coughing,13,3,rainy,6,Medium
+Monaragala,itchy skin,15,4,hot,4,Medium
+Embilipitiya,loss of appetite,14,2,humid,10,Medium
+Kothmale,ticks,18,7,rainy,6,High
+Aluthgama,dog fever,16,4,rainy,6,Medium
+Galgamuwa,itchy skin,7,2,hot,4,Low
+Rathmalana,dog coughing,12,0,rainy,6,Medium
+Batticaloa,kennel cough,15,5,hot,4,Medium
+Point Pedro,lethargy,24,10,rainy,6,High
+Vavuniya,dog vomiting,6,8,dry,2,Medium
+Kadawatha,loss of appetite,13,6,humid,10,Medium
+Embilipitiya,dog coughing,18,5,hot,4,Medium
+Rathmalana,dog vomiting,14,1,rainy,6,Medium
+Mullaitivu,eye infection,8,7,hot,4,Medium
+Wellawaya,dog vomiting,18,4,humid,10,Medium
+Kuliyapitiya,loss of appetite,3,3,humid,10,Low
+Monaragala,fleas,21,5,hot,4,Medium
+Rathmalana,lethargy,20,11,hot,4,High
+Wattala,dog vomiting,18,1,rainy,6,Medium
+Ragama,ticks,4,10,humid,10,Medium
+Wattala,eye infection,15,4,dry,2,Medium
+Warakapola,ticks,8,13,hot,4,Medium
+Nuwara Eliya,fleas,2,10,humid,10,Medium
+Kotte,kennel cough,17,2,dry,2,Medium
+Ratnapura,dog fever,14,9,rainy,6,Medium
+Monaragala,dog coughing,12,2,humid,10,Medium
+Hikkaduwa,itchy skin,9,8,dry,2,Medium
+Kegalle,eye infection,3,1,humid,10,Low
+Panadura,loss of appetite,15,5,rainy,6,Medium
+Colombo,dog vomiting,0,2,humid,10,Low
+Mahiyanganaya,loss of appetite,5,10,dry,2,Medium
+Marawila,dog fever,6,4,dry,2,Low
+Mannar,ticks,1,0,dry,2,Low
+Rathmalana,eye infection,7,2,humid,10,Medium
+Rathmalana,loss of appetite,6,1,rainy,6,Low
+Vavuniya,dog coughing,9,2,rainy,6,Medium
+Wellawaya,lethargy,8,0,humid,10,Low
+Badulla,lethargy,14,6,humid,10,Medium
+Hanwella,dog vomiting,23,13,dry,2,High
+Balangoda,kennel cough,5,2,humid,10,Low
+Passara,dog vomiting,18,4,rainy,6,Medium
+Kothmale,lethargy,22,8,humid,10,High
+Gonapola,dog fever,12,0,humid,10,Medium
+Kilinochchi,eye infection,1,8,dry,2,Low
+Agunukolapelessa,kennel cough,11,7,rainy,6,Medium
+Ginigathhena,ticks,11,2,humid,10,Medium
+Bandaragama,loss of appetite,12,3,humid,10,Medium
+Colombo,dog fever,2,0,humid,10,Low
+Maskeliya,kennel cough,5,2,humid,10,Low
+Wellawaya,dog fever,14,4,dry,2,Medium
+Piliyandala,kennel cough,6,10,rainy,6,Medium
+Hambantota,fleas,9,7,rainy,6,Medium
+Katunayake,fleas,3,3,dry,2,Low
+Anuradhapura,loss of appetite,2,3,dry,2,Low
+Jaffna,ticks,9,3,rainy,6,Medium
+Rathmalana,itchy skin,8,0,humid,10,Low
+Moragahamula,dog coughing,9,8,humid,10,Medium
+Point Pedro,kennel cough,19,6,humid,10,High
+Maharagama,dog fever,6,6,rainy,6,Medium
+Kosgama,ticks,5,6,rainy,6,Medium
+Kosgama,lethargy,14,4,hot,4,Medium
+Dambulla,lethargy,9,0,humid,10,Medium
+Piliyandala,kennel cough,5,11,hot,4,Medium
+Kandana,eye infection,12,0,dry,2,Low
+Gonapola,fleas,16,0,rainy,6,Medium
+Mannar,kennel cough,11,3,hot,4,Medium
+Kilinochchi,dog coughing,19,3,hot,4,Medium
+Mullaitivu,itchy skin,1,7,humid,10,Medium
+Balangoda,fleas,2,2,dry,2,Low
+Mawanella,ticks,10,4,rainy,6,Medium
+Ragama,dog fever,20,6,dry,2,Medium
+Warakapola,itchy skin,11,0,hot,4,Low
+Matugama,dog coughing,19,4,hot,4,Medium
+Boralesgamuwa,dog fever,5,6,hot,4,Medium
+Nuwara Eliya,dog vomiting,17,6,humid,10,High
+Badulla,itchy skin,25,7,hot,4,High
+Gonapola,dog coughing,1,10,dry,2,Medium
+Balangoda,itchy skin,5,5,rainy,6,Medium
+Horana,itchy skin,8,9,humid,10,Medium
+Kandana,itchy skin,3,6,humid,10,Medium
+Agunukolapelessa,dog vomiting,2,9,humid,10,Medium
+Pelmadulla,dog coughing,15,0,rainy,6,Medium
+Wattala,lethargy,6,7,rainy,6,Medium
+Dankotuwa,kennel cough,3,11,dry,2,Medium
+Weeraketiya,eye infection,25,11,hot,4,High
+Dankotuwa,eye infection,10,2,rainy,6,Medium
+Wariyapola,dog fever,23,4,dry,2,Medium
+Gonapola,lethargy,3,6,hot,4,Low
+Agunukolapelessa,dog vomiting,10,4,rainy,6,Medium
+Kadawatha,dog vomiting,14,5,humid,10,Medium
+Kotte,kennel cough,3,10,rainy,6,Medium
+Ragama,kennel cough,4,14,dry,2,Medium
+Avissawella,fleas,20,10,rainy,6,High
+Giriulla,dog fever,9,5,rainy,6,Medium
+Passara,kennel cough,5,5,humid,10,Medium
+Embilipitiya,dog coughing,1,8,dry,2,Low
+Colombo,itchy skin,22,8,humid,10,High
+Warakapola,eye infection,13,7,rainy,6,Medium
+Ginigathhena,ticks,14,4,hot,4,Medium
+Vavuniya,itchy skin,1,4,dry,2,Low
+Kothmale,dog vomiting,21,5,dry,2,Medium
+Passara,eye infection,13,4,hot,4,Medium
+Narammala,itchy skin,4,4,humid,10,Medium
+Monaragala,ticks,11,1,hot,4,Low
+Colombo,dog coughing,14,3,rainy,6,Medium
+Ginigathhena,kennel cough,9,3,rainy,6,Medium
+Tissamaharama,kennel cough,16,2,hot,4,Medium
+Ratnapura,kennel cough,22,2,hot,4,Medium
+Ratnapura,eye infection,22,4,dry,2,Medium
+Bandarawela,dog fever,15,0,rainy,6,Medium
+Trincomalee,lethargy,11,0,dry,2,Low
+Kilinochchi,fleas,18,1,humid,10,Medium
+Hikkaduwa,kennel cough,3,3,dry,2,Low
+Vavuniya,loss of appetite,15,4,rainy,6,Medium
+Maskeliya,dog vomiting,2,4,humid,10,Low
+Tissamaharama,ticks,6,0,rainy,6,Low
+Ratnapura,lethargy,4,9,humid,10,Medium
+Dambulla,dog vomiting,22,1,humid,10,Medium
+Mullaitivu,dog vomiting,23,8,rainy,6,High
+Kelaniya,itchy skin,12,6,humid,10,Medium
+Puttalam,lethargy,8,3,humid,10,Medium
+Tissamaharama,itchy skin,0,0,hot,4,Low
+Wariyapola,fleas,11,10,rainy,6,Medium
+Kurunegala,fleas,4,11,dry,2,Medium
+Ja-Ela,dog vomiting,8,3,humid,10,Medium
+Matara,fleas,8,1,rainy,6,Low
+Hanwella,itchy skin,11,3,hot,4,Medium
+Chilaw,dog vomiting,4,0,hot,4,Low
+Kilinochchi,eye infection,13,3,humid,10,Medium
+Ratnapura,loss of appetite,3,0,dry,2,Low
+Mirissa,eye infection,5,8,dry,2,Medium
+Horana,fleas,14,2,hot,4,Medium
+Agunukolapelessa,dog vomiting,13,0,humid,10,Medium
+Badulla,ticks,1,1,humid,10,Low
+Kosgama,itchy skin,17,4,rainy,6,Medium
+Bandarawela,lethargy,17,1,dry,2,Medium
+Aluthgama,dog coughing,10,0,hot,4,Low
+Ratnapura,dog coughing,19,7,rainy,6,High
+Horana,lethargy,3,7,humid,10,Medium
+Wellawaya,dog coughing,11,10,dry,2,Medium
+Homagama,dog fever,13,3,humid,10,Medium
+Elpitiya,dog vomiting,14,9,rainy,6,Medium
+Matale,dog vomiting,0,5,humid,10,Low
+Elpitiya,ticks,12,2,dry,2,Medium
+Weligama,dog coughing,1,1,dry,2,Low
+Galewela,itchy skin,10,11,hot,4,Medium
+Hambantota,dog coughing,9,12,hot,4,Medium
+Wellawaya,dog coughing,14,3,hot,4,Medium
+Galgamuwa,lethargy,4,0,hot,4,Low
+Bandaragama,itchy skin,5,5,rainy,6,Medium
+Anuradhapura,ticks,21,9,hot,4,High
+Point Pedro,ticks,10,4,hot,4,Medium
+Embilipitiya,itchy skin,12,7,humid,10,Medium
+Warakapola,fleas,12,3,dry,2,Medium
+Aluthgama,eye infection,10,11,hot,4,Medium
+Kandy,kennel cough,6,10,hot,4,Medium
+Moragahamula,fleas,5,3,rainy,6,Low
+Anuradhapura,ticks,6,5,dry,2,Low
+Kataragama,dog coughing,9,6,rainy,6,Medium
+Bandarawela,itchy skin,16,2,hot,4,Medium
+Dankotuwa,fleas,21,0,hot,4,Medium
+Deniyaya,dog coughing,7,6,hot,4,Medium
+Jaffna,fleas,15,0,humid,10,Medium
+Galewela,ticks,9,4,hot,4,Medium
+Mannar,loss of appetite,8,0,humid,10,Low
+Kandana,kennel cough,21,12,dry,2,High
+Chilaw,eye infection,8,5,humid,10,Medium
+Pelmadulla,eye infection,7,7,humid,10,Medium
+Moragahamula,dog vomiting,9,2,humid,10,Medium
+Bandaragama,eye infection,19,5,hot,4,Medium
+Rathmalana,lethargy,24,4,dry,2,Medium
+Matale,eye infection,9,7,hot,4,Medium
+Balangoda,fleas,12,1,hot,4,Medium
+Kuliyapitiya,loss of appetite,18,5,rainy,6,Medium
+Ginigathhena,lethargy,12,3,humid,10,Medium
+Ja-Ela,dog vomiting,9,3,humid,10,Medium
+Ambalangoda,ticks,0,4,humid,10,Low
+Kahawatte,lethargy,7,1,rainy,6,Low
+Monaragala,loss of appetite,12,4,humid,10,Medium
+Hatton,kennel cough,15,2,rainy,6,Medium
+Minuwangoda,fleas,12,6,dry,2,Medium
+Mawanella,lethargy,1,11,humid,10,Medium
+Dambulla,eye infection,12,9,dry,2,Medium
+Mannar,fleas,16,9,dry,2,Medium
+Aluthgama,loss of appetite,18,5,hot,4,Medium
+Polonnaruwa,dog fever,13,4,rainy,6,Medium
+Mahiyanganaya,lethargy,1,8,dry,2,Low
+Pelmadulla,loss of appetite,27,6,rainy,6,High
+Wattala,fleas,1,8,rainy,6,Medium
+Rathmalana,kennel cough,7,1,rainy,6,Low
+Jaffna,fleas,8,8,hot,4,Medium
+Homagama,dog vomiting,0,12,dry,2,Medium
+Negombo,dog fever,14,8,hot,4,Medium
+Kuliyapitiya,eye infection,1,7,rainy,6,Low
+Katunayake,itchy skin,8,0,dry,2,Low
+Moratuwa,fleas,8,4,humid,10,Medium
+Bandarawela,itchy skin,12,7,rainy,6,Medium
+Ambalangoda,loss of appetite,21,0,hot,4,Medium
+Kilinochchi,dog fever,14,8,rainy,6,Medium
+Aluthgama,dog vomiting,12,5,rainy,6,Medium
+Giriulla,eye infection,9,4,hot,4,Medium
+Elpitiya,eye infection,25,1,dry,2,Medium
+Polonnaruwa,dog vomiting,17,0,rainy,6,Medium
+Badulla,eye infection,6,4,dry,2,Low
+Panadura,lethargy,17,8,rainy,6,High
+Galgamuwa,ticks,18,7,rainy,6,High
+Mahiyanganaya,itchy skin,11,3,humid,10,Medium
+Kurunegala,ticks,9,3,rainy,6,Medium
+Kotte,eye infection,13,0,rainy,6,Medium
+Kalutara,fleas,6,10,dry,2,Medium
+Moratuwa,loss of appetite,1,0,rainy,6,Low
+Bandaragama,itchy skin,23,0,humid,10,Medium
+Mahiyanganaya,dog coughing,11,12,rainy,6,High
+Kotte,loss of appetite,8,3,rainy,6,Medium
+Moratuwa,eye infection,5,6,rainy,6,Medium
+Homagama,fleas,8,9,dry,2,Medium
+Kotte,kennel cough,20,0,hot,4,Medium
+Negombo,fleas,34,11,hot,4,High
+Wattala,kennel cough,26,6,dry,2,High
+Kothmale,itchy skin,20,8,dry,2,High
+Moratuwa,itchy skin,17,2,dry,2,Medium
+Homagama,dog fever,14,1,dry,2,Medium
+Katunayake,loss of appetite,4,5,hot,4,Low
+Embilipitiya,lethargy,11,1,rainy,6,Medium
+Giriulla,loss of appetite,8,3,hot,4,Low
+Colombo,loss of appetite,7,6,rainy,6,Medium
+Matugama,fleas,5,6,rainy,6,Medium
+Matara,eye infection,7,10,dry,2,Medium
+Dankotuwa,dog vomiting,3,8,rainy,6,Medium
+Buttala,lethargy,13,0,humid,10,Medium
+Mapalana,kennel cough,4,8,rainy,6,Medium
+Marawila,lethargy,12,1,humid,10,Medium
+Dehiwala,kennel cough,1,1,hot,4,Low
+Hikkaduwa,kennel cough,4,2,humid,10,Low
+Ginigathhena,dog vomiting,2,5,hot,4,Low
+Ganemulla,kennel cough,10,9,humid,10,Medium
+Kandana,dog fever,3,3,rainy,6,Low
+Horana,dog vomiting,19,0,humid,10,Medium
+Matugama,lethargy,15,0,rainy,6,Medium
+Mawanella,dog fever,19,1,humid,10,Medium
+Mapalana,loss of appetite,5,16,hot,4,Medium
+Galgamuwa,ticks,15,3,rainy,6,Medium
+Mahiyanganaya,dog coughing,13,2,hot,4,Medium
+Wattala,dog vomiting,24,4,hot,4,High
+Maskeliya,eye infection,11,4,rainy,6,Medium
+Avissawella,loss of appetite,0,2,rainy,6,Low
+Pelmadulla,ticks,4,2,rainy,6,Low
+Beruwala,dog coughing,11,5,rainy,6,Medium
+Hikkaduwa,eye infection,0,6,rainy,6,Low
+Beruwala,eye infection,10,1,hot,4,Low
+Tissamaharama,lethargy,15,3,humid,10,Medium
+Giriulla,ticks,7,7,dry,2,Medium
+Mapalana,fleas,5,11,humid,10,Medium
+Kalutara,kennel cough,17,9,rainy,6,High
+Negombo,dog coughing,2,2,rainy,6,Low
+Giriulla,itchy skin,12,1,humid,10,Medium
+Jaffna,ticks,14,1,dry,2,Medium
+Kurunegala,itchy skin,24,8,humid,10,High
+Boralesgamuwa,itchy skin,8,1,rainy,6,Low
+Middeniya,kennel cough,7,9,dry,2,Medium
+Ambalangoda,dog coughing,20,6,humid,10,High
+Mapalana,dog coughing,2,9,rainy,6,Medium
+Ambalangoda,fleas,8,0,humid,10,Low
+Horana,dog fever,4,3,rainy,6,Low
+Horana,dog fever,21,16,hot,4,High
+Homagama,ticks,2,12,rainy,6,Medium
+Narammala,loss of appetite,16,2,humid,10,Medium
+Kandy,dog fever,2,11,hot,4,Medium
+Vavuniya,dog vomiting,21,8,hot,4,High
+Ja-Ela,eye infection,15,2,dry,2,Medium
+Maharagama,lethargy,10,0,dry,2,Low
+Warakapola,itchy skin,7,1,dry,2,Low
+Monaragala,lethargy,14,7,dry,2,Medium
+Embilipitiya,dog vomiting,4,8,humid,10,Medium
+Point Pedro,loss of appetite,3,5,dry,2,Low
+Dambulla,itchy skin,19,10,humid,10,High
+Piliyandala,dog vomiting,23,6,dry,2,High
+Avissawella,dog vomiting,12,5,dry,2,Medium
+Pelmadulla,eye infection,2,7,hot,4,Low
+Kosgama,dog coughing,18,4,dry,2,Medium
+Tissamaharama,itchy skin,9,6,hot,4,Medium
+Horana,lethargy,9,4,hot,4,Medium
+Chilaw,loss of appetite,18,7,dry,2,Medium
+Boralesgamuwa,ticks,6,10,dry,2,Medium
+Passara,itchy skin,14,10,hot,4,Medium
+Kahawatte,eye infection,14,8,humid,10,High
+Ratnapura,dog coughing,13,9,rainy,6,Medium
+Avissawella,kennel cough,3,4,rainy,6,Low
+Buttala,dog fever,15,10,dry,2,Medium
+Jaffna,lethargy,20,10,hot,4,High
+Kegalle,ticks,3,3,rainy,6,Low
+Kuliyapitiya,lethargy,13,4,humid,10,Medium
+Point Pedro,loss of appetite,15,0,humid,10,Medium
+Avissawella,loss of appetite,10,4,dry,2,Medium
+Minuwangoda,ticks,2,7,dry,2,Low
+Agunukolapelessa,itchy skin,18,0,hot,4,Medium
+Trincomalee,loss of appetite,18,3,humid,10,Medium
+Pelmadulla,dog vomiting,25,10,rainy,6,High
+Maharagama,dog vomiting,17,1,hot,4,Medium
+Giriulla,kennel cough,19,7,rainy,6,High
+Batticaloa,eye infection,7,9,dry,2,Medium
+Kilinochchi,ticks,26,7,humid,10,High
+Bandarawela,eye infection,17,6,humid,10,High
+Moragahamula,dog fever,20,10,dry,2,High
+Matara,eye infection,2,1,dry,2,Low
+Kalawana,kennel cough,33,12,dry,2,High
+Hanwella,loss of appetite,9,0,humid,10,Medium
+Tissamaharama,loss of appetite,19,11,hot,4,High
+Matugama,ticks,1,0,humid,10,Low
+Matale,ticks,9,0,humid,10,Medium
+Moratuwa,itchy skin,10,5,dry,2,Medium
+Kuliyapitiya,eye infection,9,4,rainy,6,Medium
+Kandana,dog coughing,8,13,dry,2,Medium
+Monaragala,dog coughing,4,8,humid,10,Medium
+Mullaitivu,kennel cough,18,10,dry,2,High
+Wellawaya,dog coughing,8,0,hot,4,Low
+Kuliyapitiya,ticks,14,11,humid,10,High
+Jaffna,dog vomiting,7,7,dry,2,Medium
+Polonnaruwa,dog vomiting,14,6,dry,2,Medium
+Kandana,eye infection,20,8,hot,4,High
+Moratuwa,kennel cough,10,5,hot,4,Medium
+Vavuniya,kennel cough,4,4,rainy,6,Low
+Polonnaruwa,dog coughing,2,0,dry,2,Low
+Dankotuwa,kennel cough,16,0,hot,4,Medium
+Anuradhapura,itchy skin,15,3,rainy,6,Medium
+Negombo,lethargy,0,4,humid,10,Low
+Kelaniya,dog vomiting,10,8,hot,4,Medium
+Rathmalana,eye infection,4,5,hot,4,Low
+Negombo,ticks,1,3,rainy,6,Low
+Katunayake,dog coughing,18,6,hot,4,Medium
+Kuliyapitiya,fleas,2,1,rainy,6,Low
+Warakapola,fleas,2,1,dry,2,Low
+Kadawatha,dog vomiting,1,13,hot,4,Medium
+Aluthgama,loss of appetite,6,15,hot,4,Medium
+Batticaloa,eye infection,3,5,dry,2,Low
+Elpitiya,dog coughing,4,5,humid,10,Medium
+Matugama,dog fever,24,2,dry,2,Medium
+Kelaniya,dog fever,2,8,rainy,6,Medium
+Polonnaruwa,dog coughing,8,9,dry,2,Medium
+Negombo,dog coughing,20,2,dry,2,Medium
+Weeraketiya,dog vomiting,1,3,humid,10,Low
+Kegalle,dog coughing,23,5,dry,2,Medium
+Kilinochchi,dog vomiting,2,5,hot,4,Low
+Narammala,lethargy,10,7,rainy,6,Medium
+Homagama,eye infection,12,0,dry,2,Low
+Kuliyapitiya,itchy skin,4,3,dry,2,Low
+Negombo,lethargy,9,3,rainy,6,Medium
+Kegalle,dog vomiting,8,6,hot,4,Medium
+Kurunegala,dog fever,1,6,dry,2,Low
+Trincomalee,loss of appetite,7,0,hot,4,Low
+Kosgama,ticks,18,6,rainy,6,Medium
+Dankotuwa,loss of appetite,13,1,humid,10,Medium
+Katunayake,dog vomiting,5,0,rainy,6,Low
+Ja-Ela,dog fever,7,13,hot,4,Medium
+Minuwangoda,eye infection,2,7,dry,2,Low
+Kadawatha,eye infection,15,6,rainy,6,Medium
+Weeraketiya,loss of appetite,8,0,humid,10,Low
+Piliyandala,ticks,10,3,rainy,6,Medium
+Buttala,dog coughing,12,1,humid,10,Medium
+Deniyaya,dog vomiting,20,6,dry,2,Medium
+Dambulla,itchy skin,13,5,humid,10,Medium
+Hanwella,ticks,7,1,humid,10,Medium
+Ragama,eye infection,9,2,rainy,6,Medium
+Embilipitiya,fleas,22,0,humid,10,Medium
+Piliyandala,ticks,5,1,rainy,6,Low
+Embilipitiya,kennel cough,6,7,dry,2,Medium
+Batticaloa,fleas,8,2,hot,4,Low
+Kegalle,ticks,17,6,dry,2,Medium
+Kuliyapitiya,itchy skin,11,4,rainy,6,Medium
+Ginigathhena,dog vomiting,20,4,rainy,6,Medium
+Kosgama,eye infection,11,1,dry,2,Low
+Kotte,dog fever,7,0,dry,2,Low
+Jaffna,dog coughing,5,8,rainy,6,Medium
+Matale,dog fever,26,7,humid,10,High
+Warakapola,ticks,23,2,hot,4,Medium
+Maharagama,eye infection,13,9,rainy,6,Medium
+Panadura,kennel cough,3,8,humid,10,Medium
+Matara,kennel cough,3,1,rainy,6,Low
+Chilaw,loss of appetite,3,2,dry,2,Low
+Piliyandala,lethargy,8,1,humid,10,Medium
+Marawila,eye infection,1,3,hot,4,Low
+Kalutara,eye infection,23,1,dry,2,Medium
+Kahawatte,dog fever,16,2,humid,10,Medium
+Passara,dog fever,15,0,hot,4,Medium
+Homagama,lethargy,16,0,humid,10,Medium
+Deniyaya,kennel cough,1,1,humid,10,Low
+Ragama,loss of appetite,8,0,humid,10,Low
+Moratuwa,dog coughing,21,0,dry,2,Medium
+Kalawana,loss of appetite,14,5,humid,10,Medium
+Homagama,kennel cough,7,3,dry,2,Low
+Mullaitivu,dog fever,0,2,dry,2,Low
+Ragama,dog coughing,3,4,humid,10,Medium
+Elpitiya,eye infection,16,2,hot,4,Medium
+Mirissa,dog fever,3,4,dry,2,Low
+Kalawana,dog fever,13,5,dry,2,Medium
+Badulla,dog coughing,15,7,hot,4,Medium
+Matugama,dog fever,1,7,hot,4,Low
+Mirissa,itchy skin,7,2,hot,4,Low
+Mullaitivu,lethargy,16,1,dry,2,Medium
+Colombo,dog coughing,12,2,humid,10,Medium
+Katunayake,fleas,21,7,dry,2,High
+Hambantota,fleas,17,2,hot,4,Medium
+Embilipitiya,dog coughing,12,7,rainy,6,Medium
+Monaragala,itchy skin,16,8,rainy,6,Medium
+Mahiyanganaya,dog vomiting,17,4,hot,4,Medium
+Puttalam,fleas,21,2,hot,4,Medium
+Kadawatha,dog fever,0,2,hot,4,Low
+Kandana,lethargy,2,1,humid,10,Low
+Kotte,ticks,21,9,hot,4,High
+Matugama,loss of appetite,18,3,rainy,6,Medium
+Bandaragama,dog coughing,16,3,dry,2,Medium
+Moragahamula,loss of appetite,18,16,rainy,6,High
+Marawila,dog vomiting,8,9,hot,4,Medium
+Rathmalana,eye infection,7,0,rainy,6,Low
+Dambulla,dog coughing,0,5,rainy,6,Low
+Horana,itchy skin,1,1,hot,4,Low
+Wellawaya,fleas,11,0,dry,2,Low
+Kosgama,kennel cough,11,9,dry,2,Medium
+Rathmalana,ticks,16,4,hot,4,Medium
+Panadura,lethargy,12,0,humid,10,Medium
+Hambantota,dog vomiting,3,5,dry,2,Low
+Balangoda,dog fever,0,1,hot,4,Low
+Bandarawela,eye infection,13,2,humid,10,Medium
+Mullaitivu,dog coughing,18,3,dry,2,Medium
+Pelmadulla,loss of appetite,13,2,hot,4,Medium
+Giriulla,itchy skin,16,8,hot,4,Medium
+Ragama,dog vomiting,14,4,hot,4,Medium
+Weligama,dog fever,8,7,humid,10,Medium
+Jaffna,fleas,12,2,hot,4,Medium
+Balangoda,dog coughing,2,3,hot,4,Low
+Piliyandala,itchy skin,8,13,dry,2,Medium
+Dehiwala,loss of appetite,16,8,hot,4,Medium
+Polonnaruwa,ticks,5,4,humid,10,Medium
+Hambantota,itchy skin,18,5,hot,4,Medium
+Dehiwala,fleas,3,1,hot,4,Low
+Kalawana,dog vomiting,18,4,humid,10,Medium
+Narammala,dog fever,25,0,hot,4,Medium
+Kandy,loss of appetite,7,11,hot,4,Medium
+Kadawatha,dog coughing,13,8,humid,10,High
+Balangoda,itchy skin,4,13,dry,2,Medium
+Panadura,eye infection,4,9,hot,4,Medium
+Mawanella,fleas,6,7,humid,10,Medium
+Monaragala,dog vomiting,11,3,hot,4,Medium
+Hambantota,loss of appetite,16,10,dry,2,Medium
+Balangoda,kennel cough,20,5,humid,10,High
+Matugama,ticks,13,12,dry,2,Medium
+Moratuwa,lethargy,6,2,dry,2,Low
+Passara,lethargy,17,0,dry,2,Medium
+Moratuwa,eye infection,4,0,dry,2,Low
+Nuwara Eliya,ticks,1,1,dry,2,Low
+Passara,loss of appetite,13,8,humid,10,High
+Weeraketiya,loss of appetite,17,10,dry,2,High
+Kothmale,lethargy,0,7,dry,2,Low
+Weeraketiya,dog coughing,1,15,dry,2,Medium
+Kalutara,dog coughing,16,0,hot,4,Medium
+Matara,ticks,16,9,dry,2,Medium
+Rathmalana,kennel cough,2,7,humid,10,Medium
+Puttalam,itchy skin,13,14,hot,4,High
+Bandaragama,eye infection,8,2,humid,10,Medium
+Seeduwa,dog fever,3,10,dry,2,Medium
+Mawanella,itchy skin,12,7,rainy,6,Medium
+Polonnaruwa,ticks,3,7,hot,4,Low
+Wellawaya,kennel cough,1,2,humid,10,Low
+Hanwella,dog fever,10,1,humid,10,Medium
+Dankotuwa,dog coughing,15,0,hot,4,Medium
+Hambantota,dog coughing,1,10,hot,4,Medium
+Kahawatte,loss of appetite,8,11,humid,10,Medium
+Hanwella,dog fever,2,0,humid,10,Low
+Badulla,eye infection,12,6,humid,10,Medium
+Buttala,dog vomiting,2,1,dry,2,Low
+Ganemulla,dog fever,6,9,dry,2,Medium
+Anuradhapura,fleas,9,17,dry,2,High
+Weligama,kennel cough,1,9,hot,4,Medium
+Puttalam,ticks,3,0,dry,2,Low
+Kilinochchi,loss of appetite,15,6,humid,10,Medium
+Trincomalee,lethargy,5,15,humid,10,High
+Galle,eye infection,7,3,hot,4,Low
+Marawila,lethargy,2,0,rainy,6,Low
+Hikkaduwa,dog coughing,14,4,dry,2,Medium
+Kosgama,itchy skin,7,0,humid,10,Low
+Piliyandala,dog vomiting,2,6,humid,10,Medium
+Ganemulla,lethargy,9,3,dry,2,Low
+Kandy,dog vomiting,5,7,humid,10,Medium
+Negombo,dog vomiting,22,3,hot,4,Medium
+Pelmadulla,itchy skin,8,0,humid,10,Low
+Narammala,lethargy,15,1,humid,10,Medium
+Vavuniya,fleas,15,8,dry,2,Medium
+Gonapola,loss of appetite,6,7,rainy,6,Medium
+Buttala,lethargy,24,8,dry,2,High
+Mawanella,dog fever,7,3,rainy,6,Low
+Matugama,itchy skin,17,4,hot,4,Medium
+Hambantota,ticks,21,9,dry,2,High
+Matugama,kennel cough,1,5,hot,4,Low
+Anuradhapura,kennel cough,0,8,dry,2,Low
+Matara,fleas,13,6,hot,4,Medium
+Kalutara,lethargy,12,0,rainy,6,Medium
+Piliyandala,dog vomiting,15,3,dry,2,Medium
+Moratuwa,loss of appetite,12,9,humid,10,High
+Nuwara Eliya,eye infection,2,8,rainy,6,Medium
+Rathmalana,fleas,15,1,humid,10,Medium
+Kotte,loss of appetite,2,0,rainy,6,Low
+Elpitiya,kennel cough,4,4,hot,4,Low
+Panadura,fleas,0,6,rainy,6,Low
+Kahawatte,dog coughing,10,0,rainy,6,Low
+Minuwangoda,dog fever,20,2,rainy,6,Medium
+Panadura,ticks,0,1,dry,2,Low
+Moratuwa,kennel cough,0,2,rainy,6,Low
+Weeraketiya,loss of appetite,4,1,humid,10,Low
+Kelaniya,itchy skin,11,7,humid,10,Medium
+Colombo,dog coughing,11,1,humid,10,Medium
+Agunukolapelessa,ticks,8,11,hot,4,Medium
+Moragahamula,itchy skin,18,11,hot,4,High
+Anuradhapura,lethargy,14,7,dry,2,Medium
+Gampaha,dog coughing,14,2,humid,10,Medium
+Galgamuwa,dog fever,7,12,rainy,6,Medium
+Ginigathhena,fleas,14,3,rainy,6,Medium
+Pelmadulla,kennel cough,12,8,hot,4,Medium
+Balangoda,eye infection,0,2,dry,2,Low
+Haputale,ticks,26,6,humid,10,High
+Kosgama,dog vomiting,10,0,rainy,6,Low
+Kurunegala,loss of appetite,6,7,dry,2,Medium
+Kegalle,fleas,14,7,hot,4,Medium
+Maskeliya,dog fever,11,9,hot,4,Medium
+Ragama,dog coughing,24,1,hot,4,Medium
+Narammala,fleas,6,6,rainy,6,Medium
+Kalutara,ticks,13,10,hot,4,Medium
+Kalawana,fleas,10,2,dry,2,Low
+Maskeliya,loss of appetite,16,8,rainy,6,Medium
+Ragama,dog fever,3,0,humid,10,Low
+Puttalam,dog vomiting,6,8,humid,10,Medium
+Dambulla,dog fever,9,0,hot,4,Low
+Gampaha,loss of appetite,3,0,humid,10,Low
+Kandana,ticks,5,8,hot,4,Medium
+Dambulla,eye infection,25,2,humid,10,High
+Ragama,dog fever,9,11,hot,4,Medium
+Trincomalee,dog vomiting,9,5,hot,4,Medium
+Nuwara Eliya,ticks,1,9,rainy,6,Medium
+Weeraketiya,dog coughing,3,1,dry,2,Low
+Hatton,kennel cough,8,1,rainy,6,Low
+Tissamaharama,itchy skin,10,2,hot,4,Low
+Mahiyanganaya,itchy skin,2,6,humid,10,Medium
+Galewela,dog fever,22,4,humid,10,High
+Monaragala,dog fever,12,7,dry,2,Medium
+Maharagama,dog coughing,2,11,dry,2,Medium
+Maharagama,dog vomiting,1,8,humid,10,Medium
+Trincomalee,dog fever,10,3,humid,10,Medium
+Kandy,kennel cough,15,9,humid,10,High
+Aluthgama,dog coughing,10,8,hot,4,Medium
+Ganemulla,dog coughing,18,4,dry,2,Medium
+Narammala,dog fever,16,3,dry,2,Medium
+Kadawatha,dog coughing,19,8,humid,10,High
+Kahawatte,kennel cough,4,0,rainy,6,Low
+Kurunegala,itchy skin,5,9,hot,4,Medium
+Ratnapura,eye infection,6,0,hot,4,Low
+Badulla,lethargy,17,14,dry,2,High
+Ratnapura,ticks,3,10,hot,4,Medium
+Kotte,lethargy,7,11,hot,4,Medium
+Kelaniya,dog fever,0,1,dry,2,Low
+Agunukolapelessa,dog fever,19,8,humid,10,High
+Colombo,dog fever,11,9,humid,10,Medium
+Mirissa,itchy skin,13,0,dry,2,Low
+Horana,dog fever,15,8,hot,4,Medium
+Ginigathhena,ticks,3,4,humid,10,Medium
+Kegalle,loss of appetite,10,0,dry,2,Low
+Kilinochchi,dog vomiting,5,9,rainy,6,Medium
+Vavuniya,lethargy,12,12,dry,2,Medium
+Ja-Ela,eye infection,18,6,humid,10,High
+Horana,dog vomiting,20,1,hot,4,Medium
+Seeduwa,ticks,5,0,rainy,6,Low
+Matale,kennel cough,1,8,rainy,6,Medium
+Mapalana,lethargy,10,6,humid,10,Medium
+Matale,dog fever,0,3,dry,2,Low
+Jaffna,lethargy,20,4,hot,4,Medium
+Weligama,fleas,12,1,dry,2,Low
+Galle,dog coughing,4,5,rainy,6,Low
+Rathmalana,kennel cough,1,7,humid,10,Medium
+Galgamuwa,eye infection,22,11,rainy,6,High
+Elpitiya,itchy skin,9,6,rainy,6,Medium
+Tissamaharama,lethargy,5,3,hot,4,Low
+Aluthgama,itchy skin,20,8,dry,2,High
+Dankotuwa,dog coughing,17,6,hot,4,Medium
+Kurunegala,kennel cough,11,4,dry,2,Medium
+Giriulla,ticks,4,5,humid,10,Medium
+Warakapola,fleas,8,9,rainy,6,Medium
+Horana,kennel cough,4,4,hot,4,Low
+Gonapola,dog fever,14,3,humid,10,Medium
+Narammala,kennel cough,15,11,humid,10,High
+Minuwangoda,lethargy,1,12,dry,2,Medium
+Maharagama,itchy skin,19,4,rainy,6,Medium
+Aluthgama,kennel cough,6,0,humid,10,Low
+Galgamuwa,ticks,10,6,hot,4,Medium
+Mawanella,itchy skin,8,5,dry,2,Medium
+Kahawatte,dog fever,4,3,rainy,6,Low
+Aluthgama,dog coughing,6,3,rainy,6,Low
+Kalutara,itchy skin,3,4,rainy,6,Low
+Buttala,fleas,6,7,hot,4,Medium
+Kurunegala,fleas,4,4,hot,4,Low
+Mahiyanganaya,dog vomiting,14,1,hot,4,Medium
+Avissawella,dog vomiting,13,3,rainy,6,Medium
+Jaffna,ticks,15,2,humid,10,Medium
+Seeduwa,kennel cough,8,14,humid,10,High
+Kandy,fleas,9,8,humid,10,Medium
+Kandana,ticks,5,8,dry,2,Medium
+Galgamuwa,kennel cough,2,9,humid,10,Medium
+Gampaha,loss of appetite,13,3,hot,4,Medium
+Kurunegala,loss of appetite,15,6,humid,10,Medium
+Wariyapola,dog vomiting,9,8,dry,2,Medium
+Galle,dog fever,6,6,humid,10,Medium
+Mawanella,dog coughing,13,4,rainy,6,Medium
+Haputale,loss of appetite,5,7,dry,2,Medium
+Kalutara,dog fever,13,9,dry,2,Medium
+Aluthgama,loss of appetite,20,5,dry,2,Medium
+Middeniya,kennel cough,5,5,rainy,6,Medium
+Ginigathhena,dog vomiting,4,6,rainy,6,Medium
+Hambantota,loss of appetite,15,0,dry,2,Medium
+Kosgama,lethargy,5,2,hot,4,Low
+Giriulla,itchy skin,17,4,rainy,6,Medium
+Kotte,dog fever,6,6,rainy,6,Medium
+Wattala,itchy skin,10,2,dry,2,Low
+Ganemulla,eye infection,0,5,dry,2,Low
+Pelmadulla,ticks,13,7,hot,4,Medium
+Balangoda,lethargy,8,1,dry,2,Low
+Hambantota,kennel cough,14,8,hot,4,Medium
+Kataragama,dog vomiting,15,9,humid,10,High
+Kalutara,lethargy,19,19,humid,10,High
+Kuliyapitiya,ticks,15,9,hot,4,Medium
+Kotte,kennel cough,16,0,humid,10,Medium
+Kandy,eye infection,8,4,humid,10,Medium
+Buttala,eye infection,22,7,dry,2,High
+Kadawatha,dog coughing,16,9,rainy,6,High
+Pelmadulla,dog vomiting,8,2,humid,10,Medium
+Hatton,dog fever,4,7,rainy,6,Medium
+Kothmale,eye infection,4,10,dry,2,Medium
+Mawanella,ticks,11,0,rainy,6,Low
+Kandy,dog coughing,13,0,humid,10,Medium
+Anuradhapura,eye infection,9,0,rainy,6,Low
+Katunayake,lethargy,0,0,dry,2,Low
+Ampara,loss of appetite,7,5,hot,4,Medium
+Avissawella,dog fever,0,8,rainy,6,Low
+Dehiwala,dog coughing,10,9,dry,2,Medium
+Colombo,eye infection,13,3,rainy,6,Medium
+Mullaitivu,lethargy,12,13,humid,10,High
+Ganemulla,dog vomiting,19,5,dry,2,Medium
+Kalawana,lethargy,18,0,rainy,6,Medium
+Giriulla,lethargy,9,5,dry,2,Medium
+Ginigathhena,dog vomiting,5,13,dry,2,Medium
+Maskeliya,kennel cough,19,7,humid,10,High
+Badulla,fleas,8,12,dry,2,Medium
+Narammala,eye infection,2,11,hot,4,Medium
+Kandy,eye infection,1,7,hot,4,Low
+Kotte,itchy skin,8,0,dry,2,Low
+Aluthgama,dog vomiting,17,0,rainy,6,Medium
+Kurunegala,itchy skin,25,9,humid,10,High
+Mullaitivu,eye infection,9,0,rainy,6,Low
+Maskeliya,dog vomiting,14,0,hot,4,Medium
+Colombo,ticks,0,0,rainy,6,Low
+Kurunegala,loss of appetite,15,8,rainy,6,Medium
+Wattala,lethargy,10,6,dry,2,Medium
+Beruwala,fleas,15,2,humid,10,Medium
+Chilaw,kennel cough,5,4,humid,10,Medium
+Panadura,itchy skin,5,0,hot,4,Low
+Embilipitiya,loss of appetite,18,6,humid,10,High
+Minuwangoda,itchy skin,15,9,rainy,6,High
+Dankotuwa,eye infection,14,5,dry,2,Medium
+Puttalam,lethargy,4,5,humid,10,Medium
+Middeniya,ticks,16,3,dry,2,Medium
+Balangoda,dog coughing,10,5,humid,10,Medium
+Dambulla,lethargy,7,9,rainy,6,Medium
+Kalawana,lethargy,7,6,humid,10,Medium
+Ja-Ela,dog fever,3,0,humid,10,Low
+Agunukolapelessa,eye infection,0,6,hot,4,Low
+Negombo,lethargy,2,0,dry,2,Low
+Wattala,ticks,15,0,dry,2,Medium
+Matale,dog vomiting,11,0,hot,4,Low
+Kalawana,itchy skin,3,9,rainy,6,Medium
+Pelmadulla,kennel cough,6,0,dry,2,Low
+Wattala,fleas,9,6,hot,4,Medium
+Ampara,eye infection,6,8,hot,4,Medium
+Kalawana,fleas,4,0,rainy,6,Low
+Anuradhapura,dog vomiting,7,6,dry,2,Medium
+Kahawatte,lethargy,7,19,dry,2,High
+Kandy,dog fever,1,6,rainy,6,Low
+Pelmadulla,dog coughing,18,0,humid,10,Medium
+Negombo,dog fever,9,4,rainy,6,Medium
+Kahawatte,ticks,13,5,hot,4,Medium
+Mannar,dog fever,15,4,humid,10,Medium
+Kotte,ticks,11,6,rainy,6,Medium
+Anuradhapura,dog coughing,2,0,rainy,6,Low
+Puttalam,dog fever,3,1,hot,4,Low
+Beruwala,kennel cough,13,2,hot,4,Medium
+Panadura,fleas,19,2,rainy,6,Medium
+Jaffna,lethargy,1,3,rainy,6,Low
+Badulla,dog fever,14,4,hot,4,Medium
+Kurunegala,eye infection,25,11,humid,10,High
+Deniyaya,ticks,24,5,rainy,6,High
+Kandy,eye infection,11,5,dry,2,Medium
+Vavuniya,loss of appetite,13,4,dry,2,Medium
+Horana,fleas,5,6,hot,4,Medium
+Ampara,dog coughing,17,11,humid,10,High
+Dehiwala,kennel cough,5,0,dry,2,Low
+Giriulla,itchy skin,4,0,rainy,6,Low
+Kothmale,loss of appetite,12,1,rainy,6,Medium
+Seeduwa,dog vomiting,16,9,humid,10,High
+Elpitiya,loss of appetite,18,1,rainy,6,Medium
+Kosgama,dog coughing,8,8,humid,10,Medium
+Boralesgamuwa,dog fever,14,2,dry,2,Medium
+Kalawana,eye infection,4,0,dry,2,Low
+Mahiyanganaya,eye infection,1,0,dry,2,Low
+Kelaniya,itchy skin,7,7,rainy,6,Medium
+Mannar,kennel cough,5,2,rainy,6,Low
+Badulla,lethargy,4,0,dry,2,Low
+Avissawella,kennel cough,6,4,humid,10,Medium
+Katunayake,dog coughing,10,6,humid,10,Medium
+Negombo,itchy skin,9,1,dry,2,Low
+Ginigathhena,fleas,11,6,humid,10,Medium
+Deniyaya,eye infection,13,5,hot,4,Medium
+Kurunegala,dog fever,1,0,hot,4,Low
+Kelaniya,lethargy,10,0,humid,10,Medium
+Rathmalana,fleas,17,7,dry,2,Medium
+Rathmalana,eye infection,10,8,hot,4,Medium
+Ginigathhena,kennel cough,11,2,rainy,6,Medium
+Matale,kennel cough,8,0,humid,10,Low
+Kalutara,dog vomiting,16,6,dry,2,Medium
+Moragahamula,loss of appetite,5,0,dry,2,Low
+Matugama,dog vomiting,2,4,hot,4,Low
+Elpitiya,lethargy,10,6,hot,4,Medium
+Panadura,ticks,4,2,dry,2,Low
+Horana,kennel cough,0,10,rainy,6,Medium
+Vavuniya,ticks,12,3,rainy,6,Medium
+Point Pedro,ticks,19,9,dry,2,High
+Gampaha,dog coughing,3,9,dry,2,Medium
+Matugama,eye infection,6,5,dry,2,Low
+Dankotuwa,dog fever,0,1,dry,2,Low
+Kandy,kennel cough,19,1,dry,2,Medium
+Gonapola,dog vomiting,8,10,humid,10,Medium
+Kotte,dog coughing,10,7,dry,2,Medium
+Giriulla,ticks,7,3,dry,2,Low
+Avissawella,eye infection,2,5,humid,10,Medium
+Boralesgamuwa,itchy skin,11,7,hot,4,Medium
+Giriulla,itchy skin,12,3,dry,2,Medium
+Aluthgama,ticks,11,7,humid,10,Medium
+Puttalam,fleas,2,1,rainy,6,Low
+Matugama,itchy skin,8,1,rainy,6,Low
+Puttalam,loss of appetite,15,8,rainy,6,Medium
+Maharagama,lethargy,5,3,dry,2,Low
+Minuwangoda,fleas,5,0,dry,2,Low
+Kuliyapitiya,dog fever,7,5,rainy,6,Medium
+Gonapola,lethargy,5,5,rainy,6,Medium
+Vavuniya,eye infection,4,0,humid,10,Low
+Kandy,fleas,8,6,hot,4,Medium
+Kalutara,dog fever,21,9,dry,2,High
+Boralesgamuwa,lethargy,5,12,rainy,6,Medium
+Mahiyanganaya,eye infection,21,2,dry,2,Medium
+Point Pedro,dog coughing,10,7,rainy,6,Medium
+Kuliyapitiya,eye infection,17,6,dry,2,Medium
+Middeniya,dog fever,20,4,hot,4,Medium
+Piliyandala,fleas,21,0,hot,4,Medium
+Maskeliya,loss of appetite,3,4,rainy,6,Low
+Kuliyapitiya,dog vomiting,3,6,hot,4,Low
+Ja-Ela,itchy skin,17,8,humid,10,High
+Ja-Ela,dog fever,7,4,hot,4,Low
+Dambulla,itchy skin,4,8,humid,10,Medium
+Bandarawela,eye infection,8,2,dry,2,Low
+Kegalle,dog fever,5,4,humid,10,Medium
+Mullaitivu,dog vomiting,3,1,humid,10,Low
+Kosgama,itchy skin,11,2,hot,4,Medium
+Kandana,fleas,22,5,humid,10,High
+Kuliyapitiya,eye infection,1,1,rainy,6,Low
+Hanwella,itchy skin,18,1,rainy,6,Medium
+Kilinochchi,lethargy,14,3,dry,2,Medium
+Kothmale,ticks,2,8,humid,10,Medium
+Pelmadulla,kennel cough,8,6,rainy,6,Medium
+Vavuniya,lethargy,17,10,dry,2,High
+Mahiyanganaya,dog fever,9,6,dry,2,Medium
+Kandana,itchy skin,19,6,rainy,6,High
+Puttalam,itchy skin,20,8,humid,10,High
+Colombo,dog fever,23,2,rainy,6,Medium
+Ambalangoda,itchy skin,15,0,dry,2,Medium
+Avissawella,kennel cough,0,13,hot,4,Medium
+Ja-Ela,dog vomiting,8,0,hot,4,Low
+Embilipitiya,dog fever,19,2,dry,2,Medium
+Narammala,lethargy,11,5,dry,2,Medium
+Galewela,dog vomiting,12,6,hot,4,Medium
+Matara,lethargy,8,4,humid,10,Medium
+Pelmadulla,eye infection,8,1,humid,10,Medium
+Kelaniya,fleas,10,8,rainy,6,Medium
+Gonapola,itchy skin,23,5,rainy,6,High
+Batticaloa,fleas,8,3,dry,2,Low
+Passara,ticks,17,3,hot,4,Medium
+Ampara,dog fever,15,14,dry,2,High
+Kurunegala,ticks,8,6,rainy,6,Medium
+Galle,lethargy,14,2,humid,10,Medium
+Ganemulla,eye infection,26,9,hot,4,High
+Maskeliya,dog coughing,2,8,rainy,6,Medium
+Elpitiya,fleas,13,4,dry,2,Medium
+Gampaha,loss of appetite,6,13,rainy,6,Medium
+Bandaragama,dog coughing,15,10,rainy,6,High
+Panadura,fleas,17,8,rainy,6,High
+Minuwangoda,lethargy,13,1,rainy,6,Medium
+Puttalam,fleas,8,0,humid,10,Low
+Ambalangoda,lethargy,13,0,hot,4,Medium
+Ragama,dog fever,4,8,hot,4,Medium
+Kandy,fleas,8,3,dry,2,Low
+Kilinochchi,dog vomiting,2,8,dry,2,Low
+Kosgama,itchy skin,21,11,hot,4,High
+Ampara,kennel cough,4,6,humid,10,Medium
+Deniyaya,dog coughing,2,4,humid,10,Low
+Pelmadulla,kennel cough,4,2,hot,4,Low
+Horana,ticks,19,8,rainy,6,High
+Moragahamula,kennel cough,7,5,hot,4,Medium
+Dankotuwa,lethargy,20,4,hot,4,Medium
+Pelmadulla,kennel cough,7,10,humid,10,Medium
+Kosgama,ticks,2,12,rainy,6,Medium
+Avissawella,itchy skin,3,3,dry,2,Low
+Matale,dog coughing,7,8,humid,10,Medium
+Ganemulla,fleas,6,6,hot,4,Medium
+Panadura,dog fever,14,7,hot,4,Medium
+Vavuniya,kennel cough,6,2,humid,10,Medium
+Avissawella,fleas,21,5,rainy,6,High
+Tissamaharama,itchy skin,15,9,humid,10,High
+Hambantota,fleas,2,0,humid,10,Low
+Ragama,dog fever,10,3,rainy,6,Medium
+Tissamaharama,dog fever,13,9,hot,4,Medium
+Point Pedro,fleas,13,9,hot,4,Medium
+Mapalana,kennel cough,14,5,humid,10,Medium
+Kandy,fleas,5,7,dry,2,Medium
+Kuliyapitiya,eye infection,13,4,dry,2,Medium
+Dambulla,dog coughing,8,12,rainy,6,Medium
+Giriulla,fleas,17,1,dry,2,Medium
+Mannar,dog coughing,21,0,humid,10,Medium
+Mawanella,dog fever,3,4,hot,4,Low
+Ampara,eye infection,9,10,humid,10,Medium
+Wellawaya,fleas,3,3,hot,4,Low
+Kadawatha,kennel cough,12,2,dry,2,Medium
+Marawila,eye infection,20,7,humid,10,High
+Kegalle,lethargy,2,6,hot,4,Low
+Horana,ticks,21,0,hot,4,Medium
+Bandarawela,itchy skin,8,7,humid,10,Medium
+Katunayake,dog coughing,12,7,rainy,6,Medium
+Mullaitivu,dog fever,18,0,hot,4,Medium
+Hanwella,eye infection,8,3,humid,10,Medium
+Ganemulla,loss of appetite,12,17,dry,2,High
+Bandarawela,ticks,23,17,humid,10,High
+Kilinochchi,dog vomiting,8,14,dry,2,Medium
+Narammala,kennel cough,20,9,hot,4,High
+Embilipitiya,fleas,9,1,rainy,6,Low
+Kilinochchi,loss of appetite,10,8,hot,4,Medium
+Galewela,kennel cough,19,0,hot,4,Medium
+Kandana,lethargy,1,9,hot,4,Medium
+Ratnapura,dog vomiting,18,10,dry,2,High
+Mannar,loss of appetite,2,2,rainy,6,Low
+Kalawana,ticks,10,9,dry,2,Medium
+Balangoda,fleas,10,5,rainy,6,Medium
+Galewela,dog vomiting,18,0,dry,2,Medium
+Kegalle,lethargy,13,5,hot,4,Medium
+Kothmale,fleas,7,0,dry,2,Low
+Warakapola,fleas,5,0,rainy,6,Low
+Kadawatha,eye infection,1,6,dry,2,Low
+Kosgama,itchy skin,14,4,dry,2,Medium
+Kilinochchi,dog fever,17,1,dry,2,Medium
+Ampara,lethargy,2,0,hot,4,Low
+Deniyaya,lethargy,12,5,rainy,6,Medium
+Kalawana,itchy skin,7,2,humid,10,Medium
+Haputale,kennel cough,17,3,rainy,6,Medium
+Wattala,itchy skin,11,0,humid,10,Medium
+Kataragama,dog coughing,11,11,hot,4,Medium
+Wellawaya,eye infection,18,0,rainy,6,Medium
+Matara,ticks,14,8,humid,10,High
+Hanwella,ticks,18,8,hot,4,High
+Ragama,dog vomiting,4,2,dry,2,Low
+Galgamuwa,ticks,9,4,humid,10,Medium
+Aluthgama,dog vomiting,11,1,rainy,6,Medium
+Kothmale,dog fever,9,5,dry,2,Medium
+Kalutara,loss of appetite,21,4,rainy,6,Medium
+Gampaha,eye infection,14,7,hot,4,Medium
+Ganemulla,eye infection,9,9,hot,4,Medium
+Jaffna,itchy skin,19,2,rainy,6,Medium
+Kegalle,eye infection,13,1,humid,10,Medium
+Trincomalee,kennel cough,5,5,dry,2,Low
+Kadawatha,eye infection,16,11,hot,4,High
+Kotte,dog fever,0,2,humid,10,Low
+Moragahamula,lethargy,21,7,rainy,6,High
+Matugama,kennel cough,1,8,humid,10,Medium
+Warakapola,ticks,10,2,dry,2,Low
+Jaffna,lethargy,15,4,humid,10,Medium
+Mapalana,dog fever,8,2,dry,2,Low
+Homagama,eye infection,12,0,humid,10,Medium
+Mawanella,dog coughing,11,6,dry,2,Medium
+Weligama,dog coughing,18,8,humid,10,High
+Aluthgama,fleas,8,1,dry,2,Low
+Kotte,itchy skin,12,0,dry,2,Low
+Ragama,loss of appetite,9,8,humid,10,Medium
+Kuliyapitiya,eye infection,15,3,rainy,6,Medium
+Weligama,ticks,22,6,hot,4,High
+Panadura,ticks,6,2,humid,10,Medium
+Negombo,dog fever,22,2,humid,10,High
+Katunayake,eye infection,7,8,humid,10,Medium
+Embilipitiya,dog coughing,14,3,humid,10,Medium
+Ginigathhena,eye infection,7,6,rainy,6,Medium
+Moragahamula,dog vomiting,13,0,dry,2,Low
+Tissamaharama,dog vomiting,3,0,rainy,6,Low
+Anuradhapura,lethargy,8,8,hot,4,Medium
+Kurunegala,dog fever,4,12,dry,2,Medium
+Galewela,dog coughing,9,5,hot,4,Medium
+Nuwara Eliya,dog coughing,12,3,hot,4,Medium
+Hikkaduwa,kennel cough,11,3,dry,2,Medium
+Bandaragama,dog vomiting,4,1,hot,4,Low
+Kosgama,dog fever,5,1,hot,4,Low
+Mannar,dog fever,15,0,humid,10,Medium
+Homagama,dog coughing,13,10,hot,4,Medium
+Ampara,ticks,9,1,dry,2,Low
+Ampara,dog coughing,11,7,rainy,6,Medium
+Beruwala,dog coughing,4,13,humid,10,Medium
+Hambantota,lethargy,8,5,dry,2,Medium
+Ambalangoda,dog vomiting,8,4,dry,2,Low
+Ragama,dog vomiting,24,0,humid,10,Medium
+Aluthgama,itchy skin,10,4,humid,10,Medium
+Matara,kennel cough,6,2,hot,4,Low
+Agunukolapelessa,ticks,17,4,hot,4,Medium
+Batticaloa,lethargy,12,9,humid,10,High
+Kalutara,fleas,2,2,humid,10,Low
+Kegalle,dog vomiting,8,2,rainy,6,Low
+Chilaw,ticks,9,6,rainy,6,Medium
+Marawila,eye infection,10,3,hot,4,Medium
+Middeniya,dog vomiting,3,5,humid,10,Medium
+Kelaniya,kennel cough,20,3,rainy,6,Medium
+Hambantota,eye infection,20,0,rainy,6,Medium
+Bandarawela,dog coughing,16,7,rainy,6,Medium
+Tissamaharama,lethargy,16,6,dry,2,Medium
+Ratnapura,dog vomiting,3,4,humid,10,Medium
+Moragahamula,kennel cough,24,7,dry,2,High
+Passara,ticks,6,0,dry,2,Low
+Badulla,loss of appetite,7,2,hot,4,Low
+Kuliyapitiya,lethargy,10,3,rainy,6,Medium
+Panadura,dog fever,19,8,humid,10,High
+Hanwella,dog fever,4,4,rainy,6,Low
+Tissamaharama,eye infection,16,14,hot,4,High
+Kuliyapitiya,loss of appetite,12,6,rainy,6,Medium
+Kalutara,dog coughing,13,3,dry,2,Medium
+Hatton,dog fever,21,7,dry,2,High
+Avissawella,loss of appetite,8,8,humid,10,Medium
+Hambantota,eye infection,8,3,rainy,6,Medium
+Panadura,dog fever,9,0,hot,4,Low
+Ampara,dog fever,18,3,hot,4,Medium
+Kelaniya,fleas,2,14,hot,4,Medium
+Badulla,dog vomiting,2,2,hot,4,Low
+Ambalangoda,loss of appetite,7,1,dry,2,Low
+Ginigathhena,ticks,18,4,dry,2,Medium
+Giriulla,dog vomiting,15,6,humid,10,Medium
+Elpitiya,dog vomiting,12,5,humid,10,Medium
+Kataragama,fleas,2,3,hot,4,Low
+Tissamaharama,loss of appetite,5,5,hot,4,Low
+Aluthgama,dog coughing,6,1,dry,2,Low
+Ja-Ela,kennel cough,10,6,hot,4,Medium
+Kosgama,loss of appetite,0,5,dry,2,Low
+Dehiwala,eye infection,23,0,humid,10,Medium
+Kandy,loss of appetite,3,6,hot,4,Low
+Panadura,lethargy,12,8,dry,2,Medium
+Kilinochchi,itchy skin,15,12,rainy,6,High
+Wariyapola,dog fever,12,6,rainy,6,Medium
+Kothmale,fleas,9,0,dry,2,Low
+Maharagama,itchy skin,11,0,humid,10,Medium
+Dehiwala,dog coughing,2,7,hot,4,Low
+Kegalle,loss of appetite,16,8,hot,4,Medium
+Agunukolapelessa,dog coughing,11,2,humid,10,Medium
+Badulla,lethargy,12,10,humid,10,High
+Hanwella,dog coughing,20,7,rainy,6,High
+Piliyandala,itchy skin,3,4,dry,2,Low
+Nuwara Eliya,itchy skin,11,0,rainy,6,Low
+Wellawaya,ticks,7,13,humid,10,High
+Mahiyanganaya,ticks,9,0,humid,10,Medium
+Puttalam,ticks,0,5,rainy,6,Low
+Hambantota,dog vomiting,3,5,humid,10,Medium
+Matugama,dog fever,11,6,dry,2,Medium
+Maskeliya,fleas,10,11,hot,4,Medium
+Moratuwa,dog fever,21,8,humid,10,High
+Kegalle,loss of appetite,18,10,dry,2,High
+Hanwella,dog coughing,12,4,hot,4,Medium
+Nuwara Eliya,itchy skin,1,0,humid,10,Low
+Mapalana,kennel cough,6,7,rainy,6,Medium
+Kadawatha,dog coughing,1,6,dry,2,Low
+Agunukolapelessa,fleas,20,7,rainy,6,High
+Giriulla,dog fever,14,2,rainy,6,Medium
+Haputale,itchy skin,5,6,rainy,6,Medium
+Ratnapura,fleas,1,0,rainy,6,Low
+Aluthgama,eye infection,8,0,rainy,6,Low
+Matara,itchy skin,14,5,dry,2,Medium
+Galgamuwa,dog vomiting,7,3,humid,10,Medium
+Passara,dog coughing,3,3,humid,10,Low
+Mirissa,eye infection,10,6,humid,10,Medium
+Balangoda,lethargy,21,10,dry,2,High
+Beruwala,kennel cough,17,0,humid,10,Medium
+Maskeliya,lethargy,10,3,rainy,6,Medium
+Galewela,dog fever,16,9,dry,2,Medium
+Kalawana,itchy skin,8,2,rainy,6,Low
+Kurunegala,fleas,5,2,dry,2,Low
+Dambulla,dog coughing,21,15,rainy,6,High
+Deniyaya,loss of appetite,4,11,hot,4,Medium
+Piliyandala,kennel cough,17,6,dry,2,Medium
+Maskeliya,dog fever,19,8,humid,10,High
+Minuwangoda,fleas,12,5,hot,4,Medium
+Kataragama,itchy skin,14,7,humid,10,Medium
+Kurunegala,lethargy,11,0,humid,10,Medium
+Anuradhapura,kennel cough,24,7,humid,10,High
+Kuliyapitiya,dog fever,0,1,hot,4,Low
+Kahawatte,lethargy,14,6,humid,10,Medium
+Galle,dog coughing,4,5,humid,10,Medium
+Kandy,eye infection,13,6,hot,4,Medium
+Marawila,dog vomiting,11,13,humid,10,High
+Matale,dog vomiting,6,0,rainy,6,Low
+Mahiyanganaya,dog coughing,15,8,dry,2,Medium
+Piliyandala,kennel cough,19,2,rainy,6,Medium
+Kandana,dog coughing,11,8,hot,4,Medium
+Kilinochchi,dog coughing,8,0,dry,2,Low
+Polonnaruwa,dog fever,11,7,hot,4,Medium
+Puttalam,dog fever,19,4,humid,10,High
+Kosgama,eye infection,8,0,dry,2,Low
+Trincomalee,dog fever,7,1,dry,2,Low
+Moratuwa,fleas,0,1,hot,4,Low
+Warakapola,eye infection,4,2,hot,4,Low
+Hanwella,dog coughing,6,6,rainy,6,Medium
+Avissawella,itchy skin,10,9,humid,10,Medium
+Galgamuwa,dog fever,19,2,humid,10,Medium
+Wellawaya,loss of appetite,11,8,hot,4,Medium
+Embilipitiya,dog vomiting,6,8,rainy,6,Medium
+Hanwella,ticks,9,5,hot,4,Medium
+Ambalangoda,dog coughing,9,10,rainy,6,Medium
+Gampaha,kennel cough,4,14,hot,4,Medium
+Mapalana,itchy skin,11,10,rainy,6,Medium
+Kandy,fleas,10,9,humid,10,Medium
+Mullaitivu,lethargy,4,3,humid,10,Medium
+Dehiwala,loss of appetite,12,4,hot,4,Medium
+Maskeliya,dog fever,12,9,humid,10,High
+Colombo,eye infection,12,6,hot,4,Medium
+Tissamaharama,loss of appetite,1,6,humid,10,Medium
+Kandana,ticks,17,0,rainy,6,Medium
+Haputale,loss of appetite,17,1,rainy,6,Medium
+Passara,ticks,12,10,dry,2,Medium
+Kelaniya,kennel cough,7,0,dry,2,Low
+Matugama,fleas,5,9,humid,10,Medium
+Galewela,itchy skin,5,0,hot,4,Low
+Marawila,loss of appetite,9,8,humid,10,Medium
+Wattala,itchy skin,9,0,dry,2,Low
+Colombo,loss of appetite,16,12,dry,2,High
+Moragahamula,dog coughing,3,0,hot,4,Low
+Horana,dog fever,24,1,hot,4,Medium
+Homagama,fleas,5,6,dry,2,Low
+Dambulla,dog vomiting,16,2,dry,2,Medium
+Mirissa,lethargy,6,1,hot,4,Low
+Maharagama,dog fever,7,7,dry,2,Medium
+Kalutara,dog coughing,14,9,hot,4,Medium
+Dambulla,dog coughing,13,12,hot,4,High
+Polonnaruwa,dog coughing,8,7,dry,2,Medium
+Dankotuwa,dog vomiting,11,4,humid,10,Medium
+Jaffna,dog coughing,8,12,hot,4,Medium
+Hikkaduwa,ticks,3,1,dry,2,Low
+Ginigathhena,itchy skin,13,2,rainy,6,Medium
+Gonapola,dog coughing,10,3,rainy,6,Medium
+Boralesgamuwa,dog coughing,10,1,hot,4,Low
+Colombo,ticks,24,4,dry,2,Medium
+Colombo,fleas,18,4,humid,10,Medium
+Kandana,lethargy,13,2,dry,2,Medium
+Deniyaya,fleas,17,2,hot,4,Medium
+Mawanella,lethargy,21,12,dry,2,High
+Agunukolapelessa,kennel cough,22,13,dry,2,High
+Horana,itchy skin,12,4,humid,10,Medium
+Mawanella,ticks,1,8,hot,4,Low
+Dehiwala,eye infection,17,11,rainy,6,High
+Colombo,kennel cough,19,8,rainy,6,High
+Polonnaruwa,ticks,3,0,hot,4,Low
+Kurunegala,itchy skin,5,2,rainy,6,Low
+Wariyapola,dog coughing,23,9,humid,10,High
+Maharagama,kennel cough,13,3,hot,4,Medium
+Mullaitivu,dog vomiting,18,9,humid,10,High
+Dankotuwa,fleas,13,13,humid,10,High
+Hanwella,dog vomiting,0,0,rainy,6,Low
+Ragama,dog coughing,18,3,hot,4,Medium
+Ja-Ela,loss of appetite,1,4,rainy,6,Low
+Minuwangoda,itchy skin,19,0,hot,4,Medium
+Kilinochchi,fleas,3,0,humid,10,Low
+Haputale,dog vomiting,10,13,dry,2,Medium
+Giriulla,loss of appetite,2,9,rainy,6,Medium
+Mullaitivu,kennel cough,2,6,humid,10,Medium
+Piliyandala,itchy skin,5,4,dry,2,Low
+Marawila,loss of appetite,8,6,rainy,6,Medium
+Mapalana,dog coughing,8,0,hot,4,Low
+Panadura,kennel cough,18,13,dry,2,High
+Hikkaduwa,itchy skin,14,0,dry,2,Low
+Horana,loss of appetite,10,3,dry,2,Low
+Gonapola,lethargy,3,3,rainy,6,Low
+Buttala,dog vomiting,2,10,humid,10,Medium
+Mapalana,dog coughing,5,0,hot,4,Low
+Mirissa,kennel cough,2,1,dry,2,Low
+Ampara,lethargy,10,3,hot,4,Medium
+Moragahamula,dog vomiting,0,0,hot,4,Low
+Mannar,lethargy,13,6,hot,4,Medium
+Kalawana,kennel cough,18,10,rainy,6,High
+Weeraketiya,dog coughing,15,0,rainy,6,Medium
+Ratnapura,lethargy,14,5,humid,10,Medium
+Pelmadulla,fleas,15,0,dry,2,Medium
+Kandana,dog coughing,0,3,humid,10,Low
+Galgamuwa,lethargy,10,1,rainy,6,Medium
+Matara,eye infection,12,1,humid,10,Medium
+Mapalana,lethargy,14,3,hot,4,Medium
+Maharagama,dog fever,1,3,dry,2,Low
+Galewela,lethargy,4,0,dry,2,Low
+Matale,eye infection,3,2,rainy,6,Low
+Maharagama,loss of appetite,24,9,rainy,6,High
+Ragama,lethargy,20,2,humid,10,Medium
+Mannar,eye infection,13,13,rainy,6,High
+Ampara,ticks,13,4,dry,2,Medium
+Hatton,kennel cough,20,10,humid,10,High
+Hanwella,ticks,26,1,humid,10,High
+Kilinochchi,dog vomiting,2,0,hot,4,Low
+Pelmadulla,itchy skin,11,6,dry,2,Medium
+Maharagama,itchy skin,21,9,humid,10,High
+Ja-Ela,lethargy,10,10,rainy,6,Medium
+Mullaitivu,ticks,10,13,hot,4,Medium
+Narammala,lethargy,13,15,rainy,6,High
+Kalutara,dog vomiting,18,4,humid,10,Medium
+Passara,lethargy,18,11,rainy,6,High
+Giriulla,dog vomiting,14,2,dry,2,Medium
+Middeniya,fleas,6,4,hot,4,Low
+Maskeliya,dog vomiting,20,6,hot,4,Medium
+Kahawatte,lethargy,15,1,humid,10,Medium
+Bandarawela,loss of appetite,7,5,humid,10,Medium
+Ragama,dog coughing,5,5,dry,2,Low
+Negombo,dog fever,26,5,humid,10,High
+Mullaitivu,dog vomiting,0,9,rainy,6,Medium
+Haputale,fleas,0,0,humid,10,Low
+Elpitiya,eye infection,8,3,dry,2,Low
+Seeduwa,kennel cough,5,4,hot,4,Low
+Matara,fleas,6,10,rainy,6,Medium
+Panadura,itchy skin,6,1,dry,2,Low
+Dankotuwa,lethargy,4,1,humid,10,Low
+Bandarawela,eye infection,8,6,hot,4,Medium
+Maharagama,dog vomiting,2,5,rainy,6,Low
+Kataragama,loss of appetite,17,0,hot,4,Medium
+Haputale,fleas,19,2,rainy,6,Medium
+Hatton,kennel cough,11,0,dry,2,Low
+Giriulla,eye infection,5,6,dry,2,Low
+Ratnapura,ticks,18,7,rainy,6,High
+Hambantota,fleas,9,1,humid,10,Medium
+Kadawatha,eye infection,4,3,dry,2,Low
+Negombo,loss of appetite,22,9,humid,10,High
+Kalutara,loss of appetite,11,4,dry,2,Medium
+Weeraketiya,dog vomiting,5,12,hot,4,Medium
+Mapalana,dog vomiting,12,1,rainy,6,Medium
+Mawanella,eye infection,16,3,humid,10,Medium
+Embilipitiya,dog vomiting,16,4,dry,2,Medium
+Pelmadulla,dog coughing,8,3,hot,4,Low
+Homagama,dog vomiting,1,1,humid,10,Low
+Chilaw,eye infection,5,1,hot,4,Low
+Matale,itchy skin,6,3,dry,2,Low
+Ginigathhena,dog coughing,13,2,rainy,6,Medium
+Piliyandala,loss of appetite,16,4,rainy,6,Medium
+Ganemulla,dog fever,11,3,humid,10,Medium
+Aluthgama,itchy skin,11,3,dry,2,Medium
+Galewela,itchy skin,6,0,rainy,6,Low
+Badulla,fleas,5,5,humid,10,Medium
+Ginigathhena,loss of appetite,10,4,hot,4,Medium
+Kalawana,dog vomiting,8,6,humid,10,Medium
+Mullaitivu,loss of appetite,1,7,dry,2,Low
+Hanwella,dog coughing,17,8,humid,10,High
+Mirissa,eye infection,3,0,dry,2,Low
+Ja-Ela,fleas,19,12,rainy,6,High
+Moratuwa,fleas,14,10,hot,4,Medium
+Mullaitivu,fleas,8,3,rainy,6,Medium
+Matara,lethargy,7,5,rainy,6,Medium
+Homagama,dog fever,8,0,rainy,6,Low
+Bandaragama,fleas,8,6,dry,2,Medium
+Gampaha,kennel cough,20,7,humid,10,High
+Homagama,kennel cough,17,2,humid,10,Medium
+Middeniya,kennel cough,19,9,dry,2,High
+Weligama,ticks,12,9,hot,4,Medium
+Anuradhapura,itchy skin,10,12,humid,10,High
+Weeraketiya,loss of appetite,10,5,dry,2,Medium
+Weeraketiya,dog fever,23,4,hot,4,Medium
+Seeduwa,dog vomiting,22,4,hot,4,Medium
+Mannar,dog vomiting,8,3,dry,2,Low
+Polonnaruwa,kennel cough,15,0,hot,4,Medium
+Kandy,lethargy,0,6,dry,2,Low
+Buttala,dog coughing,3,6,humid,10,Medium
+Moragahamula,dog coughing,6,0,rainy,6,Low
+Galgamuwa,itchy skin,18,8,dry,2,Medium
+Batticaloa,kennel cough,17,5,hot,4,Medium
+Aluthgama,kennel cough,12,3,rainy,6,Medium
+Avissawella,lethargy,13,3,humid,10,Medium
+Puttalam,loss of appetite,1,7,hot,4,Low
+Mannar,loss of appetite,23,8,dry,2,High
+Galewela,eye infection,0,0,rainy,6,Low
+Chilaw,itchy skin,16,4,humid,10,Medium
+Matara,itchy skin,13,4,rainy,6,Medium
+Hambantota,ticks,1,6,humid,10,Medium
+Matugama,kennel cough,24,5,humid,10,High
+Mapalana,eye infection,0,2,rainy,6,Low
+Badulla,dog coughing,11,7,hot,4,Medium
+Wellawaya,lethargy,18,10,hot,4,High
+Kegalle,itchy skin,13,13,dry,2,High
+Bandarawela,eye infection,15,1,hot,4,Medium
+Agunukolapelessa,dog fever,14,8,dry,2,Medium
+Ambalangoda,lethargy,0,4,rainy,6,Low
+Wariyapola,ticks,7,11,rainy,6,Medium
+Mirissa,fleas,22,1,humid,10,Medium
+Dankotuwa,eye infection,19,7,rainy,6,High
+Badulla,dog coughing,3,3,hot,4,Low
+Kilinochchi,fleas,7,0,humid,10,Low
+Gampaha,ticks,6,12,rainy,6,Medium
+Puttalam,dog fever,15,11,hot,4,High
+Bandarawela,ticks,9,0,rainy,6,Low
+Anuradhapura,itchy skin,0,14,dry,2,Medium
+Hatton,ticks,1,11,rainy,6,Medium
+Mawanella,eye infection,14,2,hot,4,Medium
+Matara,loss of appetite,14,1,rainy,6,Medium
+Ganemulla,lethargy,8,4,hot,4,Medium
+Dambulla,fleas,17,3,humid,10,Medium
+Deniyaya,lethargy,8,2,hot,4,Low
+Middeniya,dog vomiting,11,2,humid,10,Medium
+Galewela,dog vomiting,13,8,humid,10,High
+Agunukolapelessa,ticks,25,1,dry,2,Medium
+Narammala,dog coughing,10,8,dry,2,Medium
+Wattala,dog vomiting,2,12,dry,2,Medium
+Hanwella,ticks,5,4,hot,4,Low
+Agunukolapelessa,eye infection,6,7,dry,2,Medium
+Kataragama,dog fever,26,7,hot,4,High
+Agunukolapelessa,loss of appetite,4,4,dry,2,Low
+Homagama,dog vomiting,17,8,humid,10,High
+Warakapola,kennel cough,7,0,hot,4,Low
+Boralesgamuwa,eye infection,21,3,rainy,6,Medium
+Nuwara Eliya,loss of appetite,16,0,hot,4,Medium
+Monaragala,ticks,8,10,humid,10,Medium
+Mirissa,fleas,8,0,rainy,6,Low
+Maharagama,eye infection,13,8,rainy,6,Medium
+Kegalle,dog vomiting,4,7,dry,2,Low
+Mahiyanganaya,loss of appetite,10,0,humid,10,Medium
+Kilinochchi,dog vomiting,20,4,humid,10,High
+Kotte,lethargy,8,12,dry,2,Medium
+Monaragala,fleas,3,12,hot,4,Medium
+Warakapola,dog vomiting,5,4,hot,4,Low
+Hatton,eye infection,13,0,hot,4,Medium
+Narammala,lethargy,16,6,humid,10,High
+Middeniya,dog coughing,16,0,rainy,6,Medium
+Avissawella,itchy skin,3,4,hot,4,Low
+Balangoda,dog fever,21,2,rainy,6,Medium
+Kandana,dog fever,8,1,humid,10,Medium
+Hatton,loss of appetite,16,0,humid,10,Medium
+Mirissa,eye infection,5,0,humid,10,Low
+Katunayake,kennel cough,11,8,dry,2,Medium
+Panadura,dog vomiting,15,0,hot,4,Medium
+Horana,dog coughing,12,3,hot,4,Medium
+Hambantota,loss of appetite,4,1,dry,2,Low
+Balangoda,dog vomiting,9,5,dry,2,Medium
+Haputale,ticks,6,9,humid,10,Medium
+Bandarawela,dog coughing,1,12,hot,4,Medium
+Passara,eye infection,22,3,dry,2,Medium
+Kilinochchi,lethargy,13,4,dry,2,Medium
+Balangoda,kennel cough,23,4,hot,4,Medium
+Passara,ticks,14,6,humid,10,Medium
+Middeniya,itchy skin,7,1,dry,2,Low
+Dankotuwa,dog coughing,1,11,dry,2,Medium
+Ja-Ela,ticks,0,7,rainy,6,Low
+Deniyaya,fleas,3,9,dry,2,Medium
+Hanwella,itchy skin,21,0,humid,10,Medium
+Point Pedro,lethargy,5,6,hot,4,Medium
+Mahiyanganaya,fleas,11,12,dry,2,Medium
+Avissawella,dog vomiting,13,4,humid,10,Medium
+Weeraketiya,dog coughing,14,5,rainy,6,Medium
+Weeraketiya,lethargy,17,3,rainy,6,Medium
+Maharagama,itchy skin,13,2,dry,2,Medium
+Kuliyapitiya,kennel cough,2,4,dry,2,Low
+Hikkaduwa,lethargy,0,8,dry,2,Low
+Hikkaduwa,fleas,1,0,rainy,6,Low
+Narammala,kennel cough,12,0,hot,4,Low
+Moragahamula,loss of appetite,14,7,hot,4,Medium
+Kothmale,loss of appetite,9,1,hot,4,Low
+Gampaha,dog vomiting,7,4,dry,2,Low
+Hikkaduwa,lethargy,9,5,dry,2,Medium
+Colombo,dog vomiting,0,0,dry,2,Low
+Dambulla,dog vomiting,17,6,rainy,6,Medium
+Bandaragama,dog vomiting,25,2,hot,4,Medium
+Maharagama,dog fever,5,0,humid,10,Low
+Wellawaya,dog vomiting,0,4,humid,10,Low
+Trincomalee,dog vomiting,12,8,humid,10,Medium
+Elpitiya,itchy skin,15,1,hot,4,Medium
+Dehiwala,fleas,12,9,humid,10,High
+Polonnaruwa,loss of appetite,4,5,humid,10,Medium
+Kosgama,dog coughing,23,3,rainy,6,Medium
+Rathmalana,itchy skin,19,5,humid,10,High
+Seeduwa,eye infection,0,1,humid,10,Low
+Wariyapola,itchy skin,4,6,hot,4,Low
+Middeniya,dog fever,5,0,hot,4,Low
+Kahawatte,itchy skin,5,0,hot,4,Low
+Ampara,fleas,5,4,dry,2,Low
+Ratnapura,dog fever,12,4,hot,4,Medium
+Kadawatha,itchy skin,12,7,dry,2,Medium
+Ambalangoda,eye infection,18,7,hot,4,Medium
+Mirissa,lethargy,16,9,dry,2,Medium
+Kalawana,dog vomiting,15,6,rainy,6,Medium
+Marawila,fleas,17,7,dry,2,Medium
+Panadura,dog vomiting,5,6,humid,10,Medium
+Colombo,kennel cough,15,10,rainy,6,High
+Ganemulla,fleas,5,7,humid,10,Medium
+Haputale,dog coughing,5,3,rainy,6,Low
+Kadawatha,eye infection,3,6,rainy,6,Medium
+Buttala,eye infection,15,6,humid,10,Medium
+Balangoda,lethargy,24,10,rainy,6,High
+Ratnapura,itchy skin,4,10,humid,10,Medium
+Kegalle,dog fever,7,7,dry,2,Medium
+Kilinochchi,dog vomiting,14,3,hot,4,Medium
+Polonnaruwa,eye infection,6,6,dry,2,Low
+Narammala,eye infection,23,2,hot,4,Medium
+Kothmale,kennel cough,2,5,hot,4,Low
+Mullaitivu,itchy skin,25,8,rainy,6,High
+Ambalangoda,dog fever,6,5,dry,2,Low
+Bandarawela,dog vomiting,7,1,dry,2,Low
+Mirissa,eye infection,4,6,dry,2,Low
+Chilaw,fleas,21,3,rainy,6,Medium
+Kadawatha,eye infection,2,5,rainy,6,Low
+Deniyaya,kennel cough,11,7,rainy,6,Medium
+Negombo,itchy skin,15,4,dry,2,Medium
+Maharagama,eye infection,14,5,dry,2,Medium
+Rathmalana,lethargy,10,3,dry,2,Low
+Mawanella,dog fever,18,5,humid,10,High
+Deniyaya,lethargy,18,1,humid,10,Medium
+Wariyapola,lethargy,12,12,rainy,6,High
+Galewela,dog fever,9,10,dry,2,Medium
+Mawanella,fleas,3,8,humid,10,Medium
+Negombo,fleas,18,8,humid,10,High
+Jaffna,dog fever,15,8,humid,10,High
+Kadawatha,itchy skin,3,8,hot,4,Medium
+Kegalle,itchy skin,13,4,dry,2,Medium
+Matale,fleas,6,2,dry,2,Low
+Rathmalana,fleas,7,4,hot,4,Low
+Mannar,kennel cough,12,0,rainy,6,Medium
+Pelmadulla,kennel cough,7,12,humid,10,Medium
+Weligama,dog vomiting,2,3,rainy,6,Low
+Moratuwa,loss of appetite,5,5,rainy,6,Medium
+Monaragala,kennel cough,6,3,rainy,6,Low
+Boralesgamuwa,dog fever,14,5,hot,4,Medium
+Matale,kennel cough,25,4,hot,4,High
+Middeniya,dog vomiting,11,5,humid,10,Medium
+Moratuwa,dog vomiting,15,2,dry,2,Medium
+Ginigathhena,ticks,6,4,rainy,6,Medium
+Deniyaya,loss of appetite,6,8,hot,4,Medium
+Passara,dog coughing,17,0,hot,4,Medium
+Dehiwala,dog vomiting,19,5,hot,4,Medium
+Jaffna,itchy skin,7,8,rainy,6,Medium
+Weeraketiya,eye infection,4,11,hot,4,Medium
+Wattala,dog fever,11,3,humid,10,Medium
+Colombo,dog coughing,21,5,rainy,6,High
+Gonapola,eye infection,6,6,humid,10,Medium
+Katunayake,dog vomiting,1,9,dry,2,Low
+Ambalangoda,eye infection,17,5,rainy,6,Medium
+Matale,kennel cough,17,0,dry,2,Medium
+Embilipitiya,dog vomiting,2,6,rainy,6,Low
+Haputale,eye infection,21,0,dry,2,Medium
+Anuradhapura,dog coughing,23,1,hot,4,Medium
+Buttala,fleas,0,8,rainy,6,Low
+Mannar,itchy skin,20,7,rainy,6,High
+Hambantota,itchy skin,7,6,dry,2,Medium
+Kalawana,kennel cough,14,9,hot,4,Medium
+Kelaniya,dog vomiting,1,3,rainy,6,Low
+Kadawatha,eye infection,16,7,rainy,6,Medium
+Dankotuwa,eye infection,1,0,humid,10,Low
+Polonnaruwa,kennel cough,0,0,dry,2,Low
+Mirissa,kennel cough,1,6,rainy,6,Low
+Trincomalee,lethargy,22,4,hot,4,Medium
+Hatton,dog vomiting,4,1,dry,2,Low
+Batticaloa,itchy skin,0,0,humid,10,Low
+Hatton,dog fever,9,11,dry,2,Medium
+Maskeliya,ticks,4,7,rainy,6,Medium
+Elpitiya,lethargy,5,6,hot,4,Medium
+Wariyapola,loss of appetite,3,7,dry,2,Low
+Wattala,kennel cough,17,9,rainy,6,High
+Point Pedro,ticks,13,1,rainy,6,Medium
+Weeraketiya,lethargy,14,7,rainy,6,Medium
+Hambantota,loss of appetite,7,4,dry,2,Low
+Avissawella,itchy skin,18,1,rainy,6,Medium
+Ja-Ela,eye infection,14,6,dry,2,Medium
+Trincomalee,dog coughing,24,9,hot,4,High
+Buttala,loss of appetite,23,1,rainy,6,Medium
+Weeraketiya,fleas,16,0,humid,10,Medium
+Colombo,dog fever,15,2,dry,2,Medium
+Balangoda,itchy skin,11,1,dry,2,Low
+Aluthgama,loss of appetite,4,9,humid,10,Medium
+Mapalana,loss of appetite,8,16,dry,2,Medium
+Rathmalana,lethargy,9,3,dry,2,Low
+Kelaniya,itchy skin,9,1,humid,10,Medium
+Rathmalana,eye infection,17,8,rainy,6,High
+Kalawana,eye infection,3,3,humid,10,Low
+Bandarawela,kennel cough,1,6,humid,10,Medium
+Nuwara Eliya,itchy skin,12,0,hot,4,Low
+Kegalle,eye infection,11,6,hot,4,Medium
+Mahiyanganaya,kennel cough,3,0,dry,2,Low
+Deniyaya,lethargy,5,3,dry,2,Low
+Mullaitivu,eye infection,9,3,dry,2,Low
+Kosgama,eye infection,13,13,rainy,6,High
+Galle,fleas,12,2,rainy,6,Medium
+Gonapola,lethargy,4,8,rainy,6,Medium
+Wellawaya,kennel cough,14,4,dry,2,Medium
+Maharagama,kennel cough,11,4,rainy,6,Medium
+Haputale,kennel cough,20,1,humid,10,Medium
+Wellawaya,eye infection,4,9,rainy,6,Medium
+Balangoda,eye infection,4,0,dry,2,Low
+Piliyandala,dog vomiting,23,0,dry,2,Medium
+Giriulla,dog fever,19,1,rainy,6,Medium
+Piliyandala,ticks,23,0,humid,10,Medium
+Kataragama,itchy skin,8,8,humid,10,Medium
+Kalutara,ticks,14,2,rainy,6,Medium
+Hikkaduwa,kennel cough,6,0,dry,2,Low
+Horana,fleas,17,3,rainy,6,Medium
+Agunukolapelessa,loss of appetite,2,5,hot,4,Low
+Wellawaya,dog fever,21,0,rainy,6,Medium
+Colombo,dog vomiting,15,7,dry,2,Medium
+Ginigathhena,itchy skin,3,1,dry,2,Low
+Chilaw,dog vomiting,1,0,hot,4,Low
+Ginigathhena,dog coughing,16,4,hot,4,Medium
+Polonnaruwa,loss of appetite,4,4,humid,10,Medium
+Embilipitiya,lethargy,8,0,hot,4,Low
+Dambulla,itchy skin,7,5,dry,2,Low
+Balangoda,dog coughing,2,3,humid,10,Low
+Hambantota,itchy skin,6,0,hot,4,Low
+Hambantota,kennel cough,11,2,humid,10,Medium
+Ginigathhena,loss of appetite,7,2,dry,2,Low
+Piliyandala,fleas,21,8,rainy,6,High
+Galle,fleas,18,10,humid,10,High
+Mullaitivu,loss of appetite,7,3,rainy,6,Low
+Marawila,kennel cough,3,8,humid,10,Medium
+Avissawella,dog vomiting,3,5,rainy,6,Low
+Warakapola,dog coughing,4,14,rainy,6,Medium
+Ja-Ela,kennel cough,17,1,hot,4,Medium
+Deniyaya,fleas,10,1,hot,4,Low
+Chilaw,itchy skin,12,7,dry,2,Medium
+Elpitiya,eye infection,9,8,humid,10,Medium
+Horana,dog coughing,15,3,dry,2,Medium
+Chilaw,lethargy,10,3,dry,2,Low
+Mullaitivu,ticks,24,8,humid,10,High
+Jaffna,loss of appetite,9,9,hot,4,Medium
+Kalutara,dog vomiting,12,10,rainy,6,Medium
+Katunayake,lethargy,18,13,hot,4,High
+Tissamaharama,dog fever,10,3,rainy,6,Medium
+Passara,fleas,2,8,hot,4,Medium
+Bandarawela,fleas,2,0,hot,4,Low
+Maskeliya,kennel cough,4,6,hot,4,Low
+Maskeliya,fleas,27,0,rainy,6,Medium
+Matale,ticks,2,5,rainy,6,Low
+Panadura,fleas,5,3,dry,2,Low
+Kalutara,dog coughing,5,1,hot,4,Low
+Mapalana,loss of appetite,15,0,dry,2,Medium
+Vavuniya,lethargy,5,7,humid,10,Medium
+Ratnapura,loss of appetite,7,6,humid,10,Medium
+Seeduwa,dog vomiting,12,2,dry,2,Medium
+Avissawella,itchy skin,7,3,hot,4,Low
+Chilaw,dog coughing,5,0,hot,4,Low
+Homagama,kennel cough,14,12,hot,4,High
+Mullaitivu,dog fever,16,13,humid,10,High
+Negombo,ticks,11,2,hot,4,Medium
+Matale,itchy skin,20,17,dry,2,High
+Buttala,dog vomiting,10,10,dry,2,Medium
+Balangoda,lethargy,11,5,dry,2,Medium
+Katunayake,dog coughing,9,0,dry,2,Low
+Horana,dog vomiting,11,1,hot,4,Low
+Ja-Ela,dog fever,6,5,rainy,6,Medium
+Kothmale,itchy skin,24,1,humid,10,High
+Hambantota,eye infection,11,5,humid,10,Medium
+Kotte,itchy skin,12,12,dry,2,Medium
+Kothmale,itchy skin,17,5,humid,10,Medium
+Wariyapola,dog coughing,6,3,hot,4,Low
+Jaffna,loss of appetite,17,2,dry,2,Medium
+Weeraketiya,fleas,3,8,hot,4,Medium
+Mirissa,loss of appetite,16,5,dry,2,Medium
+Kelaniya,kennel cough,0,4,dry,2,Low
+Chilaw,kennel cough,4,11,humid,10,Medium
+Ambalangoda,lethargy,8,6,dry,2,Medium
+Ganemulla,ticks,6,1,dry,2,Low
+Beruwala,fleas,16,3,rainy,6,Medium
+Boralesgamuwa,loss of appetite,22,11,humid,10,High
+Bandaragama,dog vomiting,25,5,humid,10,High
+Weligama,dog vomiting,21,7,dry,2,High
+Nuwara Eliya,loss of appetite,13,3,dry,2,Medium
+Ginigathhena,dog coughing,11,14,rainy,6,High
+Ratnapura,eye infection,19,11,humid,10,High
+Jaffna,loss of appetite,14,10,hot,4,Medium
+Colombo,itchy skin,20,6,dry,2,Medium
+Narammala,dog fever,15,0,hot,4,Medium
+Agunukolapelessa,eye infection,9,1,rainy,6,Low
+Hambantota,kennel cough,11,7,dry,2,Medium
+Homagama,dog vomiting,5,5,humid,10,Medium
+Hambantota,eye infection,19,5,rainy,6,Medium
+Mullaitivu,itchy skin,10,1,hot,4,Low
+Wattala,dog fever,11,12,dry,2,Medium
+Colombo,eye infection,7,4,humid,10,Medium
+Dambulla,fleas,12,7,humid,10,Medium
+Weligama,dog coughing,1,5,humid,10,Low
+Mawanella,ticks,8,3,dry,2,Low
+Mawanella,kennel cough,16,5,rainy,6,Medium
+Ambalangoda,dog coughing,4,0,hot,4,Low
+Anuradhapura,dog fever,13,8,hot,4,Medium
+Minuwangoda,fleas,5,6,dry,2,Low
+Galle,ticks,13,9,humid,10,High
+Matara,kennel cough,11,5,humid,10,Medium
+Kotte,fleas,3,3,rainy,6,Low
+Kothmale,loss of appetite,10,12,dry,2,Medium
+Mullaitivu,kennel cough,4,5,hot,4,Low
+Matugama,loss of appetite,6,4,humid,10,Medium
+Balangoda,eye infection,7,6,humid,10,Medium
+Chilaw,loss of appetite,3,4,humid,10,Medium
+Monaragala,dog coughing,13,1,hot,4,Medium
+Matara,lethargy,20,2,humid,10,Medium
+Trincomalee,lethargy,12,7,dry,2,Medium
+Balangoda,dog fever,18,1,hot,4,Medium
+Anuradhapura,fleas,19,9,humid,10,High
+Bandaragama,eye infection,3,0,rainy,6,Low
+Matara,itchy skin,20,5,dry,2,Medium
+Haputale,dog fever,20,12,rainy,6,High
+Anuradhapura,dog fever,13,10,rainy,6,Medium
+Matale,ticks,5,7,hot,4,Medium
+Kilinochchi,ticks,21,4,rainy,6,Medium
+Kurunegala,dog vomiting,11,8,rainy,6,Medium
+Mapalana,itchy skin,3,3,rainy,6,Low
+Matara,loss of appetite,16,4,dry,2,Medium
+Haputale,dog coughing,8,0,rainy,6,Low
+Mirissa,dog coughing,13,1,rainy,6,Medium
+Avissawella,dog coughing,21,4,hot,4,Medium
+Minuwangoda,fleas,16,7,humid,10,High
+Polonnaruwa,dog coughing,8,5,hot,4,Medium
+Wellawaya,eye infection,12,7,dry,2,Medium
+Avissawella,loss of appetite,3,0,rainy,6,Low
+Mapalana,ticks,13,6,dry,2,Medium
+Elpitiya,itchy skin,2,9,dry,2,Medium
+Embilipitiya,eye infection,6,0,hot,4,Low
+Agunukolapelessa,itchy skin,18,2,humid,10,Medium
+Mapalana,loss of appetite,11,5,dry,2,Medium
+Moragahamula,dog vomiting,17,1,dry,2,Medium
+Kotte,eye infection,12,11,dry,2,Medium
+Weligama,dog vomiting,14,2,hot,4,Medium
+Maskeliya,fleas,23,11,rainy,6,High
+Kosgama,fleas,1,1,humid,10,Low
+Kahawatte,kennel cough,8,3,dry,2,Low
+Elpitiya,fleas,23,4,humid,10,High
+Beruwala,eye infection,13,9,hot,4,Medium
+Mapalana,fleas,12,1,rainy,6,Medium
+Matara,kennel cough,2,2,dry,2,Low
+Weeraketiya,dog coughing,23,2,humid,10,High
+Colombo,kennel cough,11,5,dry,2,Medium
+Monaragala,lethargy,9,9,dry,2,Medium
+Kosgama,ticks,8,5,hot,4,Medium
+Kegalle,ticks,22,1,rainy,6,Medium
+Kalawana,ticks,23,2,hot,4,Medium
+Weeraketiya,lethargy,0,4,rainy,6,Low
+Homagama,fleas,1,4,rainy,6,Low
+Kalutara,fleas,15,9,hot,4,Medium
+Hanwella,ticks,20,11,rainy,6,High
+Seeduwa,lethargy,14,4,humid,10,Medium
+Passara,dog coughing,10,4,dry,2,Medium
+Ampara,loss of appetite,11,9,rainy,6,Medium
+Mirissa,itchy skin,19,2,rainy,6,Medium
+Weligama,kennel cough,2,9,rainy,6,Medium
+Galle,itchy skin,2,6,dry,2,Low
+Kilinochchi,eye infection,17,7,humid,10,High
+Chilaw,kennel cough,16,7,rainy,6,Medium
+Maharagama,itchy skin,3,0,humid,10,Low
+Mahiyanganaya,itchy skin,9,9,dry,2,Medium
+Ambalangoda,eye infection,14,5,rainy,6,Medium
+Monaragala,ticks,11,6,hot,4,Medium
+Weligama,lethargy,3,0,humid,10,Low
+Point Pedro,dog vomiting,6,15,rainy,6,Medium
+Mapalana,loss of appetite,13,7,dry,2,Medium
+Polonnaruwa,itchy skin,17,6,humid,10,High
+Matugama,loss of appetite,18,0,dry,2,Medium
+Matale,dog vomiting,11,12,humid,10,High
+Dankotuwa,eye infection,8,2,humid,10,Medium
+Bandarawela,eye infection,11,9,rainy,6,Medium
+Kandy,dog coughing,7,2,dry,2,Low
+Wattala,loss of appetite,17,9,humid,10,High
+Middeniya,dog coughing,9,2,hot,4,Low
+Chilaw,eye infection,12,4,humid,10,Medium
+Haputale,dog vomiting,3,7,rainy,6,Medium
+Deniyaya,fleas,16,2,hot,4,Medium
+Polonnaruwa,dog fever,15,2,dry,2,Medium
+Dehiwala,kennel cough,19,1,rainy,6,Medium
+Dankotuwa,dog coughing,20,0,dry,2,Medium
+Matara,dog coughing,7,2,hot,4,Low
+Kotte,eye infection,16,10,humid,10,High
+Chilaw,lethargy,12,0,hot,4,Low
+Homagama,kennel cough,6,0,humid,10,Low
+Marawila,kennel cough,14,0,humid,10,Medium
+Matara,fleas,11,2,hot,4,Medium
+Agunukolapelessa,kennel cough,22,0,hot,4,Medium
+Kurunegala,ticks,9,4,humid,10,Medium
+Kataragama,loss of appetite,17,8,hot,4,Medium
+Ambalangoda,dog vomiting,13,1,rainy,6,Medium
+Kurunegala,fleas,23,12,rainy,6,High
+Buttala,dog vomiting,10,8,humid,10,Medium
+Middeniya,eye infection,12,4,humid,10,Medium
+Kelaniya,itchy skin,15,7,humid,10,High
+Kahawatte,ticks,13,6,rainy,6,Medium
+Ambalangoda,ticks,1,9,humid,10,Medium
+Point Pedro,lethargy,6,7,rainy,6,Medium
+Wariyapola,ticks,3,1,humid,10,Low
+Dankotuwa,ticks,16,11,humid,10,High
+Galle,eye infection,3,1,dry,2,Low
+Point Pedro,dog coughing,2,6,rainy,6,Low
+Negombo,dog vomiting,7,3,dry,2,Low
+Panadura,loss of appetite,5,12,humid,10,Medium
+Trincomalee,itchy skin,13,12,humid,10,High
+Rathmalana,itchy skin,4,3,hot,4,Low
+Kilinochchi,kennel cough,19,0,dry,2,Medium
+Mirissa,kennel cough,15,6,dry,2,Medium
+Aluthgama,eye infection,6,10,humid,10,Medium
+Gampaha,fleas,13,8,humid,10,High
+Point Pedro,dog fever,12,4,humid,10,Medium
+Badulla,dog fever,8,2,hot,4,Low
+Dambulla,dog vomiting,16,4,hot,4,Medium
+Matale,eye infection,6,9,humid,10,Medium
+Kandana,kennel cough,11,0,humid,10,Medium
+Elpitiya,dog vomiting,17,3,rainy,6,Medium
+Colombo,ticks,1,6,rainy,6,Low
+Aluthgama,itchy skin,19,3,hot,4,Medium
+Hatton,kennel cough,10,6,humid,10,Medium
+Hikkaduwa,eye infection,19,0,humid,10,Medium
+Embilipitiya,dog fever,5,0,hot,4,Low
+Avissawella,fleas,21,10,humid,10,High
+Buttala,dog vomiting,11,12,hot,4,Medium
+Buttala,ticks,22,10,humid,10,High
+Ambalangoda,lethargy,19,11,rainy,6,High
+Moragahamula,dog fever,14,0,dry,2,Low
+Weligama,dog vomiting,0,5,humid,10,Low
+Beruwala,kennel cough,11,5,rainy,6,Medium
+Wellawaya,ticks,14,0,dry,2,Low
+Wattala,dog vomiting,17,6,rainy,6,Medium
+Minuwangoda,dog fever,6,2,hot,4,Low
+Horana,dog fever,27,8,dry,2,High
+Badulla,dog vomiting,3,0,humid,10,Low
+Galle,fleas,1,2,hot,4,Low
+Horana,ticks,0,11,dry,2,Medium
+Rathmalana,kennel cough,4,9,humid,10,Medium
+Hambantota,dog vomiting,4,9,hot,4,Medium
+Matugama,eye infection,8,9,humid,10,Medium
+Chilaw,eye infection,20,7,humid,10,High
+Badulla,ticks,12,0,humid,10,Medium
+Bandarawela,itchy skin,7,4,rainy,6,Medium
+Narammala,ticks,15,5,humid,10,Medium
+Wattala,lethargy,3,6,hot,4,Low
+Hambantota,loss of appetite,16,8,rainy,6,Medium
+Pelmadulla,dog coughing,11,1,dry,2,Low
+Mawanella,dog vomiting,3,2,humid,10,Low
+Anuradhapura,ticks,27,4,dry,2,High
+Kurunegala,lethargy,3,4,hot,4,Low
+Seeduwa,dog coughing,2,11,dry,2,Medium
+Hambantota,kennel cough,2,0,rainy,6,Low
+Matale,kennel cough,13,4,hot,4,Medium
+Puttalam,loss of appetite,5,12,dry,2,Medium
+Galewela,dog coughing,21,0,humid,10,Medium
+Galle,ticks,18,1,hot,4,Medium
+Balangoda,loss of appetite,17,1,rainy,6,Medium
+Giriulla,eye infection,13,6,dry,2,Medium
+Galgamuwa,ticks,2,1,humid,10,Low
+Hambantota,ticks,2,5,rainy,6,Low
+Avissawella,ticks,25,5,dry,2,High
+Matale,itchy skin,15,6,dry,2,Medium
+Minuwangoda,dog vomiting,6,5,dry,2,Low
+Jaffna,eye infection,16,1,hot,4,Medium
+Hikkaduwa,loss of appetite,4,3,humid,10,Medium
+Vavuniya,ticks,14,1,humid,10,Medium
+Embilipitiya,fleas,3,0,humid,10,Low
+Chilaw,fleas,16,2,humid,10,Medium
+Ginigathhena,itchy skin,15,6,hot,4,Medium
+Kalutara,ticks,24,10,rainy,6,High
+Matara,dog coughing,15,0,rainy,6,Medium
+Hambantota,itchy skin,20,6,hot,4,Medium
+Trincomalee,itchy skin,10,0,hot,4,Low
+Ginigathhena,fleas,23,11,humid,10,High
+Panadura,fleas,4,4,rainy,6,Low
+Kadawatha,lethargy,11,2,dry,2,Low
+Dankotuwa,itchy skin,13,0,dry,2,Low
+Jaffna,dog vomiting,13,4,rainy,6,Medium
+Ampara,lethargy,12,3,dry,2,Medium
+Vavuniya,dog fever,1,9,humid,10,Medium
+Dambulla,lethargy,2,10,dry,2,Medium
+Aluthgama,itchy skin,7,5,humid,10,Medium
+Boralesgamuwa,dog vomiting,14,2,dry,2,Medium
+Kurunegala,dog vomiting,18,10,rainy,6,High
+Mawanella,itchy skin,15,4,humid,10,Medium
+Boralesgamuwa,ticks,4,3,hot,4,Low
+Bandarawela,lethargy,28,2,rainy,6,High
+Kandana,kennel cough,14,12,humid,10,High
+Mapalana,loss of appetite,10,10,hot,4,Medium
+Kadawatha,loss of appetite,3,3,hot,4,Low
+Monaragala,dog coughing,10,4,humid,10,Medium
+Weligama,eye infection,13,12,rainy,6,High
+Wellawaya,kennel cough,8,8,dry,2,Medium
+Matara,dog vomiting,23,11,hot,4,High
+Ambalangoda,itchy skin,14,15,humid,10,High
+Kadawatha,lethargy,14,12,dry,2,High
+Kalawana,eye infection,2,5,hot,4,Low
+Badulla,lethargy,12,7,dry,2,Medium
+Negombo,dog fever,10,5,dry,2,Medium
+Embilipitiya,kennel cough,17,1,hot,4,Medium
+Kuliyapitiya,itchy skin,1,6,dry,2,Low
+Kegalle,itchy skin,22,2,humid,10,High
+Boralesgamuwa,ticks,2,11,rainy,6,Medium
+Anuradhapura,fleas,1,1,humid,10,Low
+Kurunegala,fleas,29,6,hot,4,High
+Kalawana,dog vomiting,9,0,humid,10,Medium
+Ganemulla,dog coughing,7,0,rainy,6,Low
+Balangoda,fleas,1,3,humid,10,Low
+Negombo,dog fever,3,1,dry,2,Low
+Avissawella,dog fever,11,4,dry,2,Medium
+Bandarawela,ticks,0,0,dry,2,Low
+Warakapola,eye infection,4,7,hot,4,Medium
+Pelmadulla,lethargy,19,7,hot,4,Medium
+Kuliyapitiya,fleas,19,1,hot,4,Medium
+Piliyandala,dog coughing,13,6,dry,2,Medium
+Haputale,ticks,6,11,humid,10,Medium
+Kegalle,lethargy,10,1,dry,2,Low
+Kotte,dog fever,18,3,dry,2,Medium
+Mawanella,fleas,7,7,dry,2,Medium
+Haputale,dog vomiting,23,5,dry,2,Medium
+Hanwella,kennel cough,10,4,rainy,6,Medium
+Badulla,dog vomiting,18,14,humid,10,High
+Ginigathhena,fleas,8,6,humid,10,Medium
+Hikkaduwa,loss of appetite,16,2,hot,4,Medium
+Vavuniya,dog vomiting,2,7,humid,10,Medium
+Ampara,dog coughing,14,3,dry,2,Medium
+Galgamuwa,loss of appetite,15,8,humid,10,High
+Monaragala,loss of appetite,3,1,dry,2,Low
+Elpitiya,lethargy,10,10,rainy,6,Medium
+Aluthgama,fleas,6,1,humid,10,Low
+Weeraketiya,itchy skin,11,10,humid,10,High
+Vavuniya,itchy skin,5,1,humid,10,Low
+Galewela,itchy skin,8,0,rainy,6,Low
+Panadura,kennel cough,8,0,dry,2,Low
+Tissamaharama,kennel cough,5,0,rainy,6,Low
+Hikkaduwa,fleas,19,2,rainy,6,Medium
+Ratnapura,fleas,16,7,dry,2,Medium
+Kalutara,eye infection,18,6,humid,10,High
+Homagama,lethargy,6,3,rainy,6,Low
+Kotte,dog vomiting,19,4,hot,4,Medium
+Kilinochchi,dog vomiting,6,1,rainy,6,Low
+Deniyaya,ticks,20,3,dry,2,Medium
+Hanwella,itchy skin,3,3,humid,10,Low
+Mawanella,kennel cough,14,4,hot,4,Medium
+Rathmalana,loss of appetite,1,6,dry,2,Low
+Kotte,dog coughing,2,11,hot,4,Medium
+Matugama,eye infection,17,9,humid,10,High
+Ampara,ticks,19,4,hot,4,Medium
+Wariyapola,ticks,7,5,hot,4,Medium
+Maskeliya,dog fever,20,1,hot,4,Medium
+Hambantota,itchy skin,29,2,rainy,6,High
+Kurunegala,ticks,18,9,hot,4,High
+Kadawatha,fleas,19,16,rainy,6,High
+Dankotuwa,itchy skin,18,6,rainy,6,Medium
+Polonnaruwa,fleas,34,0,hot,4,High
+Horana,itchy skin,20,1,dry,2,Medium
+Galewela,kennel cough,6,0,hot,4,Low
+Piliyandala,fleas,6,12,hot,4,Medium
+Agunukolapelessa,dog fever,15,4,hot,4,Medium
+Boralesgamuwa,dog vomiting,5,7,rainy,6,Medium
+Hikkaduwa,eye infection,11,3,dry,2,Medium
+Hanwella,dog fever,5,2,humid,10,Low
+Narammala,dog fever,13,4,hot,4,Medium
+Hambantota,dog fever,11,8,hot,4,Medium
+Kadawatha,ticks,6,4,humid,10,Medium
+Minuwangoda,loss of appetite,11,1,humid,10,Medium
+Pelmadulla,lethargy,21,12,hot,4,High
+Giriulla,loss of appetite,9,2,humid,10,Medium
+Batticaloa,lethargy,0,10,dry,2,Low
+Ganemulla,dog coughing,14,1,humid,10,Medium
+Ratnapura,dog fever,17,4,humid,10,Medium
+Tissamaharama,dog fever,2,1,rainy,6,Low
+Mirissa,fleas,10,9,hot,4,Medium
+Beruwala,loss of appetite,11,8,rainy,6,Medium
+Hatton,dog vomiting,0,1,hot,4,Low
+Bandaragama,kennel cough,13,3,hot,4,Medium
+Panadura,dog fever,16,0,dry,2,Medium
+Middeniya,lethargy,17,0,dry,2,Medium
+Boralesgamuwa,fleas,9,3,rainy,6,Medium
+Badulla,eye infection,4,11,rainy,6,Medium
+Galle,ticks,5,7,humid,10,Medium
+Embilipitiya,dog fever,6,10,humid,10,Medium
+Polonnaruwa,ticks,6,18,hot,4,High
+Matugama,dog vomiting,11,10,humid,10,High
+Minuwangoda,fleas,6,8,dry,2,Medium
+Buttala,dog coughing,11,7,hot,4,Medium
+Mapalana,eye infection,3,6,dry,2,Low
+Rathmalana,kennel cough,20,4,dry,2,Medium
+Hambantota,dog coughing,9,2,dry,2,Low
+Point Pedro,dog coughing,1,4,humid,10,Low
+Weligama,dog vomiting,8,2,dry,2,Low
+Boralesgamuwa,dog vomiting,10,4,rainy,6,Medium
+Katunayake,dog coughing,14,3,hot,4,Medium
+Hatton,fleas,16,8,dry,2,Medium
+Piliyandala,eye infection,9,8,hot,4,Medium
+Beruwala,ticks,5,9,hot,4,Medium
+Weligama,dog fever,17,0,rainy,6,Medium
+Ganemulla,kennel cough,15,6,hot,4,Medium
+Kilinochchi,dog fever,23,11,dry,2,High
+Tissamaharama,itchy skin,9,3,dry,2,Low
+Kandy,fleas,22,4,hot,4,Medium
+Ampara,kennel cough,3,8,humid,10,Medium
+Jaffna,ticks,15,8,hot,4,Medium
+Trincomalee,dog coughing,9,0,humid,10,Medium
+Warakapola,lethargy,13,10,hot,4,Medium
+Haputale,kennel cough,3,5,dry,2,Low
+Mahiyanganaya,lethargy,2,4,hot,4,Low
+Panadura,ticks,21,0,dry,2,Medium
+Mullaitivu,itchy skin,8,5,dry,2,Medium
+Matale,itchy skin,10,11,hot,4,Medium
+Kosgama,lethargy,15,1,humid,10,Medium
+Dankotuwa,dog coughing,11,6,rainy,6,Medium
+Middeniya,dog vomiting,13,6,hot,4,Medium
+Embilipitiya,dog fever,11,5,dry,2,Medium
+Mawanella,ticks,18,2,dry,2,Medium
+Matara,ticks,13,0,rainy,6,Medium
+Kothmale,eye infection,5,2,dry,2,Low
+Ratnapura,itchy skin,13,16,humid,10,High
+Kalawana,ticks,5,9,rainy,6,Medium
+Ganemulla,kennel cough,3,1,hot,4,Low
+Mawanella,eye infection,4,6,rainy,6,Medium
+Point Pedro,dog fever,15,9,humid,10,High
+Dankotuwa,itchy skin,13,2,humid,10,Medium
+Matara,ticks,6,3,hot,4,Low
+Kadawatha,fleas,15,3,rainy,6,Medium
+Pelmadulla,kennel cough,3,3,rainy,6,Low
+Matale,ticks,9,3,hot,4,Medium
+Puttalam,lethargy,12,5,dry,2,Medium
+Anuradhapura,kennel cough,7,1,humid,10,Medium
+Giriulla,lethargy,2,6,dry,2,Low
+Kurunegala,lethargy,17,1,humid,10,Medium
+Polonnaruwa,dog coughing,9,8,dry,2,Medium
+Kurunegala,kennel cough,15,3,humid,10,Medium
+Badulla,eye infection,17,4,humid,10,Medium
+Boralesgamuwa,lethargy,6,7,rainy,6,Medium
+Balangoda,dog fever,18,3,dry,2,Medium
+Balangoda,ticks,16,8,dry,2,Medium
+Weligama,lethargy,10,1,rainy,6,Medium
+Mahiyanganaya,dog coughing,4,0,hot,4,Low
+Chilaw,itchy skin,11,2,rainy,6,Medium
+Tissamaharama,dog fever,9,12,humid,10,High
+Haputale,loss of appetite,4,3,humid,10,Medium
+Kegalle,kennel cough,5,3,hot,4,Low
+Chilaw,itchy skin,18,3,hot,4,Medium
+Kurunegala,fleas,3,3,dry,2,Low
+Horana,ticks,5,6,rainy,6,Medium
+Matale,fleas,3,8,humid,10,Medium
+Hikkaduwa,ticks,4,3,hot,4,Low
+Boralesgamuwa,loss of appetite,15,6,dry,2,Medium
+Avissawella,dog coughing,7,11,dry,2,Medium
+Hanwella,kennel cough,14,2,dry,2,Medium
+Maharagama,dog vomiting,9,2,rainy,6,Medium
+Warakapola,eye infection,0,6,dry,2,Low
+Bandarawela,loss of appetite,1,11,dry,2,Medium
+Colombo,dog coughing,10,5,rainy,6,Medium
+Ratnapura,loss of appetite,25,0,humid,10,High
+Hanwella,itchy skin,3,5,hot,4,Low
+Panadura,dog coughing,8,8,dry,2,Medium
+Chilaw,dog coughing,6,11,humid,10,Medium
+Batticaloa,lethargy,15,8,hot,4,Medium
+Kandana,fleas,16,4,humid,10,Medium
+Matugama,lethargy,15,7,dry,2,Medium
+Beruwala,dog vomiting,18,14,humid,10,High
+Ganemulla,dog coughing,20,0,humid,10,Medium
+Kilinochchi,loss of appetite,13,5,dry,2,Medium
+Kataragama,dog fever,9,7,humid,10,Medium
+Kegalle,fleas,0,8,dry,2,Low
+Kegalle,kennel cough,1,0,rainy,6,Low
+Jaffna,loss of appetite,9,0,hot,4,Low
+Maharagama,loss of appetite,15,5,dry,2,Medium
+Matara,fleas,10,3,humid,10,Medium
+Marawila,dog fever,6,6,rainy,6,Medium
+Warakapola,eye infection,0,1,rainy,6,Low
+Haputale,kennel cough,5,5,hot,4,Low
+Hanwella,itchy skin,7,5,humid,10,Medium
+Bandarawela,itchy skin,11,2,rainy,6,Medium
+Ratnapura,dog vomiting,18,0,rainy,6,Medium
+Maskeliya,dog fever,16,4,rainy,6,Medium
+Kadawatha,fleas,15,10,rainy,6,High
+Giriulla,itchy skin,2,4,rainy,6,Low
+Monaragala,loss of appetite,8,7,humid,10,Medium
+Bandaragama,eye infection,2,5,humid,10,Medium
+Dambulla,kennel cough,11,10,humid,10,High
+Galgamuwa,lethargy,11,2,dry,2,Low
+Beruwala,eye infection,13,9,dry,2,Medium
+Katunayake,ticks,13,6,hot,4,Medium
+Hambantota,lethargy,2,0,humid,10,Low
+Kadawatha,loss of appetite,20,1,dry,2,Medium
+Negombo,kennel cough,24,2,hot,4,Medium
+Maharagama,itchy skin,12,2,humid,10,Medium
+Kandy,ticks,6,0,hot,4,Low
+Hanwella,dog coughing,21,1,humid,10,Medium
+Kurunegala,itchy skin,13,0,humid,10,Medium
+Badulla,itchy skin,11,12,dry,2,Medium
+Dambulla,dog vomiting,7,0,hot,4,Low
+Kelaniya,kennel cough,22,3,hot,4,Medium
+Aluthgama,eye infection,10,10,humid,10,Medium
+Balangoda,dog coughing,14,4,hot,4,Medium
+Horana,dog fever,10,8,hot,4,Medium
+Mannar,kennel cough,28,2,hot,4,High
+Galgamuwa,dog fever,17,2,hot,4,Medium
+Deniyaya,eye infection,5,2,dry,2,Low
+Ginigathhena,kennel cough,1,12,hot,4,Medium
+Ragama,lethargy,7,4,humid,10,Medium
+Galgamuwa,dog coughing,17,11,rainy,6,High
+Narammala,fleas,2,7,rainy,6,Medium
+Moratuwa,dog vomiting,29,4,dry,2,High
+Embilipitiya,eye infection,11,0,rainy,6,Low
+Galewela,fleas,12,7,hot,4,Medium
+Matara,ticks,12,1,rainy,6,Medium
+Kadawatha,fleas,13,5,rainy,6,Medium
+Galewela,dog fever,11,3,hot,4,Medium
+Balangoda,kennel cough,5,16,humid,10,High
+Bandaragama,dog vomiting,3,4,dry,2,Low
+Point Pedro,loss of appetite,1,0,rainy,6,Low
+Kelaniya,kennel cough,10,0,hot,4,Low
+Maskeliya,dog vomiting,0,8,hot,4,Low
+Seeduwa,itchy skin,7,1,rainy,6,Low
+Beruwala,loss of appetite,12,3,humid,10,Medium
+Ambalangoda,dog vomiting,2,11,humid,10,Medium
+Mapalana,loss of appetite,5,12,dry,2,Medium
+Galewela,dog vomiting,5,1,hot,4,Low
+Negombo,itchy skin,18,2,dry,2,Medium
+Badulla,kennel cough,4,1,rainy,6,Low
+Haputale,dog coughing,12,3,rainy,6,Medium
+Mirissa,ticks,17,8,rainy,6,High
+Kilinochchi,dog coughing,10,6,rainy,6,Medium
+Giriulla,dog coughing,8,2,humid,10,Medium
+Jaffna,dog coughing,26,6,dry,2,High
+Kalawana,loss of appetite,19,7,rainy,6,High
+Negombo,dog fever,15,7,dry,2,Medium
+Moratuwa,loss of appetite,5,4,dry,2,Low
+Katunayake,eye infection,14,7,rainy,6,Medium
+Horana,dog coughing,17,1,dry,2,Medium
+Tissamaharama,loss of appetite,1,6,rainy,6,Low
+Mahiyanganaya,lethargy,15,0,dry,2,Medium
+Panadura,dog coughing,10,12,humid,10,High
+Kandana,fleas,5,10,dry,2,Medium
+Kosgama,dog vomiting,9,9,rainy,6,Medium
+Kilinochchi,dog vomiting,14,1,humid,10,Medium
+Beruwala,dog fever,3,1,rainy,6,Low
+Mannar,dog coughing,25,0,rainy,6,Medium
+Tissamaharama,kennel cough,3,6,rainy,6,Medium
+Kalawana,kennel cough,21,4,rainy,6,Medium
+Kosgama,itchy skin,20,1,rainy,6,Medium
+Deniyaya,dog coughing,5,6,humid,10,Medium
+Ampara,eye infection,12,8,rainy,6,Medium
+Buttala,dog coughing,2,4,dry,2,Low
+Elpitiya,dog coughing,5,0,rainy,6,Low
+Deniyaya,dog fever,9,7,hot,4,Medium
+Matale,itchy skin,14,3,hot,4,Medium
+Bandaragama,itchy skin,6,9,rainy,6,Medium
+Hatton,dog vomiting,6,0,hot,4,Low
+Jaffna,dog fever,15,2,humid,10,Medium
+Deniyaya,dog vomiting,6,8,dry,2,Medium
+Wattala,loss of appetite,11,6,hot,4,Medium
+Matugama,lethargy,14,2,rainy,6,Medium
+Vavuniya,loss of appetite,29,10,rainy,6,High
+Narammala,eye infection,5,4,humid,10,Medium
+Narammala,kennel cough,7,8,hot,4,Medium
+Gonapola,itchy skin,10,3,dry,2,Low
+Agunukolapelessa,eye infection,19,2,dry,2,Medium
+Batticaloa,loss of appetite,8,0,dry,2,Low
+Kalawana,dog vomiting,14,13,humid,10,High
+Ambalangoda,ticks,21,0,humid,10,Medium
+Mawanella,loss of appetite,15,5,hot,4,Medium
+Kurunegala,itchy skin,1,8,rainy,6,Medium
+Kalawana,fleas,4,4,dry,2,Low
+Kandana,kennel cough,10,10,hot,4,Medium
+Chilaw,eye infection,17,0,humid,10,Medium
+Mawanella,ticks,15,1,hot,4,Medium
+Kelaniya,lethargy,4,4,dry,2,Low
+Deniyaya,dog coughing,13,0,dry,2,Low
+Kurunegala,dog fever,3,0,rainy,6,Low
+Buttala,kennel cough,21,2,rainy,6,Medium
+Narammala,dog coughing,18,2,hot,4,Medium
+Kandy,dog fever,3,1,dry,2,Low
+Maskeliya,eye infection,16,9,rainy,6,High
+Kalutara,itchy skin,17,12,dry,2,High
+Kalutara,dog vomiting,12,10,dry,2,Medium
+Balangoda,dog vomiting,4,9,hot,4,Medium
+Deniyaya,eye infection,14,5,humid,10,Medium
+Mullaitivu,lethargy,21,11,humid,10,High
+Monaragala,kennel cough,13,2,dry,2,Medium
+Vavuniya,eye infection,19,2,rainy,6,Medium
+Dankotuwa,dog coughing,0,8,rainy,6,Low
+Tissamaharama,kennel cough,2,4,dry,2,Low
+Buttala,eye infection,0,0,humid,10,Low
+Gampaha,eye infection,0,14,humid,10,Medium
+Hatton,kennel cough,8,0,rainy,6,Low
+Moragahamula,dog vomiting,6,7,rainy,6,Medium
+Tissamaharama,dog coughing,2,6,dry,2,Low
+Maharagama,fleas,15,8,hot,4,Medium
+Badulla,loss of appetite,3,5,dry,2,Low
+Mapalana,itchy skin,12,6,rainy,6,Medium
+Marawila,dog fever,6,5,hot,4,Medium
+Matara,dog fever,8,1,rainy,6,Low
+Batticaloa,kennel cough,20,7,dry,2,Medium
+Point Pedro,kennel cough,0,7,humid,10,Medium
+Bandaragama,ticks,14,9,humid,10,High
+Galewela,dog fever,4,4,dry,2,Low
+Beruwala,loss of appetite,10,9,hot,4,Medium
+Matale,dog vomiting,18,7,hot,4,Medium
+Galle,fleas,13,5,dry,2,Medium
+Rathmalana,lethargy,10,9,hot,4,Medium
+Haputale,dog vomiting,0,14,dry,2,Medium
+Matale,lethargy,29,11,dry,2,High
+Galle,itchy skin,9,7,hot,4,Medium
+Wellawaya,kennel cough,0,11,hot,4,Medium
+Kothmale,eye infection,7,7,rainy,6,Medium
+Weligama,dog coughing,5,5,rainy,6,Medium
+Anuradhapura,eye infection,5,11,humid,10,Medium
+Monaragala,fleas,13,1,hot,4,Medium
+Kelaniya,loss of appetite,6,3,humid,10,Medium
+Chilaw,dog coughing,12,1,dry,2,Low
+Elpitiya,fleas,2,4,rainy,6,Low
+Ja-Ela,dog vomiting,3,9,dry,2,Medium
+Gampaha,lethargy,7,7,rainy,6,Medium
+Wariyapola,ticks,15,2,rainy,6,Medium
+Kahawatte,ticks,12,8,hot,4,Medium
+Aluthgama,dog coughing,14,10,dry,2,Medium
+Narammala,dog fever,21,4,rainy,6,Medium
+Aluthgama,kennel cough,1,0,hot,4,Low
+Wellawaya,loss of appetite,12,1,hot,4,Medium
+Kosgama,lethargy,0,4,hot,4,Low
+Ja-Ela,loss of appetite,27,5,rainy,6,High
+Wariyapola,ticks,11,0,humid,10,Medium
+Hambantota,eye infection,11,7,rainy,6,Medium
+Monaragala,ticks,10,2,hot,4,Low
+Galgamuwa,eye infection,16,5,humid,10,Medium
+Kandana,dog fever,6,0,rainy,6,Low
+Aluthgama,loss of appetite,11,8,dry,2,Medium
+Batticaloa,dog fever,2,7,dry,2,Low
+Elpitiya,eye infection,14,6,dry,2,Medium
+Mannar,dog vomiting,6,0,dry,2,Low
+Middeniya,ticks,4,5,rainy,6,Low
+Anuradhapura,itchy skin,1,10,hot,4,Medium
+Hambantota,itchy skin,19,4,rainy,6,Medium
+Kahawatte,kennel cough,11,4,hot,4,Medium
+Ambalangoda,itchy skin,21,10,humid,10,High
+Pelmadulla,fleas,24,7,rainy,6,High
+Horana,dog vomiting,6,9,dry,2,Medium
+Maharagama,eye infection,11,0,dry,2,Low
+Kandana,fleas,11,4,hot,4,Medium
+Matara,ticks,3,4,hot,4,Low
+Galewela,ticks,2,0,hot,4,Low
+Balangoda,itchy skin,3,9,hot,4,Medium
+Piliyandala,dog fever,6,10,rainy,6,Medium
+Tissamaharama,dog fever,4,3,dry,2,Low
+Kilinochchi,lethargy,2,4,dry,2,Low
+Chilaw,dog vomiting,19,4,dry,2,Medium
+Seeduwa,ticks,4,9,dry,2,Medium
+Agunukolapelessa,itchy skin,8,4,hot,4,Medium
+Avissawella,dog vomiting,17,3,rainy,6,Medium
+Wariyapola,dog coughing,1,0,humid,10,Low
+Tissamaharama,dog coughing,16,5,humid,10,Medium
+Negombo,dog coughing,6,5,rainy,6,Medium
+Anuradhapura,kennel cough,9,11,rainy,6,Medium
+Dambulla,loss of appetite,7,5,hot,4,Medium
+Bandaragama,eye infection,9,6,rainy,6,Medium
+Bandaragama,fleas,10,7,humid,10,Medium
+Kurunegala,dog fever,18,9,rainy,6,High
+Middeniya,lethargy,7,10,hot,4,Medium
+Marawila,dog coughing,8,10,rainy,6,Medium
+Kilinochchi,fleas,4,7,dry,2,Low
+Kandy,fleas,4,5,rainy,6,Low
+Balangoda,eye infection,8,5,dry,2,Medium
+Avissawella,itchy skin,1,0,hot,4,Low
+Ampara,lethargy,8,8,rainy,6,Medium
+Ja-Ela,itchy skin,8,2,hot,4,Low
+Kandana,kennel cough,13,0,hot,4,Medium
+Elpitiya,dog vomiting,6,6,humid,10,Medium
+Warakapola,kennel cough,3,1,dry,2,Low
+Mirissa,itchy skin,5,6,dry,2,Low
+Gampaha,dog vomiting,11,10,dry,2,Medium
+Rathmalana,dog vomiting,11,7,rainy,6,Medium
+Dehiwala,dog vomiting,11,4,humid,10,Medium
+Maharagama,dog coughing,15,4,humid,10,Medium
+Polonnaruwa,dog coughing,8,4,rainy,6,Medium
+Dankotuwa,dog vomiting,6,0,dry,2,Low
+Jaffna,loss of appetite,20,1,hot,4,Medium
+Boralesgamuwa,kennel cough,6,0,dry,2,Low
+Embilipitiya,dog fever,12,1,dry,2,Low
+Batticaloa,loss of appetite,11,6,rainy,6,Medium
+Matugama,loss of appetite,13,6,rainy,6,Medium
+Ginigathhena,eye infection,3,0,dry,2,Low
+Hanwella,dog vomiting,22,5,dry,2,Medium
+Galgamuwa,itchy skin,16,10,rainy,6,High
+Anuradhapura,lethargy,6,4,rainy,6,Medium
+Moratuwa,kennel cough,8,0,rainy,6,Low
+Avissawella,dog vomiting,1,2,rainy,6,Low
+Giriulla,fleas,5,6,hot,4,Medium
+Kataragama,lethargy,13,6,rainy,6,Medium
+Mapalana,dog vomiting,12,6,hot,4,Medium
+Ambalangoda,eye infection,18,8,hot,4,High
+Kosgama,eye infection,21,5,humid,10,High
+Mawanella,dog vomiting,18,4,hot,4,Medium
+Balangoda,kennel cough,14,2,dry,2,Medium
+Matale,ticks,10,7,humid,10,Medium
+Galgamuwa,dog vomiting,14,16,hot,4,High
+Colombo,kennel cough,8,1,hot,4,Low
+Polonnaruwa,dog coughing,5,8,dry,2,Medium
+Mannar,dog coughing,13,4,dry,2,Medium
+Weeraketiya,eye infection,11,8,dry,2,Medium
+Kalutara,dog fever,6,0,rainy,6,Low
+Mawanella,ticks,19,10,rainy,6,High
+Balangoda,dog fever,11,12,hot,4,Medium
+Kahawatte,kennel cough,6,2,humid,10,Medium
+Anuradhapura,lethargy,17,2,humid,10,Medium
+Minuwangoda,ticks,19,10,hot,4,High
+Narammala,fleas,4,3,humid,10,Medium
+Beruwala,dog coughing,15,2,hot,4,Medium
+Seeduwa,dog vomiting,14,8,hot,4,Medium
+Narammala,itchy skin,3,0,hot,4,Low
+Passara,dog coughing,12,7,rainy,6,Medium
+Agunukolapelessa,fleas,9,10,rainy,6,Medium
+Maskeliya,itchy skin,7,4,rainy,6,Medium
+Ganemulla,eye infection,7,4,hot,4,Low
+Ja-Ela,eye infection,13,3,rainy,6,Medium
+Bandarawela,dog vomiting,5,10,dry,2,Medium
+Buttala,dog coughing,1,4,rainy,6,Low
+Kelaniya,dog coughing,18,3,hot,4,Medium
+Moratuwa,loss of appetite,14,6,dry,2,Medium
+Horana,kennel cough,9,10,dry,2,Medium
+Tissamaharama,ticks,5,1,humid,10,Low
+Passara,fleas,4,1,dry,2,Low
+Matale,loss of appetite,4,9,humid,10,Medium
+Dambulla,ticks,13,0,hot,4,Medium
+Elpitiya,ticks,3,11,hot,4,Medium
+Wariyapola,dog vomiting,3,14,rainy,6,Medium
+Kelaniya,eye infection,11,0,humid,10,Medium
+Kalawana,lethargy,10,10,humid,10,Medium
+Kothmale,loss of appetite,6,2,rainy,6,Low
+Deniyaya,dog fever,2,3,dry,2,Low
+Ambalangoda,lethargy,5,9,humid,10,Medium
+Pelmadulla,itchy skin,23,2,humid,10,High
+Moragahamula,ticks,4,5,humid,10,Medium
+Matale,loss of appetite,20,7,humid,10,High
+Mahiyanganaya,eye infection,0,1,humid,10,Low
+Ratnapura,ticks,20,8,hot,4,High
+Beruwala,fleas,14,13,dry,2,High
+Elpitiya,dog fever,11,4,rainy,6,Medium
+Ragama,eye infection,21,5,hot,4,Medium
+Kilinochchi,eye infection,2,0,hot,4,Low
+Weeraketiya,dog coughing,7,6,rainy,6,Medium
+Colombo,eye infection,15,0,humid,10,Medium
+Colombo,dog fever,8,3,dry,2,Low
+Narammala,itchy skin,2,5,hot,4,Low
+Marawila,dog vomiting,15,4,rainy,6,Medium
+Rathmalana,fleas,16,5,hot,4,Medium
+Aluthgama,itchy skin,19,4,rainy,6,Medium
+Kuliyapitiya,eye infection,2,12,dry,2,Medium
+Monaragala,loss of appetite,24,4,hot,4,High
+Hanwella,fleas,17,0,rainy,6,Medium
+Kandana,itchy skin,6,0,rainy,6,Low
+Katunayake,loss of appetite,3,13,humid,10,Medium
+Matugama,loss of appetite,12,1,hot,4,Medium
+Moratuwa,kennel cough,5,7,rainy,6,Medium
+Kuliyapitiya,kennel cough,0,6,hot,4,Low
+Kilinochchi,ticks,20,7,hot,4,High
+Galgamuwa,eye infection,10,8,humid,10,Medium
+Negombo,lethargy,3,0,humid,10,Low
+Rathmalana,fleas,21,0,dry,2,Medium
+Minuwangoda,fleas,6,3,hot,4,Low
+Homagama,itchy skin,6,3,hot,4,Low
+Wattala,dog vomiting,1,5,humid,10,Low
+Aluthgama,loss of appetite,5,1,hot,4,Low
+Pelmadulla,itchy skin,0,0,dry,2,Low
+Kahawatte,kennel cough,0,15,rainy,6,Medium
+Passara,loss of appetite,8,5,humid,10,Medium
+Puttalam,dog vomiting,8,3,rainy,6,Medium
+Kadawatha,itchy skin,1,12,humid,10,Medium
+Weligama,ticks,18,1,rainy,6,Medium
+Bandarawela,loss of appetite,3,0,hot,4,Low
+Moragahamula,loss of appetite,2,0,hot,4,Low
+Matale,ticks,16,4,humid,10,Medium
+Ambalangoda,fleas,3,2,dry,2,Low
+Mannar,dog vomiting,0,8,rainy,6,Low
+Matugama,ticks,4,0,dry,2,Low
+Mawanella,fleas,20,2,hot,4,Medium
+Rathmalana,fleas,1,10,rainy,6,Medium
+Warakapola,lethargy,24,11,rainy,6,High
+Narammala,ticks,2,3,humid,10,Low
+Ragama,ticks,15,4,hot,4,Medium
+Badulla,ticks,10,3,humid,10,Medium
+Ginigathhena,dog coughing,12,3,hot,4,Medium
+Kalutara,dog coughing,3,2,hot,4,Low
+Weligama,kennel cough,7,6,rainy,6,Medium
+Passara,loss of appetite,5,0,dry,2,Low
+Mullaitivu,eye infection,10,5,humid,10,Medium
+Narammala,eye infection,4,6,humid,10,Medium
+Bandarawela,ticks,8,2,rainy,6,Low
+Kotte,dog fever,18,3,hot,4,Medium
+Pelmadulla,eye infection,12,2,dry,2,Medium
+Ginigathhena,kennel cough,16,7,dry,2,Medium
+Moratuwa,dog fever,26,3,dry,2,Medium
+Kosgama,dog coughing,15,3,hot,4,Medium
+Kilinochchi,dog fever,8,7,humid,10,Medium
+Point Pedro,dog fever,13,8,dry,2,Medium
+Colombo,fleas,2,6,rainy,6,Low
+Mirissa,itchy skin,15,8,rainy,6,Medium
+Kandana,ticks,7,9,rainy,6,Medium
+Jaffna,dog vomiting,5,4,dry,2,Low
+Kuliyapitiya,itchy skin,15,7,rainy,6,Medium
+Kalutara,dog coughing,2,7,rainy,6,Medium
+Kegalle,lethargy,17,5,dry,2,Medium
+Ja-Ela,dog coughing,15,8,hot,4,Medium
+Elpitiya,ticks,7,10,hot,4,Medium
+Moratuwa,ticks,1,3,hot,4,Low
+Chilaw,itchy skin,21,10,hot,4,High
+Weligama,kennel cough,15,0,hot,4,Medium
+Mahiyanganaya,ticks,13,4,rainy,6,Medium
+Mawanella,kennel cough,12,6,humid,10,Medium
+Kuliyapitiya,dog fever,12,4,rainy,6,Medium
+Kataragama,lethargy,18,3,rainy,6,Medium
+Kalutara,fleas,24,0,dry,2,Medium
+Pelmadulla,dog vomiting,14,1,rainy,6,Medium
+Gonapola,eye infection,16,2,dry,2,Medium
+Gampaha,fleas,15,0,rainy,6,Medium
+Homagama,kennel cough,12,0,rainy,6,Medium
+Seeduwa,fleas,6,7,rainy,6,Medium
+Point Pedro,lethargy,5,0,rainy,6,Low
+Wattala,loss of appetite,11,11,rainy,6,Medium
+Maharagama,loss of appetite,7,0,dry,2,Low
+Mannar,kennel cough,19,3,rainy,6,Medium
+Ratnapura,kennel cough,3,12,hot,4,Medium
+Kosgama,kennel cough,4,9,humid,10,Medium
+Tissamaharama,lethargy,21,1,dry,2,Medium
+Badulla,kennel cough,6,9,rainy,6,Medium
+Batticaloa,dog vomiting,13,0,hot,4,Medium
+Kosgama,dog coughing,1,2,hot,4,Low
+Bandarawela,kennel cough,4,1,dry,2,Low
+Passara,ticks,8,4,hot,4,Medium
+Kuliyapitiya,fleas,1,6,rainy,6,Low
+Badulla,loss of appetite,12,3,hot,4,Medium
+Batticaloa,loss of appetite,4,3,rainy,6,Low
+Point Pedro,lethargy,14,7,humid,10,Medium
+Matale,kennel cough,15,6,dry,2,Medium
+Hambantota,dog coughing,7,5,dry,2,Low
+Kotte,itchy skin,0,5,dry,2,Low
+Vavuniya,ticks,5,0,dry,2,Low
+Mapalana,itchy skin,3,0,hot,4,Low
+Giriulla,dog vomiting,13,17,rainy,6,High
+Mannar,itchy skin,10,18,hot,4,High
+Haputale,fleas,6,0,humid,10,Low
+Dehiwala,itchy skin,11,5,hot,4,Medium
+Ganemulla,fleas,2,0,humid,10,Low
+Ampara,loss of appetite,22,9,humid,10,High
+Piliyandala,eye infection,8,11,hot,4,Medium
+Maharagama,dog fever,18,10,rainy,6,High
+Hanwella,kennel cough,16,7,dry,2,Medium
+Ambalangoda,eye infection,22,1,rainy,6,Medium
+Haputale,loss of appetite,6,2,humid,10,Medium
+Mirissa,fleas,3,10,rainy,6,Medium
+Narammala,fleas,9,5,rainy,6,Medium
+Horana,kennel cough,6,9,hot,4,Medium
+Galle,lethargy,19,1,dry,2,Medium
+Wellawaya,dog vomiting,14,10,humid,10,High
+Maharagama,dog vomiting,11,3,humid,10,Medium
+Chilaw,eye infection,18,14,dry,2,High
+Ambalangoda,dog fever,7,9,humid,10,Medium
+Wellawaya,dog fever,18,8,humid,10,High
+Kurunegala,dog vomiting,10,7,humid,10,Medium
+Tissamaharama,kennel cough,15,9,humid,10,High
+Mapalana,itchy skin,0,1,rainy,6,Low
+Monaragala,kennel cough,15,2,dry,2,Medium
+Mawanella,dog vomiting,10,7,hot,4,Medium
+Haputale,dog fever,1,10,dry,2,Medium
+Gonapola,dog fever,8,0,dry,2,Low
+Buttala,dog coughing,14,14,hot,4,High
+Hikkaduwa,dog fever,16,7,hot,4,Medium
+Moratuwa,lethargy,12,9,hot,4,Medium
+Passara,eye infection,11,3,hot,4,Medium
+Ja-Ela,dog fever,18,2,humid,10,Medium
+Wattala,fleas,2,6,dry,2,Low
+Colombo,kennel cough,7,4,hot,4,Low
+Puttalam,eye infection,3,0,humid,10,Low
+Aluthgama,ticks,9,6,humid,10,Medium
+Hikkaduwa,ticks,16,4,humid,10,Medium
+Kuliyapitiya,eye infection,7,3,hot,4,Low
+Matugama,fleas,6,4,rainy,6,Medium
+Kalutara,ticks,10,0,rainy,6,Low
+Colombo,dog coughing,8,7,hot,4,Medium
+Haputale,dog vomiting,11,0,humid,10,Medium
+Katunayake,ticks,8,7,hot,4,Medium
+Matara,eye infection,5,5,dry,2,Low
+Ganemulla,lethargy,1,4,humid,10,Low
+Moragahamula,loss of appetite,5,11,dry,2,Medium
+Embilipitiya,lethargy,26,7,rainy,6,High
+Hanwella,kennel cough,16,9,hot,4,Medium
+Polonnaruwa,lethargy,0,9,hot,4,Low
+Kuliyapitiya,fleas,11,3,humid,10,Medium
+Kataragama,dog coughing,13,7,rainy,6,Medium
+Kothmale,dog vomiting,15,0,humid,10,Medium
+Puttalam,ticks,8,3,dry,2,Low
+Passara,dog fever,22,3,dry,2,Medium
+Hatton,loss of appetite,4,10,hot,4,Medium
+Pelmadulla,kennel cough,0,8,dry,2,Low
+Minuwangoda,itchy skin,2,7,rainy,6,Medium
+Elpitiya,dog coughing,5,4,humid,10,Medium
+Ginigathhena,ticks,11,2,rainy,6,Medium
+Marawila,loss of appetite,13,11,humid,10,High
+Matale,fleas,3,7,hot,4,Low
+Kahawatte,itchy skin,12,0,humid,10,Medium
+Weeraketiya,eye infection,8,8,humid,10,Medium
+Puttalam,loss of appetite,7,7,hot,4,Medium
+Trincomalee,loss of appetite,21,13,rainy,6,High
+Rathmalana,dog fever,20,3,hot,4,Medium
+Hatton,dog vomiting,17,3,hot,4,Medium
+Anuradhapura,itchy skin,0,10,humid,10,Medium
+Kotte,ticks,0,13,hot,4,Medium
+Giriulla,itchy skin,20,1,rainy,6,Medium
+Homagama,kennel cough,0,11,dry,2,Medium
+Weligama,dog fever,14,5,hot,4,Medium
+Matale,itchy skin,4,4,dry,2,Low
+Kataragama,dog coughing,21,5,rainy,6,High
+Deniyaya,dog fever,15,6,dry,2,Medium
+Anuradhapura,loss of appetite,10,6,rainy,6,Medium
+Badulla,kennel cough,9,11,rainy,6,Medium
+Kataragama,eye infection,19,2,humid,10,Medium
+Negombo,fleas,8,0,rainy,6,Low
+Wattala,dog fever,9,5,humid,10,Medium
+Rathmalana,itchy skin,13,4,rainy,6,Medium
+Kahawatte,itchy skin,17,5,hot,4,Medium
+Giriulla,dog fever,6,9,dry,2,Medium
+Kandy,itchy skin,6,8,hot,4,Medium
+Kandana,fleas,13,9,humid,10,High
+Narammala,kennel cough,9,14,humid,10,High
+Puttalam,fleas,16,7,hot,4,Medium
+Agunukolapelessa,eye infection,2,9,rainy,6,Medium
+Kataragama,fleas,21,7,hot,4,High
+Puttalam,eye infection,13,0,hot,4,Medium
+Ampara,loss of appetite,5,14,humid,10,High
+Agunukolapelessa,dog vomiting,19,6,humid,10,High
+Mawanella,eye infection,8,4,humid,10,Medium
+Puttalam,eye infection,7,3,humid,10,Medium
+Kandy,itchy skin,2,2,humid,10,Low
+Gonapola,loss of appetite,6,4,dry,2,Low
+Bandaragama,lethargy,14,4,dry,2,Medium
+Kalutara,lethargy,6,7,rainy,6,Medium
+Dankotuwa,itchy skin,8,4,dry,2,Low
+Ratnapura,itchy skin,6,3,dry,2,Low
+Giriulla,lethargy,20,4,humid,10,High
+Kadawatha,fleas,10,8,hot,4,Medium
+Mullaitivu,eye infection,3,0,rainy,6,Low
+Batticaloa,dog fever,9,6,dry,2,Medium
+Ja-Ela,dog coughing,22,9,humid,10,High
+Puttalam,dog coughing,10,0,dry,2,Low
+Hanwella,loss of appetite,13,0,hot,4,Medium
+Warakapola,dog vomiting,23,7,humid,10,High
+Galgamuwa,fleas,4,13,rainy,6,Medium
+Minuwangoda,loss of appetite,2,13,dry,2,Medium
+Panadura,kennel cough,12,0,humid,10,Medium
+Mannar,loss of appetite,25,0,humid,10,High
+Maskeliya,fleas,3,3,hot,4,Low
+Hatton,itchy skin,9,0,hot,4,Low
+Moratuwa,loss of appetite,8,7,hot,4,Medium
+Kahawatte,eye infection,6,3,humid,10,Medium
+Galle,eye infection,6,0,hot,4,Low
+Ragama,lethargy,3,3,humid,10,Low
+Aluthgama,dog coughing,6,0,hot,4,Low
+Mullaitivu,dog vomiting,12,9,hot,4,Medium
+Matale,dog coughing,5,10,dry,2,Medium
+Embilipitiya,dog fever,17,2,rainy,6,Medium
+Mirissa,ticks,23,0,dry,2,Medium
+Kahawatte,lethargy,5,0,rainy,6,Low
+Weeraketiya,loss of appetite,7,10,rainy,6,Medium
+Middeniya,dog coughing,10,4,hot,4,Medium
+Kilinochchi,lethargy,14,7,dry,2,Medium
+Kandana,dog fever,13,3,dry,2,Medium
+Colombo,dog fever,7,8,rainy,6,Medium
+Dehiwala,lethargy,2,11,dry,2,Medium
+Kothmale,ticks,10,4,hot,4,Medium
+Negombo,dog coughing,7,7,hot,4,Medium
+Mullaitivu,eye infection,16,9,hot,4,Medium
+Gonapola,dog vomiting,5,3,humid,10,Medium
+Galewela,loss of appetite,30,2,rainy,6,High
+Balangoda,dog vomiting,5,7,rainy,6,Medium
+Ginigathhena,dog vomiting,1,3,humid,10,Low
+Bandaragama,dog fever,17,9,rainy,6,High
+Ragama,itchy skin,3,5,dry,2,Low
+Deniyaya,lethargy,10,4,hot,4,Medium
+Mahiyanganaya,dog vomiting,9,8,hot,4,Medium
+Ampara,lethargy,18,14,rainy,6,High
+Gampaha,fleas,8,0,dry,2,Low
+Kotte,fleas,8,0,dry,2,Low
+Wariyapola,dog vomiting,8,3,hot,4,Low
+Mawanella,ticks,18,6,hot,4,Medium
+Vavuniya,fleas,28,9,dry,2,High
+Mannar,lethargy,6,4,rainy,6,Medium
+Mahiyanganaya,eye infection,12,1,hot,4,Medium
+Puttalam,fleas,9,5,rainy,6,Medium
+Mawanella,ticks,2,4,dry,2,Low
+Ampara,fleas,15,6,humid,10,Medium
+Aluthgama,ticks,22,4,dry,2,Medium
+Kalawana,dog coughing,6,5,hot,4,Medium
+Pelmadulla,dog vomiting,0,4,humid,10,Low
+Badulla,dog vomiting,19,2,dry,2,Medium
+Mirissa,loss of appetite,12,0,humid,10,Medium
+Kotte,dog coughing,5,5,hot,4,Low
+Galewela,dog vomiting,13,1,hot,4,Medium
+Kataragama,dog coughing,18,0,rainy,6,Medium
+Ragama,ticks,10,10,humid,10,Medium
+Bandarawela,lethargy,12,0,dry,2,Low
+Hatton,eye infection,10,13,hot,4,Medium
+Galewela,kennel cough,23,4,hot,4,Medium
+Wattala,eye infection,13,14,rainy,6,High
+Mapalana,dog vomiting,2,4,dry,2,Low
+Matara,dog vomiting,8,3,dry,2,Low
+Ratnapura,dog fever,0,0,humid,10,Low
+Dehiwala,dog coughing,10,2,dry,2,Low
+Panadura,lethargy,10,8,hot,4,Medium
+Monaragala,ticks,8,3,humid,10,Medium
+Homagama,eye infection,6,0,dry,2,Low
+Monaragala,dog coughing,11,11,hot,4,Medium
+Moratuwa,dog coughing,20,7,rainy,6,High
+Mannar,dog coughing,15,0,rainy,6,Medium
+Piliyandala,kennel cough,8,13,hot,4,Medium
+Point Pedro,dog coughing,16,1,humid,10,Medium
+Tissamaharama,ticks,12,1,humid,10,Medium
+Mannar,kennel cough,10,16,dry,2,High
+Kilinochchi,dog fever,7,1,hot,4,Low
+Kalutara,dog fever,4,8,humid,10,Medium
+Mawanella,itchy skin,18,0,hot,4,Medium
+Badulla,kennel cough,17,8,rainy,6,High
+Agunukolapelessa,dog coughing,5,0,dry,2,Low
+Kuliyapitiya,dog vomiting,27,12,hot,4,High
+Kataragama,kennel cough,11,9,hot,4,Medium
+Kegalle,eye infection,6,8,dry,2,Medium
+Wellawaya,lethargy,4,1,humid,10,Low
+Mapalana,fleas,8,10,humid,10,Medium
+Matale,kennel cough,1,6,rainy,6,Low
+Ratnapura,kennel cough,3,2,hot,4,Low
+Trincomalee,itchy skin,0,8,dry,2,Low
+Nuwara Eliya,fleas,13,8,hot,4,Medium
+Kotte,dog vomiting,20,0,humid,10,Medium
+Mawanella,kennel cough,1,2,dry,2,Low
+Haputale,lethargy,16,8,hot,4,Medium
+Matara,lethargy,15,7,humid,10,High
+Dambulla,dog vomiting,15,7,hot,4,Medium
+Matale,ticks,9,4,hot,4,Medium
+Seeduwa,fleas,18,2,hot,4,Medium
+Kandy,eye infection,15,9,rainy,6,High
+Matale,itchy skin,4,1,dry,2,Low
+Avissawella,dog vomiting,10,5,hot,4,Medium
+Badulla,lethargy,9,8,rainy,6,Medium
+Badulla,eye infection,13,0,dry,2,Low
+Passara,fleas,13,0,dry,2,Low
+Monaragala,loss of appetite,17,6,dry,2,Medium
+Horana,ticks,6,11,dry,2,Medium
+Wattala,dog fever,18,3,rainy,6,Medium
+Hanwella,dog fever,18,0,hot,4,Medium
+Beruwala,itchy skin,8,0,humid,10,Low
+Kalutara,fleas,17,0,humid,10,Medium
+Dambulla,eye infection,8,9,hot,4,Medium
+Minuwangoda,fleas,14,8,dry,2,Medium
+Nuwara Eliya,dog vomiting,16,0,rainy,6,Medium
+Giriulla,kennel cough,20,9,rainy,6,High
+Vavuniya,dog vomiting,25,12,hot,4,High
+Puttalam,kennel cough,20,5,hot,4,Medium
+Ragama,dog vomiting,12,6,dry,2,Medium
+Galgamuwa,fleas,7,4,rainy,6,Medium
+Giriulla,dog fever,2,4,rainy,6,Low
+Wattala,kennel cough,19,2,rainy,6,Medium
